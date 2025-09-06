@@ -1,0 +1,60 @@
+---
+title: "Validate the outcome of open peer review or not"
+author: "Adrian Barnett"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warnings=FALSE, comment='', dpi = 400)
+library(dplyr)
+TeachingDemos::char2seed('lincoln')
+n_sample = 100
+
+load('data/0_unprocessed.RData')
+
+#
+make_url = function(doi){
+  j = case_when(
+    str_detect(doi, '\\.pntd') ~ 'plosntds',
+    str_detect(doi, '\\.pone') ~ 'plosone',
+    str_detect(doi, '\\.pgen') ~ 'plosgenetics',
+    str_detect(doi, '\\.ppat') ~ 'plospathogens',
+    str_detect(doi, '\\.pmed') ~ 'plosmedicine',
+    str_detect(doi, '\\.pgph') ~ 'globalpublichealth',
+    str_detect(doi, '\\.pbio') ~ 'plosbiology',
+    str_detect(doi, '\\.pclm') ~ 'climate',
+    str_detect(doi, '\\.pcbi') ~ 'ploscompbiol',
+    str_detect(doi, '\\.pdig') ~ 'digitalhealth'
+  )
+  url = paste('https://journals.plos.org/', j, '/article?id=', doi, sep='')
+  return(url)
+}
+```
+
+
+## Papers without open peer review
+
+```{r without, results='asis'}
+# papers without open peer review
+rselect1 = filter(data, review_available == FALSE) %>%
+  sample_n(n_sample) %>%
+  select(doi, review_available) %>%
+  mutate(url = make_url(doi))
+for (k in 1:n_sample){
+  cat(rselect1$url[k],'\n')
+}
+```
+
+
+## Papers with open peer review
+
+```{r with, results = 'asis'}
+rselect2 = filter(data, review_available == TRUE) %>%
+  sample_n(n_sample) %>%
+  select(doi, review_available)%>%
+  mutate(url = make_url(doi))
+for (k in 1:n_sample){
+  cat(rselect2$url[k],'\n')
+}
+```
