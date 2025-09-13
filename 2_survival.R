@@ -1,6 +1,7 @@
 # 2_survival.R
 # survival models for time to retraction
 # August 2025
+library(dplyr)
 library(survival)
 library(survminer) # for plotting
 cbPalette <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#999999") # colours
@@ -27,17 +28,25 @@ splot = ggsurvplot(smodel,
                    xlab = "Time to retraction (years)",
                    ylab = 'Cumulative retraction',
                    xlim = c(0, 5.2), # last retraction is 5.1 years
-                   censor.size = 0, # surpress censoring ticks
+                   censor.size = 0, # supress censoring ticks
                    ncensor.plot = FALSE, 
                    legend.labs=c("No",'Yes'),  
                    legend.title = 'Open review',
                    fun = 'event', # reverse curve to plot events
                    risk.table = FALSE) 
-ggsave('figures/2_survival_retraction.jpeg', splot$plot, width=4.5, height=4.2, units='in', dpi = 500)
+# move legend inside
+lplot = splot$plot + theme( legend.position = "inside", legend.position.inside = c(0.19,0.82))
+# export
+ggsave('figures/2_survival_retraction.jpeg', lplot, width=4.5, height=4.2, units='in', dpi = 500)
 
 # Cox model
 cmodel = coxph(Surv(time = time_to_retraction, event = retracted) ~ review_available, data = data)
 summary(cmodel)
+
+# retraction numbers
+group_by(data, review_available, retracted)%>% tally()
+
+# check proportional hazards assumption
 
 # Total follow-up time (years)
 format(round(sum(data$time_to_retraction)), big.mark=',')

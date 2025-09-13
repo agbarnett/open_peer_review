@@ -1,5 +1,5 @@
 # 99_excluded.R
-# types of paper to exclude, called by 0_read_xml_data.R
+# types of articles to exclude as they are not peer reviewed, called by 0_read_xml_data.R
 # August 2025
 
 exclude_types = c("Best Practice",

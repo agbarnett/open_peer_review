@@ -6,13 +6,14 @@
 # remove small amount of missing country
 data <- filter(data, !is.na(country))
 
-# scale data; best transformations for author numbers and peer review time from 2_fractional_polynomial.R
+# scale data; best transformations from 2_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,
-               n_authors = sqrt(n_authors+1), # 
-               published = (as.numeric(published) - 19279) / 365.25, # scaled to per year
-               time_between = sqrt(time_between+0.1) # 
+               n_authors = sqrt(n_authors+1), # best fractional polynomial
+               published = (as.numeric(published) - 18000)/365.25, # scale first to remove huge numbers
+               published = published ^-1, # best fractional polynomial
+               time_between = time_between # no transformation
 ) 
-# further scale by standardising because we use 0.01 probability threshold later
+# further scale by standardising because we use lasso
 data = mutate(data,
               published = scale(published),
               time_between = scale(time_between),
@@ -53,3 +54,6 @@ pred = str_replace_all(pred, ' ', '_') # clean up names
 pred = str_remove_all(pred, "'")
 pred = str_remove_all(pred, "-")
 colnames(x) = pred
+
+# dependent variable
+y <- data$review_available

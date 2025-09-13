@@ -15,9 +15,12 @@ library(binom) # for CIs
 library(xtable) # for latex tables
 library(flextable)
 library(ggplot2)
+g.theme = theme_bw() + theme(panel.grid.minor = element_blank())
 
 # get the data from 1_process.R
 load('data/1_processed.RData')
+# remove missing country to match analysis data
+data = filter(data, !is.na(country))
 #
 data = mutate(data, year = as.numeric(format(published, '%Y'))) # add year published
 ```
@@ -100,11 +103,11 @@ gplot = ggplot(data = summary, aes(x=year, y=p, ymin=lower,ymax=upper))+
   geom_line()+
   geom_ribbon(alpha=0.5)+
   xlab('Year')+
-  ylab("Proportion opting for open peer review")+
+  ylab("Proportion choosing open peer review")+
   g.theme
 gplot
 ```
 
 The plot shows the yearly proportion and 95% confidence interval.
 
-There was an increase over time in the proportion of authors opting in.
+There was an increase over time in the proportion of authors choosing open review.

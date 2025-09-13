@@ -233,4 +233,4 @@ t_not = t_to_compare[!t_to_compare%in%d_to_compare] # which files are missing
 
 # save
 setwd(here)
-save(data, excluded, file = 'data/0_unprocessed.RData')
+save(data, excluded, count_corrections, file = 'data/0_unprocessed.RData')
