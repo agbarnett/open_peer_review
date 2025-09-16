@@ -21,6 +21,7 @@ g.theme = theme_bw() + theme(panel.grid.minor = element_blank())
 load('data/1_processed.RData')
 # remove missing country to match analysis data
 data = filter(data, !is.na(country))
+n_rows = nrow(data)
 #
 data = mutate(data, year = as.numeric(format(published, '%Y'))) # add year published
 ```
@@ -28,34 +29,49 @@ data = mutate(data, year = as.numeric(format(published, '%Y'))) # add year publi
 ## Top ten countries
 
 ```{r top_ten_countries}
-countries = unlist(data$country)
+# Remove double countries per article:
+countries = lapply(data$country, unique)
+countries = unlist(countries)
 tab = table(countries)
 table = as.data.frame(tab) %>%
-  mutate(percent = round(100*prop.table(Freq))) %>%
+  mutate(percent = round(100*Freq/n_rows)) %>% # percent over all articles
   arrange(desc(Freq)) %>%
   slice(1:10) %>%
-  rename('Count'='Freq')
+  rename('Country' = 'countries',
+         'Count'='Freq')
 ftab = flextable(table) %>%
   theme_box() %>%
   autofit()
 ftab
+# export to latex
+print(xtable(table), include.rownames=FALSE, hline.after=FALSE, file = "results/2_countries.tex")
 ```
+
+The table shows the authors' countries where each country is counted once per article. The percentages are over all `r format(n_rows,big.mark=',')` articles.
 
 ## Top ten subjects
 
 ```{r top_ten_subjects}
-subjects = unlist(data$subjects)
+# Remove double subjects per article:
+subjects = lapply(data$subjects, unique)
+subjects = unlist(subjects)
 tab = table(subjects)
 table = as.data.frame(tab) %>%
-  mutate(percent = round(100*prop.table(Freq))) %>%
+  mutate(percent = round(100*Freq/n_rows)) %>%
   arrange(desc(Freq)) %>%
   slice(1:10) %>%
-  rename('Count'='Freq')
+  rename('Subject' = 'subjects',
+         'Count'='Freq')
 ftab = flextable(table) %>%
   theme_box() %>%
   autofit()
 ftab
+# export to latex
+print(xtable(table), include.rownames=FALSE, hline.after=FALSE, file = "results/2_subjects.tex")
 ```
+
+
+The percentages are over all `r format(n_rows,big.mark=',')` articles.
 
 ## Summary table
 
@@ -70,7 +86,7 @@ tab2 <- CreateTableOne(vars = vars,
                        includeNA = TRUE,
                        addOverall = FALSE) # no total column
 print(tab2, # print version for Word document
-      nonnormal = n_vars, # use median instead of mean
+      thenonnormal = n_vars, # use median instead of mean
       catDigits = 1, # no longer allows 0 
       contDigits = 1, 
       explain = TRUE, 

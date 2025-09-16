@@ -1,10 +1,11 @@
 # 3_plot_stability.R
 # plot the estimates from the stability selection
 # September 2025
-source('R/vif_matrix.R')
-library(ggplot2)
+library(xtable) # for latex
 library(stringr)
 library(dplyr)
+library(ggplot2)
+library(ggforce) # for better spaced facet_wrap
 g.theme = theme_bw()+ theme(panel.grid.minor = element_blank())
 cbbPalette <- c("#E69F00", "#56B4E9", "#009E73", "yellow3", "#0072B2", "#D55E00", "#CC79A7")
 
@@ -22,8 +23,10 @@ for_plot = filter(for_plot, stab.lasso.max >= 0.25) %>%
   mutate(x = 1:n(),
          selected = rowname %in% selected) 
 # labels
-labels = str_replace(for_plot$rowname, '_', ' = ') # replace first underbar with equals ...
+labels = str_replace(for_plot$rowname, '^type', 'type_') # type did not start with _
+labels = str_replace(labels, '_', ' = ') # replace first underbar with equals ...
 labels = str_replace_all(labels, '_', ' ') # ... and then remaining with space
+labels = str_replace_all(labels, 'published', 'Date published') # better label
 
 #
 colours = c("coral3", "yellow3")
@@ -41,6 +44,7 @@ pplot = ggplot(data = for_plot, aes(x = x, y = stab.lasso.max, col = selected))+
 pplot
 # export
 ggsave('figures/3_stability_selection.jpg', pplot, width = 4.9, height=5.2, units='in', dpi=500)
+cat('There were ', filter(for_plot, stab.lasso.max==1)%>%nrow(), ' variables that were selected in all 100 bootstrap samples.\n', sep='')
 
 ### Plot 2: plot categorical estimates ###
 to_plot = filter(ests, !str_detect(term, 'Intercept|published$')) %>%
@@ -48,15 +52,40 @@ to_plot = filter(ests, !str_detect(term, 'Intercept|published$')) %>%
          group = str_extract(term, '^subject_|^country_|^domain_|^type'),
          group = str_remove(group, '_$'),
          group = str_to_title(group), # first letter capital
+         group = ifelse(group == 'Domain', 'Email domain', group), # nicer name
+         group = ifelse(group == 'Type', 'Article type', group), # nicer name
          term = str_remove(term, '^subject_|^country_|^domain_|^type'),
          term = str_replace_all(term, '_', ' '),
-         term = str_replace_all(term, 'and ', 'and\n') # to save space
+         term = str_replace_all(term, ' and ', ' & '), # to save space
+         # add numbers:
+         term = paste(term, '\n(n=', str_squish(format(n,big.mark = ',')), ')', sep = '')
          ) %>%
   arrange(group, desc(estimate)) %>%
   mutate(x = 1:n())
 # plot
-expand = 0.04
+expand = 0.4
 cplot = ggplot(data = to_plot, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high, col=group))+
+  geom_point(size=2)+
+  geom_hline(lty=2, yintercept=0)+
+  geom_errorbar(width=0, linewidth=1.05)+
+  ylab('Difference in the probability of choosing open review')+
+  xlab(NULL)+
+  scale_color_manual(NULL, values = cbbPalette)+
+  scale_x_continuous(breaks = 1:nrow(to_plot), 
+                     labels = to_plot$term,
+                     expand = expansion(mult = 0, add = expand))+ # using add for consistent gap by panels
+  g.theme+
+  theme(legend.position = 'none',
+        strip.text.x = element_text(margin = margin(t=0.7, r=0, b=0.7, l=0, "mm")))+ # reduce facet size
+  ggforce::facet_col(vars(group), scales='free', space='free')+ #
+  coord_flip()
+cplot
+# export
+ggsave('figures/3_stability_estimates.jpg', cplot, width = 5.8, height=7.2, units='in', dpi=500)
+
+# plot country separately
+to_plot_country = filter(to_plot, group == 'Country')
+cplot2 = ggplot(data = to_plot_country, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high, col=group))+
   geom_point(size=2)+
   geom_hline(lty=2, yintercept=0)+
   geom_errorbar(width=0, linewidth=1.05)+
@@ -68,12 +97,13 @@ cplot = ggplot(data = to_plot, aes(x = x, y = estimate, ymin = conf.low, ymax = 
                      expand = c(expand, expand))+
   g.theme+
   theme(legend.position = 'none')+
-  facet_wrap(~group, scales='free')+
   coord_flip()
-cplot
+cplot2
 # export
-ggsave('figures/3_stability_estimates.jpg', cplot, width = 5.8, height=4.7, units='in', dpi=500)
+ggsave('figures/3_stability_country.jpg', cplot2, width = 4.7, height=4.5, units='in', dpi=500)
 
+## alternative version to above with separate panels that are assembled using grid.arrange
+# see https://stackoverflow.com/questions/52341385/how-to-automatically-adjust-the-width-of-each-facet-for-facet-wrap
 
 ## plot continuous published estimate ##
 n_predict = 50
@@ -99,7 +129,7 @@ pred = data.frame(published = new_data[,2], mean = mean, var = var, dates = date
 year_labels = 2019:2025
 year_start = as.numeric(as.Date(paste(year_labels,'-01-01', sep='')))
 #
-colour = 'pink'
+colour = 'orange2'
 rplot = ggplot(data = pred, aes(x=dates, y= mean, ymin=lower, ymax=upper))+
   geom_line(col=colour, linewidth=1.05)+
   geom_ribbon(alpha = 0.5, fill=colour)+
@@ -111,10 +141,12 @@ rplot
 # export
 ggsave('figures/3_date_effect.jpg', rplot, width = 5.2, height=4.2, units='in', dpi=500)
 
-# tabulate all variables - to do
-
-
-# plot residual checks - to do
-
-# check colinearity, car does not work as it expects model.matrix
-vif_matrix(small_model)
+## tabulate the parameter estimates
+to_latex = mutate(to_plot,
+                  estimate = round(estimate*100)/100,
+                  conf.low = round(conf.low*100)/100,
+                  conf.high = round(conf.high*100)/100,
+                  cell = paste(estimate, ' (', conf.low, ', ', conf.high, ')', sep='')) %>%
+  select(group, term, cell) %>%
+  mutate(cell = str_replace_all(cell, '-', '--')) # latex negative
+print(xtable(to_latex, digits=2), math.style.negative=TRUE, include.rownames=FALSE, hline.after=FALSE, file = "results/3_estimates_table.tex")

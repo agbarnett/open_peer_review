@@ -25,6 +25,21 @@ x_selected = x[,as.numeric(stab.lasso$selected)]
 small_model = glm(y ~ x_selected)
 ests = tidy(small_model, conf.int = TRUE)
 
+# selected names
+x_selected_names = str_remove(ests$term, '^x_selected')
+x_selected_names = x_selected_names[x_selected_names!='(Intercept)']
+
+# add numbers for categorical variables (used in plot)
+categorical = x_selected_names[x_selected_names != 'published']
+ests = mutate(ests, n = nrow(x)) # start with entire sample (works for continuous variables)
+for (this_name in categorical){
+  which_col = which(str_detect(colnames(x), pattern = paste(this_name,'$',sep=''))) # because of Health_care_...
+  if(length(which_col)!=1)(cat('Error finding column for', this_name, '\n', sep=''))
+  this_n = sum(x[,which_col]) # sum entire column
+  e_index = which(str_detect(ests$term, pattern = this_name)) # find location in data frame
+  ests$n[e_index] = this_n
+}
+
 # save
-save(ests, stab.lasso, small_model, file = 'results/2_ests_stability.RData')
+save(ests, stab.lasso, small_model, x_selected_names, file = 'results/2_ests_stability.RData')
 

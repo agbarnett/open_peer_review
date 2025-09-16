@@ -8,28 +8,11 @@ output: word_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warnings=FALSE, comment='', dpi = 400)
 library(dplyr)
+source('R/make_url.R')
 TeachingDemos::char2seed('lincoln')
-n_sample = 100
 
 load('data/0_unprocessed.RData')
-
-#
-make_url = function(doi){
-  j = case_when(
-    str_detect(doi, '\\.pntd') ~ 'plosntds',
-    str_detect(doi, '\\.pone') ~ 'plosone',
-    str_detect(doi, '\\.pgen') ~ 'plosgenetics',
-    str_detect(doi, '\\.ppat') ~ 'plospathogens',
-    str_detect(doi, '\\.pmed') ~ 'plosmedicine',
-    str_detect(doi, '\\.pgph') ~ 'globalpublichealth',
-    str_detect(doi, '\\.pbio') ~ 'plosbiology',
-    str_detect(doi, '\\.pclm') ~ 'climate',
-    str_detect(doi, '\\.pcbi') ~ 'ploscompbiol',
-    str_detect(doi, '\\.pdig') ~ 'digitalhealth'
-  )
-  url = paste('https://journals.plos.org/', j, '/article?id=', doi, sep='')
-  return(url)
-}
+n_sample = 100
 ```
 
 

@@ -1,0 +1,41 @@
+---
+title: "Validate the processed data"
+author: "Adrian Barnett"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warnings=FALSE, comment='', dpi = 400)
+library(dplyr)
+source('R/make_url.R')
+TeachingDemos::char2seed('wycombe')
+
+load('data/1_processed.RData')
+n_sample = 100
+```
+
+
+## Random sample
+
+```{r without, results='asis'}
+# papers without open peer review
+rselect = sample_n(data, n_sample) %>%
+  mutate(url = make_url(doi))
+for (k in 1:n_sample){
+  cat(rselect$url[k])
+  cat('\n\n')
+  cat('Published = ', format(rselect$published[k], '%d-%b-%Y'), sep='')
+  cat('\n\n')
+  cat('Type = ', rselect$type[k], '\n', sep='')
+  cat('\n\n')
+  cat('Author numbers = ', rselect$n_authors[k], '\n', sep='')
+  cat('\n\n')
+  cat('Countries = ', paste(rselect$country[k][[1]], collapse=', '), '\n', sep='')
+  cat('\n\n')
+  cat('Subjects = ', paste(unique(rselect$subjects[k][[1]]), collapse=', '), '\n', sep='')
+  cat('\n\n')
+  cat('Email = ', paste(rselect$edomain[k][[1]], collapse=', '), '\n', sep='')
+  cat('\n\n')
+}
+```
