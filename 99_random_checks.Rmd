@@ -1,0 +1,52 @@
+---
+title: "Validate the processed data"
+author: "Adrian Barnett"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warnings=FALSE, comment='', dpi = 400)
+library(dplyr)
+source('R/make_url.R')
+TeachingDemos::char2seed('wycombe')
+
+# get the data
+load('data/1_processed.RData')
+source('2_data_prepare.R')
+
+# restrict to country
+column_name = paste('country_', this_country, sep='')
+index = which(x[,column_name] == 1)
+country_data = data[index,]
+
+# sample
+n_sample = 50
+to_show = group_by(country_data, review_available) %>%
+  sample_n(n_sample) 
+```
+
+There were `r length(index)` articles from `r this_country`.
+
+## Articles with open review
+
+```{r with, results='asis'}
+rselect = filter(to_show, review_available == TRUE) %>%
+  mutate(url = make_url(doi))
+for (k in 1:n_sample){
+  cat(rselect$url[k])
+  cat('\n\n')
+}
+```
+
+## Articles without open review
+
+```{r without, results='asis'}
+rselect = filter(to_show, review_available == FALSE) %>%
+  mutate(url = make_url(doi))
+for (k in 1:n_sample){
+  cat(rselect$url[k])
+  cat('\n\n')
+}
+```
+

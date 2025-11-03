@@ -120,7 +120,7 @@ prop.table(table(data$retracted))*100 # check percentage retracted
 table(table(data$doi)) # should all be 1
 get_dupes(data)
 # slim down data
-data = select(data, -aff, -editor, -domain, -'Journal', -received, -accepted, -ret_date) # no longer needed
+data = select(data, -aff, -editor, -domain, -'Journal', -accepted, -ret_date) # no longer needed
 
 # save
 save(data, censor.date, file = 'data/1_processed.RData')
