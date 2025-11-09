@@ -2,10 +2,10 @@
 # use stability selection to find variables associated with open peer review
 # November 2025
 library(dplyr)
-library(lars)
+library(stringr)
+library(lars) # for stability selection
 library(stabs) # for stability selection
 library(broom)
-library(stringr)
 TeachingDemos::char2seed("blackpool")
 
 # get the data from 2_add_author_experience.R

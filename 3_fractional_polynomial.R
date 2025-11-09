@@ -6,7 +6,7 @@ library(dplyr)
 
 # get the data from 2_add_author_experience.R
 load('data/2_plus_experience.RData')
-# remove small amount of missing country and last authors paper count
+# remove small amount of missing country and last authors paper count (do not run 3_data_prepare.R)
 data <- filter(data, !is.na(country))
 data <- filter(data, !is.na(author_papers))
 

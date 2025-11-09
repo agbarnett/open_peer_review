@@ -10,7 +10,7 @@ TeachingDemos::char2seed("wycombe")
 load("data/1_processed.RData")
 
 # prepare the data
-source('2_data_prepare.R')
+source('3_data_prepare.R')
 
 # select one country
 this_country = 'Ethiopia'
@@ -25,7 +25,7 @@ imp = data.frame(importance(trees)) %>%
   arrange(desc(IncNodePurity)) %>%
   head()
 
-# try tree instead?
+# try simple tree instead
 library(rpart)
 library(rpart.plot)
 my.control = rpart.control()

@@ -6,7 +6,7 @@ library(contrast)
 
 # get data, from 1_process.R
 load("data/1_processed.RData")
-# make fcontrast# make follow-up time
+# make follow-up time to offset citation counts
 date.searched = as.Date('2025-09-01')
 data = mutate(data, follow_up = as.numeric(date.searched - published))
 

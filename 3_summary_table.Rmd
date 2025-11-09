@@ -32,6 +32,7 @@ data = mutate(data, year = as.numeric(format(published, '%Y'))) # add year publi
 # Remove double countries per article:
 countries = lapply(data$country, unique)
 countries = unlist(countries)
+n_country = length(unique(countries))
 tab = table(countries)
 table = as.data.frame(tab) %>%
   mutate(percent = round(100*Freq/n_rows)) %>% # percent over all articles
@@ -47,6 +48,7 @@ ftab
 print(xtable(table), include.rownames=FALSE, hline.after=FALSE, file = "results/3_countries.tex")
 ```
 
+There were `r n_country` countries in total. 
 The table shows the authors' countries where each country is counted once per article. The percentages are over all `r format(n_rows,big.mark=',')` articles.
 
 ## Top ten subjects
@@ -55,6 +57,7 @@ The table shows the authors' countries where each country is counted once per ar
 # Remove double subjects per article:
 subjects = lapply(data$subjects, unique)
 subjects = unlist(subjects)
+n_subject = length(unique(subjects))
 tab = table(subjects)
 table = as.data.frame(tab) %>%
   mutate(percent = round(100*Freq/n_rows)) %>%
@@ -70,7 +73,30 @@ ftab
 print(xtable(table), include.rownames=FALSE, hline.after=FALSE, file = "results/3_subjects.tex")
 ```
 
+There were `r n_subject` subjects in total. 
+The percentages are over all `r format(n_rows,big.mark=',')` articles.
 
+## Email domain
+
+```{r domain}
+# mulitple results per domain
+domain = lapply(data$edomain, unique)
+domain = unlist(domain)
+tab = table(domain)
+table = as.data.frame(tab) %>%
+  mutate(percent = round(100*Freq/n_rows)) %>%
+  arrange(desc(Freq)) %>%
+  rename('Domain' = 'domain',
+         'Count'='Freq')
+ftab = flextable(table) %>%
+  theme_box() %>%
+  autofit()
+ftab
+# export to latex
+print(xtable(table), include.rownames=FALSE, hline.after=FALSE, file = "results/3_domain.tex")
+```
+
+Some papers had multiple emails. 
 The percentages are over all `r format(n_rows,big.mark=',')` articles.
 
 ## Summary table

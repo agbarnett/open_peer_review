@@ -1,3 +1,4 @@
+# 4_plot_stability.R
 # plot the estimates from the stability selection
 # September 2025
 library(xtable) # for latex
@@ -30,19 +31,23 @@ labels = str_replace_all(labels, '_', ' ') # ... and then remaining with space
 labels = str_replace_all(labels, 'published', 'Date published') # better label
 
 #
-colours = c("coral3", "yellow3")
+colours = c("coral3", "green3")
 pplot = ggplot(data = for_plot, aes(x = x, y = stab.lasso.max, col = selected))+
   geom_point(size = 3)+
   scale_x_continuous(breaks = 1:nrow(for_plot), labels = labels, expand=c(0.01,0.01))+
   scale_y_continuous(breaks = seq(0.25,1,0.25))+
-  scale_color_manual('Included', values = colours, labels=c('No','Yes'))+
+  scale_color_manual('Included in\nfinal model', values = colours, labels=c('No','Yes'))+
   xlab(NULL)+
   ylab('Selection probability')+
   geom_hline(yintercept = stab.lasso$cutoff, col = dash_colour, lty=2)+
   coord_flip()+
   g.theme +
-  theme(legend.position = 'inside',
-        legend.position.inside = c(0.79,0.9))
+  theme(legend.margin = margin(1, 1, 1, 1),
+        legend.position = 'inside',
+        legend.position.inside = c(0.79, 0.88),
+        legend.spacing = unit(1, 'mm'),
+        legend.text = element_text(size = 9),
+        legend.title = element_text(size = 9))
 pplot
 # export
 ggsave('figures/4_stability_selection.jpg', pplot, width = 4.9, height=5.2, units='in', dpi=500)

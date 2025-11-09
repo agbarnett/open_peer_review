@@ -68,5 +68,12 @@ data = bind_rows(previous, data_e)
 # remove any counts over 2,000 (assume they are an error); see https://www.quora.com/Who-has-published-the-most-number-of-scientific-research-papers-till-now
 data = mutate(data, 
               author_papers = ifelse(author_papers>2000, NA, author_papers))
+
+# fix small number of duplicates (n = 32); due to occasional duplicate author counts
+data = group_by(data, doi) %>%
+  arrange(doi, author_papers) %>%
+  slice(1) %>%
+  ungroup()
+
 # re-save (over-write)
 save(data, censor.date, file='data/2_plus_experience.RData')

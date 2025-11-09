@@ -1,11 +1,11 @@
 # 3_data_prepare.R
 # prepare the data for the models
 # September 2025
-# called by 2_stability_selection.R and table?
+# called by 3_stability_selection.R and 4_model_checks.R
 
 # remove small amount of missing country and last authors paper count
 data <- filter(data, !is.na(country)) # 98
-data <- filter(data, !is.na(author_papers)) # 111
+data <- filter(data, !is.na(author_papers)) # 110
 
 # scale data; best transformations from 3_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,
@@ -60,3 +60,6 @@ colnames(x) = pred
 
 # dependent variable
 y <- data$review_available
+
+# check
+if(nrow(x) != length(y)){cat('Error, mismatch in x and y.\n')}

@@ -1,7 +1,7 @@
 # 4_model_checks.R
 # run model checks
 # November 2025
-source('R/vif_matrix.R')
+source('R/vif_matrix.R') # for VIF
 library(xtable) # for latex
 library(stringr)
 library(dplyr)
