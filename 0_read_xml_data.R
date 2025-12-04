@@ -1,10 +1,11 @@
 # 0_read_xml_data.R
 # downloaded and unzipped entire PLOS corpus from https://plos.org/text-and-data-mining/ on 15 August 2025
 # some helpful code here https://pgomba.github.io/pgb_website/posts/08_10_23/
-# August 2025
+# November 2025
 library(tidyverse)
 library(rvest)
 library(stringr)
+source('99_conflict_pattern.R') # conflict of interest patterns
 
 # types of paper to exclude, not peer reviewed
 source('99_excluded.R')
@@ -21,11 +22,20 @@ table(nchar(d)) # check, should all be 24
 
 # big loop to extract data
 data = excluded = NULL
-start = 270866
+start = 1 # for restarts
 N = length(d)
 # missing_k = which(str_detect(d, pattern=paste(d_not,collapse='|'))) # for filling in missing papers
 for (k in start:N){
-    article = read_html(d[k])
+  
+  infile = d[k] # temporary
+ # infile = 'journal.pone.0240295.xml'
+  article = read_html(infile)
+  
+  # DOI
+  doi = article %>%
+    html_nodes("article-meta") %>%
+    html_nodes("article-id[pub-id-type='doi']") %>%
+    html_text2()
   
   # exclude if not an XML file
   if(is(article, 'xml_node') == FALSE){
@@ -34,12 +44,6 @@ for (k in start:N){
     next;
   }
   
-  # DOI
-  doi = article %>%
-    html_nodes("article-meta") %>%
-    html_nodes("article-id[pub-id-type='doi']") %>%
-    html_text2()
-
   # paper type 
   paper_type <- article %>%
     html_nodes("subj-group[subj-group-type='heading']") %>%
@@ -116,7 +120,6 @@ for (k in start:N){
     html_nodes("contrib[contrib-type='author']") %>%
     length()
   
-   
   # publication date
   pdate <- article %>%
     html_nodes("article-meta") %>%
@@ -136,44 +139,92 @@ for (k in start:N){
   # occasionally missing, e.g., 10.1371/journal.pbio.1000313, consortium authors
   if(length(aff) == 0){aff = 'Missing'}
   
+  # Number of ORCIDs
+  orcids = article %>%
+    html_nodes("contrib-id[contrib-id-type='orcid']") %>%
+    html_text2() %>%
+    unique()
+  n_orcids = length(orcids)
+  
   # contact email domain (just from @)
   email <- article %>%
     html_nodes("author-notes") %>%
     html_nodes("corresp") %>%
     html_nodes("email") %>%
-    html_text2() %>%
-    str_remove(pattern = '.*@') # remove everything before @
+    html_text2() 
+  # count unique emails
+  n_emails = length(unique(email))
+  # now remove everything before @
+  email = str_remove(email, pattern = '.*@') 
   # back up for alternative XML 
   if(length(email) == 0){
     email = article %>%
       html_nodes("author-notes") %>%
       html_nodes("fn[fn-type='current-aff']") %>%
       html_nodes("email") %>%
-      html_text2() %>%
-      str_remove(pattern = '.*@')
+      html_text2() 
+    # count unique emails
+    n_emails = length(unique(email))
+    # now remove everything before @
+    email = str_remove(email, pattern = '.*@') 
   } 
   # email can be missing, e.g., 10.1371/journal.pbio.0020110
   if(length(email) == 0){email = 'Missing'}
-  
-  # Editor's affiliation (can occasionally be two)
-  editor_aff <- article %>%
-    html_nodes("article-meta") %>%
-    html_nodes(xpath = "//aff[starts-with(@id,'ed')]") %>% # to get editor
-    html_nodes('addr-line') %>%
-    html_text2()
-  # back up for alternative XML (no address line)
-  if(length(editor_aff) == 0){
-    editor_aff = article %>%
-      html_nodes("article-meta") %>%
-      html_nodes(xpath = "//aff[starts-with(@id,'ed')]") %>%
-      html_text2()
+
+  ## conflict of interest
+  conflict = article %>%
+    html_nodes("fn[fn-type='conflict']") %>%
+    html_text2() %>%
+    paste(collapse = ' ') # avoid doubles
+  if(length(conflict)==0){next}
+  conflict = str_remove(conflict, '• ') # remove odd bullet
+  # binary no conflict
+  no_conflict = str_detect(tolower(conflict), pattern = conflict_pattern)
+
+  ## funders as a list; there is also institution-id, but it's not always available
+  ## sometimes there's only a funding statement, e.g., 10.1371/journal.pone.0240295
+  # get statement
+  funders_statement = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes('funding-statement') %>%
+    html_text2() %>%
+    tolower()
+  # rare to be missing, glitch here: "10.1371/journal.pone.0259601"
+  if(length(funders_statement) == 0){
+    funders_statement = NA
   }
-  # can be missing, e.g., 10.1371/journal.pbio.1000225
-  if(length(editor_aff) == 0){
-    editor_aff = "Missing"
+  # clean up
+  if(length(funders_statement)>0){
+    funders_statement = str_remove_all(funders_statement, pattern = dot_pattern) # remove full-stops that can be confused with full-stops
+    funders_statement = str_extract(funders_statement, pattern = start_pattern) # remove starting text and go to end of first sentence
+    funders_statement = str_remove_all(funders_statement, pattern = remove_brackets) # remove everything in brackets
+    funders_statement = str_squish(funders_statement)
+  }
+  # get funder(s) names
+  funders = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes("funding-source") %>%
+    html_nodes("institution") %>%
+    html_text2() %>%
+    tolower() %>%
+    unique()
+  # assume missing means no funders
+  if(length(funders) == 0){
+    funders = "None"
+  }
+  # get funder number(s)
+  funder_number = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes("funding-source") %>%
+    html_nodes("institution-id") %>%
+    html_text2() %>%
+    unique()
+  funder_number = str_remove_all(funder_number, 'http://dx.doi.org/10.13039/')
+  if(length(funder_number) == 0){
+    funder_number = NA
   }
   
-  # are there any author comments, meaning: is peer review open?
+  ## are there any author comments, meaning: is peer review open? (dependent variable)
   comments <- article %>%
     html_nodes("sub-article") %>%
     html_attrs() %>% 
@@ -181,8 +232,8 @@ for (k in start:N){
   review_available = nrow(comments) > 0
   
   # stop if data is not complete
-  if(length(doi) == 0 | length(journal_name) == 0 | length(subject) == 0 | length(aff) == 0 | length(editor_aff) == 0 | 
-     length(dates) == 0 | length(email) == 0){stop('Incompelte data for ', k, '\n', sep='')}
+  if(length(doi) == 0 | length(journal_name) == 0 | length(subject) == 0 | length(aff) == 0 | length(no_conflict) == 0 | 
+     length(n_orcids) == 0 | length(funders) == 0 | length(dates) == 0 | length(email) == 0){stop('Incomplete data for ', k, '\n', sep='')}
   # stop if data is too long
   if(length(doi) > 1 | length(journal_name) > 1 | length(dates) != 2){stop('Too much data for ', k, '\n', sep='')}
   
@@ -191,13 +242,18 @@ for (k in start:N){
                  journal = journal_name,
                  type = paper_type,
                  n_authors = n_authors,
-                 subjects = list(subject), # keep subjects as a list
+                 n_orcids = n_orcids,
+                 subjects = list(unique(subject)), # keep subjects as a list; remove duplicates 
                  aff = list(aff), # keep affiliations as a list
                  domain = list(email), # can be multiple emails, so keep as list
-                 editor = list(editor_aff),
+                 n_emails = n_emails,
+                 no_conflict = no_conflict,
                  received = received,
                  accepted = accepted,
-                 published = d3,
+                 published = d3, # date
+                 funders_statement = funders_statement, # keeping lots on funders, will process in next round
+                 funders = list(funders), # can be multiple, so keep as list
+                 funder_number = list(funder_number), # can be multiple, so keep as list
                  review_available = review_available
   )
   data = bind_rows(data, frame)
@@ -230,6 +286,9 @@ t_to_compare = c(e_to_compare, i_to_compare)
 table(duplicated(t_to_compare))
 d_not = d_to_compare[!d_to_compare%in%t_to_compare] # which files are missing
 t_not = t_to_compare[!t_to_compare%in%d_to_compare] # which files are missing
+# check for doubles
+table(table(data$doi))
+
 
 # save
 setwd(here)

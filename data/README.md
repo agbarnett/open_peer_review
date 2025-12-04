@@ -1,6 +1,6 @@
 # PLOS open review data
 
-The data are based on the full corpus of PLOS papers available [here]().
+The data are based on the full corpus of PLOS papers available [here](https://plos.org/text-and-data-mining/).
 
 ## Files
 
@@ -8,6 +8,7 @@ The data are based on the full corpus of PLOS papers available [here]().
 * 1_processed.RData, processed data that includes citations and retractions, and authors' countries
 * 2_plus_experience.RData, further processed by adding author's experience from _OpenAlex_
 * all_countries.csv, data on all countries used to help with assigning authors' countries
+* pone.0281659.s001.xlsx, is Excel data from DOI: [10.1371/journal.pone.0281659](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281659) and is used to verify our estimates of the country-level rate of preprints
 
 ## Data dictionary for analysis data
 

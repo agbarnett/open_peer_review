@@ -8,7 +8,7 @@ library(stabs) # for stability selection
 library(broom)
 TeachingDemos::char2seed("blackpool")
 
-# get the data from 2_add_author_experience.R
+# get the data from 2_patch_author_experience.R
 load('data/2_plus_experience.RData')
 
 # prepare the data
@@ -41,6 +41,5 @@ for (this_name in categorical){
   ests$n[e_index] = this_n
 }
 
-# save
+# save estimates
 save(ests, stab.lasso, small_model, x_selected_names, file = 'results/3_ests_stability.RData')
-

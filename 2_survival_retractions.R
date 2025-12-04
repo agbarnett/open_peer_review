@@ -1,11 +1,13 @@
 # 2_survival_retractions.R
 # survival models for time to retraction
-# November 2025
+# December 2025
 library(dplyr)
 library(survival)
 library(survminer) # for plotting
-source('R/dark_theme.R') # for slide theme
+source('R/dark_theme.R') # for dark slide theme for AIMOS presentation
 cbPalette <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#999999") # colours
+# folder for figures:
+loc = 'C:/Users/barnetta/OneDrive - Queensland University of Technology/talks/AIMOS5/figures/'
 
 # get data, from 1_process.R
 load("data/1_processed.RData")
@@ -40,17 +42,17 @@ lplot = splot$plot + theme(legend.position = "inside", legend.position.inside = 
 # add text labels
 end = summary(smodel, times = 5.2) # can't do max time as it's not available for yes group
 label = data.frame(time = 5.3, rate = 1-end$surv, label = paste('n = ', end$n.event, sep=''))
-lplot = lplot + 
+lplot_black = lplot + 
   theme(plot.margin = unit(c(0,1.2,0,0), "cm"))+
   geom_text(data = label, aes(x=time, y=rate, label=label), adj=-0.85) +
   coord_cartesian(clip = "off")
-
 # export
-ggsave('figures/2_survival_retraction.jpg', lplot, width=4.5, height=4.2, units='in', dpi = 500)
-# version for slide
+ggsave('figures/2_survival_retraction.jpg', lplot_black, width=4.5, height=4.2, units='in', dpi = 500)
+
+# version for slide #
 splot_slide = lplot + dark.theme +
-  geom_text(data = label, aes(x=time, y=rate, label=label), col='white', adj=-1)
-loc = 'U:/Research/Projects/ihbi/aushsi/aushsi_barnetta/meta.research/presentations/talks/AIMOS5/figures/'
+  geom_text(data = label, aes(x=time, y=rate+0.0005, label=label), col='white', adj=-0.85)+
+  coord_cartesian(clip = "off")
 out = paste(loc, '2_survival_retraction_slide.jpg', sep='')
 ggsave(filename = out, splot_slide, width=6.5, height=4.2, units='in', dpi = 500, bg = 'transparent')
 

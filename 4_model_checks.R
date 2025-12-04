@@ -62,6 +62,10 @@ vif = vif_matrix(small_model)
 to_export = data.frame(vif) %>%
   tibble::rownames_to_column() %>%
   mutate(# labels
+    rowname = str_replace(rowname, '501100000781', 'European Research Council'), # change funder numbers to names
+    rowname = str_replace(rowname, '501100000265', 'Medical Research Council'),
+    rowname = str_replace(rowname, '^published', 'Date published'),
+    rowname = str_replace(rowname, 'p_orcid', 'ORCID proportion'), 
     rowname = str_replace(rowname, '^type', 'type_'), # type did not start with _
     rowname = str_replace(rowname, '_', ' = '), # replace first underbar with equals ...
     rowname = str_replace_all(rowname, '_', ' ') # ... and then remaining with space
@@ -79,10 +83,14 @@ for_plot = data.frame(observed = as.numeric(y),
     y == 1 ~ observed - random,
     y == 0 ~ observed + random
   ),
+  over_1 = as.factor(as.numeric(predicted>1)),
   negative = as.factor(as.numeric(predicted<0)))
 # 
 p_neg = 100*sum(pred<0) / length(pred)
 cat('There were ', sum(pred<0), ' negative predictions which is ', round(p_neg*100)/100, '%.\n', sep='')
+p_over = 100*sum(pred>1) / length(pred)
+cat('There were ', sum(pred>1), ' predictions over 1 which is ', round(p_over*100)/100, '%.\n', sep='')
+
 # a) dots
 pplot = ggplot(data = for_plot, aes(x=predicted, y=observed))+
   geom_point(col='transparent')+ # not plotted, but used for smooth
