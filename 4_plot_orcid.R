@@ -10,7 +10,7 @@ new_data[,1] = 0 # intercept on = 1 or off = 0 for all
 # get range of ORCID
 p_orcid = seq(0.01, 1, length.out = n_predict)
 poly_orcid = p_orcid^2 # best fractional polynomial
-poly_orcid = scale(poly_orcid) # further scale because of lasso
+poly_orcid = (poly_orcid - mean_orcid)/sd_orcid # scale because of lasso; same scaling as data
 index = which(x_selected_names == 'p_orcid')
 new_data[,index+1] = poly_orcid # only change one column in X (plus 1 for intercept)
 # get predictions using matrix multiplication (because glm was fit using matrix)

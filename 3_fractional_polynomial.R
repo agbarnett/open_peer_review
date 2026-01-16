@@ -1,6 +1,6 @@
 # 3_fractional_polynomial.R
 # fractional polynomials for the four continuous variables
-# November 2025
+# January 2026
 library(ggplot2)
 library(dplyr)
 
@@ -9,6 +9,8 @@ load('data/2_plus_experience.RData')
 # remove small amount of missing country and last authors paper count (do not run 3_data_prepare.R)
 data <- filter(data, !is.na(country))
 data <- filter(data, !is.na(author_papers))
+data <- filter(data, lengths(subjects)>1)
+data <- filter(data, type != 'Formal Comment') 
 
 # works on unstransformed variables (have not yet called 3_data_prepare.R)
 powers <- c(-2, -1, -0.5, 0, 0.5, 1, 2, 3) # fractional polynomials

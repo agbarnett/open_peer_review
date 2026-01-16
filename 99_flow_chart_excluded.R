@@ -1,11 +1,11 @@
 # 99_flow_chart_excluded.R
 # consort flow chart of numbers included
-# Nov 2025
+# January 2026
 library(diagram)
 library(dplyr)
 library(stringr)
 
-# for exclusion numbers
+# for exclusion numbers; from 0_read_xml_data.R
 load('data/0_unprocessed.RData')
 
 # number of XML files downloaded from PLOS
@@ -23,19 +23,28 @@ reasons = group_by(excluded, reason) %>%
   group_by(rown, reason) %>%
   summarise(n = sum(n)) %>%
   ungroup() %>%
-  mutate(n = str_squish(format(n, big.mark=',')),
-         reason = ifelse(reason=='Retraction', "Retraction notice", reason)) # longer label to avoid confusion with retractions
+  mutate(reason = ifelse(reason=='Retraction', "Retraction notice", reason)) # longer label to avoid confusion with retractions
+
+# remove Formal Comment from data and add to reasons, late withdrawal not found until analysis stage
+n_formal = sum(data$type == 'Formal Comment')
+data = filter(data, type != 'Formal Comment')
+n_excluded = n_excluded + n_formal
+reasons = mutate(reasons,
+                 n = ifelse(str_detect(reason, '^Other'), n + n_formal, n),
+                 n = str_squish(format(n, big.mark=',')))
 
 #
-n_data = nrow(data)
+n_data = nrow(data) # from unprocessed
 n_data + n_excluded
 if(n_data + n_excluded != n_start - count_corrections){cat('Number error\n')}
 
-# missing country
-load('data/2_plus_experience.RData')
+# get processed data
+load('data/2_plus_experience.RData') # from 2_add_author_experience.R
+data = filter(data, type != 'Formal Comment') # late exclusion
 n_miss_country = sum(is.na(data$country))
 n_miss_author = filter(data, !is.na(country)) %>% filter(is.na(author_papers)) %>% nrow()
-n_analysis = n_data - n_miss_country - n_miss_author
+n_miss_subject = filter(data, !is.na(country)) %>% filter(!is.na(author_papers)) %>% filter(lengths(subjects)==1) %>% nrow() # subject of length 1 is "Missing"
+n_analysis = n_data - n_miss_country - n_miss_author - n_miss_subject
 
 # labels
 l1 = paste('XML files download\nfrom PLOS site (n=', format(n_start, big.mark=','), ')', sep='') # 
@@ -55,7 +64,7 @@ l4 = paste('Excluded (n=', format(n_excluded, big.mark=','), ')\n',
            '- ', slice(reasons, 11)%>%pull(reason), ' (n=', slice(reasons, 11) %>%pull(n), ')',
            sep='')
 l5 = paste('Remaining articles\n(n=', format(n_data, big.mark=','), ')', sep='')
-l6 = paste('Missing data:\nCountry (n=', n_miss_country,')\nAuthor`s publications (n=', n_miss_author,')', sep='')
+l6 = paste('Missing data:\nCountry (n=', n_miss_country,')\nAuthor`s publications (n=', n_miss_author,')\nSubjects (n=', n_miss_subject,')', sep='')
 l7 = paste('Analysis data\n(n=', format(n_analysis, big.mark=','), ')', sep='')
 null = '' # for arrow placements
 
@@ -69,11 +78,11 @@ i	x	y	box.col	box.type	box.prop	box.size
 3	0.25	0.7	white	square	0.24	0.17
 4	0.75	0.5	white	square	0.96	0.2
 5	0.25	0.3	white	square	0.24	0.17
-6	0.75	0.2	white	square	0.24	0.2
+6	0.75	0.18	white	square	0.32	0.20
 7	0.25	0.1	white	square	0.24	0.17
 8	0.25	0.82	transparent	square	0	0
 9	0.25	0.5	transparent	square	0	0
-10	0.25	0.2	transparent	square	0	0')
+10	0.25	0.18	transparent	square	0	0')
 pos = as.matrix(subset(frame, select=c(x, y)))
 M = matrix(nrow = n.labels, ncol = n.labels, byrow = TRUE, data = 0)
 M[3, 1] = "' '"

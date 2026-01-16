@@ -1,11 +1,13 @@
 # 3_data_prepare.R
 # prepare the data for the models
-# November 2025
+# January 2026
 # called by 3_stability_selection.R and 4_model_checks.R
 
 # remove small amount of missing country and last authors paper count
 data <- filter(data, !is.na(country)) # 98
 data <- filter(data, !is.na(author_papers)) # 110
+data <- filter(data, lengths(subjects) > 1) # 721 (subject = 'missing' if there's only one)
+data <- filter(data, type != 'Formal Comment') #74 late exclusion after talking with PLOS staff
 
 # scale data; best transformations from 3_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,
@@ -18,8 +20,12 @@ data <- mutate(data,
                published = published ^-1, # best fractional polynomial
                time_between = time_between # no transformation
                ) 
-# further scale by standardising because we use lasso
-data = mutate(data,
+## further scale by standardising because we use lasso
+mean_orcid = mean(data$p_orcid) # need to store these for plots (see 4_plot_stability.R)
+sd_orcid = sd(data$p_orcid)
+mean_published = mean(data$published)
+sd_published = sd(data$published)
+data = mutate(data, 
               author_papers = scale(author_papers),
               published = scale(published),
               time_between = scale(time_between),
@@ -62,6 +68,14 @@ ftab <- table(unlist(data$funder_number_consolidated))
 ftab.min <- ftab[ftab >= 100] # only funders with over 100 results
 funders_to_use <- names(ftab.min)
 funder_mat <- t(+sapply(data$funder_number_consolidated, "%in%", x = funders_to_use)) # binary matrix
+# combine two Wellcome
+index1 = which(funders_to_use == '100004440')
+index2 = which(funders_to_use == '100010269')
+funder_mat[,index1] = funder_mat[,index1] + funder_mat[,index2] # combine
+funder_mat[,index1] = pmin(funder_mat[,index1], 1) # keep as binary
+funder_mat = funder_mat[,-index2] # remove duplicate Wellcome
+funders_to_use = funders_to_use[-index2] # remove from names as well
+#
 cat('There are ', ncol(funder_mat), ' funders.\n', sep='')
 
 ## make matrix for "simpler" predictors

@@ -15,6 +15,7 @@ TeachingDemos::char2seed('lincoln')
 # DAG
 dag_e <- dagify(#open ~ journal, # openness will depend on journal -- turned off, assume all effects happen via topic
                 open ~ country, # openness will depend on country
+                open ~ funder, # openness will depend on funder
                 open ~ time, # openness will depend on country
                 open ~ topic, # openness will depend on topic
                 open ~ good, # openness will depend on whether reviews were good/glowing
@@ -29,6 +30,7 @@ dag_e <- dagify(#open ~ journal, # openness will depend on journal -- turned off
                 country ~ time, # change in country make-up over time
                 misconduct ~ time, # misconduct growing over time
                 misconduct ~ country, # misconduct dependent on country
+                funder ~ country, # funder will depend on country
                 labels = c(
                   "open" = "Open peer\nreview",
                   "time" = "Time\ntrend",
@@ -40,7 +42,8 @@ dag_e <- dagify(#open ~ journal, # openness will depend on journal -- turned off
                   'peer_time' = 'Peer review\ntime',
                   'good' = 'Positive\nreviews',
                   'paper_quality' = 'Paper\nquality',
-                  'e_authors' = 'Authors`\nexperience'
+                  'e_authors' = 'Authors`\nexperience',
+                  'funder' = 'Funder'
                 ),
                 latent = c("good",'misconduct','paper_quality'),
                 exposure = "time",

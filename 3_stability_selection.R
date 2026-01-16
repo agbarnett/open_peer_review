@@ -1,6 +1,6 @@
 # 3_stability_selection.R
 # use stability selection to find variables associated with open peer review
-# November 2025
+# December 2025
 library(dplyr)
 library(stringr)
 library(lars) # for stability selection
@@ -14,12 +14,12 @@ load('data/2_plus_experience.RData')
 # prepare the data
 source('3_data_prepare.R')
 
-# bootstrap combined with lasso (takes a while)
+# bootstrap combined with lasso (takes a while); using default of B = 100 bootstrap replications
 stab.lasso <- stabsel(x = x, 
                      y = y, # binary outcome
                      fitfun = lars.lasso, 
                      cutoff = 0.75, # probability cut-off for selecting variables
-                     PFER = 1) # per-family error rate [0,1]; expected number of falsely selected variables
+                     PFER = 1) # per-family error rate; expected number of falsely selected variables
 
 # refit model with selected variables (no shrinkage)
 x_selected = x[,as.numeric(stab.lasso$selected)]

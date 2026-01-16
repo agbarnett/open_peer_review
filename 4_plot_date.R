@@ -13,7 +13,7 @@ dend = as.numeric(as.Date('2025-07-18'))
 dates = round(seq(dstart, dend, length.out=n_predict))
 stan_dates = (as.numeric(dates) - 18000)/365.25 # scale first to remove huge numbers (as per 2_stability_selection.R)
 stan_dates = stan_dates ^-1 # best fractional polynomial
-stan_dates = scale(stan_dates) # further scale because of lasso
+stan_dates = (stan_dates - mean_published)/sd_published # further scale because of lasso, see 3_data_prepare.R
 index = which(x_selected_names == 'published')
 new_data[,index+1] = stan_dates # only change one column in X (plus 1 for intercept)
 # get predictions using matrix multiplication (because glm was fit using matrix)

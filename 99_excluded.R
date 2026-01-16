@@ -1,6 +1,6 @@
 # 99_excluded.R
 # types of articles to exclude as they are not peer reviewed, called by 0_read_xml_data.R
-# August 2025
+# January 2026
 
 exclude_types = c("Best Practice",
                   "Book Review/Science in the Media", 
@@ -20,7 +20,7 @@ exclude_types = c("Best Practice",
                   'Expert Commentary',
                   "Expression of Concern",
                   "Feature",
-#                  'Formal Comment', # some are peer reviewed
+                  'Formal Comment', # late exclusion after talking with PLOS staff
                   'From Innovation to Application',
                   'Guidelines and Guidance',
                   'Health in Action',

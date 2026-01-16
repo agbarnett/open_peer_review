@@ -1,6 +1,6 @@
 # 4_model_checks.R
 # run model checks
-# November 2025
+# January 2026
 source('R/vif_matrix.R') # for VIF
 library(xtable) # for latex
 library(stringr)
@@ -99,7 +99,7 @@ pplot = ggplot(data = for_plot, aes(x=predicted, y=observed))+
   geom_point(data = for_plot, aes(x=pred, y=observed_jitter, colour = negative), pch=1, size=1)+ # used for plot but not smooth
   scale_color_manual(NULL, values=c('navy','darkred'))+
   scale_y_continuous(breaks=c(0,1), labels=c('No','Yes'), expand=c(0,0))+
-  coord_cartesian(ylim=c(0,1),xlim=c(NA,1))+ # limit y-axis, make sure x axis goes up to 1
+  coord_cartesian(ylim=c(0,1),xlim=c(0,1))+ # limit y-axis, make sure x axis goes from 0 to 1
   xlab('Predicted probability')+
   ylab('Open review')+
   g.theme+
@@ -113,7 +113,7 @@ pplot1 = ggplot(data = for_plot, aes(x=predicted, y=observed))+
   geom_smooth()+
   geom_abline(intercept = 0, slope=1, lty=2)+
   scale_y_continuous(breaks=c(0,1), labels=c('No','Yes'), expand=c(0,0))+
-  coord_cartesian(ylim=c(0,1),xlim=c(NA,1))+ # limit y-axis, make sure x axis goes up to 1
+  coord_cartesian(ylim=c(0,1),xlim=c(0,1))+ # limit y-axis, make sure x axis goes from 0 to 1
   xlab('Predicted probability')+
   ylab('Open review')+
   g.theme+
@@ -151,3 +151,13 @@ bplot
 jpeg('figures/4_fit_vs_observed.jpg', width = 5.4, height=4.8, units='in', res=500)
 grid.arrange(bplot, pplot1, ncol = 1, heights = c(0.15,1))
 dev.off()
+
+# examine large residuals
+vars_to_keep = filter(ests, term!='(Intercept)') %>%
+  pull(term) %>%
+  str_remove('x_selected') %>%
+  c('predicted')
+large = bind_cols(x, for_plot) %>% # add observed data
+  filter(predicted > 0.8, observed==0) %>%
+  select(all_of(vars_to_keep))
+# all of type = "Methods and Resources" and from the UK

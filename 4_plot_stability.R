@@ -1,7 +1,6 @@
 # 4_plot_stability.R
-# plot the estimates from the stability selection
-# December 2025
-library(xtable) # for latex
+# plot the categorical estimates from the stability selection
+# January 2026
 library(stringr)
 library(dplyr)
 library(ggplot2)
@@ -18,6 +17,10 @@ loc = 'C:/Users/barnetta/OneDrive - Queensland University of Technology/talks/AI
 # load the results
 load('results/3_ests_stability.RData') # from 3_stability_selection.R
 
+# need to run for mean and SD used for standardisation
+load('data/2_plus_experience.RData')
+source('3_data_prepare.R')
+
 ### Plot 1: plot which variables were selected ###
 for_plot = data.frame(stab.lasso$max) %>%
   tibble::rownames_to_column() %>%
@@ -33,7 +36,8 @@ labels = str_replace(for_plot$rowname, '^type', 'type_') # type did not start wi
 labels = str_replace_all(labels, 'p_orcid', 'ORCID proportion') # better label
 labels = str_replace(labels, '501100000781', 'European Research Council') # change funder numbers to names
 labels = str_replace(labels, '501100000265', 'Medical Research Council')
-labels = str_replace(labels, '100010269', 'Wellcome Trust')
+labels = str_replace(labels, '100004440', 'Wellcome')
+labels = str_replace(labels, '100000011', 'Howard Hughes Medical Institute')
 
 labels = str_replace(labels, '_', ' = ') # replace first underbar with equals ...
 labels = str_replace_all(labels, '_', ' ') # ... and then remaining with space
@@ -117,7 +121,7 @@ cplot_column = cplot + ggforce::facet_col(vars(group), scales='free', space='fre
 # export
 ggsave('figures/4_stability_estimates.jpg', cplot_column, width = 5.8, height=7.2, units='in', dpi=500)
 
-# ... and square version
+# ... and square version 
 expand = 0.6
 cplot_square = cplot + facet_wrap(~group, ncol = 2, scales='free') + 
   scale_x_continuous(breaks = 1:nrow(to_plot), 
@@ -184,30 +188,100 @@ ggsave(filename = out, cplot3_slide, width=8.5, height=4.7, units='in', dpi = 50
 ## alternative version to above with separate panels that are assembled using grid.arrange
 # see https://stackoverflow.com/questions/52341385/how-to-automatically-adjust-the-width-of-each-facet-for-facet-wrap
 
-## plot continuous variables 
-# a) date published
-source('4_plot_date.R')
-# export
-ggsave('figures/4_date_effect.jpg', rplot, width = 5.2, height=4.2, units='in', dpi=500)
-# b) ORCID proportion
-source('4_plot_orcid.R')
-# export
-ggsave('figures/4_orcid_effect.jpg', oplot, width = 5.2, height=4.2, units='in', dpi=500)
 
-## combined continuous plot
-rplot = rplot + ggtitle('(A) Date published')
-oplot = oplot + ggtitle('(B) Proportion of authors with an ORCID') + ylab(NULL)
-jpeg('figures/4_continuous.jpg', oplot, width = 8.2, height=4.2, units='in', res=500)
-grid.arrange(rplot, oplot, ncol=2)
+#### layout version with combined areas and a bigger area for country ###
+expand = 0.03
+dash_colour = 'grey12'
+## type
+colour = 'navy'
+to_plot_type = filter(to_plot, group == 'Article type') %>%
+  mutate(x=1:n(),
+         term = str_replace(term, '^Research ','Research\n'),
+         term = str_replace(term, '& ','&\n')) # to squeeze in
+tplot = ggplot(data = to_plot_type, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high))+
+  ggtitle('Article type')+
+  geom_point(size=2, color = colour)+
+  geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
+  geom_errorbar(width=0, linewidth=1.05, color = colour)+
+  ylab(NULL)+
+  xlab(NULL)+
+  scale_x_continuous(breaks = 1:nrow(to_plot_type), 
+                     labels = to_plot_type$term,
+                     expand = c(expand, expand))+
+  g.theme+
+  theme(plot.margin = unit(c(t=1,r=2,b=1,l=12), "mm"))+ # use left margin to match others
+  coord_flip()
+## country
+cplot2 = cplot2 + 
+  ggtitle('Country') + 
+  ylab(NULL) +
+  geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
+  theme(plot.margin = unit(c(t=1,r=2,b=1,l=1), "mm"))
+## domain
+colour = 'darkseagreen3'
+to_plot_domain = filter(to_plot, group == 'Email domain') %>%
+  mutate(x=1:n())
+dplot = ggplot(data = to_plot_domain, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high))+
+  ggtitle('Email domain')+
+  geom_point(size=2, color = colour)+
+  geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
+  geom_errorbar(width=0, linewidth=1.05, color = colour)+
+  ylab(NULL)+
+  xlab(NULL)+
+  scale_x_continuous(breaks = 1:nrow(to_plot_domain), 
+                     labels = to_plot_domain$term,
+                     expand = c(expand, expand))+
+  g.theme+
+  theme(plot.margin = unit(c(t=1,r=2,b=1,l=14), "mm"))+ # expand left margin to match other plots (trial and error)
+  coord_flip()
+## subject
+colour = 'yellow3'
+to_plot_subject = filter(to_plot, group == 'Subject') %>%
+  mutate(term = str_replace(term, "environmental", "environ-\nmental"), # to squeeze in
+         x=1:n())
+splot = ggplot(data = to_plot_subject, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high))+
+  ggtitle('Subject')+
+  geom_point(size=2, color = colour)+
+  geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
+  geom_errorbar(width=0, linewidth=1.05, color = colour)+
+  ylab(NULL)+
+  xlab(NULL)+
+  scale_x_continuous(breaks = 1:nrow(to_plot_subject), 
+                     labels = to_plot_subject$term,
+                     expand = c(expand, expand))+
+  g.theme+
+  theme(plot.margin = unit(c(t=1,r=2,b=1,l=1), "mm"))+
+  coord_flip()
+#
+## funder
+colour = 'brown'
+to_plot_funder = filter(to_plot, group == 'Funder') %>%
+  mutate(x=1:n(),
+         term = str_replace(term, ' Research ','\nResearch\n')) # to reduce white space
+fplot = ggplot(data = to_plot_funder, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high))+
+  ggtitle('Funder')+
+  geom_point(size=2, color = colour)+
+  geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
+  geom_errorbar(width=0, linewidth=1.05, color = colour)+
+  ylab(NULL)+
+  xlab(NULL)+
+  scale_x_continuous(breaks = 1:nrow(to_plot_funder), 
+                     labels = to_plot_funder$term,
+                     expand = c(expand, expand))+
+  g.theme+
+  theme(plot.margin = unit(c(t=1,r=2,b=1,l=12), "mm"))+
+  coord_flip()
+
+## X-axis label
+axis_label = 'Difference in the probability of choosing open review'
+lplot = ggplot(data = NULL)+
+  geom_text(aes(x=0,y=0,label=axis_label))+
+  theme_void()
+
+# using layout for combined plot
+lmat = matrix(c(1,2,3,6,4,4,5,6), ncol=2, byrow=FALSE) 
+jpeg('figures/4_stability_estimates_square.jpg', width = 7.2, height=7.2, units='in', res=500)
+grid.arrange(tplot, dplot, splot, cplot2, fplot, lplot,
+             layout_matrix = lmat, heights = c(1,1,1,0.1)) # heights for x-axis label at bottom
 dev.off()
 
-
-## tabulate the parameter estimates
-to_latex = mutate(to_plot,
-                  estimate = round(estimate*100)/100,
-                  conf.low = round(conf.low*100)/100,
-                  conf.high = round(conf.high*100)/100,
-                  cell = paste(estimate, ' (', conf.low, ', ', conf.high, ')', sep='')) %>%
-  select(group, term, cell) %>%
-  mutate(cell = str_replace_all(cell, '-', '--')) # latex negative
-print(xtable(to_latex, digits=2), math.style.negative=TRUE, include.rownames=FALSE, hline.after=FALSE, file = "results/4_estimates_table.tex")
