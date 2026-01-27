@@ -1,0 +1,135 @@
+14 Aug 2024
+PONE-D-24-21081Implications for Precision Accelerated Clinically Embedded Research (PACER): a novel technology-enabled approach to conducting minimal-risk research in outpatient community healthcare settingsPLOS ONE
+Dear Dr. Michelson,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 28 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Roberto Scendoni
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+Research reported in this publication was supported, by The Greenwall Foundation and the National Institutes of Health's National Center for Advancing Translational Sciences, Grant Number UL1TR001422. The content is solely the responsibility of the authors and does not necessarily represent the official views of the Greenwall Foundation or the National Institutes of Health.
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+Author who received award: Justin Starren
+Funder: The Greenwall Foundation
+URL: https://greenwall.org/
+The funder did not play any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Author who received funding: Justin Starren
+Grant Number: UL1TR001422
+Name of Funder: National Institutes of Health's National Center for Advancing Translational Sciences
+The funder did not play any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Competing Interests section: 
+I have read the journal's policy and the authors of this manuscript have the following competing interests:
+Dr. Kelly Michelson has received funding for other work from the Patient Centered Outcomes Research Institute and the National Institutes of Health
+Mohammad Hosseini was supported by the National Institutes of Health’s National Center for Advancing Translational Sciences (UL1TR001422)
+Matthew Baumann's employment is supported by a grant from the National Evaluation Center of the Network of the National Library of Medicine (NEC/NNLM)
+We note that one or more of the authors are employed by a commercial company. 
+a. Please provide an amended Funding Statement declaring this commercial affiliation, as well as a statement regarding the Role of Funders in your study. If the funding organization did not play a role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript and only provided financial support in the form of authors' salaries and/or research materials, please review your statements relating to the author contributions, and ensure you have specifically and accurately indicated the role(s) that these authors had in your study. You can update author roles in the Author Contributions section of the online submission form.
+Please also include the following statement within your amended Funding Statement. 
+“The funder provided support in the form of salaries for authors, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.”
+If your commercial affiliation did play a role in your study, please state and explain this role within your updated Funding Statement. 
+b. Please also provide an updated Competing Interests Statement declaring this commercial affiliation along with any other relevant declarations relating to employment, consultancy, patents, products in development, or marketed products, etc.  
+Within your Competing Interests Statement, please confirm that this commercial affiliation does not alter your adherence to all PLOS ONE policies on sharing data and materials by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests) . If this adherence statement is not accurate and  there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Please include both an updated Funding Statement and Competing Interests Statement in your cover letter. We will change the online submission form on your behalf.
+4. In this instance it seems there may be acceptable restrictions in place that prevent the public sharing of your minimal data. However, in line with our goal of ensuring long-term data availability to all interested researchers, PLOS’ Data Policy states that authors cannot be the sole named individuals responsible for ensuring data access (http://journals.plos.org/plosone/s/data-availability#loc-acceptable-data-sharing-methods).
+Data requests to a non-author institutional point of contact, such as a data access or ethics committee, helps guarantee long term stability and availability of data. Providing interested researchers with a durable point of contact ensures data will be accessible even if an author changes email addresses, institutions, or becomes unavailable to answer requests.
+Before we proceed with your manuscript, please also provide non-author contact information (phone/email/hyperlink) for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If no institutional body is available to respond to requests for your minimal data, please consider if there any institutional representatives who did not collaborate in the study, and are not listed as authors on the manuscript, who would be able to hold the data and respond to external requests for data access? If so, please provide their contact information (i.e., email address). Please also provide details on how you will ensure persistent or long-term data storage and availability.
+5. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1:  Review
+• The introduction needs to be revised as it is unclear. The discussion on PACER is not adequately explained—what it is and what it entails are not clear without referring to bibliographic entry "7," which makes the paper difficult to read. Consequently, the authors present isolated statements about the system, which make it difficult for readers to understand what this system entails. Moreover, although the authors extol the system, these statements would benefit from better justification or even removal.
+• Were the participants adequately prepared before administering the questionnaire? Were they informed, even in broad terms, about the issues at hand? Was any information provided on this topic?
+• Please provide a better justification for the following statement: "However, obtaining written informed consent from participating patients could prolong the clinic encounter—reducing efficiency and potentially affecting participation" (line 483).
+• The results are not well aligned with the description. Given the description of the participants, were differences in viewpoints considered?
+• Overall, I find it challenging to understand the utility of the work, and the target audience of the article is not clear.
+Reviewer #2:  Thank you for the oprtonuity to review this paper that qualitatively seeks to understand the ramifications of a distributive methodology to conduct low risk (human subject risk) research. This process may help in increasing equitable burden of research while still holding to the justice principles.
+Overall this was a well done description of interview methodology and provides a clear path to data collection and distillation.
+the only methodological concern i had was i was not clear in how the interviews were conducted, ie were they individual or group settings. if in groups, were the groups mixed with respect to the types of participants (ie ethicists, providers, regulatory)
+I also have a generalizability concern, subjects were restricted to the Chicago area. This concern is addressed in the limitations discussion, however, authors admit that the participants mirrored the Chicago mixture of society, but that does not necessarily mirror the greater American population. I would ask that authors make this limitation a little stronger instead of minimizing this area.
+overall this is a well done and well written report. Thank you for your contribution.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes:  David Wampler, PhD, LP, FAEMS
+**********
+1 Dec 2024
+PONE-D-24-21081R1Implications for Precision Accelerated Clinically Embedded Research (PACER): a novel technology-enabled approach to conducting minimal-risk research in outpatient community healthcare settingsPLOS ONE
+Dear Dr. Michelson,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 15 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Roberto Scendoni
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #3: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1:  Overall, the revisions result in a significant improvement of the manuscript. However, it is suggested to include some references in the text concerning the ethical section.
+De Micco F, Scendoni R. Three Different Currents of Thought to Conceive Justice: Legal, and Medical Ethics Reflections. Philosophies. 2024; 9(3):61. https://doi.org/10.3390/philosophies9030061
+Van Biesen W, Decruyenaere J, Sideri K, Cockbain J, Sterckx S. Remote digital monitoring of medication intake: methodological, medical, ethical and legal reflections. Acta Clin Belg. 2021 Jun;76(3):209-216. doi: 10.1080/17843286.2019.1708152.
+Reviewer #3:  It has been my pleasure to review this excellent paper, which qualitatively examines the ramifications of a distributive methodology to conduct low-risk (human subject risk) research. It is my hope that this process will help increase equitable burdens of research while at the same time adhering to justice principles. As a whole, this was a well-written description of interview methodology and provided a clear path for collecting and distilling data.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: Yes:  Ola Mousa
+**********

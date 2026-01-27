@@ -1,0 +1,189 @@
+
+17 Jun 2024
+PONE-D-24-12828Designing a KAP (Knowledge, attitude, and practice) tool to capture healthy lifestyle within primary carePLOS ONE
+Dear Dr. Syed,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The reviewers have provided a number of comments for you to consider, and which are designed to help you clarify and strengthen the manuscript. Please consider each comment in your rebuttal and revised manuscript.
+Please submit your revised manuscript by Aug 01 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In the online submission form, you indicated that The datasets used and/or analyzed during this study are available from the corresponding author on reasonable request.
+All PLOS journals now require all data underlying the findings described in their manuscript to be freely available to other researchers, either a. In a public repository, b. Within the manuscript itself, or c. Uploaded as supplementary information.
+This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If your data cannot be made publicly available for ethical or legal reasons (e.g., public availability would compromise patient privacy), please explain your reasons on resubmission and your exemption request will be escalated for approval. 
+3. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well. 
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+5. We note that this data set consists of interview transcripts. Can you please confirm that all participants gave consent for interview transcript to be published?
+If they DID provide consent for these transcripts to be published, please also confirm that the transcripts do not contain any potentially identifying information (or let us know if the participants consented to having their personal details published and made publicly available). We consider the following details to be identifying information:
+- Names, nicknames, and initials
+- Age more specific than round numbers
+- GPS coordinates, physical addresses, IP addresses, email addresses
+- Information in small sample sizes (e.g. 40 students from X class in X year at X university)
+- Specific dates (e.g. visit dates, interview dates)
+- ID numbers
+Or, if the participants DID NOT provide consent for these transcripts to be published:
+- Provide a de-identified version of the data or excerpts of interview responses
+- Provide information regarding how these transcripts can be accessed by researchers who meet the criteria for access to confidential data, including:
+a) the grounds for restriction
+b) the name of the ethics committee, Institutional Review Board, or third-party organization that is imposing sharing restrictions on the data
+c) a non-author, institutional point of contact that is able to field data access queries, in the interest of maintaining long-term data accessibility.
+d) Any relevant data set names, URLs, DOIs, etc. that an independent researcher would need in order to request your minimal data set.
+For further information on sharing data that contains sensitive participant information, please see: https://journals.plos.org/plosone/s/data-availability#loc-human-research-participant-data-and-other-sensitive-data
+If there are ethical, legal, or third-party restrictions upon your dataset, you must provide all of the following details (https://journals.plos.org/plosone/s/data-availability#loc-acceptable-data-access-restrictions):
+a. A complete description of the dataset
+b. The nature of the restrictions upon the data (ethical, legal, or owned by a third party) and the reasoning behind them
+c. The full name of the body imposing the restrictions upon your dataset (ethics committee, institution, data access committee, etc)
+d. If the data are owned by a third party, confirmation of whether the authors received any special privileges in accessing the data that other researchers would not have
+e. Direct, non-author contact information (preferably email) for the body imposing the restrictions upon the data, to which data access requests can be sent
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The presents study is conducted to assess KAP (Knowledge, attitude, and practice) tool to capture healthy lifestyle within primary care, the study is done one the indigenous sample of Qatar and may benefit from the following suggestions
+Abstract
+• Background: Briefly mention specific examples of modifiable risk factors (e.g., diet, physical activity)
+• Aim: Instead of "globally," specify the target population (e.g., in a specific region or cultural context).
+• Conclusion: Emphasize the broader impact beyond modifiable risk factors. Can the KAPS contribute to designing interventions to improve health outcomes?
+Consider shortening sentences to improve readability, especially in the background and methods sections.
+Introduction
+• Shorten the opening about the multifaceted nature of health. Briefly state that various factors influence health outcomes for individuals and communities.
+• Combine similar points. Merge the sections about the importance of socio-economic factors and the critique of the KAPS tool.
+• Highlight the gap your research addresses. Emphasize the lack of research on the KAPS tool's applicability in capturing healthy lifestyle knowledge in Qatar's primary care setting.
+• Cite sources directly related to Qatar and NCDs. Focus on references that highlight the prevalence of NCDs and modifiable risk factors in Qatar.
+• State your research question clearly. Briefly state what you aim to achieve by assessing the KAPS tool in this context.
+Methods
+• Sample Size: While you mention pilot testing with 11 participants, a larger sample size might be recommended to strengthen the generalizability of the pilot testing findings. What is the reference for it?
+• Description of Pilot Testing and Cognitive Interviews: Consider elaborating on the format of the pilot testing and cognitive interviews (e.g., individual interviews, focus groups).
+• Demographic characteristics of the participants should be added
+• Data Analysis for Pilot Testing and Cognitive Interviews: mention how you analyzed the feedback from the pilot testing and cognitive interviews.
+• Though it’s a validation study it lacks statistical rigor in terms of validation
+The most important question is why the author has chosen this particular method of development validation, are these best practices, if yes please quote references of the same
+Results
+• Focus on Content Validity: The results section primarily focuses on demographics and completion time. Emphasize the percentage of items with acceptable CVR (e.g., >0.62) to demonstrate content validity.
+• Pilot Testing Results: Provide more details on the feedback from service users beyond percentages. Briefly mention specific comments on clarity, relevance, and length of the survey.
+• Data on Unfavorable Ratings: If the expert panel provided reasons for unfavorable ratings on CVR (irrelevant,difficult, etc.), consider mentioning the frequency of these reasons.
+• Combine Findings: The results section currently describes service user feedback in separate sections for healthy diet and physical activity. Consider combining these sections for improved readability.
+Discussion
+• Connect Findings to Existing Literature: While you mention the importance of completeness in KAP surveys (citations provided), elaborate on how your study addresses this considering the length concerns raised by participants.
+• Address Length Concerns: Acknowledge the trade-off between completeness and length. Discuss potential strategies to shorten the survey while maintaining validity, such as branching logic or creating different versions for specific contexts.
+• Generalizability vs. Specificity: The discussion acknowledges limitations in generalizability due to the region-specific nature of the tool. However, emphasize the strengths of the tool for capturing healthy lifestyle knowledge in Qatar's primary care setting.
+Reviewer #2: 1. KAP was created by making some adjustments to the culture of the local community. What customs in the local community are unique and known to increase the risk of NCDs? Is there any previous research on this?
+2. is there a particular reason for involving respondents who are all individuals with a professional background in the health sector? why did the panelists not include people outside the health profession?
+3. The KAP is intended to be completed independently by patients, with input from panelists who consider the KAP too long, is the KAP reliable for use in the elderly population?
+4. Panelists' characteristics other than professional backgrounds were not explained. Age characteristics may affect their perception of the length or shortness of the questionnaire.
+5. What type of questions were used? Can you explain a bit about it, for example, Likert scale, multiple choice, or open question?
+6. It has not been explained which part of the KAP tool makes it too long and takes a long time to fill in.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+2 Aug 2024
+PONE-D-24-12828R1Designing a KAP (Knowledge, attitude, and practice) tool to capture healthy lifestyle within primary carePLOS ONE
+Dear Dr. Syed,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Your responses and manuscript revisions have been reviewed by the original reviewers and both reviewers have highlighted that while the work is of interest it lacks methodological and analytical rigor. Having reviewed their original and subsequent comments, and your revisions, I invite you to provide future revisions to address their concerns. Please focus on the clarity of the purpose of this study (is it about development of a KAP instrument or the modification of existing tools for a new audience) and the methodological rigor of the study, ensuring all relevant details are provided (e.g. how many individuals were interviewed, on what basis was n=11 deemed valid for the pilot study etc). I also request that you consider the title of your work and whether this may be modified to improve clarity and alignment with your study.
+Please submit your revised manuscript by Sep 16 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: No
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: 1) The language of the manuscript needs to be refined for redundancies and syntax errors. Some paragraphs in the introduction can be merged together.
+2) The title "Designing a KAP (Knowledge, attitude, and practice) tool to capture healthy lifestyle within primary care", should be rewritten to familiarize the reader upfront with what is being done in this study. The word 'designing' is too vague, and connotates with the development of a tool. As I read it, the manuscript is concerned not with the designing of KAP questionnaire, but aligning and modifying it with the cultural specifications. This should be hinted at in the title.
+3) The methodology is not sufficiently rigorous.
+5) The pilot testing sample is too low.
+6) Elaborate more on what exactly was done in the cognitive interview, specifying if the interview was structured or unstructured. If the interview was structured, then what steps were taken.
+7) CVI ratings can be disclosed in the result section of the abstract, if feasible.
+Reviewer #2: Thank you for responding to the review,
+This study is interesting enough to assess KAP (Knowledge, attitude, and practice), so it is expected to capture a healthy lifestyle in primary care. This study certainly raises important issues that can be used for the local community in Qatar. However, this manuscript does not report well enough on how the development of these tools can fit these interests.
+Stronger arguments need to be made about the uniqueness of the local community about the NCDS so that these tools are necessary or can help address the problems.
+Research methods related to building instruments need to be strengthened. It is necessary to report with clear stages when research is done with mixed methods and appropriate analysis for Likert scales.
+But in general, this manuscript is fascinating. Hopefully, it can be improved further. Good luck.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+15 Oct 2024
+Cultural & region-specific adaptation of KAP (Knowledge, attitude, and practice) tool to capture healthy lifestyle within primary care settings
+PONE-D-24-12828R2
+Dear Dr. Syed,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Additional Editor Comments (optional):
+Thank you for your revisions and responses to reviewer comments; these have satisfactorily addressed reviewer concerns.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The manuscript has been written in more detail and is clearly and easily read.
+There are no further suggestions regarding improvements to the manuscript
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

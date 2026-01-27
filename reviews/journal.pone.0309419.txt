@@ -1,0 +1,106 @@
+
+10 Jun 2024
+PONE-D-24-19546A matching method for elderly care service personnel with multiple types of service expectationsPLOS ONE
+Dear Dr. Gao,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+The manuscript has received mixed reviews from the reviewers, however, both of them agree that after careful restructuring, the manuscript may be refined for acceptance. Please carefully go through the reviewers comments and revise.
+==============================
+Please submit your revised manuscript by Jul 25 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Yogesh Kumar Jain, MPH
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that your Data Availability Statement is currently as follows: All relevant data are within the manuscript and its Supporting Information files.
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+3. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+4. Please ensure that you include a title page within your main document. You should list all authors and all affiliations as per our author instructions and clearly indicate the corresponding author.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Strengths :
+The article clearly identifies the problems of providing care to the elderly and expectations of the service personnel from the elderly.
+The methodology describes in detail how to compute expectation indices and satisfaction levels of both elderly and service personnel.
+The model developed for maximizing the satisfaction levels meets the objectives and the model is adaptable to two different scenarios (sufficient and insufficient personnel) making it feasible to use under both settings.
+The statistics to support the results are appropriate and quite comprehensive.
+Areas for improvement:
+The article, especially the abstract, repeats information, regarding the goals and outcomes, which could be presented in a more condensed manner.
+A few terms, such as elastic service expectation type and inelastic service expectation type, could have been introduced using a definition for better understanding of the concept.
+Reviewer #2: The paper proposed a matching method for elderly care service personnel considering multi-type service expectations with a bilateral matching optimization model. The topic is of great interest and reality, however, the academic contribution should be refined and highlighted. Here is some advice.
+1.The introduction is too lengthy and should be reduced, especially focused on the home-based service matching problem for elderly care.
+2."It is evident that the matching issue faced by home care providers differs from the conventional matching issue in domestic services...." Why to assert this? What are the reasons? There are some other similar claims without reasons or references, eg., "According to a survey conducted by a few domestic help companies, elderly people typically have expectations related to their age when selecting elderly care service personnel.", "...and they typically select those with higher educational backgrounds...".
+3.Some expressions are redundant or repeated, eg., "Additionally, there may be an imbalance between the supply and demand of elderly service resources in actual life.", "It should be emphasized that there may be an imbalance between the demand and supply for senior service persons in real life,...".
+4.The main contribution and innovation should be presented at the end of Introduction section.
+5.Section 2.2, papers of matching for elderly care should be supplemented. There are some special issues on this topic recent years, such as "Smart Technology-Supported Independent Living for Older Adults" in International Journal of Human-Computer Interaction in 2023.
+6.What are the differences between heavy and light black lines in Fig. 1?
+7.“...elder people have inelastic expectations about gender indicators.” It is very important to give the reason for this claim, since it's the basis to classify "Gender" into the group of inelastic expectations.
+8.A comparison with other current matching methods under the same circumstances should be given to validate the outperformance of the proposed method.
+9.Future research should be presented in Conclusion.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Rupali Gupta
+Reviewer #2: No
+**********
+
+13 Aug 2024
+A matching method for elderly care service personnel with multiple types of service expectations
+PONE-D-24-19546R1
+Dear Dr. Gao,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Yogesh Kumar Jain, MPH
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The paper proposed a matching method for elderly care service personnel considering multi-type service expectations with a bilateral matching optimization model. The revised version is much better and well responds to my concerns. Good luck.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

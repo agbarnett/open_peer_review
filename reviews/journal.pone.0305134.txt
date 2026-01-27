@@ -1,0 +1,122 @@
+
+18 Apr 2024
+PONE-D-24-08353Factors Affecting Onion Production: an Empirical Study in the Raya Kobo District, Amhara Regional State, EthiopiaPLOS ONE
+Dear Dr. Zegeye,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 02 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Sumit Jangra, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In the online submission form, you indicated that [Data will be made available on request.].
+All PLOS journals now require all data underlying the findings described in their manuscript to be freely available to other researchers, either 1. In a public repository, 2. Within the manuscript itself, or 3. Uploaded as supplementary information.
+This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If your data cannot be made publicly available for ethical or legal reasons (e.g., public availability would compromise patient privacy), please explain your reasons on resubmission and your exemption request will be escalated for approval.
+3. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+4. Please ensure that you include a title page within your main document. You should list all authors and all affiliations as per our author instructions and clearly indicate the corresponding author.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Factors Affecting Onion Production: an Empirical Study in the Raya Kobo District,
+Amhara Regional State, Ethiopia
+Reviewer comments:
+The overall structure of the paper needs improvement. The abstract part is shallow and lacks the research gap and others. The introduction does not provide a clear roadmap for the study, and the flow of ideas throughout the paper is not well organized.
+The methodology section lacks sufficient detail on the data collection process, sample size, and sampling techniques. It's important to provide a clear understanding of how the data was gathered and analyzed.
+The choice of statistical methods should be justified more thoroughly. Were there any alternative methods considered, and if so, why were they not chosen?
+The paper lacks a discussion on data quality and potential biases in the dataset. It's crucial to assess the reliability of the data and discuss any limitations that might affect the study's findings.
+The theoretical literature review is essential to provide a more comprehensive overview of the existing literature, including recent developments in the field.
+The paper introduces a theoretical framework, but it's not well-integrated with the research questions or hypotheses. The authors should clarify how the theoretical framework guides the study.
+The results are presented in a somewhat fragmented manner. The authors should consider reorganizing them to make the findings more coherent and easier to follow.
+The discussion of results is relatively brief and lacks critical analysis. The authors should investigate deeper into the implications of their findings and relate them to the existing literature.
+The conclusion is somewhat abrupt and doesn't provide a robust summary of the paper's main contributions and their implications for policy and practice. A more detailed discussion of policy recommendations is needed.
+The paper contains several grammatical and stylistic errors. The authors should carefully proofread and edit the manuscript for clarity and consistency.
+These comments should help the authors improve their paper by addressing key aspects of clarity, abstract, introduction, methodology, literature review, theoretical framework, results, discussion, recommendation, and overall presentation.
+Reviewer #2: Coherence is lacking among the structured Abstract, Result and discussion, Conclusion and recommendations. Likewise, the author mentioned supply chain in abstract, while value chain and sustainability in conclusion and recommendations. These are different three domains, While the study investigated only factors affecting onion production according to the drawn conceptual framework in the Figure 1.
+Secondly, author mentioned onion farmers' constraints including pot-harvest handling in section 3.1 paragrapg#3 of results & discussions. While the same problem is not discussed in section 3.4 entitled major constraints of onion farmers in study area.
+Thirdly, study defined about post-harvest losses on section 4. it's not previously discussed anywhere.
+Fourthly, according to the defined study, by minimizing the onion farmers' constraints, farmers' well-being may improve, crop yield may increase that may impact sectoral growth. But will not stronger the value chain or its' sustainability as defined in the last paragraph.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Azhar Rasool
+**********
+
+17 May 2024
+PONE-D-24-08353R1Factors affecting onion production: an empirical study in the Raya Kobo district, Amhara regional state, Ethiopia​PLOS ONE
+Dear Dr. Zegeye,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 01 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Sumit Jangra, Ph.D.
+Additional Editor Comments:
+Accepted with minor revision
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Factors affecting onion production: an empirical study in the Raya Kobo district, Amhara regional state, Ethiopia
+The authors address most of the issues raised. But, still it needs some modifications (like abstract part, the study area, and others have been given comments on manuscripts).
+Reviewer #2: The authors addressed each comment/observation and the attached the revised manuscript have been accepted for further proceedings.
+Reviewer #3: 1.On the introduction section, if The Amhara Region contributes around 50% of the national onion production, why onion production is low compared to other region?
+2.If Raya Kobo district is recognized as a major onion producer in Amhara region, it is better to support this sentence with empirical evidence.
+3.The types of onion seeds are one of the determinants of onion production by itself, how do you see this?
+4.Add the map of the study area.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********

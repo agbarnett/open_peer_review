@@ -1,0 +1,136 @@
+Dear Dr. Burgstaller,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: Thank you for submitting your article to PLOSONE. Please address the comments made by the two reviewers. They have provided some valuable recommendations to consider. 
+==============================
+Please submit your revised manuscript by Jul 13 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Niklas Bobrovitz
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. As required by our policy on Data Availability, please ensure your manuscript or supplementary information includes the following:
+A numbered table of all studies identified in the literature search, including those that were excluded from the analyses.
+For every excluded study, the table should list the reason(s) for exclusion.
+If any of the included studies are unpublished, include a link (URL) to the primary source or detailed information about how the content can be accessed.
+A table of all data extracted from the primary research sources for the systematic review and/or meta-analysis. The table must include the following information for each study:
+Name of data extractors and date of data extraction
+Confirmation that the study was eligible to be included in the review.
+All data extracted from each study for the reported systematic review and/or meta-analysis that would be needed to replicate your analyses.
+If data or supporting information were obtained from another source (e.g. correspondence with the author of the original research article), please provide the source of data and dates on which the data/information were obtained by your research group.
+If applicable for your analysis, a table showing the completed risk of bias and quality/certainty assessments for each study or outcome. Please ensure this is provided for each domain or parameter assessed. For example, if you used the Cochrane risk-of-bias tool for randomized trials, provide answers to each of the signalling questions for each study. If you used GRADE to assess certainty of evidence, provide judgements about each of the quality of evidence factor. This should be provided for each outcome.
+An explanation of how missing data were handled.
+This information can be included in the main text, supplementary information, or relevant data repository. Please note that providing these underlying data is a requirement for publication in this journal, and if these data are not provided your manuscript might be rejected.
+3. Please remove all personal information, ensure that the data shared are in accordance with participant consent, and re-upload a fully anonymized data set.
+Note: spreadsheet columns with personal information must be removed and not hidden as all hidden columns will appear in the published file.
+Additional guidance on preparing raw data for publication can be found in our Data Policy (https://journals.plos.org/plosone/s/data-availability#loc-human-research-participant-data-and-other-sensitive-data) and in the following article: http://www.bmj.com/content/340/bmj.c181.long.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: N/A
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+Reviewer #1: This paper describes the findings of a systematic review of the effectiveness of dashboards in primary care, especially in the area of audit and feedback. It describes the process and methodology very well and the results and discussion sections are clear.
+I have some minor revision suggestions:
+Line 179: change ‘One studies’ to ‘One study’.
+Table 2: change ‘Primary Outcome(s)’ and ‘Secondary Outcome(s)’ to ‘Primary Target(s)’ and ‘Secondary Target(s)’ to clearly differentiate these from Primary / Secondary Outcomes Results.
+Line 268: change ‘screenshots of the dashboards, what made the’ into ‘screenshots of the dashboards, which made the’ (it should be which, not what).
+Line 277: What do you mean by ‘detailed visualizations’? Please give examples.
+Line 278: Why do you call gauges and arrows ‘advanced visual elements’? Please explain or add a reference.
+Line 280: Please briefly explain ‘open, table and grouped’.
+Line 297: The sentence starting ‘Additionally, four studies collected mainly positive subjective feedback …’ is confusing. I presume that the feedback was positive but it could also mean that they only collected positive feedback and disregarded anything negative. Please make this clearer. Also, remove the word ‘Additionally’.
+Reviewer #2: Dear Editors and Authors,
+Thank you for the opportunity to review this timely and well-conceived systematic review. The manuscript addresses a highly relevant topic within the evolving field of digital health—namely, the use of interactive dashboards as audit and feedback (A&F) tools to improve care quality in primary care settings. The study is methodologically sound, well-articulated, and offers a valuable synthesis of current evidence. It aligns with the standards of PRISMA 2020, is registered on PROSPERO (CRD42024506727), and applies appropriate tools for risk of bias (RoB 2, ROBINS-I) and quality of evidence assessment (GRADE).
+Despite its strengths, the manuscript would benefit from minor revisions to expand its discussion and address certain critical domains that were underexplored. These additions would enhance the paper’s conceptual rigor, applicability in real-world settings, and alignment with current discussions in implementation science and digital health policy.
+1. Strengths of the Manuscript
+• Clearly formulated research question with operational definitions of interactive A&F dashboards.
+• Broad and sensitive search strategy across five databases, executed by an information specialist.
+• Transparent screening, data extraction, and risk of bias assessment by independent reviewers.
+• Appropriately justified narrative synthesis in light of heterogeneity among studies.
+• Well-structured manuscript with fluent and professional English writing.
+• Full data availability in accordance with PLOS ONE policies.
+2. Areas for Enhancement
+2.1. Data Security, Privacy, and Anonymization
+The review does not address the data protection and privacy implications of using interactive dashboards in clinical settings—particularly given their reliance on electronic health record (EHR) data. There is no discussion of anonymization protocols or compliance with legal and ethical frameworks such as GDPR, HIPAA, or other relevant national data governance policies. This is a notable omission, especially considering the increasing scrutiny around patient data handling in digital health solutions.
+2.2. Data Input Quality and Information Reliability
+The accuracy of any dashboard is only as reliable as the quality of the data it receives. The authors do not discuss the risk of poor data quality—such as incomplete, outdated, or incorrectly coded clinical records—compromising the validity of the dashboards' outputs. This is a critical limitation that should be explicitly acknowledged and discussed.
+2.3. Digital and Health Literacy of End-Users
+The successful implementation of dashboards is contingent on clinicians’ ability to interpret visualizations and engage with interactive digital tools. The manuscript does not consider the heterogeneity in digital and health literacy among primary care professionals, which may act as a barrier to uptake and utilization.
+2.4. Digital Inclusion and Infrastructure Readiness
+The included studies are drawn from high-income settings, but the manuscript does not consider variability in infrastructure—such as internet connectivity, hardware availability, and IT support—which may significantly affect dashboard implementation in low-resource environments. These contextual factors should be discussed to better inform the generalizability of the findings.
+2.5. Interoperability Across Information Systems
+A major omission in the discussion is the lack of attention to interoperability challenges. Many health systems operate with diverse, non-integrated platforms. The feasibility and impact of dashboards are critically dependent on their ability to interoperate with existing EHRs and data repositories. Without such integration, dashboards may become redundant or underutilized. This topic is absent from the current version and should be included.
+2.6. Reviewer Concordance (Kappa Statistic)
+While the manuscript notes that two independent reviewers conducted the screening process, no measure of interrater agreement (e.g., Cohen’s kappa) is reported. Although optional under PRISMA, including a concordance metric is a recommended good practice to demonstrate methodological rigor.
+3. Recommendations for Revision
+I encourage the authors to:
+• Add a paragraph in the Discussion section explicitly addressing the above issues, especially data privacy, system interoperability, and infrastructure gaps.
+• Acknowledge these limitations in the “Implications for Practice” or “Limitations” section, emphasizing the importance of digital readiness and equity.
+• Where possible, clarify whether any of the included studies reported on actual dashboard usage analytics, user feedback, or usability testing—information that would be valuable for implementation stakeholders.
+• Consider reporting (or explicitly noting the absence of) interrater agreement metrics during study selection.
+4. Final Verdict: MINOR REVISION
+This manuscript offers a valuable and methodologically sound contribution to the literature on digital quality improvement tools in primary care. The findings are relevant to practitioners, researchers, and policymakers. With the inclusion of the recommended revisions—particularly those expanding the scope of the discussion—the article will be significantly strengthened in both academic and practical terms.
+Recommendation: Minor Revision
+Thank you once again for the opportunity to engage with this work.
+Dr. André Ramalho
+PhD in Public Health
+Corporative Health Manager
+Health Systems Researcher | Digital Health and Policy Advisor
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Heike Vornhagen
+**********
+Effectiveness of interactive dashboards as audit and feedback tools in primary care: a systematic review
+PONE-D-25-01595R1
+Dear Dr. Burgstaller,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Niklas Bobrovitz
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: (No Response)
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+Reviewer #1: (No Response)
+Reviewer #2: Congratulations to the authors for the article. I hope that they will soon continue to address the points I made in future studies. Since the authors have addressed all of my concerns, I recommend that it be published.
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Heike Vornhagen
+**********

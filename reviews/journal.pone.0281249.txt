@@ -1,0 +1,152 @@
+
+24 Aug 2022
+PONE-D-22-09029Association between serum ferritin levels and decreased diffusion capacity 3 months after the onset of COVID-19 pneumoniaPLOS ONE
+Dear Dr. shinfuku,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The manuscript has been evaluated by two reviewers, and their comments are available below.
+The reviewers have raised a number of major concerns, including the small sample size, the lack of baseline data, and the possibility of other causes of elevated ferritin levels. Could you please carefully revise the manuscript to address all comments raised?
+Please submit your revised manuscript by Oct 08 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Associate Editor, PLOS ONE
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf".
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Small sample size.
+Given the absence of baseline lung function measurement, it may be that 13/54 patients already had abnormal DLCO/ DLCO-Va prior to COVID-19.
+Abstract-background should define what’s known in the field or invoke interest to your question rather than describe your methods.
+With a sample size of 13, it is difficult to make a conclusion that ferritin can be a long term lung function abnormalities in COVID-19. At best, you can report an association.
+The manuscript presents no novel findings. How does this paper add to the scientific literature?
+Please better clarify CT shadows in introduction. What is CT shadows?
+Standard definition of severe and critical COVID-19 has not been used.
+How did you decide the blood test results selected? Was it just the data that was available?
+If you used CT findings to define your outcomes, mention this in the abstract.
+Alternative causes of DLCO reduction were not ruled out.
+Present findings in table 2. Table 1 should be demographics.
+Please correct typing errors.
+Reviewer #2: Though this is a small study, it highlights an important association between ferritin and diffusion capacity in COVID19. It serves to identify patients who may be at a higher risk for developing future interstitial lung disease and also aids in those who may benefit from post COVID PFT surveillance.
+Some questions from my review as below:
+1) Could not understand how AST, LDH and TSS that were significant in univariate analysis, did not show significance in multivariate analysis? Can explain the reason for this as Table 3 and Table 4 seem to show significant p-values for them for AUC and OR respectively. Is this related to the number of patients?
+2) The relationship between DLCO and Ferritin is well documented in conditions such as Thalassemia especially when transfusion is needed. Were there any patients who were transfused? Also were there any underlying inflammatory diseases in the patients such as arthritis, autoimmune conditions that could have elevated the ferritin level?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Bright Thilagar
+**********
+
+22 Nov 2022
+PONE-D-22-09029R1Association between serum ferritin levels and decreased diffusion capacity 3 months after the onset of COVID-19 pneumoniaPLOS ONE
+Dear Dr. shinfuku,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR:
+Dear Authors
+the paper is extremely interesting and has generated an interesting debate among the reviewers. There are differing opinions on the subject; in this context of debate and extremely conflicting opinions between reviewers, I personally consider the paper worthy of note, although I think it needs to be further refined and clarified.
+In particular, taking into account the suggestions of reviewer #3, I would ask you to improve the methodological precision described in the M&M session, particularly in the first part where you describe the groups, explaining well the whole methodology of the construct of your paper. 
+Again, personally I have two more considerations. First, as you also suggested in the Discussion, it is possible that the differences you found with respect to the Italian literature are also related to racial differences; however, nowhere do I find an indication of the percentage of the Asian, Caucasian, black population that you analysed. This data needs to be implemented. Secondly, it is also possible that the difference between the Italian study and yours is linked to a different pharmacological treatment (steroids, anticoagulants, anti-IL6, etc.) which had not yet been implemented at the time of the first wave. This consideration must also be implemented too.
+I therefore ask you again for more clarity in the methodology (especially in the first part of the M&M session) and the resolution of these two points suggested before.
+Please submit your revised manuscript by Jan 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Samuele Ceruti
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: Suggestions were accepted and corrections made. Authors were responsive to the corrections in a reasonable and responsive manner.
+Reviewer #3: I was asked to review this revised manuscript in its current form, having not reviewed the initial version.
+Overall, I agree with prior reviews in general. This retrospective review of a single institution’s experience reveals that peak serum ferritin measures at the time of admission are the most predictive of a reduced DLCO and DLCO/VA at 3 months. I need to reiterate that the number of subjects is small, and the general lack of clinical characterization of the cohort make the results less than convincing. And there is no description of how these subjects were enrolled. The authors state that the CT was done 2 months after onset, and PFTs were done 3 months after onset. Why? And how can you be so sure that the CTs were done exactly 2 months after and the PFTs done exactly 3 months after? There is no mention of a protocol. There is no discussion of why ferritin levels would correlate with a reduction in DLCO. What mechanism of action would that be? The authors are encouraged to develop a prediction model, using multiple clinical, lab, and radiologic characteristics that could be validated prospectively. But as it stands now, I’m not convinced this adds much to the existing literature regarding reduced DLCO after Covid.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Bright Thilagar
+Reviewer #3: No
+**********
+
+19 Jan 2023
+Association between serum ferritin level and decreased diffusion capacity 3 months after the onset of COVID-19 pneumonia
+PONE-D-22-09029R2
+Dear Dr. shinfuku,
+Samuele Ceruti
+Additional Editor Comments (optional):
+Dear Authors,
+I'm so sorry about this delay in my answer, but as you can read below, there was a lot of debate at the reviewers' level; although one of the reviewers requested that the paper be rejected, I feel that the reasons given are not sufficient to reject the paper, especially, after the authors have taken care of the initial comments.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: Although not perfect and from a single institution, I think this data would add to the existing literature on supporting follow up DLCO in post COVID patients and is important in Long COVID research.
+Reviewer #3: Thank you for revising the manuscript according to my comments. Upon re-review of the manuscript, you have addressed mostly the concerns that I had upon first review. However, your finding that low DLCO is the most common PFT abnormality is not new, and this small study does not add anything to the established literature on the topic.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Bright Thilagar
+Reviewer #3: No
+**********

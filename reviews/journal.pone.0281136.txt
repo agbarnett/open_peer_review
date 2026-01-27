@@ -1,0 +1,124 @@
+
+6 Dec 2022
+PONE-D-22-31523Research on Dynamic Characteristics of Large Deformation Shearer Cable Based on Absolute Node Coordinate FormulationPLOS ONE
+Dear Dr. Zhang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 20 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Zilin Gao, Ph.D
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1.  Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf  and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“The authors would like to acknowledge the support and contribution from the State Key Lab of Mining Machinery Engineering of Coal Industry, Liaoning Technical University, China. The authors would also like to thank Changlong cable factory of Shandong energy group for providing cable parameters and experimental conditions. This work was supported by the National Natural Science Foundation of China [Grant number 51674134], the Liaoning Provincial Natural Science Foundation of China [Grant number 20170540420], and the Key projects of Liaoning Provincial Department of Education [Grant number LJ2017ZL001].”
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+“This work was supported by the National Natural Science Foundation of China [Grant number 51674134], the Liaoning Provincial Natural Science Foundation of China [Grant number 20170540420], and the Key projects of Liaoning Provincial Department of Education [Grant number LJ2017ZL001].”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. Thank you for stating the following in your Competing Interests section: 
+“Competing interests
+The authors declare no competing interests.”
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state "The authors have declared that no competing interests exist.", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now
+ This information should be included in your cover letter; we will change the online submission form on your behalf.
+5. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript entitled ‘Research on Dynamic Characteristics of Large Deformation Shearer Cable Based on Absolute Node Coordinate Formulation’ applies ANCF（Absolute Node Coordinate Formulation） method to study the dynamic characteristics of cable with large deformation. The topic is interesting and needs to be investigated. For the cables of composite materials and complex structural bodies, the equivalent mechanical parameters are reasonably calibrated by finite element method and tensile test method. A rigid-flexible coupling virtual prototype co-simulation model of the cable dragging system of coal mining machine was established to study the dynamic gradual changes of the cable in different working areas to solve the problem that the actual stress state of the cable in the mine is not easy to obtain, which has some theoretical significance and engineering application value. However，some of the following issues need to be discussed and modified for its improvement.
+1.The introduction and chapter 4 mentioned the inability of the conventional finite element method to explain the large deformation motion of the cable, which needs to be briefly explained here in comparison with the current methods for studying such large deformation multi-flexible body dynamics.
+2.The names of the industrial simulation analysis software used in the text should be reflected in the text.
+3.The latest references need to be supplemented.
+4.The English language expression can accurately use the proper nouns of the discipline, but there are also some small errors in word spelling and grammar, please check the context carefully.
+5.Please read the PLOS ONE journal's instructions for formatting papers carefully, such as title and abstract， and revise them as required.
+Reviewer #2: The research method is innovative and explores the solution of large deformation multi-flexible body dynamics problems in engineering practice. Coal mine explosion-proof requirements, complex occurrence conditions, and severe loads make it very difficult to do experiments on site. The manuscript used the ANCF （Absolute Node Coordinate Formulation）method to simulate the real movement and force state of the cable in the coal mine, which has certain advantages. At the same time, the analysis method of geometrically accurate modeling of the cable and the dynamic characteristic laws of each area of the cable have some guidance for the optimal design of the cable and the arrangement of the coal mining machine cable at the working face. But there are some problems that need to be discussed and modified.
+1.There are some minor errors in the format of the references.
+2.The expression for cable area delineation on page 14 of the main text should be consistent with that in Figure 15, and the same should be consistent with it in the analysis. For example Area (a).
+3. The overall English language expression is fluent and accurate, but there are some small errors in the text, such as on page 14,“ is” repeatedly expressed, and on page 17, “curve ”should be used in the plural form, suggesting that the author should check carefully the spelling and grammatical errors.
+4.In the chapter 3.2 of equivalent calibration of cable , for the finite element simulation of the cable, whether the spiral structure of the conductor is retained or the equivalent simplification, please show the specific.
+5.In the lower label of Figure 17, the initial letters of the subheadings in (e) and (f) should be kept in line with the previous ones and only lowercase.
+Reviewer #3: The object of study in this paper is the dynamic characteristics of the mobile rubber-sheathed flexible cables for coal mines, subjected to complex and severe loads. Unlike the static load of laying cable and the periodic load of submarine cable, its deformation will be large when following the coal mining machine for many short round trips.This manuscript uses the ANCF（Absolute Node Coordinate Formulation） method to better model and analyze the dynamics of the cable with large deformation and realize the simulation of simulated movement.The composite material and complex structure of the cable body make it more reasonable to use a combination of experimental, theoretical derivation and simulation analysis research methods.The research in this paper is useful for the simplification of large-deformation multi-flexible systems and complex structural bodies, and is innovative to a certain extent. However, there are also some problems that need to be discussed and modified:
+1.The abbreviation of "Discrete Element Method Multi-Flexible Body Dynamics" in the last paragraph of page 3 should be changed from "EDM-FMBD" to "DEM-FMBD". The manuscript should ensure that the proper nouns and abbreviations of the scientific and technical paper are correct, and it is recommended to double-check other proper nouns.
+2.The English language expression is overall more fluent, but there are some minor grammatical errors. On page 16, in analysis (1), the sentence "The cable and the 35th cable clamp..." is not clear enough. On page 17, in analysis (3), the word "perspective" should be used in its adverbial form.
+3.In chapter 4.1, the "rodrigues formula" is mentioned in equation 5 for the derivation of the dynamics modeling process of large deformation cables.Please give a brief description of its application.
+4.On page 13, why bushings are used between adjacent cable clamps rather than revolute joints? Please briefly discuss the advantages of this choice as well as the rationality.
+5.It is recommended to add some updated references from year 2022 and revise the format with reference to the journal’s requirements.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********
+
+16 Jan 2023
+Research on dynamic characteristics of large deformation shearer cable based on absolute node coordinate formulation method
+PONE-D-22-31523R1
+Dear Dr. Zhang,
+Zilin Gao, Ph.D
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: The manuscript entitled ‘Research on dynamic characteristics of large deformation shearer cable based on absolute node coordinate formulation method’ applies ANCF（Absolute Node Coordinate Formulation） method to study the dynamic characteristics of cable with large deformation.
+After revisions, the reviewer considers that the paper has been improved considerably.
+In the reviewer's opinion, the paper is ready for publication.
+The reviewer would like to congratulate the authors on the effort made to improve the paper.
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: No
+**********

@@ -1,0 +1,77 @@
+
+21 Nov 2023
+PONE-D-23-36571Screening and Biodiversity Analysis of Cultivable Inorganic Phosphate–Solubilizing Bacteria in the Rhizosphere of Hydrilla verticillataPLOS ONE
+Dear Dr. Li,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 05 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Estibaliz Sansinenea
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.  
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following: 
+● The name of the colleague or the details of the professional service that edited your manuscript
+● A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+● A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+3. In your Methods section, please provide additional information regarding the permits you obtained for the work. Please ensure you have included the full name of the authority that approved the field site access and, if no permits were required, a brief statement explaining why.
+4. Please note that funding information should not appear in any section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. Please remove any funding-related text from the manuscript.
+5. Thank you for stating the following financial disclosure: 
+   "This research was funded by the Key Laboratory Open Project of Southwest Jiaotong University (ZD2022210017). This research was funded by Student Research Training Program(2023145)." 
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+6. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Additional Editor Comments:
+Both reviewers have commented that this MS is very interesting and can be approved after minor revision. Therefore, the authors are invited to do all changes suggested by the reviewers to submit again.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors examine the inorganic phosphate-solubilizing bacteria in the rhizosphere of Hydrilla verticillata, which may transform insoluble inorganic phosphorus in the environment into soluble phosphorus that H. verticillata can directly absorb and consume. This is an interesting investigation that is well-designed and done, with transparent outcomes.
+The paper should be updated according to the suggestions listed below:
+-The introduction is a little long, and the article's goal is poorly written.
+-In the section on material and methods, why did the authors ignore measuring the pH during the quantification test?
+-In the Section 3.2, (In the future, IPB with better phosphate-solubilizing………. the experiments were set up as untreated ) Did you carry out this experiment, or did you suggest perspectives?
+- There are various grammatical errors in the paper that should be fixed.
+Reviewer #2: In this paper, the authors investigate the Inorganic phosphate-solubilizing bacteria (IPB) in the rhizosphere of Hydrilla verticillata which can convert insoluble inorganic phosphorus in the environment into soluble phosphorus that can be directly absorbed and utilized by H. verticillata. This is an interesting study, and it is well-designed and conducted, and the results are clear. The authors have used basic methods to achieve the objective of the study. However, some important points have to be clarified before action can be taken.
+The paper needs to be revised according to the following recommendations:
+1. There are some grammatical errors throughout the paper; they need to be corrected.
+4. In the introduction, Lines 78 to 83 must be moved to the discussion; the introduction should provide a clear rationale for the research and create a solid foundation for the following sections.
+2. In section 2.4, authors should add a part in which they explain how they are calculating Phosphate solubilizing Efficiency.
+3. In section 2.4, the quantitative test of phosphate solubilization is always accompanied by a drop in pH, therefore why the authors ignored measuring it during the test?
+5. In section 3.2, figure 2 is a repetition of column 3 of Table 2, the authors can remove it since it does not give new results.
+6. In section 3.2, from line 295 to line 304, the author gives perspectives but the content of the text is the past ‘’In the future, IPB with better phosphate-solubilizing………. The experiments were set up as untreated and treated H……..’’
+7. In general, the section results and discussion must be reorganized to eliminate some repetitions.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Fatima Zahra ALIYAT
+Reviewer #2: Yes: IBIJBIJEN J.
+**********

@@ -1,0 +1,108 @@
+
+7 May 2024
+PONE-D-23-36719Aβ25-35-induced autophagy and apoptosis are inhibited by the CRMP2-derived peptide ST2-104 (R9-CBD3) via a CaMKKβ/AMPK/mTOR signaling hubPLOS ONE
+Dear Dr. Sun,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 21 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: 
+ [This study was supported by the grant provided by the Major Chronic Disease Program of the Ministry of Science and Technology of China (No. 2018YFC1312301), the General Program of the National Natural Science Foundation of China (No. 82071442), the Jilin Provincial Department of Finance（JLSWSRCZX2021-004）.].  
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. We note that your Data Availability Statement is currently as follows: [All relevant data are within the manuscript and its Supporting Information files]
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+Additional Editor Comments:
+Fig 1D, as the concentration of ST2-104 increased from 5 uM to 40 uM, the protective effects was not increasing. Instead, it seemed decreasing. The authors should discuss why.
+Fig 3. Autophagy flux should be examined with a liposome inhibitor such as chloroquine.
+Fig 7 and Fig 8 lacking a STO-609 control.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors have evaluated the protective mechanism of ST2-104 in Aβ25-35 peptide induced cytotoxicity in SHY-SY5Y cells. They showed that ST2-104 prevented the neuronal apoptosis by inhibiting autophagy through a CaMKKβ/AMPK/mTOR signaling pathway. Study of the mechanism of Aβ neurotoxicity is invaluable. Overall, there are several concerns regarding the methodology and interpretation of results.
+Major Comments:
+Title: Aβ25-35-induced autophagy and apoptosis are inhibited by the CRMP2-derived peptide ST2-104 (R9-CBD3) via a CaMKKβ/AMPK/mTOR signaling hub
+Comment: The title should accurately describe the contents of the manuscript. Since the authors used the ST2-104 peptide as a pre-treatment, Aβ25-35-induced autophagy and apoptosis are prevented not inhibited .............
+Comments (Methodology and results):
+Line 133 &139: What was the solvent of Aβ25-35? DMSO or acetic acid?
+Control group received no vehicle? These should be addressed in the method section.
+In Line 182, the authors mentioned the use of One-way analysis of variance. The authors should provide the F values in the result section.
+The authors have stated in line 280, the percentage of cells in gate (M1). They should provide the flow cytometry protocol of gating and quantification, background noise detection, and an unstained sample.
+Comments (Discussion):
+In the line 349-356 of Discussion,: The sentences are suitable for introduction not discussion.
+The SH-SY5Y cells have two phenotypes “N” and “S” types (Encinas et al. J Neurochem 75:991–1003, 2000). These should be discussed in relation to the current results.
+In Line 389, the authors stated that “our data supports an anti-autophagic role for ST2-104 in the face of Aβ25-35 induced autophagy. Since the authors performed the pre-treatment, it is true to write ST2-104 prevented Aβ25-35 induced autophagy.
+Please omit “we” in Line 399: "We found that when we autophagy was induced with RAPA, the nuclear condensation and the expression of Bax, C-caspase-"
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+
+28 Jun 2024
+PONE-D-23-36719R1Aβ25-35-induced autophagy and apoptosis are inhibited by the CRMP2-derived peptide ST2-104 (R9-CBD3) via a CaMKKβ/AMPK/mTOR signaling hubPLOS ONE
+Dear Dr. Sun,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 12 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Additional Editor Comments:
+Please incorporate changes in response to the previous comments into the appropriate place in the manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: 1. The revised manuscript was reviewed. The authors have responded to the most of this reviewer's comments. The author’s explanations to queries must be incorporated in appropriate place in the manuscript. However, they referred to supplementary files. For instance, the discussion about the SH-SY5Y cells phenotypes or the F values.
+In my opinion, it is ok if the supplementary files are published with the manuscript.
+2. The first sentence of discussion” The ST2-104 peptide represents a novel class of such strategies.” What does it mean? which strategies? It should be corrected.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

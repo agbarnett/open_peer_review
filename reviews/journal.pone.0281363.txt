@@ -1,0 +1,113 @@
+
+8 Nov 2022
+PONE-D-22-23679Two oxytocin analogs, N-(p-fluorobenzyl) glycine and N-(3-hydroxypropyl) glycine, induce uterine contractions ex vivo in ways that differ from that of oxytocinPLOS ONE
+Dear Dr. Cherepanov,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 23 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf   
+2. As part of your revision, please complete and submit a copy of the Full ARRIVE 2.0 Guidelines checklist, a document that aims to improve experimental reporting and reproducibility of animal studies for purposes of post-publication data analysis and reproducibility: https://arriveguidelines.org/sites/arrive/files/documents/Author%20Checklist%20-%20Full.pdf  (PDF). Please include your completed checklist as a Supporting Information file. Note that if your paper is accepted for publication, this checklist will be published as part of your article
+3.  Thank you for stating the following financial disclosure:
+“The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+At this time, please address the following queries:
+a)        Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+b)        State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c)        If any authors received a salary from any of your funders, please state which authors and which funders.
+d)        If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for this great work.
+It seems to me that it should be made clear why virgin mouse uteri and muscle fibers from pregnant women were chosen. Why did you not make a comparison between uteri of virgin mice and uteri of mice that were already pregnant? Why didn't they collect uterine muscle fibers from women who had never been pregnant?
+Furthermore, it is not specified on the women from whom uterine muscle fibers were taken whether it was a first or second caesarean section. Indeed, during a second caesarean section, the risk is to take fibrous tissue which would create a bias during the measured contractions.
+Reviewer #2: Thank you for allowing me to review “Two oxytocin analogs, N-(p-fluorobenzyl) glycine and N-(3-hydroxypropyl) glycine, induce uterine contractions ex vivo in ways that differ from that of oxytocin »
+PPH is still an issue wordwide, and research is essential to find new safe and cost effective utero tonic drug.
+Here are some comment:
+Abstract :
+Please reconsider the last sentence “they can be used as potent inducers of labor”
+Concentrations of uterotonic are significantly lower in the induction of labor and this study was conduct to reduce the PPH. Thus you cannot conclude your abstract with this sentence.
+Introduction
+« data obtained from laboring and non-laboring parturients have shown that carbetocin a long acting… »
+In deed, the carbetocin dont need an additionnal uterotonic but the PPH effect is not that remarkable compared to other uterotonic especially regarding the cost-effectiveness
+Method
+Line 136 “Women 136 with multiple pregnancies or medical conditions, such as diabetes, preeclampsia, or 137 obstetric cholestasis, were not included in this study »
+Did you consider the BMI of patient?
+Line 147 “Myometrial biopsies were excised 147 within 3 min of OT administration. »
+Was it compromising that the human myometrial biopsie was realized 3 min after 5UI of OT?
+Result
+Line 211 “Effects of oxytocin analogs on contraction of human uterine muscles »
+How do yo explain that carbetocin induced less contraction than OT?
+Discussion
+Line 382 “Simultaneous use of FBOT 385 and OT displayed additivity, whereas identical effect was not observed with HPOT and 20 386 OT. »
+The management of PPH often involves the use of a combination of uterotonic drog. Did you evaluate the combination: FBOT+ OT and HPOT+ OT and carbotacin
+Line 423 “However, in this 424 study, we tried to reduce these variations by carefully excising the marginal portion of 425 the incised uterus during the cesarean section. »
+An other limit should be notice. The myometrial biopsies were excided in the transverse uterin incision, witch correspond to the uterine isthmus. This region is thinner and contains then less uterine muscle. Those results could be underestimated
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+23 Jan 2023
+Two oxytocin analogs, N-(p-fluorobenzyl) glycine and N-(3-hydroxypropyl) glycine, induce uterine contractions ex vivo in ways that differ from that of oxytocin
+PONE-D-22-23679R1
+Dear Dr. Cherepanov,
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you for your answers.I don't have any other question. I think this paper is suitable for publication.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

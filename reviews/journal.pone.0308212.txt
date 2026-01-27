@@ -1,0 +1,153 @@
+
+8 May 2024
+PONE-D-24-13352Design, and Dynamic Evaluation of a Novel Photovoltaic Pumping System Emulation with DS1104 Hardware Setup: Towards Innovative in Green Energy SystemsPLOS ONE
+Dear Dr. FENDZI MBASSO,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 22 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Hossein Abedini, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, all author-generated code must be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. Please ensure that you refer to Figure 7 and 8 in your text as, if accepted, production will need this reference to link the reader to the figure.
+5. We note you have included a table to which you do not refer in the text of your manuscript. Please ensure that you refer to Table 2 in your text; if accepted, production will need this reference to link the reader to the Table.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Partly
+Reviewer #5: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+Reviewer #3: No
+Reviewer #4: I Don't Know
+Reviewer #5: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+Reviewer #4: Yes
+Reviewer #5: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: No
+Reviewer #5: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript proposes "Design, and Dynamic Evaluation of a Novel Photovoltaic Pumping System Emulation
+with DS1104 Hardware Setup: Towards Innovative in Green Energy Systems"
+The reviewer's concerns are as follows:
+1- The novelty of this study is not clear. The introduction section should include a flowchart summarizing the article.
+2- Authors have not provided sufficient comparison between their proposed methodology and the previous ones in the introduction. According to the current introduction, there is no contribution in the current study.
+3- "It is recommended to add the following references.
+a)Adak, S. Harmonics Mitigation of Stand-Alone Photovoltaic System Using LC Passive Filter. J. Electr. Eng. Technol. 16, 2389–2396 (2021). https://doi.org/10.1007/s42835-021-00777-7
+b)Adak, S., Cangi, H. Development software program for finding photovoltaic cell open-circuit voltage and fill factor based on the photovoltaic cell one-diode equivalent circuit model. Electr Eng 106, 1251–1264 (2024). https://doi.org/10.1007/s00202-023-02082-0
+Reviewer #2: This is a very good research effort by the authors especially from the experimental setup point of view. However, the following observations will improve the quality of this work
+(a) Author may need to work on an extensive literature review section in this work to affirm the background and indicate the extent of work done by similar authors to reflect the novelty of this work
+(b) Green energy systems concepts is missing completely, its relationship to the experiment and comparison of various green energy system with emphasis on the PV pumping system will improve the overall quality of this work with respect to modern innovations in energy systems.
+(c) An improved quality of the image presented in figure 9 will go a long way
+(d) The Laboratory setup image in figure 10 can also be more clearer or presented first in segment before the overall setup presentation.
+(e) Authors have done a very good job proposing a frame work following thier consideration of PV array characteristics and PVAE Control approach albeit the simulation results are missing in the abstracts and the conclusion sections of the work.
+(f) The graphs presented in the experimental and simulation results are not well discussed in line with the objectives especially when it comes to optimization control strategy.
+Overall it is a good work and well put together.
+Reviewer #3: This study introduces an emulation approach for photovoltaic (PV) Water Pumping(WP) systems.
+In this work integrates two emulators into a single chain, effectively combining PV and WP
+emulation while optimizing system dynamics. The goal to devise a comprehensive emulator for PV
+water pumping systems and assess an improved control algorithm. To regulate the water MP, we
+deploy an optimized scalar control strategy. Validation of this control strategy is conducted through
+an experimental arrangement utilizing the dSPACE control desk DS1104. Obtained results affirm
+the emulator's proficiency in faithfully reproducing genuine solar panel characteristics.
+The following are comments/suggestions to improve the manuscript:
+1. It seems the authors have some positive results. Please compare the newly adopted power point
+tracking algorithm( GSS) with the conventional one (perturb and observe) ; show the improvement
+on the power plots (on the same plots).
+2. Nomenclature is should be written clearly. Some lines are miss-aligned or spelled wrongly.
+3. Your figures are not in good quality/resolution(figure 4,7, and 9). Please use improved quality images
+for your simulation and experiments.
+4. The literature review is not sufficient. Include the following papers on converter control, inverter
+and motor control as such as
+- Improved Model Predictive Speed Control of a PMSM via Laguerre Functions, Mathematical
+Problems in Engineering, vol. 2024, Article ID 5562771, 14 pages, 2024. https://doi.org/
+10.1155/2024/5562771.
+- Stabilization and Voltage Regulation of the Buck DC-DC Converter Using Model Predictive of
+Laguerre Functions, Studies in Informatics and Control, ISSN 1220-1766, vol. 26(3), pp. 315-324,
+2017. https://doi.org/10.24846/v26i3y201707
+- A Modified Controller for Three Level Three-Phase Voltage Source Inverter based on Laguerre
+Functions. International Journal of Computer Applications, 182(25), 21–28. https://doi.org/
+10.5120/ijca2018918081.
+5. There are typos Typos.
+- In the abstract, The first one is a PV system emulator that employs back buck converter control to
+faithfully mirror the characteristics of PV panels.
+6. Please write in passive speech. Avoid pronouns we, their, our, them etc.
+7. Lastly not least, plot the simulation and experimental results on the same figure/plots so that your
+experiments can validate the simulation results.
+Reviewer #4: The word emulation is not the proper one in the title and in the text because your research concerns the PV pumping system emulator, not emulation. Please correct this. The abstract should refer only to the main idea of the research presented in the manuscript not to other introduction - the context of your research is already known. Also a lot of well-known information in your text. The focus on the main problem - developing a new emulator should be in the center, not else. A comparison should be more interesting and could reveal the novelty of your research. In my opinion chapter 4 is welcome and the obtained results by simulation and experiment must be compared with existing emulators.The novelty must be better exaplained. The Conclusion chapter is also important.. The manuscript should be improved.
+Reviewer #5: The manuscript has a lot of simulation and experiment findings. We do need to know more about how to understand these results, though. For instance, the conversation could go into more detail about how different control methods (like P&O, INC, and GSS) affect the performance of the emulation system when the amount of sunlight changes.
+Some technical details about how the emulator is set up and how the control methods work could be made clearer. The technical depth of the text would be improved by explaining how the boost converter with MPPT algorithm works and how it affects the efficiency of power tracking.
+The manuscript might discuss more about what the suggested emulation system means in the real world, especially when it comes to agriculture and irrigation.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+Reviewer #4: No
+Reviewer #5: Yes: Noramalina Abdullah
+**********
+
+19 Jul 2024
+Design, and Dynamic Evaluation of a Novel Photovoltaic Pumping System Emulation with DS1104 Hardware Setup: Towards Innovative in Green Energy Systems
+PONE-D-24-13352R1
+Dear Dr. FENDZI MBASSO,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Hossein Abedini, Ph.D.
+Additional Editor Comments (optional):
+Comments from PLOS Editorial Office: We note that one or more reviewers has recommended that you cite specific previously published works in an earlier round of revision. As always, we recommend that you please review and evaluate the requested works to determine whether they are relevant and should be cited. It is not a requirement to cite these works and you may remove them before the manuscript proceeds to publication. We appreciate your attention to this request.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #3: The authors addressed all the comments and suggestions.
+The reviewer don't have any more concerns.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: No
+**********

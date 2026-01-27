@@ -1,0 +1,96 @@
+
+17 Jan 2023
+PONE-D-22-30015Contrast Normalization Affects Response Time-Course of Visual InterneuronsPLOS ONE
+Dear Dr. Pirogova,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Both reviewers had similar comments about the submitted manuscript that should be addressed. Specifically, please provide additional statistical analyses and clarification of some of the analyses done. Please provide the additional background and context raised by both reviewers.
+Please submit your revised manuscript by Mar 03 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Melissa J. Coleman
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf 
+2. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Major comments
+1) The introduction to the paper is missing previous work that has been done both in larger flies (e.g. Harris Neuron 2000) and in Drosophila (e.g. recent papers from the Silies lab). Additionally, the Matulis 2019 should be mentioned already in the introduction as part of the background for the current work.
+2) The paper is missing statistical tests. All claims regarding changes in amplitude and kinetics should be explicitly tested with the appropriate statistical test (e.g. Drews 2020 paper, Fig 5).
+3) Authors’ choice of variability measure throughout the paper is a bit unorthodox (68% bootstrapped confidence interval). If authors choose to continue to use it, they should both justify the selection and present at least some of their results in the supplementary material with a more conventional statistics of variability.
+4) Authors should present the entire stimulus trace, from before the surround presentation to after its disappearance. This should be done at least once for each cell type so that it will be clear to readers that the surround is indeed a classic surround that does not evoke a response.
+Comments
+1) State explicitly that the numbers in the figure legends are for neurons and flies.
+2) In Figures 2,3 and 5, the figure legend claims that responses are normalized to the cell’s maximum, but the y-axis seems to represent a non-normalized response (simple df/f).
+3) Please clarify if the Tm3 dataset in Fig 3 contains the neurons from fig 2 or if it is completely independent.
+4) Please address the large difference in the numbers of cells imaged for the different cell types (i.e. 98 Mi1s vs. 22 Tm2)
+5) The Matulis 2020 paper does contain local stimuli as part of their stimulus set. The explanation for the discrepancy in the discussion should be corrected.
+6) Included code for figure replication is using a function that has been removed since 2020 (tsplot - https://seaborn.pydata.org/whatsnew/v0.10.0.html?highlight=tsplot). Please correct to updated versions of python and associated packages.
+7) Line 170 states that "on average, over 90% of all cells measured passed the SNR criterion". Please clarify the sentence.
+Reviewer #2: The manuscript by Pirogova and Borst describes contrast normalization in several medulla neurons (Mi1, Tm3, Tm1, Tm2) that feed into the motion-sensitive direction-selective T4 and T5 neurons in Drosophila. While contrast normalization in these medulla neurons (specifically, the effects on response amplitudes) has been described by Drew et al., 2020, the present study demonstrated the effects on temporal properties or response dynamics, exerted only by dynamic (but not stationary) stimuli in the visual surround. To account for these effects, the authors proposed two models, one with a stationary nonlinearity and the other with dynamic nonlinearity. By showing that the temporal properties of the responses was affected by the stimulus surround and not simply consequential to response saturation, the authors excluded the first model and favored the dynamic nonlinearity model with the hypothesis that contrast normalization affects membrane time constant.
+Overall, the results represent an interesting extension of Drew et al., 2020. The data are of high quality. I have a number of minor comments/suggestions but would otherwise support the publication of this manuscript.
+(1) Temporal dynamic is the focus of this study but was only presented in a qualitative way. It would be very helpful if the authors could quantify the effects or parameterize the temporal dynamics, and potentially compare with the modeling results.
+(2) I am not sure if the presentation of the stationary nonlinearity model is really necessary. On the other hand, must the dynamic nonlinearity model utilize the alteration of input resistance ? I suppose not. The comparison of these two very different types of models seems odd. The authors could do a better job to introduce the models.
+(3) The receptive field sizes for the medulla neurons (described in 241-243) appear to be different from those described in Arenz et al., 2017.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+28 Apr 2023
+Contrast Normalization Affects Response Time-Course of Visual Interneurons
+PONE-D-22-30015R1
+Dear Dr. Pirogova,
+Melissa J. Coleman
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

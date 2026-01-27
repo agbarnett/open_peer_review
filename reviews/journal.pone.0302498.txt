@@ -1,0 +1,86 @@
+
+22 Oct 2023
+PONE-D-23-22632Public attitudes toward medical waste: Experiences from 141 countries.PLOS ONE
+Dear Dr. Bai,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Meghana Ray, Ph.D., MBA, B.Pharm
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Methods section, please include additional information about your dataset and ensure that you have included a statement specifying whether the collection and analysis method complied with the terms and conditions for the source of the data.
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+""Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+4. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+5. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: "" ext-link-type="uri" xlink:type="simple">https://www.youtube.com/watch?v=_xcclfuvtxQ"".
+6. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript. 
+7. We note that Figure 3 and 4 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 3 and 4 to publish the content specifically under the CC BY 4.0 license.  
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an ""Other"" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The paper is a very interesting study and a timely research work, analysing the public attitudes towards medical waste and revealing its cross-country heterogeneity and potential shaping mechanisms. It is a complete work; well written and structured with extensive literature review and comprehensive analyses. Excellent contribution to the body of knowledge in the respective field.
+Reviewer #2: PLOS Review
+"Public Attitudes Toward Medical Waste: Experiences from 141 Countries"
+This mss. explores a needed topic in environmental health. The manuscript seems fairly good in its approach to this unexplored topic but may become crucial as we better understand public attitudes toward a series of environmental issues.
+A question at the very beginning must be how do the major findings relate to how people in more developed nations priorly know about such issues to distinguish them from elsewhere ? It is intuitive that such advanced nations will have folks who are more aware of environmental issues. It is an interesting finding of resilience that can be meaningful for more strategizing for greater social action across nations.
+Since this is an unfunded study, it reveals that this was significant and commendable work to assemble, retrieve, and analyze the massive data and then write the manuscript. However, a major question: Of those surveyed, what each person's awareness of medical waste and the dangers it may pose what was known beforehand? Was the study intended as an intervention to promote awareness? Is there any indication that this indeed happen?
+Where does medical waste end up in various nations? Can the authors address this from the literature and popular press to query whether it affects public attitudes? The research also did not identify correlates to other pollution causes and can this receive some comment?
+The research objective number 3 is absolutely key in terms of factors that influence public attitudes. It is noted that the time of the study was during the COVID outbreaks across the world so how might this epidemic heightened the findings in terms of generalized anxiety and concerns about population health? This could bear importantly upon the findings and the conclusions.
+Medical waste management differs from community to community and surely differs within national borders. Also of great difference are the determinants of medical waste. Here in the manuscript there were several good observations.
+As to methodology, this section in particularly needs a little more clarity and shortening. Twitter and crawler mining is an interesting and inexpensive mechanism for research into public views, but what inherent biases might come from these accounts where a large database is needed? Should there be a list of all the nations surveyed and perhaps percentages of the 1.3 million responses, which is somewhat amazing. The tables could receive a little more explanatory commentary for readers to understand better.
+Finally, English editing is most important where some of the areas are rather tedious to read, but overall it is an important study that revealed cross-country heterogenicity and the potential shaping mechanisms.
+It is key to continue to examine global public attitudes toward medical waste and numerous other environmental issues. How public attitudes are influenced and begin to change is important to map, as well as probe the reasons why people perceive certain environmental risks.
+In the ending paragraphs, the policy recommendations appear rather broad and could use a bit more specificity for practical responses by policymakers.
+Sincerely
+J.Warrren Salmon, Ph.D.
+P.S. This reviewer will be interested in reviewing the next submission of this manuscript.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Hasim Altan
+Reviewer #2: No
+**********

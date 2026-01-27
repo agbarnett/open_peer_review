@@ -1,0 +1,174 @@
+
+10 Apr 2024
+PONE-D-24-03257Development and accuracy evaluation of loop-mediated isothermal amplification assays in diagnosing cutaneous leishmaniasisPLOS ONE
+Dear Dr. Avelar,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please take into account the comments provided by the reviewers as well as:
+-Present the study's context (background) within the abstract.
+-In the introduction and in supporting the discussion on the accuracy of existing diagnostic techniques, it is important to reference systematic reviews with meta-analyses that have already been published on accuracy of diagnostic tests for tegumentary leishmaniasis.
+-Enhance the explanation of the sample calculation to ensure reproducibility.
+-Elaborate on the practical application of the technique, discuss the limitations of the study, and suggest avenues for future research in the discussion section.
+-Mention all supplementary materials in the body of the text.
+-Clearly inform where the data can be found, as they were not made available as supplementary material.
+-Standardize the article according to the recommendations outlined by PLoS One.
+Please submit your revised manuscript by May 25 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Vinícius Silva Belo
+When submitting your revision, we need you to address these additional requirements.
+1.Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: 
+   "This study was supported by and The Research Foundation of the State of Minas Gerais (FAPEMIG - APQ-00802-20). ARCS would also like to thank FAPEMIG-Brazil for its scholarship grant."
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section. 
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+5. PLOS ONE now requires that authors provide the original uncropped and unadjusted images underlying all blot or gel results reported in a submission’s figures or Supporting Information files. This policy and the journal’s other requirements for blot/gel reporting and figure preparation are described in detail at https://journals.plos.org/plosone/s/figures#loc-blot-and-gel-reporting-requirements and https://journals.plos.org/plosone/s/figures#loc-preparing-figures-from-image-files. When you submit your revised manuscript, please ensure that your figures adhere fully to these guidelines and provide the original underlying images for all blot or gel data reported in your submission. See the following link for instructions on providing the original image data: https://journals.plos.org/plosone/s/figures#loc-original-images-for-blots-and-gels. 
+  
+In your cover letter, please note whether your blot/gel image data are in Supporting Information or posted at a public data repository, provide the repository URL if relevant, and provide specific details as to which raw blot/gel images, if any, are not available. Email us at plosone@plos.org if you have any questions.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The submitted paper is well driven and composed. However, there are some incongruences that need clarification.
+Comments:
+-Line 27: what species do you want to amplify?, CL is caused by several species and that is important for the specificity and the design of the LAMP assay. Some epidemiology data is lacked here. This would explain why you use conserved regions for the design (line 101).
+-Line 67: indicate the clinical sensitivity of CL Detect™ Rapid Test for comparison.
+-Line 70: It is lack of data regarding sensibility and specificity of molecular techniques such as PCR. Please, describe it. It is important to know the accuracy of molecular data – this is why a LAMP amplification is pursued in this work.
+-Line 83: why did you design a new LAMP assay instead of using a previously standardized LAMP technique?
+-Line 93: highlight the advantages of choosing these targets for this new LAMP assay.
+-Line 94: I would mention that you tried to standardize 18S-LAMP assay without success and remove this assay from the draft due that there are other protocols already working good (León et al, 2018; Ghodrati et al, 2017; Tiwananthagorn et al., 2017; etc..). There is no point in its description, once you have not used it for diagnosis, main objective of the manuscript.
+-Line 281: what are the sensitivity rates presented by the reference q-PCR and direct microscopy examination and aspirate of culture?, similar to LAMP?, introduce this information in Table 3.
+-Line 292: data from q-PCR are lacking. What was the cut-off (line 186)?. Where those negatives by LAMP (FN) the ones with lower parasitic load by kDNA-qPCR?, is a problem of sensibility?. Do you know the specie causing the biopsies?, is it a problem of specificity regarding some Leishmania species?
+-Line 297: why did you use 10 parasites/µg of DNA tissue?.
+Please for comparison describe accuracy of all the cited references in Discussion.
+-Line 319: it is described the LOD of purified Leishmania DNA which is different from Leishmania DNA in biopsies (they include human DNA). Please verify if the LOD is from purified DNA or biopsies in the references added, and insert a range of LOD from these references in the text.
+-Line 334: insert the performance of the cited references in the text as a range.
+-Line 336: why is this described apart regarding line 334?, My advice is to cite here only those with PCR as a reference (microscopy results has a poorer relationship). This will help to compare with the protocol optimized here. Are there any study including a PCR protocol using a HSP70 target?.
+-Line 341: please describe the results of these studies for comparison. Other places out of Latin American countries?, which is the target? is a conserved target among species?.
+-Line 351: describe target, specie..
+-Line 354: any PCR, correct it.
+-Line 355: what is the advantage regarding the other LAMP protocols?
+-Line 357: 357: as other LAMP protocols?
+-Line 361: did your LAMP protocol suffer from inhibition?, did you add SYBR green to avoid it?, all LAMP protocols that not use SYBR green are prompt to be inhibited? Because you have cited several studies in your discussion with good results.
+-Line 374: why did it appear here mucosal leishmaniasis?, not described before its importance. If so, why did not do it in your study?
+Reviewer #2: This in an interesting manuscript since an innovative and easy-to-perform test for cutaneous leishmaniasis is highly needed.
+References are not correctly cited throughout the text according to the rules of PLOS ONE: “References are listed at the end of the manuscript and numbered in the order that they appear in the text. In the text, cite the reference number in square brackets (…)”, see: https://journals.plos.org/plosone/s/submission-guidelines#loc-references
+Introduction
+Line 44: The authors can cite more actualized data: WHO, 2022 with the link https://apps.who.int/neglected_diseases/ntddata/leishmaniasis/leishmaniasis.html in the references, because the 90 endemic countries in the world did not change from 2021 to 2022, when last updated by WHO.
+Lines 47-49: “CL is the most common clinical form, and unsolved CL cases can progress to mucosal disease, diffuse CL, or disseminated CL (GIANCHECCHI and MONTOMOLI, 2020).” This is not entirely true, because most CL do not evolve into any other forms of the disease. Mucosal leishmaniasis affects only 5-6% of the Brazilian cases of tegumentary leishmaniasis reported to the Brazilian Ministry of Health and is mainly related to areas where Leishmania braziliensis is endemic. It is much rarer with other species of Leishmania especially in other parts of the world outside American continent. Diffuse CL is associated with Leishmania amazonensis in rare patients with anergy towards this species, and it is much more uncommom than localized cutaneous leishmaniasis caused by this same species of Leishmania. Disseminated leishmaniasis is usually uncommon, occurs in Brazil mainly in endemic areas for Leishmania braziliensis and may or may not be associated with immunosuppression; other species of Leishmania can be implicated in this unusual presentation of the disease. The cited reference is also not adequate to discuss the different clinical forms of American tegumentary leishmaniasis, since is refers to Italy. I suggest the authors to search for a more adequate reference when referring to the different clinical presentations of the disease, preferably a Brazilian reference in English or even WHO technical report series 949, Control of leishmaniasis, 2010.
+MATERIALS AND METHODS
+Alignment of Leishmania spp genome sequences and primer design
+Lines 98-106: In the first use of an acronym, please specify it full-length, particularly F3, B3, FIP and BIP, although they are defined after in the legend of Table 1.
+Preparation of DNA reference
+Lines 109-110: in the first use of the subgenus, use it full-length (Leishmania (Leishmania) amazonensis; Leismania (Viannia) braziliensis), then you can use L (L.) donovani, L (V.) guyanensis and so on.
+RESULTS
+The first column of Table 1 must be aligned to the left. (The same applies to Table 2).
+Legend of Table 1
+Lines 219-220: I was not able to detect FLP and BLP in the table. Please define “pb” in the legend.
+Please verify the words in the top of Figure 1, they are not legible. The figures are also not distinct, and the difference between orange and greenish yellow colors are not so clear.
+The same occurred in Figure 2.
+In Figure 3, the photographs are more distinct.
+Table 3
+Lines 290-291: Specify the letters in “The same letters (…)”
+Line 301: Since the Figures and Tables must be self-explanatory, specify in the title of Table 4 that the parasite load was calculated using kDNA-qPCR.
+Discussion
+Lines 320-321: “Comparatively, JARA et al. (2013) established that 83.15 fg of Leishmania DNA is equivalent to one parasite equivalent.” Is this sentence correct? Please verify.
+Lines 342-343: It is worthy to specify the gene targets used in the Loopamp® kit.
+It is important to add a few sentences to discuss the limitations of the study before the Conclusions. In these sentences, I suggest the authors discuss if a molecular method such as LAMP, although easier to perform when compared to the gold standard which is PCR, could be considered as a test for using in the point-of-care or if it does not yet fulfill the requirements for a point-of-care test and specify why not.
+Please be certain that all the references follow the rules of PLOS ONE, since there are different presentations of some of them.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Eugenia Carrillo Gallego
+Reviewer #2: No
+**********
+
+17 Jun 2024
+PONE-D-24-03257R1Development and accuracy evaluation of a new loop-mediated isothermal amplification assay targeting the HSP70 gene for the diagnosis of cutaneous leishmaniasisPLOS ONE
+Dear Dr. Avelar,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 01 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Vinícius Silva Belo
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: All my comments have been properly addressed but the following corrections will improve the paper:
+• Line 47: remove “as”
+• Line 67: indicate the clinical sensitivity of CL Detect™ Rapid Test for comparison.
+Rephrase the sentence in line 65: “been evaluated in some endemic countries (31.3%-65.4% sensitivity when compared to microscopy and PCR) [12-14].
+• Line 82: delete “.” after respectively
+• Line 84: The previous 18S cross-reactivity with Trypanosoma cruzi DNA should be mentioned (de Faria et al., 2022).
+• Line 92: highlight in a sentence the advantages of choosing HSP70 for this new LAMP assay.
+- most common target used for Leishmania species identification,
+- presents conserved and polymorphic regions: being able to differentiate a wide range of species from different geographical origins, especially the ATL species,
+- Etc
+• Line 93: Rephrase the sentence:
+The target was selected because is commonly used for molecular diagnosis of Leishmaniasis, including Leishmania species identification. Besides that, this is the first LAMP assay based on HSP70 gene for DNA detection of Leishmania. The accuracy of LAMP- Leish/HSP70 assay was evaluated for the diagnosis of CL.
+The target was selected because is commonly used for molecular diagnosis of Leishmaniasis, including Leishmania species identification. For the first time, the accuracy of LAMP- Leish/HSP70 assay to diagnose CL was evaluated in this study.
+• Line 167: The recruitment period occurred from 2017 to 2019.
+• Line 307: : delete “)” here e;f)
+• Line 310-12: Please indicate where these data are in the paper. If not, add median values and IQR to the text:
+Recent lesions (median of 90 days) had a significantly higher parasite load compared to lesions with a longer evolution time (median of 120 days) (U Mann-Whitney test, p = 0.03).
+• Discussion: Each of the available PoC diagnostic methods has a limitation in at least one REASSURED criterion. It is very difficult to create pathogen-specific PoC diagnostic platforms that meet all of these criteria. In limitations, the authors should cite that Loop-mediated isothermal amplification (LAMP) is a rapid, user friendly isothermal nucleic acid amplification method that has almost all ASSURED properties. They might include some information from https://doi.org/10.1080/14737159.2021.1873769.
+• Write consistently one of each term along the text: hsp70-LAMP assay or HSP70-LAMP assay or LAMP-Leish/HSP70 assay
+• Figure 1. Please, improve the typewriting, it is unreadable
+Reviewer #2: The authors made the suggested corrections, but a few minor changes are still needed:
+Lines 169-171: This sentence must be removed: “All individuals participated voluntarily in the study and informed consent was obtained from each participant of from their legal guardian for underage participants”, because it repeats information already stated in lines 165-167.
+Table 1, first line, change “pb” into “bp” to be standardized with the legend.
+Line 363: “(…) in the inner side of the tube ever (…)” must be replaced by: “(…) in the inner side of the tube cover (…)”
+Line 420: “This study was supported by and The Research Foundation (…)” must be replaced by: “This study was supported by The Research Foundation (…)”
+Reference 16 must be adapted to Vancouver style.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Eugenia Carrillo Gallego
+Reviewer #2: No
+**********

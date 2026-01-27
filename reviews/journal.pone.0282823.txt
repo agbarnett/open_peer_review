@@ -1,0 +1,134 @@
+
+21 Jun 2022
+PONE-D-22-11727A systematic review of the burden of overweight and obesity, access to services and patient views in humanitarian crisis settings.PLOS ONE
+Dear Dr. Kidy,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 05 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Che Matthew Harris
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+3. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide. 
+4. We note that Figure 2 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (a) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (b) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure(s) [#] to publish the content specifically under the CC BY 4.0 license.  
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The aim of this review was to explore the prevalence of overweight and obesity in populations directly affected by humanitarian crises; the cascade of care in these populations and patients' knowledge and attitudes towards overweight and obesity.
+The authors developed a systematic review considering the population and exposure (context) to perform the literature search. Although the systematic review is well designed, the authors establish many primary and secondary outcomes, which are not well discussed or exposed in the results, which weakens the article.
+The main findings are that the prevalence of overweight and obesity varies considerably between studies, but an increase in adiposity was observed over time, in the elderly and in women. Most studies had a high risk of bias and few studies measured obesity beyond BMI (with waist circumference, for example). The other outcomes expected by the authors were poorly described.
+TITLE
+The article title does not make it clear whether access to services and patients' views are also related to obesity and overweight.
+The term patient's views do not seem adequate for the proposed objective. I suggest changing to perceptions or knowledge. The context of the study in relation to the humanitarian crisis is unclear (are the results evaluated after, during, or at both times of a humanitarian crisis? Is it a before and after comparison?).
+ABSTRACT
+Aiming properly answer the objectives of the study, it would be important to add results and conclusions regarding the other two proposed objectives (i.e., the cascade of care in these populations and patient knowledge and attitudes to overweight and obesity) in the results of the abstract (lines 44-57).
+INTRODUCTION
+The last two sentences of the first paragraph of the introduction (lines 66-69) are repetitive and can be rewritten to improve understanding.
+The second paragraph (lines 71-73) does not add relevant information for the development of the introduction and the line of reasoning on the topic proposed by the article. Thus, I suggest that it be rethought or replaced by a phrase that links obesity and reasons why it would increase/change in humanitarian crises.
+Lines 99-101: as it appears as a primary outcome (line 151 of the Methods section) consider including incidence as an objective. Please, also consider the same regarding the change in adiposity over time (line 153 of the Methods section).
+METHODS
+Lines 104-108: was the review protocol registered in the International prospective register of systematic reviews (PROSPERO)? PROSPERO register is strongly endorsed prior to submitting manuscripts for publication, as recommended by the Cochrane guidelines for conducting systematic reviews. If there is a protocol number, please add it to the article. Protocol documents may also be uploaded as Supporting Information or linked from the Methods section of the article.
+Lines 110-115: eligibility criteria require further clarification. While reasonable/rational, it is unclear (reading this section alone) whether the PECO was used for eligibility criteria. I recommend creating a subsection explaining the PECO of the study and then including a sentence in the eligibility criteria that makes it clear that the studies were also eligible by the PECO criteria.
+Lines 113-114: what the authors meant by “Assessment of the returns showed that much of the earlier data were no longer applicable.” It is necessary to explain better the reason for which the authors reached this conclusion (Why does it not make sense? Why is it no longer applicable? What change has taken place?). If there is no plausible explanation, the restriction to review only publications from the last 10 years may not make sense and be considered a bias and should be reported in the study limitations.
+Line 134: the exposure/context investigated in the study is unclear and needs to be improved. Do the authors intend to assess the aforementioned outcomes before, during, and after a humanitarian crisis? Just during a crisis? Or just after the crisis? Is it a before and after comparison? Even if the authors do not use it as inclusion/exclusion criteria, this information is important and seeks clarification.
+Line 182: please add geographic localization in the data collection section as it appears in the methods of synthesis.
+It is important to add, at some point in the text, the reasons why the authors decided to divide data into HIC and LMIC.
+Lines 235-236: how do the authors divide countries into HIC and LMIC. Which parameter do they use to do this division? Please add a reference.
+RESULTS
+Figure 1: the flowchart needs clarification. Of 20,376 records screened, 19,885 were excluded. It should return 491 reports sought for retrieval instead of 488. In addition, consider reporting the number of records identified from each database rather than the total number across all databases.
+Lines 242-244: it is not clear if this information (43 reports) should appear in the flowchart or if it is additional information since it does not match any number from the box “Reports excluded”.
+Table 1: consider reviewing the use of acronyms (and putting them in the figure legend), and standardizing the use or not of full stops and the type of letter/font used in the table.
+Tables 1, 2, and 3: for ease of reading, I suggest that the authors change the order of the articles described in Table 1, placing HICs articles first and not LMICs articles for each subgroup, according to the order in which they appear in Table 2 and Table 3. Another option is to place table 3 on table 2 and vice versa.
+Table 2: how did you calculate some data which are all in bold (e.g. Kim et al, 2016 [61]; Ohira et al, 2016 [74]; and Takahashi et al, 2021 [79])?
+Line 454: how much do the authors believe the search strategy influenced the result presented in the "other results" section? By combining obesity/overweight and humanitarian crisis, did you expect more results on the cascade of care and patient knowledge and attitudes about the disease? Do the authors believe that this low number of studies investigating these outcomes is due to a gap in the literature or to the search strategy?
+It is not clear if these results are about people that already had pass by a humanitarian crisis or if they still is in humanitarian crisis. It should be interesting understanding if there is some difference between articles who investigated people that are still in the crisis or passed by a crisis.
+DISCUSSION
+Lines 489-490: although the authors found only results on obesity prevalence, it was not the only primary outcome of the study. Consider changing the first citation of the discussion to encompass all of the primary objectives initially proposed.
+The discussion needs to be improved. It seems to me that the authors completely forgot about the last two primary outcomes of interest and focused only on the prevalence of overweight and obesity. Although the authors have not found results in this regard, they should discuss the gaps in the literature. The discussion lacks limitations of findings, as well as its strengths, perspectives, and needs related to the humanitarian crisis context. What is already known in the literature about the cascade of care in populations affected by humanitarian crises, even if it is related to another disease? What did you expect when investigating patient knowledge and attitudes towards overweight and obesity? Why do you assume it has not been reached?
+CONCLUSION
+Conclusions regarding primary outcomes of the review (number 3 and 4, the cascade of care and patient's knowledge and attitudes regarding the disease, respectively) are lacking.
+The conclusion could be more concise, pointing out the main findings, and implications to clinical practice (to health professionals, patients care, and health services) and research (due to low and limited evidence).
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+
+10 Feb 2023
+PONE-D-22-11727R1A systematic review of the burden of, access to services for and perceptions of patients with overweight and obesity in humanitarian crisis settingsPLOS ONE
+Dear Dr. Kidy,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: I noticed that there may be minor errors in the reference order.  It looks as if references 104 and 105 (page 38) now comes before reference 103 (page 39) in the updated version. Similarly references 107-109 come before 106 in the revised version. Please review and correct references where needed. Thank you.==============================
+Please submit your revised manuscript by Mar 27 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Che Matthew Harris
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here. T
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

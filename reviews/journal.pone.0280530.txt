@@ -1,0 +1,69 @@
+
+7 Oct 2022
+PONE-D-22-24629Differences in Aortic Valve Area Measured on Cardiac CT and Echocardiography in Patients with Aortic StenosisPLOS ONE
+Dear Dr. Koo,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 21 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Tom Wang
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified what type you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). If your study included minors, state whether you obtained consent from parents or guardians. If the need for consent was waived by the ethics committee, please include this information.
+3. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Additional Editor Comments:
+Thanks for your submission. In addition to reviewer comments below (or to repeat), please address the following questions/comments:
+1. It appears the vast majority of patients at your hospital undergoing surgical AVR had pre-op cardiac CT with multiphase. Explain the rationale of this practice and specific benefits - most centers probably only do single phase pre-op cardiac CT, unless it is for TAVI workup. Also explain reasons why some patients didn’t get CT or multiphase CT (perhaps CKD)?
+2. Were everybody with having AVR included in this study, or just those having isolated AVR. Was severe aortic stenosis an inclusion criteria? Was prior AVR, cardiac surgery, or endocarditis excluded? Explain the definition of concomitant significant AR (is this moderate or higher, or severe or higher, and how was this graded qualitative or quantitative)? Put in the limitations the selection bias that we are dealing with only a narrow higher end of aortic stenosis not the lower end.
+3. Explain what method was used to calculate AVA on echo – was it continuity equation with VTI or peak velocity, how was stroke volume calculated (LVOT-VTI method or LVEDV-LVESV), or even planimetry. Continuity methods are expected to have discrepancy with anatomical methods for AVA, in addition to echo and CT having different measurements – please comment on these differences in the discussion.
+4. You defined classic and paradoxical low flow low gradient AS in your methods along with severe AS and moderate AS – please present baseline/echo parameters in table 1 based on these subgroups also. Was there an association between the LFLG AS subgroups and AVA discordance discordance? What about calcium score (which can distort AVA-CT measurement) is it associated with the AVA discordance?
+5. Add the following characteristics to table 1: diabetes, coronary heart disease, aortic aneurysm, NYHA class, echo: LVSVi, dimensionless index, LAVi, RVSP, RV function, CT: LVEDVi, LVESVi, LVSVi, LVEF; bioprosthetic or mechanical AVR, concomitant surgery, operative mortality (30-days).
+6. In the Bland-Altman plot figure, please use average AVA echo and ct in the X axis.
+7. 6. Another figure illustrating the AVAecho and AVA CT technique used would be appreciated for the journal’s medical audience.
+8. Perform multivariable analysis of clinical, echo and CT parameters to predict overall mortality during follow-up (remember up to 7 covariates given 74 mortality events). Was CT valve parameters stronger predictor than echo?
+9. Have a paragraph before limitations in the discussion called clinical implications. What are the main implications for your study? When and how do you recommend CT-AVA be used and what thresholds for severe? How does your study change current management?
+10. Any items you can’t address above need to add to limitations.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1-Retrospective study.
+2- Data collected from medical records
+3-Methods section lacks details on how the AoVA by CT was calculated. Did the authors used the CT maximal LVOT diameter, average area or planimetered LVOT area?.
+4-Discordant valve area was defined when the difference between echo and CT was>0.2cm2. This occurred in a relatively small number of patients.
+5-As in prior studies AV by CT was largen than echo AoVA.
+6-The main objective of the study was to find the determinants form discrepant AoVA
+7-In the bland Altman plot shown, the X axis shows the echo AoVA and not the average of Echo and CT as is tipically done.
+8-Not clear what the unique contribution to this paper compared to similar ones that already exist in the literature.
+Reviewer #2: The manuscript entitled "Differences in Aortic Valve Area Measured on Cardiac CT and Echocardiography in Patients with Aortic Stenosis" by Koo. et al. aimed to compare the aortic valve area AVA measured on CT and echocardiography, and demonstrate the factors that lead to discordant AVA readings between CT and echocardiography. From the 781 retrospectively selected patients, 95.51% were documented to have echocardiographic severe aortic stenosis and 10.96% of those had discordance between AVAecho and AVACT. Larger BSA, AVAecho, tricuspid AV morphology and indexed annulus area were associated with AVA discordance between echo and CT.
+The authors have done a lot of work in collating this information and improving our knowledge in multimodality AS classification with few clarifications requested.
+1. It should be highlighted in the text that the main comparison between AVAecho and AVACT utilizes continuity equation for both and thus are comparisons of an echo solely or a hybrid approach. This said, a hybrid approach measurement can also be simplified to the comparison of annular area in both modalities.
+2. Furthermore, the discussion section sheds less light on AVAplani as a comparison and thus is confusing as the norm of a CT approach is usually to check planimetry area measurements. If that is not the case, it is then important to emphasize the differences within CT measurements whether measurement have been taken by the hybrid approach or by planimetry.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

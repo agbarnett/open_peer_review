@@ -1,0 +1,87 @@
+
+9 Jun 2021
+PONE-D-21-05154
+Between heparin and hypercoagulation: integral assays of hemostasis in patients with COVID-19
+Dear Dr. Bovt,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 24 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Arijit Biswas
+Additional Editor Comments:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2.In the ethics statement in the manuscript and in the online submission form, please provide additional information about the patient records/samples used in your study, including: a) whether data were collected prospectively for the purposes of research, or were collected routinely and accessed retrospectively; b) whether all data were fully anonymized before you accessed them; c) the date range (month and year) during which patients' medical records/samples were accessed; d) the date range (month and year) during which patients whose medical records/samples were selected for this study sought treatment; and e) the source of the medical records/samples analyzed in this work (e.g. hospital, institution or medical center name).
+In addition, we note that you obtained consents from participants to take part in your study. In the Ethics Statement on the online submission form and the manuscript Methods , please clarify the context in which consent was obtained, and specify whether patients provided:
+    1) Consent to use their medical records/samples in research
+    2) Consent to undergo the procedure
+    3) Consent to take part in the study reported in this manuscript.
+Please also state the type of consent obtained (written or verbal). If the ethics committee waived the need for additional informed consent, please state this.
+Thank you for your attention to these requests.
+3. To comply with PLOS ONE submission guidelines, in your Methods section, please provide additional information regarding your statistical analyses. For more information on PLOS ONE's expectations for statistical reporting, please see https://journals.plos.org/plosone/s/submission-guidelines.#loc-statistical-reporting.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Additional Editor Comments:
+It is clear from the reviewers comments that the article has publishing value but at the moment suffers from several flaws. This includes absence of important coagulation data, poorly defined coagulation parameters as well as flaws in the way the whole article has been presented. I would agree with all the reviewers and suggest that the authors revise their article in its entirety specially keeping in mind the points raised by the reviewers.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+Reviewer #3: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: I Don't Know
+Reviewer #3: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********
+5. Review Comments to the Author
+Reviewer #1: The Authors performed an observational study on 153 hospitalized COVID-19 patients with different degrees of severity. Both routine clot assays and integral assays, such as TD and TEG, were performed in all the patients. Only measurements taken on the peaks of LMWH or UFH treatment were considered for the comparison analysis, while all the measurements of routine assays were taken in account. The data observed are in line with those collected by previous study which underlined a substantial different between routine assays which show an hypocoagulation state in COVID-19 patients while integral assays point out mostly an hypercoagulation state when patients were not under treatment. Moreover, after both LMWH or UFH treatment there are still some patients which show an hypercoagulation state or even an hypocoagulation (mostly due to UFH treatment, as the authors stated). Thus, the authors indicate a potential importance of integral assays to evaluate the blood coagulation imbalance in COVID-19 patients. However, while it’s very clear the clinical implication of TD assays in clinical management, apparently it’s not equally clear for TEG assays (i.e. there isn’t a target range of effective hypocoagulation nor prognostic value in predicting thrombosis and bleeding). Also, it may help if the Authors clarify their choice to use a plasma-based and platelet-independent thrombodynamics assay instead of whole-bloode based one as previous studies. Some revision of the English language is recommended.
+Reviewer #2: Major issues:
+1. It is unclear why the correlation of fibrinogen level with the admission/therapy, severity and respiratory disstress was studied but no other coagulation factor was analysed. The authors are encouraged to perform coagulation factor analysis such as thrombin, factor VII, factor X, as well as D-dimer and antithrombin III measurements and to monitor the correlation of the data with admission/therapy, severity and respiratory disstress.
+Minor issues:
+1. Some abbreviation such as ECMO and NEWS scale were not described properly at the first time mentioned in the text.
+2. The resolution of the figure 1 (C-F), figure 2 (A-D) and fgure 3 (A-D) is not enough. The symboles used to clarify the results of statistical analysis are not readable.
+3. In Table 1, the number of the patients and the age rows can be omitted as all of the data presented there are shown as n/a. In the same table the empty boxes should be filled properly, especially for TEG, citrated native, for severity critical group one measurement was done but the data is not shown.
+4. In the table 2, no box is allowed to be left empty. The reason why the TEG using citrated kaolin was not perfomd on patients’ samples on admission should be described below the table.
+5. In the table 3 and table 4 the same as figures the p values correspond to stars should be mentioned below the tables or in the figure legend.
+6. The statistical analysis was used to analyse the results is not mentioned in the figure legengs.
+Reviewer #3: Bulanove and his colleagues evaluated standard clotting assays as well as Thrombodynamics and Thromboelastography tests in COVID-19 patients, either on admission or on treatment. The data are not presented well and the manuscript is not written clearly. Then manuscript requires significant modifications/improvements, particularly, presenting results and discussing the data compared with the other studies in “Discussion” section.
+Major comments:
+- The introduction needs to be edited significantly. Until now there are several studies/data describing changes in coagulation parameters in COVID-19 patients (both ICU and non-ICU patients), including evaluating fibrinogen, D-dimer, VWF, PT, APTT, as well as reporting microthrombus in the postmortem biopsy samples, which should be addressed in this section of the introduction. The authors should give a review about changes in coagulation parameters in COVID-19 patients, both critical and non-critical patients, based on previous studies. In the second/last part of the introduction, the importance of the current study is not explained well.
+- In Method/or Result section, the normal range for all the parameters should be defined clearly.
+- In Method: what was the criteria for the using heparin treatment for the patients? Were they selected due to definitions for COVID-19 associated-coagulopathy? If yes what were these definitions (e.g. changes in PT, APTT, fibrinogen, TD, TEG…)?
+- Results are not presented well, it is difficult to follow the finding, they are not well classified.
+- Results, Page 5, lines 26-28 (results of figure 1) and page 6, lines 2-5 (results of the figure 2), explain why in severe cases there are hypocoagulation? Is it really a hypocoagulation (what about trend of changes in fibrinogen levels), or it is related to the TD and TEG assays used in this study?
+- Discussion: The details of previous studies either using the same assays in COVID-19 patients, or impact of heparin treatment are not discussed sufficiently.
+- Discussion: The reasons why the patients did not response to LMWHs therapy, according to the TD and TEG assays, are not discussed. In these patients, did the measuring the fibrinogen or D-dimer showed the same results like TD and TEG, after treatment?
+Minor comments:
+- The title of the manuscript is not appropriate, “Between heparin and hypercoagulation” is not meaningful, it should be changed.
+- In Abstract, the aim of study is missing.
+- In the abstract, the number of patients on treatment is missing.
+- In the main text, whole manuscript, all abbreviations are not defined; at the first place, the abbreviations should be explained.
+- In Method section, Line 8: please determine the “peak”, define how you decided for the “peak”.
+- In legend of the images, all abbreviations should be defined, and the statistical analysis should be described, and the star significances in graphs should be defined, though the images was not clear and the stars/ns was not readable.
+- The English writing (structure of the sentences) needs improvement: e.g. “Result” section, page 5, paragraph “Thrombodynamic assay in the patient groups”, the sentence starting with “The patients who….” is ambiguous, requiring changes.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No

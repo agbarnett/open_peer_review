@@ -1,0 +1,127 @@
+21 Jan 2025
+-->PONE-D-24-54192-->-->Multi-class Rice Seed Recognition Based on Deep Space and Channel Residual Network Combined with Double Attention Mechanism-->-->PLOS ONE
+Dear Dr. Changsheng,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. The comments from revieweres are attached at the bottom of this email.
+Please submit your revised manuscript by Mar 07 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:-->
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Xiaoyong Sun
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1.  Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf   and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+“This thesis supported by National Natural Science Foundation of China ( 62062048) and China Yunnan Province Science and Technology Plan Project(202201AT070113) 。”
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+Reviewers' comments:
+Reviewer's Responses to Questions
+-->Comments to the Author
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->2. Has the statistical analysis been performed appropriately and rigorously? -->
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+-->3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+-->4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.-->
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->5. Review Comments to the Author
+Reviewer #1: This paper “Multi-class Rice Seed Recognition Based on Deep Space and Channel Residual Network Combined with Double Attention Mechanism”, aims to to improve the recognition accuracy of 36 different types of rice seeds through the application of deep learning techniques, proposing a Deep Space and Channel Residual Network that combines double attention mechanism. To achieve this, the study introduces a Space and channel Feature Extraction Residual Block. This block is designed to enhance inter-class differences while minimizing redundant feature information, thereby effectively reducing the model’s computational complexity. The net consists of 16 layers of SCR-Blocks, incorporating batch normalization (BN) layers, max pooling layers, and average pooling layers. The SCRBlocks are organized into four main convolutional layers with 3, 4, 6, and 3 units, respectively, optimizing feature extraction. Additionally, the introduction of a double attention mechanism (Double Attention Networks, A2Net) improves the model’s global receptive field, enhancing its ability to distinguish between various seed varieties. Experiments conducted with a self-collected dataset revealed that the RSCD-Net model achieved an average accuracy of 82.61%, reflecting an improvement of 4.22% over the baseline model.
+The topic is justified. The paper could be further improved if the following remarks are taken into consideration:
+1. ABSTRACT: this needs to be re-written, summarize the methodology information and conclusion statements.
+2. A few of the grammatical mistakes including punctuation etc. are found.
+3. A good article may have keywords.
+4. The introduction section may have contribution and objectives of the study key folded into it. The last paragraph of the introduction section may describe the layout of the of the rest of the draft.
+5. JPG format at a resolution of 1280×720 for whole of the dataset processing seems a complex task, but authors mentioned that 224x224 image size is input?
+6. Experimental setup: capital the first letter of we->We.
+7. Learning rate, i.e., 0.0005, seems high.
+8. Results are convincing.
+9. Table 4, comparison is based on what? Did these models, i.e., RSCD-Net, ResNet50, ConvNext, InceptionResnetV2, and MobileNetV3 were trained on the same dataset?
+10. The discussion needs to redraw under quantitative analysis.
+11. The conclusion section should be comprehensive.
+12. The motivation is not clear. Please specify the importance of the overall research activity.
+Reviewer #2: The manuscript presents a novel deep learning model, RSCD-Net, for the classification of 36 rice seed varieties, addressing challenges in fine-grained image recognition. The study demonstrates innovation through the introduction of the Space and Channel Residual Block (SCR-Block) and Double Attention Mechanism (A2Net). These features improve the classification accuracy and efficiency, surpassing baseline models like ResNet50 and others.
+Strengths:
+1. Novelty: The RSCD-Net model incorporates innovative mechanisms (SCR-Block and A2Net) that address inter-class variability and redundancy in feature extraction.
+2. Dataset: A self-collected dataset of 36 rice varieties is commendable, as such datasets are rare and critical for agricultural research.
+3. Performance: The model achieves superior accuracy (82.61%) compared to established networks, with detailed experimental validations.
+4. Scientific Rigor: Ablation studies and comparisons with multiple benchmarks provide a robust evaluation of the proposed model's effectiveness.
+5. Practical Relevance: The study has significant implications for agricultural research and industrial applications, especially in seed sorting and quality assessment.
+Weaknesses:
+1. Dataset Limitations: While the dataset is unique, the sample size per variety (240 for training) is relatively small for deep learning, potentially limiting the model's generalizability.
+2. Comparative Analysis: Although the model outperforms ResNet50 and similar architectures, a comparison with newer state-of-the-art methods like Vision Transformers (ViT) would strengthen the claim of superiority.
+3. Reproducibility: The manuscript does not provide complete details for dataset access or pretrained model weights, which are essential for reproducibility.
+4. Computational Efficiency: While RSCD-Net reduces redundancy, its computational cost compared to lightweight models like MobileNetV3 remains high, which may limit deployment in resource-constrained environments.
+5. Clarity in Writing: The manuscript has some complex descriptions, especially in the Materials and Methods section, which could be streamlined for better understanding.
+Recommendations:
+1. Expand Dataset: Consider increasing the dataset size by using different augmentation techniques or incorporating external datasets for better generalization.
+2. Broader Comparisons: Include experiments with state-of-the-art models like ViT or Swin Transformers for a more comprehensive evaluation.
+3. Detailed Ablation: Provide additional insights into the contributions of SCR-Block and A2Net individually through detailed visualizations.
+4. Provide Resources: Share dataset links, code repositories, or pretrained models to enhance reproducibility.
+5. Improve Clarity: Simplify complex sections and add more diagrams or flowcharts to explain model architecture and methodology.
+6. Improve the language: There are lot of spelling mistakes or typos. Correct them.
+**********
+-->6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Ghulam Gilanie
+Reviewer #2: No
+**********
+26 Mar 2025
+Multi-class Rice Seed Recognition Based on Deep Space and Channel Residual Network Combined with Double Attention Mechanism
+PONE-D-24-54192R1
+Dear Dr. Changsheng,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Xiaoyong Sun
+sunx1@sdau.edu.cn
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+-->Comments to the Author
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.-->
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+-->2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->3. Has the statistical analysis been performed appropriately and rigorously? -->
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.-->
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+-->6. Review Comments to the Author
+Reviewer #1: The authors addressed all of my comments in well manner. Therefore, acceptance is suggested in its current form.
+Reviewer #2: The authors have successfully addressed all the comments and suggestions provided in the initial review. The revisions made are thorough, demonstrating a clear understanding of the feedback, and have significantly improved the clarity, structure, and overall quality of the manuscript. The adjustments to the methodology have strengthened the robustness of the study, and I appreciate the authors’ diligent efforts to incorporate the suggestions. I am satisfied with the revisions and pleased to accept the paper for publication. This work provides valuable insights and will contribute positively to the field, and I look forward to seeing future developments and related research from the authors.
+**********
+-->7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Ghulam Gilanie
+Reviewer #2: No
+**********

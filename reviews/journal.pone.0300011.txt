@@ -1,0 +1,189 @@
+
+6 Nov 2023
+PONE-D-23-30486HEBE Project: Healthy aging versus inflamm-aging: the role of physical Exercise in modulating the Biomarkers of age-associated and Environmentally determined chronic diseases, Study ProtocolPLOS ONE
+Dear Dr. Clerici,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 15 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Fares Alahdab, MD, MSc
+Journal requirements:
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that you have selected “Clinical Trial” as your article type. PLOS ONE requires that all clinical trials are registered in an appropriate registry (the WHO list of approved registries is at https://www.who.int/clinical-trials-registry-platform/network/primary-registries" https://www.who.int/clinical-trials-registry-platform/network/primary-registries and more information on trial registration is at http://www.icmje.org/about-icmje/faqs/clinical-trials-registration/). Please state the name of the registry and the registration number (e.g. ISRCTN or ClinicalTrials.gov) in the submission data and on the title page of your manuscript. a) Please provide the complete date range for participant recruitment and follow-up in the methods section of your manuscript. b) If you have not yet registered your trial in an appropriate registry, we now require you to do so and will need confirmation of the trial registry number before we can pass your paper to the next stage of review. Please include in the Methods section of your paper your reasons for not registering this study before enrolment of participants started. Please confirm that all related trials are registered by stating: “The authors confirm that all ongoing and related trials for this drug/intervention are registered”. Please see http://journals.plos.org/plosone/s/submission-guidelines#loc-clinical-trials for our policies on clinical trials. 
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. Thank you for stating the following financial disclosure: 
+ [HEBE received support from the University of Milan (GSA, Grandi Sfide di Ateneo, Linea 6 del Piano di Sostegno alla Ricerca 2021)].  
+Please state what role the funders took in the study.  If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."" 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+5. One of the noted authors is a consortium [HEBE consortium]. In addition to naming the author group, please list the individual authors and affiliations within this group in the acknowledgments section of your manuscript. Please also indicate clearly a lead author for this group along with a contact email address.
+6. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #1: Dear Authors,
+I found your study protocol for the HEBE Project: Healthy aging versus inflamm-aging: the role of physical Exercise in modulating the Biomarkers of age-associated and Environmentally determined chronic diseases very interesting.
+The objectives are clearly stated and the methodology is appropriately described.
+As a minor note, please double-check the manuscript for typos, grammar and spelling, as several errors were evident.
+Reviewer #2: I have read with great interest this study protocol regarding the role of physical exercise, nutrition and lifestyle recommendations aimed to reduce inflammation and promote healthy aging. The main objective is very well defined and of relevant importance in counteracting non-communicable diseases. The methods section and statistical analysis are perfectly described. The whole project will be of great impact not only on the research side but even on public health awareness.
+For all these reasons, the herein presented study protocol should be suitable for publication.
+Reviewer #3: Plese provide comments in line 339-340. How do the authors evaluate the mitochondria fucntion, the DNA oxidative damage and the telomere length
+********** 
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********
+
+2 Jan 2024
+PONE-D-23-30486R1HEBE Project: Healthy aging versus inflamm-aging: the role of physical Exercise in modulating the Biomarkers of age-associated and Environmentally determined chronic diseases, Study ProtocolPLOS ONE
+Dear Dr. Clerici,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: Thank you. There are a few points that still require a few more details and clarifications. Please see the reviewer's comments below. We look forward to reading your revised protocol.
+==============================
+Please submit your revised manuscript by Feb 16 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Fares Alahdab, MD, MSc
+Additional Editor Comments:
+Thank you. There are a few points that still require a few more details and clarifications. Please see the reviewer's comments below. We look forward to reading your revised protocol.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #2: Yes
+Reviewer #4: Partly
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #2: Yes
+Reviewer #4: No
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #2: Yes
+Reviewer #4: No
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #2: I congratulate with the Authors for them present study protocol who will lead to a major study of relevant importance in counteracting non-communicable diseases. The whole project will be of great impact not only on the research side but even on public health awareness one.
+Reviewer #4: Bianchi et al. presented a study protocol to evaluate the effects of personalized intervention based on physical activity on clinical parameters and circulating markers in employees of the University of Milan. This ambitious project looks at various clinical parameters and circulating markers with important clinical and research implications. We congratulate the authors for the project and the interesting website. However, the methods section requires additional specificity on some topics. I have some suggestions for each part.
+L139-40: In the ‘Objective’ of the study, the authors state that the intervention is based on "physical activity"; however, in the study's title, they refer to "physical exercise". Since exercise and physical activity are two different concepts, the authors should only refer to one of them.
+L161: Please indicate the date of registration at ClinicalTrials.gov.
+L213-14: Teachers may have different daily physical activity levels compared to workers in technical and administrative staff. According to the authors, levels of physical activity and sedentary behavior will be assessed. It would be pertinent to clarify if plans for future analyses consider analyzing the results according to the participants' levels of physical activity, as this is an important factor that could influence the results.
+What are the target ages of participants?
+L217 and L232: Please write the date in full.
+L219: How do the authors intend to monitor the participant’s adherence to the specific recommendations presented on the website during the 6-month intervention?
+L142: VO2max – confirm its spelling (VO2max or VO2max). This is also used multiple times in the manuscript and should be changed.
+L236: How did the authors arrive at the value of d = 0.28 (effect size) for the sample calculation? What were the pre- and post-means and standard deviation used? We suggest that the authors specify the program used to calculate the sample size and power (if any).
+L246-51: It is also known that some medications can influence the efficacy of exercise in some biomarkers such as cytokines.
+L255: Is the gender correct terminology here? Or should this be sex?
+L258: In this type of study, there may be a dropout rate. Therefore, recruiting an additional percentage of participants could be prudent.
+L293: Please indicate the instrument that will be used to measure blood pressure.
+L297: It is suggested that the authors specify the procedures to be considered when assessing body composition (for example, the time of day when the assessments will be carried out, the need to be fasting, etc...).
+L277: Where and under what conditions will the biological samples be taken? Who takes the blood? It is suggested that the protocol for collecting blood, urine, saliva, and nasal swabs be described in detail. Specify whether each of these samples will be taken at the same time in the morning, whether the participants will have to be fasting (and for how long), etc. It is also suggested that the authors indicate the method and material to be used for collecting saliva, urine, and nasal swabs.
+L346: Given the aim of the project, it is not clear why the authors intend to apply the 6-minute walk test in addition to the incremental cycle ergometer test.
+L348: The reference of a study on the handgrip test protocol would be pertinent.
+L356-8: I suggest specifying all the indicators that will be evaluated.
+L360: Is exercise prescribed only by medical personnel? A multidisciplinary team including sports science professionals would be relevant.
+L363-4: Please provide examples of the types of aerobic exercise that will be performed by the participants (i.e., running, walking) and how the intensity will be controlled.
+L366-9: Please provide the reference that supports these recommendations.
+L364: As with the recommended volume for aerobic exercise, the WHO guidelines also have specific recommendations for strength/resistance exercise. Moreover, it is important to specify the mode of strength training.
+L370-73: For participants who do the exercise program at home, will they be provided with any type of material? In addition, authors should indicate if the training sessions will be supervised or unsupervised.
+L376: Please indicate the model of the wearable device to be used to examine the participants' compliance with the exercise program. In addition, it would be useful to understand why participants only use the wearable in the first and last month of the intervention period.
+L371: Participants will undergo a personalized training program. Will the intensity and volume be broadly the same for all participants?
+Some references are not in accordance with the journal's guidelines. PLOS uses the reference style outlined by the International Committee of Medical Journal Editors (ICMJE), also referred to as the “Vancouver” style.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #4: Yes: Pedro Duarte-Mendes
+**********
+
+20 Feb 2024
+HEBE Project: Healthy aging versus inflamm-aging: the role of physical Exercise in modulating the Biomarkers of age-associated and Environmentally determined chronic diseases, Study Protocol
+PONE-D-23-30486R2
+Dear Dr. Clerici,
+Fares Alahdab, MD, MSc
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #4: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #4: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #4: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #4: The authors answered all suggestions and questions. This interesting project looks at various clinical parameters and circulating markers with substantial clinical and research implications. I recommend this manuscript for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #4: Yes: Pedro Duarte-Mendes
+**********

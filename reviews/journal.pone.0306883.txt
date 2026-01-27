@@ -1,0 +1,53 @@
+
+4 Jun 2024
+PONE-D-24-17386Link Prediction Accuracy on Real-World Networks Under Non-Uniform Missing-Edge PatternsPLOS ONE
+Dear Dr. HE,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The first reviewer only has some minor suggestions to improve the article. In addition to some technical questions, the second reviewer raised two larger issues: (1) the sampling approach; and (2) missing more recent literature in the graph theory/machine learning area. The first issue may stem from a misunderstanding, but it would be good to clarify this. The second issue might benefit from greater clarity on the motivation for selecting the 9 link prediction algorithms in your study, and for not selecting other link prediction algorithms.
+Please submit your revised manuscript by Jul 19 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Vincent Antonio Traag, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that funding information should not appear in any section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. Please remove any funding-related text from the manuscript.
+3. Thank you for stating the following financial disclosure: 
+   "This work was supported in part by the Army Research Office under MURI award W911NF-18-1-0244 (X.H., A.C.S. and P.J.M.), the National Institutes of Health under award R01TW011493 (X.H. and P.J.M.), the National Science Foundation under Grant Nos.\\ 2308460 (X.H. and P.J.M.) and 2030859 to the Computing Research Association for the CIFellows Project (A.G.), and the National Research Foundation of Korea (NRF) grant 445 funded by the Korea government(MSIT) (No. RS-2022-00165916), and Learning \\& Academic research institution for Master’s, PhD students, and Postdocs (LAMP) Program of the National Research Foundation of Korea (NRF) grant funded by the Ministry of Education(No. RS-2023-00301702) (E.L.)."
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This manuscript validates link prediction methods with empirical data and a variety of methods to select and hide edges. It is an important reference work for network science and graph learning. The manuscript is clear and well-written. The methods are sound. There is no reason to request a revision, it could be published as it is.
+If anything should be polished: 1. The box-and-whiskers plots have too many outliers. Sometimes, the outliers distract the viewer from seeing the patterns shown by the boxes. These could either be plotted without outliers or replaced by other visualization techniques. 2. Trellis plots like Fig. 3 should have the same limits on the axes for readers to compare the panels efficiently.
+Reviewer #2: The author indeed aims to extract the applicability of several classic complex network link prediction algorithms from a vast dataset, further elucidating the underlying mechanism of missing edges. However, the article lacks depth in both physical understanding and computational thoroughness. Firstly, the rationale for network sampling is questionable; if it was to save time, this is unlikely to convince readers. While the author attempts to explain, it fails to ensure that the structural features of the sampled network resemble those of the original, instead resorting to various computational strategies, employing numerous sampling techniques to compensate for technical shortcomings. Paradoxically, the more techniques employed, the murkier the underlying principles become, leading to a superficial analysis. Secondly, I note the low predictive accuracy for technological and transportation networks, which I suspect relates to network sparsity. References to 'Shang, K. K., Li, T. C., Small, M., Burton, D., & Wang, Y. (2019). Link prediction for tree-like networks. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(6); and Shang, K. K., & Small, M. (2022). Link prediction for long-circle-like networks. Physical Review E, 105(2), 024311' might provide insight.
+Moreover, since 2019, there has been a surge in utilizing graph theory combined with machine learning and neural networks for link prediction, hence the inclusion of such contemporary algorithms is recommended. Proceeding through the article, I observe a glaring absence of a comprehensive and meticulous differentiation of the mechanisms behind missing links in networks. A tabular summary to address this gap is advisable. Lastly, the choice to independently calculate the Area Under the Curve (AUC) only five times is puzzling, given that since the advent of link prediction techniques, 100 independent calculations have become a standard requirement to ensure statistical robustness.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Ke-ke Shang
+**********

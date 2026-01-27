@@ -1,0 +1,154 @@
+
+28 Nov 2023
+PONE-D-23-34381Bicyclomycin generates ROS and blocks cell division in Escherichia coliPLOS ONE
+Dear Dr. Prakash,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: 
+​Dear author,
+Revise the whole manuscript carefully in light of both reviewer's comments and submit it again.
+==============================
+Please submit your revised manuscript by Jan 12 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Samiullah Khan, Ph. D
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.  
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following: 
+● The name of the colleague or the details of the professional service that edited your manuscript
+● A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+● A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. Thank you for stating the following financial disclosure: 
+"This work received funding from intramural grants of CSIR-IMTECH (OLP-0190) and extramural grant to DD from SERB (CRG/2019/001174), Dept. of Science and Technology (DST)."
+Please state what role the funders took in the study.  If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."" 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+5. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+"This work received funding from intramural grants of CSIR-IMTECH (OLP-0190) and extramural grant to DD from SERB (CRG/2019/001174), Dept. of Science and Technology (DST)."
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+"This work received funding from intramural grants of CSIR-IMTECH (OLP-0190) and extramural grant to DD from SERB (CRG/2019/001174), Dept. of Science and Technology (DST)."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+6. Please note that in order to use the direct billing option the corresponding author must be affiliated with the chosen institute. Please either amend your manuscript to change the affiliation or corresponding author, or email us at plosone@plos.org with a request to remove this option.
+7. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Additional Editor Comments:
+Dear author,
+Revise the whole manuscript in light of both reviewer's comments and submit again.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Methods
+- The “Statistical data analysis” section is missing.
+Results
+- Figure 1.A shows the effect of BCM on the growth of E. coli by measuring OD600 at concentrations of 25 and 50 µg/ml. This indicator reflects the bacteriostatic effect of BCM. However, in this study, the bactericidal effect of antibiotic is more important. It is therefore desirable, in this and other cases, to additionally measure the effect of BCM on the colony forming ability (CFU) of E. coli at concentrations of 25, 50 and 100 µg/ml.
+- Figure 1.A shows the effects of 25 and 50 µg/ml BCM, Figure 1.B shows the effects of 50 and 100 µg/m, and Figure 1.C does not show BCM concentrations at all.
+- In Supplementary (table 1-3), fluorescence values in the control (without antibiotic) should be indicated.
+- In experiments with the addition of antioxidants, it should be taken into account that in the concentrations used can significantly inhibit the growth of bacteria. As is known, even a slight decrease in growth can increase the resistance of bacteria to the action of bactericidal antibiotics. As a result, separate experiments must be performed to determine the effect of antioxidants on both promoter expression and the growth and survival of bacteria treated with antioxidants alone.
+- The authors write:
+“…Here, we report that apart from the inhibition of Rho function, free radical generation is an important means of BCM toxicity…
+…Overall, previous findings and our results suggest that BCM toxicity results from Rho inhibition as well as the generation of free radicals..”.
+The authors established the generation of reactive oxygen species by BCM by several methods, but the question of whether these ROS concentrations can have a toxic effect remains open. The toxic effects of bactericidal antibiotics include effects such as reduced survival and lysis, whereas the authors showed only a bacteriostatic effect. The production of ROS in itself does not necessarily lead to a bactericidal effect. Bacteria have powerful antioxidant defenses to prevent the toxic effects of sufficiently high concentrations of ROS.
+The study revealed a number of effects associated with the action of BCM, but in order to establish their connection with ROS, additional experiments are required, in particular using mutants in antioxidant systems.
+Reviewer #2: Dear Editor,
+This is an interesting work that deepens and provides new information on the molecular and mechanistic bases in relation to the antimicrobial activity of bicyclomycin. In this work, various experimental approaches are carried out that provide new information of interest. Knowledge of the metabolic response to antimicrobials beyond their interaction with their primary target is a current topic that will be useful for the design of new therapeutic strategies.
+Below are various points and comments that I understand are necessary for a better presentation of this work.
+Major points
+It is necessary to clarify or justify the concentrations of BMC used. Although it is mentioned that concentrations of 25 and 50 μg/ml of BCM were used, it is important to indicate them in relation to the minimum inhibitory concentration (MIC) of this drug. I suspect that it is equivalent to 1/2x and 1x MIC but the CMI value should be specified clearly.
+Results (L5): I disagree with this sentence: “We suspected that the reduced growth may be due to increased ROS levels in the cells after BCM treatment.” The main molecular mechanism of growth inhibition by BMC is already known (Rho inhibition). Please rewrite this sentence.
+I have important doubts with the quality of the images provided, at least in the version that I have been able to view. Please improve the quality of the images, especially Figure 1D, 4D, 5A and 4C. Additionally, I think that Figure 1F could be incorporated into Figure 2.
+An important aspect of the work is that it should be more clearly specified what type of reactive oxygen species are detected by the DHE and H2DCFDA probes. This should be described precisely in Methods. In relation to this, the Results statement "These results suggest that exposure to BCM also leads to the generation of highly deleterious hydroxyl radicals" is not clear. Why do we talk about "hydroxyl radicals" specifically if H2DCFDA is a generic ROS marker?
+Please delete this sentence from Discussion; “Although, we did not check the envelope stress after BCM treatment, it may be implicated in the generation of ROS after BCM treatment.” It is excessively speculative.
+Methods: In relation to this sentence: “recAgfp was freshly transduced into the WT genome by P1 phage transduction to obtain the BW25113::recA-gfp strain (45).” Please, could you indicate the precise integration site in the bacterial chromosome?
+It is necessary to include a Statistical Analysis section in the Methods section where the analyzes carried out are specified.
+Minor points
+Abstract: BMC should be used always after its definition
+Abstract: “PAS” is not defined in any part of the text.
+Introduction:
+L4: References (1-4) does not include information about “some researchers have negated the role of ROS…”
+L6: BMC is mentioned at the fort time in the test, please define.
+L8: Please change “gram-negative” to “Gram-negative”
+Results:
+L2: Please change “Effect of BCM” to “effect of BCM”
+Figure 1C: Please, change Soxs to SoxS
+Please change “TheBCM is known to cause the cell filamentation” to “The BCM is known to cause the cell filamentation”.
+Please change “upregulated many-fold in microarray after BCM treatment” to “upregulated up to XX-fold in microarray after BCM treatment”.
+Please change “in WT E. coli (Figure 5.B).. BCM” to “in WT E. coli (Figure 5.B). BCM”.
+Discussion
+Please change “ampicillin, Norfloxacin, and vancomycin” to “ampicillin, norfloxacin, and vancomycin”.
+Please change “and H2DCFDA dye in Escherichia coli cells” to “and H2DCFDA dye in E. coli cells”.
+Please change “deciphered. Quinones, aminoglycosides” to “deciphered. Quinolones, aminoglycosides”.
+In the sentence: “MFI values obtained from three experiments”. MFI is not defined in any place.
+In the sentence: “Forte Western HRP substrate (Millipore) was used to develop the”. Correct the end of the sentence.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: José Manuel Rodríguez-Martínez
+**********
+
+27 Feb 2024
+Bicyclomycin generates ROS and blocks cell division in Escherichia coli
+PONE-D-23-34381R1
+Dear Dr. Prakash,
+Samiullah Khan, Ph. D
+Additional Editor Comments (optional):
+Dear author,
+The manuscript has been revised appropriately, both reviewrs are satisfied with the revised version. I recommend the manscript is now acceptable for publication in PLoS ONE.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors' main objective was to test whether the induction of oxidative stress could explain the increased sensitivity of Escherichia coli to bicyclomycin. It was shown that BCM indeed caused the formation of ROS, inducing cell filamentation as part of the SOS response. The results of the work allow us to develop more effective approaches to the use of BCM in clinical practice. The authors generally took into account my comments, however, considering the methods and approaches they used in this work, the question of the role of ROS in the action antibiotics remains controversial. According to the reviewer, in the future it is necessary to accumulate additional and more convincing evidence to solve the problem. The foregoing does not diminish the merits of the work under review.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: José Manuel Rodríguez Martínez
+**********

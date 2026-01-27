@@ -1,0 +1,154 @@
+
+25 Aug 2022
+PONE-D-22-14861Challenges and commonly used countermeasures in the implementation of lifelong antiretroviral therapy for PMTCT in Central Uganda: Health providers’ perspectivePLOS ONE
+Dear Dr. Mukose,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. The comments can be found at the bottom of this letter.
+Please submit your revised manuscript by Oct 09 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“This study was funded by the Global Fund through Ministry of Health - Uganda; Grant Number: 683 UGD-708-G07-H. The contents of this article are solely the responsibility of the authors and do 684 not necessarily represent the official views of Global Fund, Ministry of Health or Makerere 685 University School of Public Health.”
+We note that you have provided additional information within the Acknowledgements Section that is not currently declared in your Funding Statement. Please note that funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+ “This study was funded by the Global
+Fund through the Ministry of Health-Uganda [Grant
+Number: UGD-708-G07-H]. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Please respond to all the reviewers' comments.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript describes the challenges and countermeasures in the implementation of lifelong ART In central Uganda. The manuscript is very well written and easy to follow and understand. There are a couple of issues when addressed will further enrich the publication
+1. Introduction: It will be useful if information on transmission rates of MTCT in Uganda is included in the overview. This will enable readers put the results in perspective
+2. 54 providers from 6 facilities and 3 districts: kindly show in a table the number and categories of providers from each health facility
+3. Even though, the authors acknowledge that data from 2014 may be an issue but think that the results may still be relevant. I am particularly concerned because MTCT has gone through a number transitions in the last decade. The last transition is the change to Dolutegravir with the attendant issues family planning particularly in the initial phase. In addition, viral load monitoring has become the standard of care compared to CD4 count. The implication of the results must be situated within the current context . This was not done
+Reviewer #2: Thank you for this interesting manuscript. Please do a final editorial review after addressing the comments.
+Abstract: Methods:
+The authors note that there were 54 key informant interviews with providers from 6 facilities – in the manuscript, it seems that the key informants extend beyond providers, including for example expert clients (which is great for data quality) – please make this clear in abstract. Or is the term “provider” being used to include all these categories of informants?
+Introduction:
+Historical background to ART initiation in Uganda well documented, and rationale for manuscript well presented.
+Methods:
+Study sites: Do ethics requirements allow for facilities to be named? Double check study requirements regarding identifiers and protecting confidentiality of providers. Section on ethical consideration says they were assured of confidentiality.
+Study population: See comment in abstract – It is a bit confusing who the participants in this study were – the authors say 54 key informant participants were included – and then lists them (Lines 129-131) – then later, Line 137, they say 54 health providers and 57 HIV positive women were enrolled. Are the initial 54 key informant participants the same as the 54 health providers? Please make this description clearer? In the results section, it is confirmed that the 54 key informants are as they are first listed in this section.
+Thanks for clarifying what expert clients are. What are store assistants?
+Line 133: Sentence starting “This study was part of…” – perhaps this should be the start of a new paragraph? Or clearly distinguish what is part of the study reported on in this manuscript, and what is the bigger study?
+Lines 138-140: Once the details of the participants (all providers, or other key informants too) are clarified, make sure that this sentence outlining the aim of the manuscript is in line with this (provider’s perspective only?).
+Data management and analysis (and elsewhere): Where author’s initials are used, standardise if they are written with periods/full stops or not (AM vs A.M).
+Results:
+Figure 1 quality is not very good – quite hard to read.
+Countermeasures – are these only described when reported on? It would be helpful to highlight this, as under most challenges they are described, and others there is no mention of how providers deal with the challenges.
+Descriptions in results – in some places these can be consolidated and summarised, as the illustrative quote gives the details – to double check that the summary point is not repetitive of what is reported in the quote (e.g. Lines 409-413: the countermeasure description could possibly be summarised as follows: “Participants reported that some clients were given additional ARV supplies to reduce visits to clinics for collection of medication” followed by the quote) – to check all.
+Inadequacy of HIV service delivery and countermeasures:
+Health worker related: Lack of relevant training:
+Line 207: This quote is from a supplies officer, since the different categories of staff were interviewed, it may be helpful to specify in the quote identifier that it was a supplies officer at a hospital, not a health provider?
+Are there any quotes/data to support the feedback of supervision and mentorship which were being done every 3 months? The limited training seems to indicate that not many people are exposed to this?
+Shortage of health providers:
+Line 219: Women – replace with female clients?
+Line 220: Elaborate – how do long queues affect staff attitudes? Make them tired, flustered – this is linked closely to heavy workload. If too few staff, workload is more? Describe/distinguish the overlap between these points.
+Logistics and infrastructure related: Lack of guidelines
+It seems like the guidelines do exist, it is that there are a lack of hardcopies of these guidelines? This also links to training on guidelines – if people are aware of the guidelines, they only need to refer to hardcopies for points of clarification?
+Insufficient funds:
+What should the source of these funds be? Is it budget allowance from government?
+Line 303-305: Who funds these activities if there is limited funding? NGOs? Individual healthcare providers?
+Non-utilisation of HIV services and countermeasures:
+HIV related stigma: Non-disclosure of HIV positive status
+Line 333: perhaps reword – “fear of marriage breakages” to “fear of negative impact on relationships” – this extends to multiple partnerships scenarios, and the example given is about a marriage break-up.
+Fear to be followed-up: Is this follow-up referring to treatment adherence follow-up, linkage to care, reminders to come for clinic visits, or what kind of follow up? It would be helpful to know what is being referred to here?
+Unwillingness to be linked to other intra-facility service care points:
+Line 367: What is EID? Make sure all acronyms in full first time.
+Suboptimal treatment adherence and countermeasures:
+ART related: Preference for herbs:
+Should this section “preference for herbs” be reclassified as “preference for traditional medicines”? Is the use of herbs about using traditional medicines?
+Male spouse related: Fear of spousal reaction:
+This section seems to be very closely related to the section on stigma and non-disclosure – which was because of fear of spousal reaction, resulting in non-adherence? How were these themes differentiated? The link and distinction needs to be noted.
+Low male partner involvement in care:
+Lines 469-496: The countermeasures described here are really important, in many African country settings, these ANC and delivery services are not set up to accommodate male partners attending these services with their female partners. This can be highlighted in the discussion.
+Discussion:
+The authors note numerous really important recommendations throughout the discussion. Are there any considerations for how to take these recommendations forward – should there be government level strategizing, call for funding to increase budgets, further research, or how can these recommendations be implemented? (the last sentence of the conclusion section highlights research on the effectiveness of the countermeasures, which addresses this).
+Fear of spousal reaction and low male partner involvement in care:
+Line 640: Reference this first sentence.
+Strengths and limitations:
+To add that only “providers” were interviewed – client perspectives could have added value to the results.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+31 Oct 2022
+PONE-D-22-14861R1Challenges and commonly used countermeasures in the implementation of lifelong antiretroviral therapy for PMTCT in Central Uganda: Health providers’ perspectivePLOS ONE
+Dear Dr. Mukose,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by 29th November 2022. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Authors response adequately addresses the comments raised. The manuscript is much clearer. However, the authors need to correct the error regarding Reference 2 and 3 . Otherwise, the manuscript is good to go
+Reviewer #2: Thank you for addressing the review comments. I only have a few minor additional comments.
+Please do a final copy edit before finalising.
+Introduction:
+Lines 87-91: Revision describing that MTCT of HIV should have declined due to revised treatment guidelines – the example demonstrating that it has not declined, uses data from 2017-2019, yet the guidelines were only implemented in 2020 (Line 78). Perhaps authors should find more recent data on MTCT rate in Uganda, or revise the wording of the paragraph.
+Methods:
+Study population: The study population selection and participation is much clearer now, thank you.
+Results:
+Line 229: Insert missing words: “Table 2 shows the details of the health providers who participated…”
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

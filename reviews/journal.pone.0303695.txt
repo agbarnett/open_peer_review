@@ -1,0 +1,104 @@
+
+3 Oct 2023
+PONE-D-23-11489The potential of X-ray computed tomography for a xylological and dendrochronological analysis of Egyptian mummy labelsPLOS ONE
+Dear Dr. Blondel,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 17 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Dario Piombino-Mascali, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+“Yes.
+This article is part of a post-doctoral project funded by the SNSF, project n°192176 "The Roman Egypt Laboratory: Climat Change, Societal Transformations, and the Transition to Late Antiquity"
+web page project: https://ancientclimate.philhist.unibas.ch/en/project/
+Web page SNSF :
+https://www.snf.ch/fr”
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“The tomographic analyses carried out on 38 mummy labels was financed in the framework of the SNSF project n° 192176 "The Roman Egypt Laboratory: Climate Change, Societal Transformations, and the Transition to Late Antiquity". We warmly thank the engineers of the Institut Charles Sadron, CNRS - UPR22 of Strasbourg, Damien Favier and Antoine Egele, for their professionalism and for taking the time to process all the selected mummy labels. We would like to thank Véronique Asensi Amoros for her advice concerning anatomical identifications and the exploitation of tomographic images.”
+We note that you have provided funding information that is currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+“Yes.
+This article is part of a post-doctoral project funded by the SNSF, project n°192176 "The Roman Egypt Laboratory: Climat Change, Societal Transformations, and the Transition to Late Antiquity"
+web page project: https://ancientclimate.philhist.unibas.ch/en/project/
+Web page SNSF :
+https://www.snf.ch/fr”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. We note that Figures 1, 2, 4, 6 and 7 in your submission contain copyrighted images. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+1. You may seek permission from the original copyright holder of Figures 1, 2, 4, 6 and 7 to publish the content specifically under the CC BY 4.0 license.
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission. 
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+2. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+5. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+6. We note that you have referenced (John J. Variation of wood anatomy in relation to environmental factors in two southern African broadleaves. Departement of Pure and Applied Biology, imperial College, London, Unpublished PhD Thesis; 1990) which has currently not yet been accepted for publication. Please remove this from your References and amend this to state in the body of your manuscript: (ie “Bewick et al. [Unpublished]”) as detailed online in our guide for authors http://journals.plos.org/plosone/s/submission-guidelines#loc-reference-style
+Additional Editor Comments:
+Please consider the recommendations of the reviewers, make the relevant changes, double check the reference style and have the paper edited by a native English speaker prior to resubmission. Thank you
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+Reviewer #3: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Nice piece of work. A few changes in terms of grammar and spelling (on mss that will be sent to the authors). A question: at the outset, how did the authors establish the type of wood, or was that a result of their work? A trifle unclear. Please clarify.
+Reviewer #2: Dendrochronology remains underdeveloped in the context of Egyptian archaeology; therefore, this paper makes a significant contribution to the field of 'dendro-Egyptology.' However, the applicability of dendrochronology in ancient Egypt is hindered by the scarcity of trees with suitable rings for dating purposes in the region. Dendrochronology is most reliable when there is a continuous sequence of tree rings spanning a long period. In regions with limited tree growth, such as Egypt, this method becomes less practical due to the rarity of suitable tree species and samples. A primary challenge in 'dendro-Egyptology' is the limited availability of local wood resources, with wood reuse being a common practice. As mentioned in the paper, some of the examined labels originated from reused wood, which complicates dendrochronological analysis, not only here but in general in Egypt. Emphasizing this obstacle in the text is essential.
+Nonetheless, mummy labels and wooden tablets with inscriptions bearing dates are of utmost importance for advancing dendrochronology in the region. Some wood identification methods can be invasive, and museum curators may be reluctant to employ them. Accurate species identification is crucial for dendrochronological examination, but it is often a challenging and sometimes impossible task. Therefore, this paper describes the available methodology, which may prove valuable to other scholars.
+Over all I do not have negative comments and I do not see and flaws but regarding Table 1: it is stated that the dimensions are provided in millimetres. I believe there may be an error because it seems unlikely that these labels measure, for example, 14.5 mm in length; rather, it is more likely that they are 14.5 cm.
+In other aspects, the paper appears sound. The discussion is clear, and the conclusion is acceptable.
+Despite the limitations of the currently available equipment, studies like this one must be conducted as they hold the potential to refine our understanding of silvicultural practices, chronology, and local craftsmanship. The present study shows new possibilities for the application of XRCT while also highlighting its limitations. Negative results are equally valuable, and the authors provide valuable directions for further research, which should be pursued. Therefore, this paper provide a valuable contribution.
+Beyond the aim of the paper it is worth mentioning that the methodology described has the potential to be applied to other projects examining wooden objects from various periods and regions. For instance, at the last International Congress of Egyptologists, T. Beck presented a very interesting talk titled 'From Style to Function: Wooden statues and their ritual entanglements,' revealing a previously unknown practice of creating depictions located in concealed parts of wooden statues. Applying the methodology presented here to search for such engraved depictions in joints of wooden objects could be applied in future research.
+Reviewer #3: Dear authors,
+you present a very interesting study about testing and illustrating the potential of X-ray computed tomography (XRCT) to investigate the production of mummy labels from the Roman Era. The focus of the research is to assess whether XRCT can be used to i) identify the wood species, ii) retrieve tool traces and iii) carry out non-invasive dendrochronology. Your manuscript is very well structured and clearly written and you highlight the limitations of the technique, which is a crucial point in this type of papers, and one very much appreciated by this reviewer. Having said that, and as much as I would like to see this article published swiftly, I wonder whether it is suited for PLOS ONE. I base this thought in that i) it deals with the implementation of a technique that is not novel to cultural heritage research in general (the novelty resides in the object to which it is applied to), and ii) it does not report major findings. Given its informative character about the implementation of a technique, it may be better suited for a journal such as Heritage Science, or Journal of Archaeological Science: Reports.
+In any case, since the article presents sound research, I will have recommended minor revision, and leave the decision to the editor. Should the editor accept it, I have some minor suggestions for improvements that you may want to address (also if you send it elsewhere):
+- In the submission file you replied to the Data Availability statement that "Yes - all data are fully available without restriction". However, you have not indicated where this data can be found. This statement should be amended providing a link to the data repository.
+- Replace non-destructive by non-invasive in the abstract and elsewhere, as a non-destructive intervention can still be invasive, but the work you describe here is non-invasive (which by definition is also non-destructive).
+- In the abstract, mention the nr of labels that were examined, also in the introduction, as this is not explicitly said until the first paragraph of the discussion (38 labels). The number of researched labels contrasts with the one reported in the introduction for the collection in question (256 labels). “Here, XRCT was tested on a batch of 38 mummy labels from Roman Egypt”
+- The references 1 to 5 in the introduction, and many other throughout the text, are biased towards French publications that are difficult (or impossible) to obtain online. E.g: 10, 11, 14, 24, 26, 29, 32, 39, 42 (there are several English publications to refer to the principles of Dendrochronology). References 43 and 44 are highly justified for this article, but for the other ones, nowadays there is a large corpus of scientific literature in English dealing with the research of wooden object from museum collections in Austria, Italy, The Netherlands, Norway, etc. and about other topics related to this paper. PLOS ONE is a multidisciplinary journal read worldwide and providing English references wherever possible is an added value. I suggest that you replace those references as much as possible by scientific literature published in English.
+- In the first paragraph of Material and Methods, please write what dates correspond to the Greco-Roman period, as this is not known by readers not familiar with Egyptian history.
+- Also in the Methods, in the part about X-ray CT, please specify the X-ray settings used, as this is customary for X-rau CT studies, and is necessary for reproducibility of results. Also, please explain whether the same settings were used for labels of different dimensions (did you adjust the settings or used the same for all).
+- Figure 1 is the same one as the one published in the article https://doi.org/10.1163/27723194-bja10017 by the same authors earlier this year: ‘Mummy Labels: A Witness to the Use and Processing of Wood in Roman Egypt’. I see that the article is published in the IJWC under license CC BY 4.0 Deed, therefore it is up to PLOS ONE whether they are OK with the figure being published there too.
+- In the last paragraph of the point "Comparison of dendrochronological acquisition methods", you report a find that echoes what Bossema et al 2021 published too: « The discrepancy between the acquisition methods was maximal for cutting on slabs or close to the pith" (they show a figure of tree-ring measurements obtained from the board of a historical chest that clearly illustrates that discrepancy). Therefore I suggest that you refer here to their publication as well, as it will show that you are well acquainted with the current literature (you already have their publication in the reference list).
+- In line 254 there is no need to use the acronym QWA, as this is not used later on.
+Kind regards
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Wojciech Ejsmond
+Reviewer #3: No
+**********

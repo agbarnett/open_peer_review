@@ -1,0 +1,125 @@
+
+1 Sep 2023
+PONE-D-23-18553Predicting ruminal degradability and chemical composition of corn silage using near-infrared spectroscopy and multivariate regressionPLOS ONE
+Dear Dr. Pucetti,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 16 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Aziz ur Rahman Muhammad
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, all author-generated code must be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. Thank you for stating in your Funding Statement: 
+"This work was supported by the National Council of Scientific and Technological Development (CNPq - Grant Number -465377/2014-9), National Institute of Science and Technology in Animal Science (INCT – Ciência Animal), and Coordination of Improvement of Personal Higher Education (CAPES)."
+Please provide an amended statement that declares *all* the funding or sources of support (whether external or internal to your organization) received during this study, as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.  Please also include the statement “There was no additional external funding received for this study.” in your updated Funding Statement. 
+Please include your amended Funding Statement within your cover letter. We will change the online submission form on your behalf.
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Additional Editor Comments:
+Dear Authors,
+I would like to invite authors to revise the manuscript as suggested by reviewer before final publication of the manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+5. Review Comments to the Author
+Reviewer #1: The paper addresses an interesting issue, the use of NIR, which represents an interesting, low-impact and very rapid precision technology. Indeed, I do not find correct to use the validation of in vivo degradability with a very low number of samples (about 20).
+I suggest to modify the paper without the in vivo test. The authors could divide it into 2 different papers.
+Other important issues:
+Line 80- Sample collection and preparation
+Add information concerning:
+-how much samples have been collected?
+-time of collection
+-which corn hybrid
+-climate characteristics of the samples site
+Line 88-I don’t understand the numbers of analyzed samples. 94 samples were analyzed with NIRS but only 23 were tested in vivo. Please explain that.
+I suggest to compare the NIR spectra presented in this paper with that one published in the article Zicarelli, F.; et al.Agronomy 2023, 13, 634. https://doi.org/10.3390/ agronomy13030634
+Reviewer #2: The authors have performed the analysis in a scientific manner and presented it in a wholely defined manner. I highly recommend the acceptance of the manuscript with minor revision
+1. Kennard-stone algorithm is utilized for dataset classification. Please add few advantages and limitations of the algorithm.
+2. Please explain concordance co-efficient.
+I have no major issues prior submission to the manuscript except above stated comments.
+Reviewer #3: General
+This manuscript needs some revision before suitable for publication and the overall structure needs to be revised. The authors do need to provide further justification of the study as some similar studies have been published but the authors have not cited these in the introduction and identified the new information provided by their work. The novel aspects of the work need to be clearly identified.
+The number of abbreviations in the manuscript is excessive and reduces the overall readability. The number of abbreviations needs to be reduced.
+A combined results and discussion section can be difficult to read, I would suggest that the results and discussions sections are separated.
+Line 23: delete additional ‘the’
+Line 25 - 26: This needs to be rephrased. I presume the 95 samples were for development and the 23 samples were for validation? The sentence should reflect this, currently states development for both.
+Line 27: What are the ‘typical analytical methods’?
+Line 94: Change ‘7’ to ‘seven’.
+Line 101: Why was this the considering the appropriate forage: concentrate ratio and diet composition?
+Line 344: It would be better to use different shapes as colour version will be online only, consider readers that may print the manuscript in black and white.
+Line 392: Replace the word ’globular’ with an appropriate word.
+Table 1: Be consistent with the number of decimal places that data is presented to. Error should be presented as one more decimal place than mean (majority are okay but some values need to be corrected).
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Tulika Bhardwaj
+Reviewer #3: No
+**********
+
+30 Oct 2023
+PONE-D-23-18553R1Predicting ruminal degradability and chemical composition of corn silage using near-infrared spectroscopy and multivariate regressionPLOS ONE
+Dear Dr. Pucetti,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised below. Please submit your revised manuscript by Dec 14 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Aziz ur Rahman Muhammad
+Additional Editor Comments:
+Dear Authors
+Thanks for revising the current manuscript according to reviewer suggestion. However, you reported that you have provided the revised version with changes that are in different color but in the revised manuscript i am unable to find different color. Therefore, i request author to resubmit the revised file indicating changes so that i could finalize the current manuscript.
+Regards
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+**********

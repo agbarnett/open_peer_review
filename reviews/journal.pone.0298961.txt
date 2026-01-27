@@ -1,0 +1,126 @@
+
+11 Dec 2023
+PONE-D-23-34355The Relationship Between Alpha Power and Heart Rate Variability Commonly Seen in Various Mental StatesPLOS ONE
+Dear Dr. Kawashima,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Reviewer#1 suggests rejection, while Reviewer#2 is for a minor revision. I agree with Reviewer#1 that there are notable criticisms regarding the introduction, methods sections, and data analysis that undermine the solidity of the interpretation of the results and make the publication of this manuscript unacceptable. However, I also believe that the authors can address all the suggested changes. Thus, I invite them to provide an extensive revision of all the mentioned critical sections pointed out by both reviewers and resubmit their revised manuscript for further consideration.
+Please submit your revised manuscript by Jan 25 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Vilfredo De Pascalis
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Did you know that depositing data in a repository is associated with up to a 25% citation advantage (https://doi.org/10.1371/journal.pone.0230416)? If you’ve not already done so, consider depositing your raw data in a repository to ensure your work is read, appreciated and cited by the largest possible audience. You’ll also earn an Accessible Data icon on your published paper if you deposit your data in any participating repository (https://plos.org/open-science/open-data/#accessible-data).
+3. Thank you for stating the following financial disclosure: 
+SPS Grant-in-Aid for Early-Career Scientists (JP20K14274 and JP 23K17171)
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+This research was supported by a JSPS Grant-in-Aid for Early-Career Scientists (JP20K14274 and JP 23K17171) to T.K. The authors would like to thank Enago (www.enago.jp) for the English language review. The manuscript was drafted using DeepL Write and Microsoft Bing AI Chat. The AI-generated text was read, revised, and proofed by the authors.
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+SPS Grant-in-Aid for Early-Career Scientists (JP20K14274 and JP 23K17171)
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+5. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+Additional Editor Comments:
+Reviewer#1 suggests rejection, while Reviewer#2 is for a minor revision. I agree with Reviewer#1 that there are notable criticisms regarding the introduction, methods sections, and data analysis that undermine the solidity of the interpretation of the results and make the publication of this manuscript unacceptable. However, I also believe that the authors can address all the suggested changes. Thus, I invite them to provide an extensive revision of all the mentioned critical sections pointed out by both reviewers and resubmit their revised manuscript for further consideration.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: In the present study, titled “The Relationship Between Alpha Power and Heart Rate Variability Commonly Seen in Various Mental States”, authors investigate the relationship between Alpha Power and HRV by having participants undergo music listening sessions to evoke different mental states. Authors suggest that their results point towards evidence of an interplay between alpha and HRV. However, some major changes are in order before publication. There are some notable criticalities regarding the introduction and methods sections and in the data analysis that mine the solidity of the interpretation of the results.
+Major comments
+• The introduction needs to be expanded with additional crucial information that is now missing. I suggest adding a section introducing and detailing what HRV is and its relevance within the context of this manuscript. It is currently only briefly mentioned, and this information is not sufficient to support the rest of the manuscript. Furthermore, it is recommended to search the literature for studies that investigated the relationship between HRV and alertness, just like the EEG evidence reported in the first paragraph.
+• The stimuli paragraph is a bit confusing. I suggest specifying that each of the eight pieces was created using a combination of six 30s samples. Moreover, the rationale for choosing these pieces should be further elaborated. Why specifically 8 of those were a combination of clips from the MER database? Were the remaining 4 pieces not given a valence-arousal value? If so, why not? Are these 4 pieces to be considered as control stimuli? Is there another study in the literature that has been used to guide the authors’ decisions? Authors write that the pieces from Naji’s work were chosen because they were less frequently heard, but based on which metrics? What is the benefit coming from the fact that these supposedly evoke no memories? I am sure the authors carefully considered these questions before implementing the study, but this information needs to be clearly spelled out for readers as well.
+• Page 6, music exposure paragraph: I believe there could be a more robust way of setting up the analysis, which could provide more interesting insights. If each track is assigned a valence-arousal value so that it falls in one of the four quadrants (but I am not sure of this, as the stimuli paragraph needs more details as mentioned above), then it would be possible to have four sets of tracks each composed of three tracks. This way, authors could run an ANOVA by considering the mean of each set instead of the twelve tracks individually. Moreover, this would make sense since tracks in each subset are expected to not be different among them. Finally, if the ANOVAs were to highlight significant differences, those should be further investigated with the use of post-hoc analyses.
+• Page 6, line 32: authors state “as can be seen from the individual data points shown in the graphs, there appear to be individual variation”. I would argue that this is not a very sound methodology to discern eventual differences between conditions. I suggest implementing a more considerate approach when hypothesizing differences in the data.
+• The number of figures is overwhelming relative to the length of the manuscript. Some of these can be removed altogether, like figure 1, 3, and 4 since they report data with no significant differences. Figures 5, 6, and 7, provided the suggestion above relative to the analyses is implemented, could be merged into a single figure, as well as figure 10 and 11. This would bring the total number of figures to 5, which is more concise by delivering all the important information.
+Reviewer #2: The authors examined the relationship between EEG (8 channels) and HRV (using ECG) in 15 male subjects during 3-minute sessions with eyes closed. They incorporated a music segment in their design to control for mental states, which might aid the study. Overall, the paper addresses an interesting question, and the analysis is appropriate and straightforward.
+The overall results are negative, with a somewhat weak partial correlation between alpha2 and nHR. Nevertheless, reporting negative results is also important. As the authors mentioned, this correlation has shown inconsistency across the literature, and this study might contribute another piece to this puzzle.
+Major issues:
+The main results of the partial correlation are not clearly reported in the text.
+1. I assume the numbers in Figures 10 and 11 correspond to these results, but it's challenging to understand what was controlled for and how. It's crucial to clarify this, especially since the correlations prior to this did not yield a significant result.
+2. The term 'nHF' is not defined. How is it calculated? If it's a key result, its calculation method should be clearly explained.
+3. The rationale for choosing only male participants should be explained.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+29 Jan 2024
+PONE-D-23-34355R1The Relationship Between Alpha Power and Heart Rate Variability Commonly Seen in Various Mental StatesPLOS ONE
+Dear Dr. Kawashima,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Reviewer 1 is pleased with the revised manuscript, but still has two minor issues (in the HRV paragraph and Fig. 2 captions) that need to be addressed before publication. Please address these changes and resubmit for acceptance as soon as possible. Please submit your revised manuscript by Mar 14 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Vilfredo De Pascalis
+Additional Editor Comments (if provided):
+Reviewer 1 is pleased with the revised manuscript, but still has two minor issues (in the HRV paragraph and Fig. 2 captions) that need to be addressed before publication. Please address these changes and resubmit for acceptance as soon as possible.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors have answered all my previous comments in a satisfactory manner.
+However, I still have a few comments that need to be tackled before proceeding to
+publication.
+- Results, HRV paragraph: Here you report that after the task nLF has (M = 60.9, SD
+= 15.4, CV = 0.25), but this is a typo. The mean is 40.2 and the CV is 0.38 (taken
+from the file uploaded to OSF). I suggest making a double check throughout the
+manuscript to make sure all data has been reported correctly.
+- Figure 2 caption: change “Rectangles” to “Triangles”.
+Reviewer #2: No further comments, although the differences between the correlation and the partial correlation results still needs to be well justified.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Simone Battaglia
+Reviewer #2: No
+**********

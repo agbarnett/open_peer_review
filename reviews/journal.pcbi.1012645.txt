@@ -1,0 +1,15 @@
+
+16 Nov 2024
+Dear Dr. Iwamoto,
+Lyle Graham
+Feilim Mac Gabhann
+Jason Papin
+***********************************************************
+Reviewer's Responses to Questions
+Reviewer #1: Thank you for addressing my concerns in your revision of the manuscript. I think you have greatly improved the work and I believe it to be a significant contribution to the computational modeling of autonomic function.
+**********
+Have the authors made all data and (if applicable) computational code underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Christopher G. Wilson

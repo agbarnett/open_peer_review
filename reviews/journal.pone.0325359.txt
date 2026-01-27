@@ -1,0 +1,118 @@
+11 Mar 2025
+Please submit your revised manuscript by Apr 25 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Saumya Srivastava, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1.Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. Thank you for stating the following financial disclosure:
+ “The authors disclose the receipt of the following financial support for the research, authorship, and/or publication of this article: JSPS KAKENHI, Grant Number JP 20K19344 and 24K205300A supported this work.”
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. We note that your Data Availability Statement is currently as follows: “All relevant data are within the manuscript and in Supporting Information files.”
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+5. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+6. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well.
+Additional Editor comments: 
+Subject: Manuscript Revision – Minor Corrections
+I hope this email finds you well.
+The review process for your manuscript titled "Ulnar finger posture effect on a pinch strength" (Manuscript ID: [PONE-D-24-49287]) has been completed. The reviewers have suggested minor revisions to enhance the clarity and quality of your work.
+Please find the reviewer's comments for your reference. Kindly revise the manuscript accordingly and submit the revised version along with a point-by-point response to the comments at your earliest convenience.
+Should you have any questions or require further clarification, please do not hesitate to reach out.
+We are ready with the comments received by the reviewers. The manuscript is well-structured, with robust data and meaningful clinical implications . With minor improvements in methodological clarity, statistical justification, and discussion depth , it is suitable for acceptance  after revision.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+Reviewer #1: Thank you for the opportunity to review this interesting paper on finger postures during pinching. The experimental objectives, methods, and postoperative data evaluation methods including inter-rater evaluations are all well-documented. There are some questions regarding the discussion of the results. Please refer to the points below.
+Line 212, page16; The ICC values for inter-rater reliability (0.52-0.68) are not particularly high; please include a discussion addressing this point. Could this be due to a lack of experience on the part of Examiner 2?
+What are the causes of the differences in the natural ulnar finger posture during pinching? If pinch strength increases when the ring and little fingers are flexed posture, why do some individuals extend their ring and little fingers instead under power pulp pinch?
+Reviewer #2: General Comments
+This manuscript is an important finding for hand therapy and outcome measurement assessment of the hand. I believe this work adds to the body of literature with new knowledge but it is not without its limitations. Please see my comments below.
+Can you elaborate on why you chose to focus solely on pulp-to-pulp pinch strength rather than including other pinch types (e.g., lateral or tripod pinch) in this study? How might the inclusion of other pinch types alter the findings?
+The abstract mentions no consensus on ulnar finger posture during pinch strength testing. Could you provide more context on the range of practices currently observed in clinical settings beyond the ASHT recommendation?
+How do you envision these findings being integrated into standardized clinical protocols for pinch strength assessment, given the variability in current practices?
+You note that the effect of ulnar finger posture on pinch strength is not well explored. Are there specific biomechanical or physiological findings/issues from prior studies that guided your research question?
+Participants were instructed to extend their ulnar fingers "naturally" in the extension posture. How was "natural" extension defined or ensured during testing, and did this vary significantly between participants?
+The sample size was determined using a power analysis with an effect size of 0.25. Can you explain how this effect size was chosen, and whether it aligns with effect sizes reported in prior pinch strength studies?
+Examiner 2 had less experience and received 30 minutes of training. Did you assess whether this training was sufficient to minimize systematic differences between examiners, beyond what the inter-rater reliability results show?
+Pinch strength was measured with a 7mm pinch width. Why this specific width? How might varying pinch widths affect the observed differences between flexion and extension postures?
+Pinch strength in the flexion posture was 1.34 times greater than in the extension posture. Did you explore whether this ratio varied significantly across individuals or subgroups (e.g., by age, hand size, or sex)?
+Also, the natural ulnar finger posture was flexion in 66.7% of participants. Did you analyze whether participants with a natural extension posture exhibited different pinch strength patterns compared to those with a natural flexion posture?
+Inter-rater reliability was moderate (ICC: 0.52–0.68), lower than intra-rater and test-retest reliability. What factors do you think contributed to this, and how might they be addressed in future studies?
+The SEM and MDC95% values were provided for reliability. How do these values translate to clinically meaningful differences in pinch strength, for patient populations with hand impairments for example.
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes:  Gary Guerra
+**********
+13 May 2025
+Ulnar finger posture effect on a pinch strength
+PONE-D-24-49287R1
+Dear Dr Shota Date,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Saumya Srivastava, Ph.D.
+Additional Editor Comments (optional):
+Dear Shota Date ,
+I am pleased to inform you that the reviewers have completed their evaluation of your manuscript titled "Ulnar finger posture effect on a pinch strength" (PONE-D-24-49287R1). After reviewing their feedback and your revisions, we are happy to confirm that your manuscript has been accepted for publication.
+Dr Saumya Srivastava,
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

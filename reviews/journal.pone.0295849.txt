@@ -1,0 +1,91 @@
+
+1 Sep 2023
+PONE-D-23-19466Poloxamer-188 as a wetting agent for microfluidic resistive pulse sensing measurements of extracellular vesiclesPLOS ONE
+Dear Dr. Shahsavari,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 16 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Abhishek Kumar Singh, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following:
+The name of the colleague or the details of the professional service that edited your manuscript
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)”
+3. Thank you for stating the following financial disclosure:
+“These works are part of the research program Perspectief with project number P18-26, which is financed by the Dutch Research Council (NWO). EvdP acknowledges funding from NWO, VIDI 19724.”
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The study effectively demonstrates the viability of employing Polaxamer-188 as a substitute for the utilization of BSA or Tween20 as wetting agents in EV determinations via MRPS. I would like to outline certain recommendations to be integrated into the manuscript prior to its publication:
+EV test sample characterization by FCM.
+The authors employ FCM as a technique for the characterization of EVs, given that it does not require the use of wetting agents and is therefore suitable for assessing the effect of these agents on EVs. As they appropriately clarify, the size detection limit of this technique is approximately 145-165 nm. However, in the Results section, they mention that almost all of the particles in the sample are EVs, when they are only observing those larger than 165 nm using this technique. In fact, in Figure 2A, for particles smaller than 280 nm, there appears to be a decrease in the level of CD235a labeling. While this is more clearly explained in the discussion, it would be useful to mention it in the Results section. It is not evident from this figure whether the data points correspond to a single experiment or are the result of experimental replicates. The same Figure illustrates the effect of Triton X-100 lysis on the particles, indicating that 98% of them were susceptible. However, this seems to hold true for particles larger than 400 nm, but not for the smaller ones. I suggest clarifying how the percentage of lysis is determined in this section.
+Effect of wetting agents on EV samples determined by FCM.
+In Figure 3, the effect of Tween20 on the particles is evident, but it is not specified whether the results are experimental replicates or single measurements.
+Effect of Poloxamer-188 on MRPS determination.
+The authors demonstrate a narrower distribution of transit time values when using polaxomer-188 compared to BSA or Tween20, indicating a higher degree of pore wetting (Figure 4). It would be useful to include a measure of dispersion for the values obtained in both cases as supplementary information. Additionally, I suggest presenting the EV concentration values obtained with Tween20 in parallel, in order to showcase the impact of the wetting agent on the final EV concentration determined by MRPS, according to the agent used. This presentation could also reveal whether there is an increase in the concentration of EVs smaller than 200 nm that corresponds to the findings suggested in the FCM assays. Such findings would support the hypothesis of lysis or micelle formation of Tween20, detectable within this size range.
+Minor Observations
+Figure 1A C: The figure caption mentions that the graph corresponds to Run 2, while the text states that it corresponds to Run 1.
+Figures S1.1 and S2.1: Please label panels A and B for clarity.
+Reviewer #2: It was the aim of the authors to improve the method microfluidic resistive pulse sensing (MRPS) for measuring of concentration and size of extracellular vesicles by the choice of the wetting compound for the filter that is the part of the measuring device. They found that the previously suggested compound Tween-20 considerably affects the EVs while Poloxamer-188 turned out to be less aggressive and therefore more appropriate. I suggest that the authors consider the comments below:
+Line 54: The authors state: »By counting the number of particles and deriving the sample volume, MRPS estimates the concentration of particles.” Please explain what you mean by “Deriving the sample volume”. Figure 1 is a distribution of the number density of particles over the size. To understand this diagram it is necessary to understand how the data are obtained from the measurements. Therefore more explanation and an illustration to support the explanation would be welcome.
+The pre-detection filter is an important element of the device. It would therefore be of interest to visualize the filter. Could the authors provide a micrograph showing the size and the shape of the pores?
+Lines 64-66. The authors acknowledge the possibility that amphiphile Tween-20 causes lysis of EVs an affects the labelling. However even if the vesicles do not lyse, it could be expected that their interaction with amphiphilic molecules would cause their fragmentation and/or change their size and shape. One would expect that such compounds would be used with intention to strongly modify the membranous systems and affect the measurement of size and concentration.
+Extensive research on the effect of amphiphiles on red blood cell vesiculation starting already 50 years ago evidenced strong influence of detergents and other amphiphiles on the membranes. I suggest that the authors point to some of this work (see below some suggestions) and comment on the subject.
+1. B. Deuticke, Transformation and restoration of biconcave shape of human erythrocytes induced by amphiphilic agents and changes of ionic environment, Biochim. Biophys. Acta 163, 1968, 494–500.
+2. H. Hagerstrand, B. Isomaa, Lipid and protein composition of exovesicles released from human erythrocyte following treatment with amphiphiles, Biochim. Biophys. Acta 1190, 1994, 409–415.
+3. Hagerstrand, H. and B. Isomaa. Vesiculation induced by amphiphiles in erythrocytes. Biochim. Biophys. Acta 982, 1989, 179–186.
+4. Hagerstrand, H. and B. Isomaa, Morphological characterization of exovesicles and
+endovesicles released from human erythrocytes following treatment with amphiphiles.
+Biochim. Biophys. Acta 1109, 1992, 117–126.
+5. B. Deuticke, R. Grebe, C.W.M. Haest, Action of drugs on the erythrocyte membrane, in: J.R. Harris Ed. , Erythroid Cells, Plenum, New York, 1990, pp. 475–529.
+6. Kralj-Iglič V, Pocsfalvi G, Mesarec L, Šuštar V, Hägerstrand H, Iglič A. Minimizing isotropic and deviatoric membrane energy – An unifying formation mechanism of different cellular membrane nanovesicle types. PLoS ONE. 15, 2020, e0244796.
+Line 95: The authors state: “This study aims to identify a new wetting agent that leaves EVs intact and effectively reduces the surface tension of the sample for optimal pore wetting.” I see some conceptual problems with this sentence. Could the authors suggest and explain how it would be at least in principle possible to have a surface tension-reducing compound that would leave the membrane in an aqueous medium unaffected. Furthermore, passing through a filter is unlikely to “leave EVs intact” already due to mechanical impact of the material and of the flow. I suggest that the authors rephrase the expression to something like: “This study aims to identify a new agent that causes well controlled effect on EVs for optimal pore wetting.”
+Line 100: The authors state: “FCM was selected over MRPS because FCM measurements are virtually independent of the used wetting agents.” I respectfully disagree on this; if the agents modify the physical properties of the membrane (e.g. the bending constant), the flow in FCM could differently affect the samples. It should be born in mind that (in particular erythrocyte) EVs are colloid self-assembly that does not have a fixed identity. However, one could assume that the wetting agents would cause less artefact in measuring with FCM than with MRPS. Please rephrase.
+The authors state the lower limit of size assessed by FCM is 145 nm; ultra-resolution FCM may require filtering; were the samples filtered before FCM?
+Line 142. The authors claim: “Diluents were filtered (Nuclepore Track-Etch
+142 Membrane, 47 mm, 0.05 μm, Whatman) to remove particles smaller than 50 nm.” Please check whether there is a mistake; should it be “to remove particles larger than 50 nm?”
+Line 214: Please state the method with which the concentration was measured.
+Line 263: The autors state:” The desired wetting agent should fulfill two criteria. First, the wetting agent should leave EVs intact…..” I suggest that the authors decrease the rigor of the expectations. I think that the more appropriate criterion would be “to minimally affect the EVs”.
+Line 274: The authors claim: “We chose FCM over MRPS because FCM measurements are
+virtually independent of the buffer and also allows reliable size determination”. Please check this sentence. See also the comment above.
+Although this is out of scope of the present work, in the future it would be interesting to visualize the samples affected by different wetting compounds before and after MRPS (by SEM and/or cryo-TEM).
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

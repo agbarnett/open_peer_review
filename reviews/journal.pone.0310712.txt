@@ -1,0 +1,104 @@
+
+25 Jun 2024
+PONE-D-24-19444Identifying individuals at high risk for dementia in primary care: development and validation of the DemRisk risk prediction model using routinely collected patient dataPLOS ONE
+Dear Dr. Reeves,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 09 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, we expect all author-generated code to be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Line 215 - it would be beneficial if the time period for polypharmacy and pulse pressure are given int he text (not just tables).
+Line 225 - there are grave statistical consequences of using a missing data category instead of imputing. Missing data indicator is no longer encouraged when analysing data It is possible to see that the amount of missing data for the health indicators is not high, and most older people will have these data collected regularly due to them having at least one QoF condition. The Walters, Hardoon paper showed that it was possible to impute these data adequately. For smoking status, those that are missing are most likely to be non-smokers https://bmjopen.bmj.com/content/bmjopen/4/4/e004958.full.pdf
+Line 253 - the outcome is time to dementia diagnosis
+In the participants section, you say you exclude those with less than one year follow-up, but the lower quartile follow-up is 0.96, so assume these and the 25% with shorter follow-up got dementia in the first year of follow-up?
+Table 1 - sight impairment must be underrecorded as many people of that age would wear glasses for some degree of sight impairment, but many will not consult their GP for conditions that can be helped by opticians.
+Table 1 - define GP consultations involving a 3rd party (it only becomes when reading univariable associations text).
+Table 1 - define anticholinergic burden.
+Table 2 - no need to put ns in the table. It is better to allow readers to make their own minds up from the estimate and 95% CI.
+Line 364 - "The two cohorts..." this sentence sounds as if it has not been checked. If it has not been checked then remove (or check it). If it has been checked then modify the sentence to make it clear.
+Line 398 (and beginning of the paragraph) - I think total number of participants or person years is wrong as they read as the same.
+Line 466 - Higher blood pressure in midlife is associated with higher dementia risk. Blood pressure decreases in later life (usually) so lower blood pressure measured in later life as here is a risk factor for dementia. See Lancet Commission for Dementia, 2020.
+Reviewer #2: Comments to Authors:
+The aims of the current study were to develop risk models with improved ability to identify patients at higher risk of future dementia from their UK primary care record, by investigating a wider set of potential predictive factors, constructing development and validation cohorts more representative of the target population, and by increasing the completeness of information on dementia diagnosis using linked secondary care data. This is a robust study, and I read with great interest. However, I have a few concerns.
+- Major points
+1. Generally, patients who visit GPs are at higher risk of future dementia or may have great interest in preventing dementia. Namely, the authors’ study may have selection bias. They may be moderate or severe dementia cases. Mild cases may not be recorded in the GPs EHRs.
+2. According to IQR of follow-ups, about a quarter of patients for development cohort 60-79 years (0.96, 5) and validation cohort 60-79 years (0.99, 5) were lost to follow-up before a year (Table 1). Characteristics of early censored participants could be different from participants who followed up 5 years. Some of them might develop dementia when followed up longer.
+3. Prescribed medications could have overlapped with some medical conditions (ever recorded). When both sets of variables are entered in the same model, multicollinearity is expected. Usually, working operational definitions are developed by combining records of medication and medical conditions.
+4. Although CPRD has unreliable information such as education for older patients, education is a major factor in elucidating the relationship with dementia. Is there any proxy measure that can be used instead of education?
+5. IMD represents geographic communities. The authors may consider additionally applying multilevel Cox proportional hazards regression models (line 254, 259).
+6. With 60 evidence-based risk factors, the DemRisk models might be overfitted. This may lead to lack of generalizability. Models should be parsimonious. I suggest Chapter 7, Algorithms to Live By: The Computer Science of Human Decisions, written by Brian Christian and Tom Griffiths.”
+- Minor points
+1. The authors described their data source in detail so that readers can easily understand CPRD GOLD. Although this is a novel study, the authors may summarize a bit more (line 134-141, 142-149, 150-157).
+2. Compared to the long list of study strengths and their implications, the discussion provided in the study is somewhat short. The explanation may not provide strong evidence for the authors’ large prediction models. Would you please add more evidence by reviewing other previous studies?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+6 Sep 2024
+Identifying individuals at high risk for dementia in primary care: development and validation of the DemRisk risk prediction model using routinely collected patient data
+PONE-D-24-19444R1
+Dear Dr. David Reeves,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: To authors:
+The manuscript was extensively revised based on comments. I am grateful to the authors for adding qualities to this excellent paper.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

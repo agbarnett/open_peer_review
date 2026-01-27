@@ -1,0 +1,99 @@
+PONE-D-25-09992Frugal engineering of a jaw crusher for extractive industriesPLOS ONE
+Dear Dr. Rao,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 25 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Gaurav Ashok Bhaduri
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, we expect all author-generated code to be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.
+The American Journal Experts (AJE) (https://www.aje.com/) is one such service that has extensive experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. Please note that having the manuscript copyedited by AJE or any other editing services does not guarantee selection for peer review or acceptance for publication.
+Upon resubmission, please provide the following:
+The name of the colleague or the details of the professional service that edited your manuscript
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)”
+Additional Editor Comments (if provided):
+Dear Authors
+Thank you for submitting your manuscript to PLOS One. I do feel that the manuscript needs major revisions in order to be accepted for publication in PLOS One, based on the recommendations of the referees.
+Please find the comments of the referees for your perusal and necessary amendments. Please resubmit the manuscript by 06/05/2025.
+Kind Regards
+Gaurav
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. The title “Frugal engineering of a jaw crusher for extractive industries” is too general. It is necessary to specify the unique aspect of the study, for example, mention “factor of frugality” or “bio-inspired design”.
+2. Similarly, it is worth adding more specialized keywords.
+3. The abstract gives a good overview of the study, but could be improved by adding quantitative results (for example, percentage weight reduction or increase in safety factor) for greater credibility. It is important to immediately indicate how much more “economical” the new design is in numerical terms.
+4. The introduction well justifies the relevance of frugal engineering, but lacks a clearer statement of the problem that this article solves. What is the specific “disease” of current solutions that the authors want to “cure”? Also, it would be worthwhile to expand the literature review on frugal engineering in the mining industry to demonstrate the novelty of the approach.
+5. “Use of the factor of frugality” – the very concept of “factor of frugality” requires a more detailed explanation. How is it calculated, what parameters are taken into account, why these particular ones? In formula (1), it is necessary to explain what “i” (index) is and what specific “material savings schemes” are implied.
+6. The numerical modeling section lacks information on model validation. How is the adequacy of the finite element analysis model used confirmed? References to relevant standards, experimental data, or comparison with other known models are needed.
+7. Version 1 (the basic design) is described as “simple”, but there is no detailed explanation of why this particular design was chosen as a starting point. Version 2 is created using the generative design method. However, there are few details about the parameters and constraints used in the generative design. Version 3 is bio-inspired, but the connection to specific natural objects is not obvious.
+8. Tables 3, 4, and 5 present the results for each version of the components. However, there is no detailed analysis of these results. Why do some parameters improve while others deteriorate? What are the reasons for these changes? It is necessary to relate the results to the specific design features of each version.
+9. It is important to show that the “factor of frugality” is not just an abstract value, but actually reflects resource savings and increased safety. What is the correlation between the “factor of frugality” and other performance indicators (e.g. production cost, service life, reliability)?
+10. The presented cost savings calculation is too simplified. It does not take into account the costs of developing new designs, making prototypes, conducting tests, and possible changes in the technological process. Formulas (4) and (5) use coefficients 1.1 and 1.3 to account for metal losses and savings on sprues. It is necessary to justify the choice of these coefficients with references to literature or your own calculations.
+11. All indicators are highly dependent on the material. It would be good to consider other materials and compare the indicators.
+Reviewer #2: Although this paper represents a very interesting topic to the field and probably considered all processes, however it relies on granite as the crushed material while in nature the granite as raw material may be found mixed with other material particles such as iron. It’s recommended to take that into consideration.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+Frugal engineering of a jaw crusher using the factor-of-frugality, a modern version of the safety-factor
+PONE-D-25-09992R1
+Dear Dr. Rao,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+sunny narayan
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: thank you for your response, but it is very important point and may effect the whole process in sites so I think you might take this point into consideration in future research.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

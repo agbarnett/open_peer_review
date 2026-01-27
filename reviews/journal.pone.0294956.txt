@@ -1,0 +1,141 @@
+
+5 Jul 2023
+PONE-D-23-11232Cervical Cancer Screening in Brazilian Amazon Indigenous Women: a wakeup call to expand vaccination and improve access to cervical cancer prevention practicesPLOS ONE
+Dear Dr. Vale,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 19 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Antonio Carlos Rosario Vallinoto, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“IRN was funded by a grant from the "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior" (CAPES) for her Master's degree.”
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+“The author(s) received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. We noted in your submission details that a portion of your manuscript may have been presented or published elsewhere. [The manuscript is included in a Master Thesis to be defended and published on the University of Campinas website. Results were accepted at the International Cancer Screening Network (ICSN) 2023, to be helded in June 2023.] Please clarify whether this publication was peer-reviewed and formally published. If this work was previously peer-reviewed and published, in the cover letter please provide the reason that this work does not constitute dual publication and should be included in the current manuscript.
+4. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+5. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript presents unpublished data regarding screening tests for cervical cancer in included indigenous and non-indigenous women, with a considerable sample number. It has scientific and sacred merit in public health. However, it is important to review some points to know:
+Title – The data presented do not support the inference of expansion of vaccination. It would be interesting to adjust and place: an alteration for the intensification of public policies for the prevention of CC.
+The study does not present data related to the occurrence of CC in the investigated populations.
+Methodology:
+1) What is the Nomenclature system for cytopathological reports adopted in the Program? Bethesda or Brazilian Nomenclature for Cytopathological Reports? It is necessary to insert this information in the methodology.
+2) The following outcome variables were used: LSIL, HSIL, squamous cell carcinoma, atypical glandular cells, adenocarcinoma in situ and invasive adenocarcinoma and smears without cytological alterations or normal. However, the frequency of these events was not described in the results or in the tables.
+Results
+1) What is the minimum and maximum age of the participants involved in the study? It is necessary to insert this information in the text.
+2) Were there cases of neoplasia in the investigated populations?
+3) Table 01 presents only the cytological results (low and high grade lesion) according to age group. It does not present the general characteristics of the examined population. Likewise, it does not inform all the variables considered as an outcome, which were described in the methodology (LSIL, HSIL, Squamous cell carcinoma, atypical glandular cells, adenocarcinoma in situ and invasive adenocarcinoma and smears without cytological changes or normal). These data should all be considered in epidemiology studies and in cervical cancer screening.
+4) What are the prevalence rates of cytological changes in the group of women who were screened for cervical cancer? Table 2 does not describe raw frequency or prevalence data for these outcomes.
+5) In the Tables, it is necessary to insert the raw prevalence data in the investigated population, the prevalence rate and also the “p” value obtained with the statistical analysis.
+Discussion
+1) 1st Paragraph - The data collected in the present study are not enough to understand the natural history of the disease, as they do not provide information about the follow-up of the participants, evolution or regression of the lesions, therapeutic interventions, nor do they consider the intrinsic factors of the host . It is necessary to adjust/remove this statement in the discussion.
+2) 3rd Paragraph - The prevalence rate is not enough to assess the magnitude of the risk, which is achieved through odds ratio. Thus, it is not possible to state that the prevalence is twice as high, but rather that there is a greater probability of occurrence of the event (LSIL) in indigenous women, as PR values above 1 demonstrate a positive association between the events. Therefore, I reinforce the idea that it is necessary to adjust tables 02 and 03, with the insertion of data on prevalence, prevalence rates and p value. As well as the statistical method employed.
+3) 4th Paragraph - The study did not aim to evaluate the prevalence of HPV in the examined groups and its correlation with the development of intraepithelial lesions. Thus, it is important to consider in the discussion aspects related to prevalence rates of cytological results (LSIL and HSIl) in the general population and in indigenous populations obtained in other studies conducted in Brazil and in other countries.
+4) 5th Paragraph – It is not possible to infer the protective effect of carrying out the screening test for cervical cancer screening in the present study, as there is no description of the cases of cancer in the examined group, there was follow-up of patients to assess the progression of high-grade lesions to cancer.
+Reviewer #2: The manuscript “Cervical Cancer Screening in Brazilian Amazon Indigenous Women: a wakeup call to expand vaccination and improve access to cervical cancer prevention practices” by Novais and collaborators, aims to evaluate the prevalence profile of cytological results of cervical cancer screening in Brazilian indigenous women by age and frequency of examinations compared to non-indigenous women. For this purpose, tests performed on indigenous women assisted in the Brazilian Amazon from 2007 to 2019 (3,231 tests) were used, which were compared with the results observed in non-indigenous women (698,415 tests) in the same period.
+It is an important study from an epidemiological and public health point of view, whose results will serve to reinforce and support the adoption of more appropriate public health policies aimed at health care for indigenous peoples in Brazil. It therefore deserves to be published.
+The study addresses indigenous peoples who exhibit remarkable biological, linguistic and cultural diversity, directly related to the origins and evolutionary events they experienced during their migration in the American continent, and who currently have different socioeconomic realities resulting from contact with non-indigenous people. In this context, analyzing the results globally is obviously important as a parameter or indicator of the health status of indigenous women, but in my view it fails to address the impact of local (regional), ethnic (biological) and sociocultural realities on the prevalence of changes cytology in indigenous people. In the Amazon there are at least 170 indigenous peoples or ethnic groups, the majority living in villages, but with different socioeconomic realities resulting from contact with non-indigenous people, as mentioned above, and a fraction living in urban contexts, generally subjected to macro-social changes imposed by life in cities, with changes in the traditional indigenous lifestyle, which obviously has an impact on their patterns of illness.
+Therefore, I consider it essential to analyze the data separately by ethnicity or indigenous people, as I imagine that this information is available in the project's database. This is very important even to assess the efficiency of health care in the different Special Indigenous Health Districts (DSEI), which are the units responsible for health care for indigenous peoples, regionally. In the same way, I consider it important to analyze the data separating indigenous villagers from urban indigenous people, if applicable.
+Another question refers to the “wakeup call to expand vaccination”, because, unless I'm mistaken, no molecular test was carried out to verify the circulating HPV serotypes in the indigenous people, and whether these types are being covered by the vaccine that is offered to the indigenous people. There is also no data on the vaccination coverage of the indigenous people described in the work, if they were vaccinated, how many doses they received, and the age groups contemplated with the vaccination. These are data that I consider important to help in the evaluation of vaccination against HPV and its expansion, if applicable, in indigenous women.
+I also suggest checking the nomenclature of the cytological results according to what is recommended by the Brazilian nomenclature for cervical cytopathological results in relation to the description of HSIL+. Still on this, I consider it inappropriate to use abbreviations in the abstract of the work, as it makes it difficult for the reader who is not familiar with the subject to understand.
+Another minor and punctual question refers to considering that “Indigenous women are vulnerable to cervical cancer”. It seems to me that it is a question of assessing whether they are more or less vulnerable than non-indigenous women, since they are also vulnerable, as far as I know, and under what conditions does indigenous women become more or less vulnerable, which involves aspects biological and sociocultural and environmental.
+In principle, these are my comments and contributions on the manuscript.
+Reviewer #3: The article seeks an important approach for proposing and monitoring strategies to expand vaccination and improve access to cervical cancer prevention practices. It presents a large number of indigenous and non-indigenous women enrolled and compares the prevalence of initial and more advanced lesions in the progression to cervical cancer, also stratifying by age group.
+Some adjustments are necessary to give greater coherence to the objectives and conclusions of the article. The most important of these is the lack of information about vaccination of women enrolled as participants. It is not possible to accurately discuss prevention and expansion of vaccination when specific information about vaccination on the study population is not known.
+As the authors group more advanced lesions (HSIL+), the terms “cervical cancer” and “cervical intraepithelial neoplasia” lose relevance and should not be included as keywords.
+It is not possible to define the rigor in the classification of “indigenous”, since the authors do not define which areas and the criteria that define them as “remote areas of the Amazon rainforest”. In the discussion, we found the information that “there are two demographic branches of the indigenous people: one living in indigenous territories in rainforest communities and another living in poor areas of urbanized regions“. It would be interesting to carry out the analysis by subcategorizing these two demographic branches. The addition of a map identifying the studied populations is strongly suggested.
+It is recommended to quantitatively list the number of women excluded from each group by each exclusion criterion.
+Data analyzed without vaccination information do not support the conclusion “The results suggest expanding the vaccine age group and an urgent need to improve access to screening practices in Brazilian indigenous women.”
+In “Availability of data and materials”, replace “availabel” with “available”.
+In the legend of tables 1 and 2, replace “Non-indigenous women” with “Non-indig: Non-indigenous women”.
+It is necessary to standardize the terms “1st test” and “screening test”, in order to avoid confusion. Sometimes we find “non-first test”, “test for the first time”, “first screening test”, “first cervical cancer screening test”, “cancer screening”.
+In the legend of Table 4, it is suggested to remove “Indig: Indigenous women; Non-indigenous women; P – Prevalence;”.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes: Igor Brasil-Costa
+**********
+
+13 Nov 2023
+Cervical cancer screening in Brazilian Amazon Indigenous women: towards the intensification of public policies for prevention
+PONE-D-23-11232R1
+Dear Dr. Vale,
+Antonio Carlos Rosario Vallinoto, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+Reviewer #3: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: The authors adequately addressed my comments and suggestions made previously and I consider that the manuscript is acceptable for publication, providing important data on a prevalence profile of cytological exam results in cervical cancer screening in indigenous women, which will contribute important information for the adoption of more appropriate public health policy methods for health care for Brazilian indigenous women.
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Jacqueline Cortinhas Monteiro
+Reviewer #2: No
+Reviewer #3: Yes: Igor Brasil-Costa
+**********

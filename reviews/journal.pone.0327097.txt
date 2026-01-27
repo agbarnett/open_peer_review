@@ -1,0 +1,122 @@
+Dear Dr. Valladares-Garrido,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 07 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Abdelaziz Abdelaal, M.D.
+1. When submitting your revision, we need you to address these additional requirements.-->--> -->-->Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at -->-->https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and -->-->https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf-->--> -->-->2. We notice that your supplementary figures are uploaded with the file type 'Figure'. Please amend the file type to 'Supporting Information'. Please ensure that each Supporting Information file has a legend listed in the manuscript after the references list.-->--> -->-->3. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.-->--> -->-->4. As required by our policy on Data Availability, please ensure your manuscript or supplementary information includes the following: -->--> -->-->A numbered table of all studies identified in the literature search, including those that were excluded from the analyses.  -->--> -->-->For every excluded study, the table should list the reason(s) for exclusion.  -->--> -->-->If any of the included studies are unpublished, include a link (URL) to the primary source or detailed information about how the content can be accessed. -->--> -->-->A table of all data extracted from the primary research sources for the systematic review and/or meta-analysis. The table must include the following information for each study: -->--> -->-->Name of data extractors and date of data extraction -->--> -->-->Confirmation that the study was eligible to be included in the review.  -->--> -->-->All data extracted from each study for the reported systematic review and/or meta-analysis that would be needed to replicate your analyses. -->--> -->-->If data or supporting information were obtained from another source (e.g. correspondence with the author of the original research article), please provide the source of data and dates on which the data/information were obtained by your research group. -->--> -->-->If applicable for your analysis, a table showing the completed risk of bias and quality/certainty assessments for each study or outcome.  Please ensure this is provided for each domain or parameter assessed. For example, if you used the Cochrane risk-of-bias tool for randomized trials, provide answers to each of the signalling questions for each study. If you used GRADE to assess certainty of evidence, provide judgements about each of the quality of evidence factor. This should be provided for each outcome.  -->--> -->-->An explanation of how missing data were handled. -->--> -->-->This information can be included in the main text, supplementary information, or relevant data repository. Please note that providing these underlying data is a requirement for publication in this journal, and if these data are not provided your manuscript might be rejected.   -->?>
+Additional Editor Comments:
+I commend the authors for their work. It was a good approach to stratify the data by the publication year.
+However, there are some concerns raised by the reviewers. These should be properly addressed before further consideration.
+In addition to these comments, please address the following:
+1- Why are all the figures provided as supplementary S1-S2-S3, etc.?
+2- There is a considerable amount of heterogeneity in most analyses. Have you considered doing sensitivity analyses? Galbraith plots? checking for outliers?
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+Reviewer #1:  REVIEW
+Overall assessment;
+This manuscript has attempted to provide a comprehensive analysis of the epidemiological and clinical characteristics of mpox in Peruvian patients. While the study contributes valuable data to the growing body of literature on mpox in Latin America, there are several critical issues regarding methodological rigor, clarity of discussion, and the interpretation of findings. Below is a detailed evaluation of the manuscript’s strengths and weaknesses.
+Major concerns:
+1. Methodological limitation
+• The retrospective nature of most included studies is acknowledged but not critically analyzed in areas such as recall bias, missing data, and confounding variables that could have influenced the reported epidemiological trends.
+2. Overgeneralization and lack of nuanced interpretation
+• The authors heavily emphasize that the predominance of mpox cases in men, particularly MSM, is consistent with global trends. However, the discussion lacks a critical analysis of potential underreporting or diagnostic biases among women and other populations. Are women less affected, or is their presentation underrecognized and underreported?
+•The claim that transgender women are at higher risk than cisgender women lack adequate contextualization. The authors cite studies suggesting differential risks but do not explore how societal, behavioral, and healthcare access factors contribute to these disparities.
+•The assertion that mpox severity is strongly correlated with HIV status is valid but lacks differentiation between well-controlled HIV infection and advanced HIV/AIDS. Instead of using ART access as a measure of how controlled HIV infection is (which may be flawed if viral load is higher), the discussion can be more robust by explicitly distinguishing between HIV+ individuals with undetectable viral loads (or a categorical spectrum thereof) and those with significant immunosuppression (low CD4/high viral load).
+3. Inconsistencies in clinical data reporting:
+•The discussion on hospitalization rates compares the Peruvian cohort (5%) with a Brazilian study (10.5%) without acknowledging potential confounders such as differences in healthcare infrastructure, diagnostic criteria, and thresholds for hospitalization.
+4. Citations issues:
+•The manuscript cites multiple systematic reviews and meta-analyses (e.g., Ortiz-Saavedra et al., Benites-Zapata et al…etc), but the authors do not critically engage with these studies’ limitations, such as sample heterogeneity or publication bias.
+Minor concerns:
+1. Lack of clarity in writing and organization:
+•Some sections contain redundant information. For example, the discussion of HIV comorbidity appears in multiple parts of the text, leading to somewhat unnecessary overemphasized repetition.
+•The manuscript would benefit from clearer subheadings within the discussion section to separate epidemiological trends, clinical presentation, and disease severity.
+2. Limited discussion on public health implications:
+•While the study discusses clinical manifestations, it does not sufficiently explore public health interventions. How should these findings inform mpox prevention strategies in Peru? What are the implications for vaccination, contact tracing, and community engagement?
+•The manuscript briefly mentions that "intervention studies focused on prevention and treatment in HIV co-infected patients could also offer key strategies to mitigate the effects of future outbreaks." This is a crucial point that deserves further expansion.
+•The conclusions should be refined to offer more actionable public health recommendations. The conclusion that these findings support prevention strategies is overly broad and lacks specificity. What exact strategies should be prioritized based on this data?
+Future directions
+•The call for longitudinal studies is appropriate, but the authors should specify which knowledge gaps remain unaddressed.
+Other comments.
+1.Confidence intervals are still wide for some estimates (thanks for sensitivity analysis), yet their implications are not discussed. For example, the estimate for lymphadenopathy is 83% (95% CI: 25-100%), making these pooled results highly questionable.
+2.S-table 3 talks about the quality of the dengue studies included in the review. This seems unusual as there is no relevance to dengue for this paper. An explanation could help the reader to understand.
+3.The choice of databases includes some that are not standard for systematic reviews (e.g., Google Scholar, which lacks robust indexing and reproducibility). The inclusion of these databases should be justified.
+My recommendation is that this manuscript provides valuable epidemiological insights into mpox in Peru. However, substantial revisions are necessary to enhance methodological transparency, refine the discussion of key findings, and strengthen the manuscript’s public health implications. Addressing these concerns will significantly improve its scientific rigor and impact. Specifically, by address the raised issues above including refining the discussion, ensuring more rigorous citation practices, improving clarity and structure, and expanding the public health relevance will enhance the manuscript’s contribution to the infectious disease research community.
+Reviewer #2:  The article shows important descriptive data that can be useful to understand the characteristics of mpox in the context of Peru and Latin American. However, I consider that some adjustments are necessary prior to publication.
+1) Abstract
+"The main objective of this study is to determine the prevalence of epidemiological and clinical characteristics of Peruvian patients diagnosed with mpox, providing a detailed view of the situation of this affected population."
+- I suggest changing this phrase to "The main objective of this study is to determine the epidemiological and clinical characteristics of Peruvian patients diagnosed with mpox, providing a detailed view of the situation of this affected population."
+2) Introduction
+The data of Table 1 don't add much to the Introduction where they are currently placed. The characteristics described are not mentioned in the Introduction and neither in the Discussion. It would be interesting to compare them with the results of the author's review in the Discussion.
+3) Methods
+- Explain the reason for excluding randomized clinical trials of the review.
+4) Results
+- The titles of Tables 2 and 3 should inform that they are presenting data from the observational studies. This is important because the data of the case series and case reports are presented separately in Table 4. The titles of the tables should allow understanding independently, without the necessity of referring to the main text.
+"On the other hand, the fact that 91% of coinfected patients were receiving antirretroviral therapy suggests that, although access to treatment is adequate, these individuals remain susceptible to mpox infection, raising questions about the impact of relative immunosuppression on the clinical course of the disease."
+- I suggest rephrasing this paragraph. The presence of HIV coinfection does not change the susceptibility to mpox infection, since several immunocompetent individuals were also infected. If severe immunosuppression is present, it can alter the severity of mpox, but the study does not address outcomes. Hospitalization is discussed in later paragraphs, what I consider important to maintain. Possible reasons for the finding of the high prevalence of HIV coinfection among the mpox cases should be discussed.
+- Data from the observational studies were analyzed separately from the ones of the case series and reports. I understand from reading the manuscript that individual data were not available for the four observational studies included in the review. If this assumption is correct, this should be stated in the text or, if it's not, the reason why pooled individual data analysis was not performed in variables such as sex or HIV status.
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+Epidemiological and clinical characteristics of Peruvian patients with mpox: a systematic review and meta-analysis.
+PONE-D-24-53481R1
+Dear Dr. Valladares-Garrido,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Miquel Vall-llosera Camps
+Staff Editor
+PLOS One
+Reviewers' comments:
+Reviewer's Responses to Questions
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

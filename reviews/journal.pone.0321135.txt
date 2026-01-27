@@ -1,0 +1,94 @@
+13 Feb 2025
+PONE-D-25-02954Risk factors for hypotony after transconjunctival sutureless vitrectomyPLOS ONE
+Dear Dr. Ando,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Dear author, your article will be more relevant if findings are compared with intial or prior work on post operative hypotony after transconjunctival vitrectomy. Also include the possible complications of hypotony in your discussion. Kindly revise your article according to the comments and advice of the reviewers. 
+==============================
+Please submit your revised manuscript by Mar 30 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Ogugua Ndubuisi Okonkwo, M.D.
+Journal requirements:   When submitting your revision, we need you to address these additional requirements. 1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Reviewer Comment
+The authors report the Risk factors for hypotony after transconjunctival sutureless vitrectomy. Please address the following questions and comments to improve the manuscript.
+The authors should be added the reference and discuss the similarities and differences their study.
+Ercalik NY, Tekcan H, Mangan MS, Ozcelik Kose A, Imamoglu S. Analysis of risk factors and ocular hypotony characteristics in choroidal detachment after penetrating glaucoma surgery. Int Ophthalmol. 2022 Nov;42(11):3431-3440. doi: 10.1007/s10792-022-02342-1. Epub 2022 May 20.
+Reviewer #2: This manuscript entitled “Risk factors for hypotony after transconjunctival sutureless vitrectomy” presents the risk factors for postoperative hypotony after sutureless small gauge vitrectomy in a very large sample of eyes.
+The study has a very large sample of enrolled eyes, many different underlying pathologies and a good methodology regarding statistical analysis and group order by AL. Overall, this data can be very interesting for the community and contributes to our knowledge by suggesting clearly the sutures in high myopic eyes.
+However, there are some minor issues, that need to be addressed.
+• First of all, please correct the AL by 20-23mm, 23-26mm and ≥26mm. It sounds much more rational, and we can include the ≤ symbol.
+• Secondly, can should discuss why one VR surgeon would not suture after silicone oil-removal or after re-vitrectomy? We know that if vitreous base shaving is performed, the residual vitreous is too small to contribute in would sealing. Especially, in case of re-surgery, if the same trocar position is used, the wound healing process is further delayed. Furthermore, eyes after silicone oil removal, show more frequently a postoperative hypotony, even with gaseous tamponades. This was also shown in your cohort. Based on your univariate analysis, you may suggest also suturing not only in high myopic eyes (where it is known that sclera is thinner) but also in re-surgeries and after SOR (silicone oil removal).
+• Which was the postoperative therapy? Do you inject steroids subconjuctival or parabulbous at the end of the surgery? Steroids at the end of the surgery are applied very often, together with antibiotics. However although they reduce postoperative inflammation, they prevent quick wound closure. In many cases of TSV reducing steroids during the first day or avoiding steroids at the end of the surgery allows quicker wound healing and restoration of normal pressure within 24h. One risks higher inflammation, however, this can addressed much easier if the pressure recovers, by increasing steroids. Patching the eye is a “questionable” measurement, that should be rather avoided. The reason of hypotony in almost all these TSV cases is the “silent” wound leaking, and not ciliar body insufficiency. Please discuss.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes:  Efstathios Vounotrypidis
+**********
+2 Mar 2025
+<p>Risk factors for hypotony after transconjunctival sutureless vitrectomy
+PONE-D-25-02954R1
+Dear Dr. Ando,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Ogugua Ndubuisi Okonkwo, M.D.
+Additional Editor Comments (optional):
+The authors have addressed satisfactorily all the concerns and comments raised in the initial round of review.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: nice revision, Risk factors for hypotony after transconjunctival sutureless vitrectomy about hypotony
+Reviewer #2: The authors have addressed the reviewers comments adequately and the manuscript is now suitable for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

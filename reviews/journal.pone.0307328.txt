@@ -1,0 +1,180 @@
+
+2 Aug 2023
+PONE-D-23-19988Can digital inclusion finance converge the regional agricultural carbon emissions gap?PLOS ONE
+Dear Dr. Tan,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 16 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Xiaobao Yu
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: 
+"This work was supported by the Chongqing Philosophy and Social Science Project through a grant awarded to TLZ (2021NDYB087)."
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+"This work was supported by the Chongqing Philosophy and Social Science Project （2021NDYB087) "
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+This work was supported by the Chongqing Philosophy and Social Science Project through a grant awarded to TLZ (2021NDYB087)."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: Agricultural carbon intensity would be analyses with the quantile method in this article. I would suggest publishing the article as it is because it is provided sufficient evidence to investigate the occasion.
+Reviewer #2: 1.Introduction: please start your elaboration from a much more macro perspective or background; for instance, you can illustrate the importance in a global background rather than only China.
+2.You should update your references. I can see so many references from journals in China. More WoS journals published in the latest 5 years are needed. Some suggestions for you to cite; for instance, when talking about finance and economy: “Higher education and digital Economy: Analysis of their coupling coordination with the Yangtze River economic Belt in China as the example”; when talking about rural development: “Rural revitalization of China: A new framework, measurement and forecast (https://www.sciencedirect.com/science/article/pii/S0038012123002082)”; when talking about the importance to sustainability: “Research progress analysis of sustainable smart grid based on CiteSpace”; when talking about carbon emissions and environment: “Temporal-spatial measurement and prediction between air environment and inbound tourism: Case of China”.
+3.Redraw figure 1: some lines seem wrong or improper.
+4.Should model setting be placed before the descriptive statistical analysis? Please check whether current order is proper.
+5.Refine titles. Some titles are too long; some are not proper; for instance, in 5.4, “etc.” is not commonly used in titles.
+6.Section 6: put implications first, and then put conclusions. Also demonstrate your novelties and limitations.
+7.Language must be polished. Current demonstration is Chinglish.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+8 Jan 2024
+PONE-D-23-19988R1Can digital financial inclusion converge the regional agricultural carbon emissions gap?PLOS ONE
+Dear Dr. Tan,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Feb 22 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Xiaobao Yu
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+Reviewer #4: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: No
+Reviewer #4: No
+**********
+6. Review Comments to the Author
+Reviewer #3: I have taken note of the following points that need to be addressed:
+- The reference style needs to be corrected to focus only on the family name. Additionally, all citations in the text should be updated in the reference.
+- There are many typos throughout the paper, and the English needs to be polished. The authors sometimes use past tense and sometimes present tense, so this needs to be revised.
+- In the abstract, "D-GINI" should be written as the full word at the beginning where it first appears.
+- The contribution and research gap in this study needs to be mentioned in the last paragraph to highlight the novelty of the paper.
+- The term "digitalinclusive finance" is mentioned in the abstract but only once in the literature review. It is unclear if "digital financial inclusion" and "digitalinclusive finance" are the same thing or not. The authors should clarify this and also consider focusing on digitalinclusive finance and CO2 emissions.
+- There are errors in lines 324, 496, and 528.
+- The Dagum Gini coefficient is not explained in section 3.1 and needs to be defined.
+- The methodology section is problematic as it mixes up everything and is not explained clearly.
+- Eqs (1-3) in the methodology section are not clear, and the authors should explain whether they represent the same model and why they have different structures.
+- Eq (6) is unclear and the explanation below is confusing.
+- Eqs (8-10) are also not clear, and many terms are not explained. The authors should define δ.
+- Section 3.2.4 is not clear, and the RIF-Blinder-Oaxaca decomposition method needs to be explained as well as how to decompose it.
+- It is unclear whether Table 3 was produced from RIF models and which equations were used.
+- Table 5 is derived from quantile regression, but the explanation in the methodology section does not make sense. All the coefficients are constant and do not vary according to quantile level.
+- Overall, the paper looks messy and is not yet ready to be published.
+Reviewer #4: 1. The title solely addresses the carbon emission gap, without acknowledging carbon emission intensity. Nevertheless, it is crucial to note that the text extensively covers the aspect of carbon emission intensity as well. Hence, I suggest authors focus on the carbon emission intensity may be more suitable. You can refer to the following papers related to carbon emission intensity: Does digital inclusive finance affect urban carbon emission intensity: Evidence from 285 cities in China. Cities
+2. The revision of regional differences into provincial differences is recommended.
+3. The conflicting arguments regarding carbon intensity and its regional disparities may potentially perplex the readers.
+4. The methodology section suggests emphasizing the merits of the RIF method in coping with carbon intensity gap measurements.
+5. The presence of numerous errors is evident. Such as “Error! Reference source not found.”
+6. The excessive inclusion of Chinese references in the paper does not align with the criteria set by English journals. I sugges authors cite more papers from international journals. Some papers maybe useful for your revision: Seeing green: how does digital infrastructure affect carbon emission intensity? Energy Economics. Reducing carbon emissions: Can high-speed railway contribute? Journal of Cleaner Production.
+7. The language expression and textual logic still have ample room for improvement. Take the first paragraph of the introduction for example, what does “The former establishment” refer to? What does “the 20-year period” mean? What does “Agriculture and land-use change account for a quarter of total global emissions of greenhouse gases” mean? What does “LCA” refer to?
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #4: No
+**********
+
+29 Feb 2024
+PONE-D-23-19988R2Can digital financial inclusion converge the regional agricultural carbon emissions intensity gap?PLOS ONE
+Dear Dr. Tan,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 14 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Xiaobao Yu
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: (No Response)
+Reviewer #4: All comments have been addressed
+Reviewer #5: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: No
+Reviewer #4: Yes
+Reviewer #5: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: No
+Reviewer #4: Yes
+Reviewer #5: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: No
+Reviewer #4: Yes
+Reviewer #5: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: No
+Reviewer #4: Yes
+Reviewer #5: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #3: Some citations remain unedited, such as in Section 2.3 (e.g., Suhrab M et al. (2024), Chen YB et al. (2022)[43]).
+I strongly suggest improving the discussion on the contribution and research gap in this study. It should be highlighted in the last paragraph to underscore the paper's novelty. Additionally, Section 6.3 only outlines the purpose and advantages of the study; there is no clear identification of the research gap or the unique value this paper adds to the existing literature.
+The methodology is unclear and contains unusual notations. For instance, ^− () represents the Dagum Gini coefficient whixh doest not make any sense here, and some notations lack italic formatting. Equations used in this study are not convincing, and there is a missing explanation of the unconditional quantile regression model.
+In Table 4, the differences between columns 1-2, 4-5, and 7-8 are unclear. How are they different.
+I could provide more feedback, but there are numerous errors and unclear explanations. The paper appears messy and sloppy.
+Reviewer #4: (No Response)
+Reviewer #5: I am pleased to acknowledge that the revised version of the manuscript has been considerably enhanced in terms of its comprehensiveness and overall content.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #4: No
+Reviewer #5: Yes: Dr. Kishwar Ali
+**********

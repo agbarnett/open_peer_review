@@ -1,0 +1,104 @@
+
+10 Jan 2024
+PONE-D-23-37221Temporal analysis of genetic diversity and gene flow in the threatened catfish Pseudoplatystoma magdaleniatum from a dammed Neotropical RiverPLOS ONE
+Dear Dr. Marquez,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+I have now received comments from two reviewers on this manuscript. They both agree that the manuscript is technically sound but they both recommended minor revisions to the text before it can be recommended for publication. Reviewer 1 also made edits directly on two pdf files that are attached. I think that the authors should incorporate all of the reviewers' comments as this will greatly improve the quality of the manuscript.
+Please submit your revised manuscript by Feb 24 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Jesus E. Maldonado, Ph.D
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service. 
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://aje.com/go/plos) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services. If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following:
+  
+The name of the colleague or the details of the professional service that edited your manuscript
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+3. Thank you for stating in your Funding Statement: 
+This study was supported by a grant framed under the Project “Variabilidad genética de un banco de peces de los sectores medio y bajo del río Cauca” (CT-2019-000661, Empresas Públicas de Medellín and Universidad Nacional de Colombia, Sede Medellín). Funders do not play any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Please provide an amended statement that declares all the funding or sources of support (whether external or internal to your organization) received during this study, as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.  Please also include the statement “There was no additional external funding received for this study.” in your updated Funding Statement. 
+Please include your amended Funding Statement within your cover letter. We will change the online submission form on your behalf.
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+This study was supported by a grant framed under the Project “Variabilidad genética de un banco de peces de los sectores medio y bajo del río Cauca” (CT-2019-000661, Empresas Públicas de Medellín and Universidad Nacional de Colombia, Sede Medellín).
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+This study was supported by a grant framed under the Project “Variabilidad genética de un banco de peces de los sectores medio y bajo del río Cauca” (CT-2019-000661, Empresas Públicas de Medellín and Universidad Nacional de Colombia, Sede Medellín). Funders do not play any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+5. We note that your Data Availability Statement is currently as follows: All relevant data are within the manuscript and its Supporting Information files.
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+6. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well. 
+Additional Editor Comments:
+I have now received comments from two reviewers on this manuscript. They both agree that the manuscript is technically sound but they both recommended minor revisions to the text before it can be recommended for publication. Reviewer 1 made edits directly on two pdf files that are attached. I think that the authors should incorporate all of the reviewers' comments as this will greatly improve the quality of the manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Striped catfish Psuedoplatystoma magdalineatum is an important, fished species in the Magdalena drainage of Columbia. It has declined to the point that it is listed as endangered. Hence, assessment of population genetic variation is pertinent to gain an understanding of its genetic viability, to gain insights into its recent demographic history, and to delineate populations as units for fishery management, Garcia-Castro and Marquez screened 13 species-specific microsatellite DNA markers and applied a battery of standard population genetic tests to old and new samples collected from the lower Magdalena-Cauca basin. They found considerable genetic diversity, one panmictic population, and evidence of a recent genetic bottleneck, findings which will inform management. The authors appropriately called for population genetic assessment at a larger spatial scale. The study design is straightforward, and the statistical tests and interpretations are appropriate. The findings can be presented more crisply as suggested below. I’ve marked the manuscript to guide revision of the English prose; I hope the authors find my marks constructive.
+Methods. – At line 135, I believe the authors do not mention site S1 in error.
+Results. – The paragraph starting on line 231 should mention whether any particular loci or populations presented frequent departures from Hardy-Weinberg equilibrium.
+At lines 245-246, the authors oversell the likelihood of the infinite alleles model (IAM) applying to their data. Most frequently, it is the two-phase mode that best applies to microsatellite data, often with about 80% stepwise mutation and 20% non-stepwise mutation. Why say anything about the likelihood of the IAM applying best? Why not simply report the results obtained, that IAM yielded a significant test result and the other models did not? The authors have a low M Garza and Williamson (2001) metric, and the cognizant reader will make their own judgement of there having been a recent bottleneck.
+At line 261, the authors should strike the word “not”. Infinite estimates of Ne do not provide evidence that the population IS very large.
+The authors should not make a big deal over the recent samples having a larger estimated Ne than the old samples. The confidence intervals overlap, which should be mentioned at line 265.
+I marked the sentence at line 266 to read of genetically effective migration. Now that I have had an hour to reflect on that, I realize that GeneClass2 does not show genetically effective migration, so the authors should not make that change.
+At line 275, I think that the authors intend to write within POPULATIONS. A word seems to be missing.
+Discussion. – At line 308, the point of the sentence can be sharpened as: environmental and anthropogenic pressures threaten the demographic and genetic viability of the species, particularly those recognized as having some degree of vulnerability.
+At line 326, the change in estimated Ne should be characterized as a non-significant increase. The confidence intervals are large, the estimates are imprecise and rather comparable, so the change should not be oversold.
+At line 336, the minimum Ne estimates of 414 SUGGEST LONG-TERM evolutionary risks for this POPULATION OF the species.
+References. – The literature citations are reasonably clean, but I did mark a few minor issues.
+Reviewer #2: The manuscript reports the genetic diversity and population structure of the endangered fish Pseudoplatystoma magdaleniatum, using microsatellite loci. It is well written and presents data worthy of publication in PlosOne. However, there are some points that must be clarified and others that should be modified to improve the article. See my comments and suggestions below.
+Line 39-40. Reword as suggested: basin showed healthy genetics after molecular analyses.
+Line 44. If it was previously molecularly analysed, please complete the sentence with this information.
+Line 65. Reword as suggested: large migratory fish and the most important fishing resource of Colombia
+Line 69-71. All these sentences must be reworded. See my suggestion below.
+P. magdaleniatum in the middle and lower sectors.... showed high genetic diversity and absence of populational structuring when analysed by microsatellites (quoted reference).
+Line 71-74. Reword the entire paragraph since, similarly, these mentioned species did not show genetic structuring. In addition, data on inbreeding or genetic diversity (e.g. Ra, He, Ho) are not reported for all mentioned species.
+Line 97. Change "above" to "mentioned"
+Line 104-106. Reword as suggested: … genetic monitoring emerges as an alternative to estimate the threat status and potential changes in genetic diversity of wild populations over time, mainly of those species with some degree of conservation concern and subjected to disturbances in its ecosystem (Laikre et al., 2010; Schwartz et al., 2007).
+Line 107-108. Delete “Ex-ante and Ex-post, since this information must be provided in the Material and Methods.
+Line 110-11: I suggest rephrase this sentence as suggested below:
+The expectations of this work were to find high genetic diversity and no population structuring in P. magdaleniatum of the Cauca River, based on the findings previously reported by...
+Line 117. Change "Ex-ante and Ex-post samples" to "sampling"
+Line 197 - . Rephrase as suggested below:
+To explore genetic changes on a temporal scale of the population of this species, genotypes previously obtained for individuals collected during the years 2010 - 2014 (Ex-ante sample) in sectors of the middle and lower sites of the Magdalena-Cauca basin, using the same set of microsatellite loci and the same methodology for genotyping them (see García-Castro et al., 2021), were included in the analysis, totaling of 311 individuals of P. magdaleniatum.
+Line 219-220. Make clear how stuttering effects were corrected.
+Line 232-233. Reword as suggested: no locus evidenced deviation from equilibrium in S4-S5 and just one locus (Psm18)…
+Line 234. Explain what false positive means in that context.
+Line 238. Correct to: to only one locus (Psm24).
+Line 315. Please quote some more recent biblio. references on this subject.
+Line 358-36. Reword as suggested: In conclusion, our results indicate that P. magdaleniatum has high genetic diversity and is not genetically structured along the Cauca River, although preserving evidence of recent reductions in its population size.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Patrícia Domingues de Freitas
+**********

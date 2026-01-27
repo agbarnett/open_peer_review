@@ -1,0 +1,259 @@
+
+12 Jul 2022
+PONE-D-22-08487Incidence and Predictors of Antiretroviral Treatment Failure among Children in Public Health Facilities of Kolfe Keranyo Sub-City, Addis Ababa, Ethiopia: Institution-based retrospective cohort studyPLOS ONE
+Dear Dr. Misasew,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please consider comments from both reviewers. 
+Please submit your revised manuscript by Aug 26 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Chinmay Laxmeshwar
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following:
+The name of the colleague or the details of the professional service that edited your manuscript
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+3. Thank you for stating the following financial disclosure:
+ “The authors have not received any finical support from any institution/government; hence, the operation of the research is solely financed by the handling fee received from the authors.”
+At this time, please address the following queries:
+a)        Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+b)        State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c)        If any authors received a salary from any of your funders, please state which authors and which funders.
+d)        If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Additional Editor Comments:
+1. Please describe the standard treatment guidelines in the country and whether the regimen prescribed for patients in your study differed.
+2. Isoniazid prophylaxis – is it initiation of completion of IPT? Also, how long ago was this IPT prescribed?
+3. Were any patients’ regimen was switched due to failure?
+4. Please proofread the manuscript and check the typos and grammar.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: I wrote some minor comments in attached document, so my main suggestions are highlight in yellow with a comment attached. I think the manuscrit is technicaly sound and data presented supports the findings. I do not see any possible ethical conflict in it. I am afraid I cannot comment on the statistical analyses as I do not have enough knowledge about the same.
+Reviewer #2: Thank you for the very interesting manuscript. I would like to suggest a some revisions to make it clearer to readers.
+1. Introduction:
+It would be interesting to include a couple of sentences on why you decided to carry out this study and what you hope to achieve based on the conclusions drawn.
+2. Methods:
+i) As regards ethics, please mention specifically why consent of patients was waived for this study.
+ii) Why is your sample size derived proportionally as opposed to including all participants that meet selection criteria?
+iii) Please reference the studies from which you derived your questionnaire.
+iv) How was your data anonymized and who had access to the key? Also, can you explain how you dealt with other identifying factors such as date of birth and address?
+v) Please indicate how bias was addressed. I see some sources. For example: You select centres with >10 children. This means that they are slightly larger centres, probably with more expertise. Also, I believe that the test and treat strategy was implemented in Ethiopia only after 2017, so this might bias results.
+vi) The definition of adherence is unclear. Why are missed appointments mentioned? How is adherence measured in the study.
+vii) Please define drug substitution in the operational definitions. Also, it would be good to have a reference of which drugs are used for EMTCT.
+viii) I see that you have defined the p value as 0.25 for bivariate analysis. Can you explain why you have chosen this threshold?
+3. Results:
+i) Can you explain how you dealt with missing data?
+ii) I suggest you stratify by patients before and after the test and treat strategy was implemented in Ethiopia. This would be an effect modifier for the baseline CD4
+iii) I see you mention virological failure in the text of your results but I do not see it in the table. Could you include that variable to, especially since you specifically refer to it in the introduction.
+Discussion:
+1. You mention poor ART adherence as a predictor of treatment failure. However, your definition mentions appointments while the other studies mentioned discuss treatment adherence. Please clarify.
+2. Please mention any biases in your limitations.
+3. It is important to mention the generalisability of your findings. How does it add to the body of knowledge on the topic at a regional and international level
+Conclusion:
+I would suggest that you focus on factors deemed significant by your analysis in the conclusion, otherwise you run the risk of it sounding like a generic wrap-up. Focus on important factors will lead to more of a connect between the results and the conclusion.
+A last comment: I saw some grammatical and syntactical errors in the article.
+In summary, I believe this article has scientific relevance and look forward to reading it when it is published.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Parvati Nair
+**********
+
+7 Oct 2022
+PONE-D-22-08487R1Incidence and Predictors of Antiretroviral Treatment Failure among Children in Public Health Facilities of Kolfe Keranyo Sub-City, Addis Ababa, Ethiopia: Institution-based retrospective cohort studyPLOS ONE
+Dear Dr. Misasew,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 21 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Chinmay Laxmeshwar
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: (No Response)
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Partly
+Reviewer #3: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+6. Review Comments to the Author
+Reviewer #2: Thank you for addressing most of my many questions.
+1. The manuscript is presented in an intelligible fashion, but there are many grammatical errors.
+2. Results from the table are repeated in the manuscript text; value of repetition debatable
+3. I still have a few concerns around phrasing:
+i) Line 156 says "A total of 250 medical charts were included in this study with a 100% response rate". To me. response rate=survey
+ii) Line 78 says: "82.8% were right censored (free of treatment failure)" --> This is not the standard definition of right censoring and censoring is defined differently earlier.
+iii) Does AHR mean adjusted Hazard Ratio? It is not expanded at first occurrence, hence unclear.
+iv) Line 234: This might be due to the previous use of highly mutated drugs as substitute drugs. --> Must rephrase; virus is mutated, not the drugs.
+4. Line 232: "This study showed that drug substitution was about 18% protective for treatment failure" --> Please check this, I think it is more that there is a 5-fold risk of failure at every point in the study if drug substitution does not occur.
+Reviewer #3: 1. The clarification about ART coverage in line 51-53 still confuse. Need to be specified the source of 90% target, UNAIDS target. E.g. According to the 2017 Ministry of Health estimate, 722,248 Ethiopians are currently living with HIV but with a low ART coverage of 61% for adults and 33% for children, far from the UNAIDS target of 90%
+2. Treatment failure in lines 59 is classified in so called later in the table as types, but in the text said is "measured" which doesn't seems accurate. And later refers to WHO criteria (line 71). May be harmonize IN one definition, clasiification and/or criterias
+3. "This showed that a good proportion of male and female sample was taken for the study", Do you mean that both genders are equally represented? "Good proportion" is not an adequated vocabullary
+4. "One hundred nineteen (47.6%) of study participants were found on AZT-3TC-NVP ART regimen during ART initiation":...were initiated on xxxx regimen"
+5. Do you have the CD4 %? Being many U5 children, these seems important to be reported
+6. "During their follow–up time, the majority of the study participants (88.8%) did not take PMTCT prophylaxis, even if born to HIV infected mothers". This refers to the patient follow-up? And applies to ones who were recruited immediately after born becasue if not how to value the PMTCT prophylxis? I'd suggest to say: "among total....xxx% received PMTCT/infant prophylaxis"
+7. 189-Predictors of treatment failure: there is a confusion with "regimen substitution" (line 191) with "drug substitution" (line 194. And when is talkjing about "drug substitution" is the shifts that Programme did d4T to AZT, EFV to DTG, etc? It will be good also to clarify if these shifts were done using VL previous shifting or not
+8. For Poor Adherence definition, please clarify is the missed doses are self-reported, by pill count or which other method
+In Discussion
+9. "The reason for the highest proportion of virological failure might be that virologic failure early detects treatment failure than immunological and clinical failure." And in many places is related to the lack of access to VL
+10. "NVP is the most commonly used drug during PMTCT and it is also used as a backbone for NNRTI regimen (of HAART-I'd take out this) which might result in a higher risk of treatment failure." Please elaborate more this idea
+11. "This study showed that drug substitution was about 18% protective for treatment failure" I don't understand this statement
+12. "The fact that AZT/3TC/NVP regimen is not being used currently could explain the observed variations". Which variations
+13. "This variation could be explained by recently, ART is being provided for every HIV positive individual and baseline CD4 is not being done routinely for each patient". This can explain lack of data but not lack of association
+14. Line 252-259: these paragraph need to be rephrase. And not clear how T&T is linked with no having relation between low CD4 and failure
+15. "Despite these limitations, the findings of this study could 269 be a great input for the national ART treatment program" I'd suggest : Could inform natioanal HIV Programme for better practices and policies in pediatric HIV care
+16. Line 273: UNAIDS virological supression targets
+Conclusion
+17. "Health care providers should provide a timely drug substitution when required". This is applicable for treatment/regimen change when failure is detected which is different from the "drug substitution" you defined as punctual replacement of one drug becasue programmatic issues
+18. In general the conclusions need to be described in a more objective way, not as an advise for parents/stakeholders/programme
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Parvati Nair
+Reviewer #3: No
+**********
+
+27 Feb 2023
+PONE-D-22-08487R2Incidence and Predictors of Antiretroviral Treatment Failure among Children in Public Health Facilities of Kolfe Keranyo Sub-City, Addis Ababa, Ethiopia: Institution-based retrospective cohort studyPLOS ONE
+Dear Dr. Misasew,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 13 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Dr. Chinmay Laxmeshwar
+Additional Editor Comments:
+I commend the authors on the hard work. However, there are still gaps in the manuscript that need to be addressed. In addition to the reviewers comments, please also consider the comments below. Also, please check the language and use formal academic language.
+1. Lines 50-51: Please reconsider the use of, “to reduce the problem of HIV”
+2. Line 52: “Ethiopians are currently” is not the correct tense
+3. Line 54: Please rephrase “infected children” this phrase. Look at the UNAIDS guidance on terminology at https://www.unaids.org/en/resources/documents/2015/2015_terminology_guidelines
+4. Lines 60-61: The UNAIDS goals are now 95-95-95 and not 90-90-90
+5. Lines 64-65: Please specify which WHO treatment failure criteria – clinical, immunological, or virological
+6. Line 156: How many charts were excluded and why?
+7. After reading “This showed that almost an equivalent proportion of male and female sample as taken for the study”, it feels like you have purposively taken this proportion.
+8. Table 2: In Status last visit, please clarify what are “drop” and “lost”
+9. Hazard ratios are not interpreted as “times higher/lower risk”. Look at PMID: 15273082
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #4: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: (No Response)
+Reviewer #4: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: (No Response)
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: (No Response)
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: (No Response)
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+Reviewer #4: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Parvati Nair
+Reviewer #4: No
+**********
+
+22 Jun 2023
+Incidence and Predictors of Antiretroviral Treatment Failure among Children in Public Health Facilities of Kolfe Keranyo Sub-City, Addis Ababa, Ethiopia: Institution-based retrospective cohort study
+PONE-D-22-08487R3
+Dear Dr. Misasew,
+Chinmay Laxmeshwar
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #4: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+Reviewer #4: The authors have incorporated most of the suggested changes. However, the following points could be reconsidered by the authors:
+1. Line 32_"The overall treatment failure rate within the follow-up period was 17.2%": Authors may reconsider mentioning rate with a percentage. It should be mentioned as a proportion.
+2. Line 157_"A total of 250 medical charts were included in this study.": Though it is mentioned that the change has been incorporated, however the statement seems the same as before. The authors should revise the given statement.
+3. Line 181_"It was found that a total of 43 subjects (17.2%) have treatment failure": Authors should reconsider the tense of the statement, in line with other statements in the paragraph.
+END
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #4: No
+**********

@@ -1,0 +1,154 @@
+
+30 Jul 2024
+PONE-D-24-23783Immunoinformatics design of a novel multiepitope vaccine candidate against non-typhoidal salmonellosis caused by Salmonella Kentucky using outer membrane proteins A, C, and FPLOS ONE
+Dear Dr. Igomu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+We have now received the reports from our reviewers, and after careful consideration, we have decided that your manuscript requires major revisions before it can be considered for publication. The reviewers have provided detailed feedback that we believe will significantly enhance the quality and clarity of your manuscript.
+Key areas requiring revision include:
+1. Sequence Diversity: Provide detailed analysis and presentation of the sequence diversity of the outer membrane proteins (OmpA, OmpC, and OmpF).
+2. Language and Structure: Address significant grammatical errors and improve the manuscript's clarity and organization. Consider using professional editing services.
+3. Methodology: The methods section should include additional technical details and present a figure explaining the stepwise flow of the methodology.
+4. Experimental Data: Discuss potential challenges and limitations of the immunoinformatic approach and provide a rationale for the chosen methodologies. Cite references that have used similar approaches with in vivo evaluations.
+Addressing these comments will significantly strengthen your manuscript. Please submit a revised version of your manuscript with a detailed response to each reviewer's comment. If you have any questions or need further clarification, please do not hesitate to contact us.
+==============================
+Please submit your revised manuscript by Sep 13 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Prashant Sharma, Ph.D.
+Journal requirements:
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, we expect all author-generated code to be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. We note that your Data Availability Statement is currently as follows: [All relevant data are within the manuscript and its Supporting Information files.]
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+Reviewer #3: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+Reviewer #3: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors employed a bioinformatics approach to analyze the physicochemical properties of three outer membrane proteins of Salmonella Kentucky and subsequently predicted their antigenicity and immunogenicity. This method demonstrates an effective and predictive strategy for developing a pipeline for various vaccines. Furthermore, by considering the HLA types of different ethnic groups, the study assesses whether these targets can be used universally for vaccines or diagnostics. However, a significant concern is the lack of clarity regarding the sequence diversity of the outer membrane proteins (OmpA, OmpC, and OmpF) analyzed throughout the paper, which limits the efficacy of the proposed target regions.
+1. The authors collected outer membrane sequences with 99% to 100% identity using BLAST, resulting in a narrow range of antigenic sequences that may not be suitable for protection against various Salmonella Kentucky strains. The authors should describe the number of "complete coding sequences (CDS)" as a percentage.
+2. Additionally, the candidate regions cover variation of OmpA, OmpC, and OmpF in all Salmonella Kentucky strains? The diversity of OmpA, OmpC, and OmpF should be analyzed to understand the sequence diversity and efficacy of the vaccine/diagnostic candidates. To address this, a maximum likelihood phylogenetic tree based on codon alignments using a non-redundant CDS collection of the Omp genes should be presented. Authors should confirm whether clusters in the phylogenetic tree correlate with amino acid sequence variation in the candidate regions.
+Reviewer #2: The manuscript presents a substantial amount of valuable data that is highly relevant and can contribute significantly to the field of vaccinology. However, in my opinion the paper has some
+Shortcomings and the manuscript's current structure and clarity need significant improvement.
+Major grammatical errors present, the manuscript needs language editing. Consider using professional editing services. Method section needs to be more systematically written with sufficient technical details to be more detailed and clearly described. While the data is extensive, the results section is challenging to follow.
+Specific comments
+1. The manuscript lacks proper punctuation, including brackets and full stops eg; pg 4, line 86, pg5, line 111
+2. Pg4, line 90: what are the various risk factors?
+3. Italicise all species names
+4. Please ensure that capitalization is used correctly eg: pg6, line 128: Human
+5. Good to have a figure explaining the stepwise flow of the methodology.
+6. Use the right terminology, pg 6, line 113: BLOSUM62 is substitution matrix.
+7. Was the signal peptide identified?
+8. Pg 5, line 97: FASTA format sequences in aa or nucleotide?
+9. Describe in detail the alleles used for T‑Cell epitope prediction analysis.
+10. What is the IC50 threshold values set?
+11. Pg 6, line 116: Epitope Analysis Resource from Immune Epitope Database (IEDB) server.
+12. Why ab initio method was preferred for tertiary structure prediction?
+13. Table 2 can be moved to supplementary file.
+14. The number of OMP sequences selected varies, OMPF has only 15 sequences?
+15. Table 3: can differentiate the epitopes by the protein (OMP A, C and F)
+16. Table 6; positive (typo), differentiate the OMPs.
+17. Resolution of the figures could be improved.
+18. Figure legends/captions should include a clear and concise description of the figure. eg Figure 7: Docking of the 3D tertiary structural models (list the colours of the MEV and TLRs)
+Reviewer #3: PONE-D-24-23783
+General comment:
+The research article "Immunoinformatics design of a novel multiepitope vaccine candidate against non-typhoidal salmonellosis caused by Salmonella Kentucky using outer membrane proteins A, C, and F". The research demonstrates a well-structured approach to vaccine design using bioinformatics and immunoinformatics techniques. The study created a novel MEV construct from OMP A, C, and F with the inclusion of fliC protein as an adjuvant from Salmonella typhimurium and characterized it using various software. The MEV was identified as having 14 CD8+ and 7 CD4+ T-cell epitopes, along with immunogenic B-cell epitopes. The vaccine construct demonstrated high structural quality, favorable physicochemical properties, and stability in molecular docking and dynamic simulations. Immune simulations indicated significant dose-dependent immune responses of IgG and IgM. The MEV is predicted to be non-toxigenic and non-reactogenic in nature.
+Specific comments:
+The authors used immunoinformatics tools to construct a potential MEV candidate for Salmonella Kentucky and characterized it with various software / in-silico tools to predict interferon-gamma (IFN-γ) 420 induction capabilities, discontinuous B-cell epitopes, secondary and tertiary structure, Protein-protein docking and protein-protein binding affinity, Molecular dynamics, and Immune Simulation. The authors also cited various reference (38, 47, 48, 54, 62, 63, 66, 73, 77, 78, 81, 82) which has used similar approach of immunoinformatics to design vaccine for various infectious diseases. However, the finding does not provide experimental data to support the theoretical findings, which is crucial for translating the research into a viable vaccine candidate. This study could benefit from a more detailed discussion of the potential challenges and limitations of this approach. Additionally, it is important to cite the reference who used the immunoinformatics approach to design a vaccine candidate and evaluated it in small animals to support in-silico Vs in-vivo results.
+Section 2.8:
+• Line no 320 - “Ensuring the efficacy of the vaccine model during cloning and expression is crucial for its in-vitro production” should be changed to “Ensuring the efficacy of the vaccine model during cloning and expression is crucial for its in-vivo production”
+• It is not clear why authors in this study performed codon optimization for a vaccine construct for a mammalian host. The MEV proposed is a bacterial-derived chimeric protein construct that can be easily expressed in a simple host like E. coli. This poses a question on the rationale for the construction of MEV codon.
+Section 2.19:
+• It is not clear why the authors introduced 6xHis tag on the C-terminal of the MEV in this study as all the experiments were in silico. It is recommended to avoid His tags in vaccine candidate when predicting their immune response using the database. The MEV containing His tag may potentially lead to the generation of anti-histamine antibodies.
+• Authors have also not described whether any antibiotic marker is used in a plasmid construct.
+Section 3.6 and discussion section:
+The authors have not described the rationale for the order of linkage B cell, HTL and CTL epitope peptide linkage in a MEV construct. Was it random or a particular order of different peptide sequences of epitopes were followed to construct MEV?
+Section 3.12 and discussion section:
+• The immune simulation predicted the humoral responses 565 for both IgM and IgG were more pronounced after booster doses compared to the initial dose, with IgM levels being higher than IgG (and its isotypes). A detailed discussion would be beneficial to describe the significance of a higher level of IgM as compared to IgG and what it means.
+• A detailed discussion on the rationale of three doses and dose intervals while performing an immune stimulation.
+Section 5.0:
+Line no. 732: The author claimed MEV to be thermostable. However, the rationale for this claim is neither mentioned in the result section nor described in the discussion section. What parameters or scores were responsible for predicting good solubility and thermos-stability?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes: Ruchirkumar Pansuriya
+**********
+
+9 Oct 2024
+PONE-D-24-23783R1Immunoinformatics design of a novel multiepitope vaccine candidate against non-typhoidal salmonellosis caused by Salmonella Kentucky using outer membrane proteins A, C, and FPLOS ONE
+Dear Dr. Igomu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Both reviewers have recommended minor revisions. Given this, I would kindly ask you to carefully review the manuscript for any areas that may benefit from further clarification or minor improvements, including correcting typographical errors, enhancing the explanation of key concepts, or addressing any formatting inconsistencies. Authors should ensure the text is as clear and polished as possible before resubmission.
+Please submit your revised manuscript by Nov 23 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Prashant Sharma, Ph.D.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: I understand the authors' point. My question is whether the vaccine candidate developed by the authors could also be effective against other strains of Salmonella Kentucky, which sequences are available in NCBI but were not discussed in this article.
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: No
+**********

@@ -1,0 +1,105 @@
+
+3 May 2023
+PONE-D-23-06043New drug submissions in Canada and a comparison with the Food and Drug Administration and the European Medicines Agency: cross-sectional analysis
+Dear Dr. Lexchin,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 17 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Hideki Maeda, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We noticed you have some minor occurrence of overlapping text with the following previous publication(s), which needs to be addressed:
+- https://doi.org/10.1186/s40545-021-00375-y
+- https://doi.org/10.1177/0020731420979824
+- https://doi.org/10.2190/HS.42.1k
+In your revision ensure you cite all your sources (including your own works), and quote or rephrase any duplicated text outside the methods section. Further consideration is dependent on these concerns being addressed
+3. Thank you for stating the following financial disclosure: 
+"Unfunded study"
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution. 
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+Additional Editor Comments (if provided):
+We have completed our review of the manuscript. Your manuscript is well written and worth publishing. However, some corrections are needed. Please read carefully the sections the reviewer points out and make the revisions.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+********** 
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+5. Review Comments to the Author
+Reviewer #1: The manuscript would benefit to have the regulatory abbreviations in a table or as list sorted by agencies.
+The conclusions in the abstract do not reflect the conclusion in the main manuscript: "for Canada to automatically accept regulatory decisions"
+Reviewer #2: Thank you for giving me the opportunity to review the manuscript entitled "New drug submissions in Canada and a comparison with the Food and Drug Administration and the European Medicines Agency: cross-sectional analysis". This reviewer applauds the author's aim to evaluate the withdrawl and rejection of new indications by health canada. Withdrawls and rejections of new drug indications have become an important concern around the globe. Differences in the perception and submission of clinical trial evidence between regulatory agencies may result in growing disparities in the access to new medicines across countries. Therefore, this article is of high interest to physicians, regulators, and patients. Please see my detailed comments below:
+Abstract:
+- The author should specify if NAS include only original indications or if NAS also include supplemental indication approvals.
+- The author should probably start by giving the total sample size of all NAS that were analyzed and then zoom-in on the withdrawls and rejections.
+- A more nuanced conclusion is necessary.
+Introduction:
+- The author should provide a better introduction that explains why this study is relevant and unique. So far, only the technical regulatory terms are introduced without giving the reader more context why they should continue to read the manuscript.
+Methods:
+- "Key information provided by the companies to the three regulators was categorized as “similar”, “different” and “unable to determine” and compared." -> how exactly did the author decide upon these categories? This description is not very objective.
+Results:
+- Well done!
+Discussion:
+- Very good discussion of the results and comparison to previous studies.
+- There are other reasons that may explain differences in regulatory decisions on new drug indications. First, the current standard of care may differ between countries. Second, there are difference in the way new indications are prescribed, reimbursed, and priced across nations (which could ultimately also influence the perception of regultators on the marketing authorization decisions). See https://doi.org/10.1007/s40258-022-00737-w and https://doi.org/10.1007/s10637-022-01227-5 for these points.
+********** 
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Daniel Tobias Michaeli
+**********
+
+24 May 2023
+New drug submissions in Canada and a comparison with the Food and Drug Administration and the European Medicines Agency: cross-sectional analysis
+PONE-D-23-06043R1
+Dear Dr. Lexchin,
+Hideki Maeda, Ph.D.
+Additional Editor Comments (optional):
+Thank you for submitting your manuscript to PLOS ONE. I checked author's revisions and I also assess this study using the STROBE gideline. After careful consideration, I feel that it has merit for PLOS ONE’s publication.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Daniel Tobias Michaeli
+**********

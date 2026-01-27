@@ -1,0 +1,164 @@
+17 Dec 2024
+PONE-D-24-28816ERNIE-UIE: Advancing Information Extraction in Chinese Medical Knowledge GraphPLOS ONE
+Dear Dr. zheng,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 31 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Emiliano Damian Alvarez Leites, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Methods section, please include additional information about your dataset and ensure that you have included a statement specifying whether the collection and analysis method complied with the terms and conditions for the source of the data.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This paper explores the application of Universal Information Extraction (UIE) technology, specifically the ERNIE-UIE model, to construct a Chinese medical knowledge graph with minimal annotated data. By integrating ontology modeling, web scraping, and fine-tuning strategies, the study constructs a knowledge graph containing 8,525 entities and 9,522 relationships, which are verified using graph algorithms. The findings demonstrate that this approach effectively addresses the challenge of low-resource knowledge graph construction and enhances efficiency in knowledge extraction and storage.
+My specialty is Knowledge Graphs (KGs), so I'm going to focus on that.
+What the authors claim is a KG, is simply not that. They have a property graph, stored in Neo4J. A Knowledge Graph is a dataset constructed using triples represented in the RDF format (a W3C standard), which are annotated with a RDFS or OWL ontology (both are W3C standards), and are retrievable using the SPARQL query language (another W3C standard). Property graphs are not that.
+The authors do not show any ontology being used, they do not show SPARQL queries being used, etc. They treat their constructed "knowledge graph" as a regular graph, using analytics which are common for graphs, not RDF knowledge graphs.
+Additionally, the authors continuously use the term "triplets", which is a medical term for describing three siblings being born by the same mother at the same time. What they think about are structures called a "triples", e.g. RDF triples. A triple is a tuple of size three (3-tuple, triple).
+Ultimately, the authors fail to show any meaningful reason why they converted the data into a Neo4J graph structure, when they could've simply loaded the parsed data into a relational database or a Python data structure and do the analysis they set out to do.
+Reviewer #2: This paper proposes a methodology for constructing a medical knowledge graph by integrating ontology modeling, web scraping, Unified Information Extraction (UIE), fine-tuning strategies, and graph databases. It addresses knowledge modeling, extraction, and storage techniques. The ERNIE-UIE model was fine-tuned with a small amount of annotated data, enabling the joint extraction of entities and relationships. The resulting knowledge graph comprises 8,525 entity data points and 9,522 triplet data points, with its accuracy validated using graph algorithms. The paper demonstrates that adopting a generative extraction paradigm optimizes the construction process of Chinese medical knowledge graphs, achieving commendable results in low-resource settings and offering cost-efficient solutions for knowledge graph development.
+Remaining Issues:
+The paper lacks a detailed explanation of the data sources used for web scraping and annotation. Clarifying the data selection and processing methods would enhance reproducibility and credibility.
+The paper provides a general description of the potential applications of the knowledge graph. It would benefit from specific examples of its use in medical scenarios to better demonstrate its practical value.
+The paper does not discuss potential limitations of the generative extraction paradigm, such as its performance in handling complex entity relationships or its adaptability to other domains. Adding this discussion would provide a more balanced perspective.
+Missing references:
+Large Language Models for Generative Information Extraction: A Survey
+LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+1 Apr 2025
+PONE-D-24-28816R1ERNIE-UIE: advancing information extraction in Chinese medical knowledge graphPLOS ONE
+Dear Dr. zheng,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 16 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Emiliano Damian Alvarez Leites, Ph.D.
+Additional Editor Comments:
+Comments from PLOS Editorial Office: We note that one or more reviewers has recommended that you cite specific previously published works. As always, we recommend that you please review and evaluate the requested works to determine whether they are relevant and should be cited. It is not a requirement to cite these works. We appreciate your attention to this request.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: (No Response)
+Reviewer #4: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The revised version has addressed my concerns.I suggest adding a discussion on the latest works in large language model-based information extraction to enhance the paper's insights. For example:
+Large language models for generative information extraction: A survey
+Structured information extraction from scientific text with large language models
+Revisiting relation extraction in the era of large language models
+IEPile: unearthing large scale schema-conditioned information extraction corpus
+Autore: Document-level relation extraction with large language models
+Reviewer #3: This paper presents ERNIE-UIE, a method for extracting information from Chinese medical texts to build knowledge graphs with minimal annotated data. The research team fine-tuned the ERNIE-UIE model using just 200 annotated entries to extract entities and relationships from medical texts about hypertensive intracerebral hemorrhage.
+The paper would benefit from a more detailed technical description of the prompt construction process for ERNIE-UIE. While the authors mention that prompts follow the format of "head entity's relationship type" and briefly explain the Structural Schema Instructors (SSI) concept, it may be helpful to provide sufficient details about prompt optimization for the medical domain.
+It would be useful to state what specific procedures were used to handle medical entity disambiguation during graph construction, and how the authors addressed connectivity issues in the knowledge graph.
+The paper would greatly benefit from including a discussion of recent large language model (LLM)-based information extraction approaches for knowledge graph construction. The authors should expand their literature review to include cutting-edge techniques like GraphRAG and LightRAG, which represent significant advancements in combining retrieval-augmented generation with graph-based knowledge structures.
+Reviewer #4: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #3: Yes:  Chao Huang
+Reviewer #4: No
+**********
+6 May 2025
+ERNIE-UIE: advancing information extraction in Chinese medical knowledge graph
+PONE-D-24-28816R2
+Dear Dr. zheng,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Emiliano Damian Alvarez Leites, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: N/A
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: No
+Reviewer #4: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The proposed model in this paper integrates ontology modeling, web scraping, UIE, fine-tuning strategies, and graph databases, thereby covering knowledge modeling, extraction, and storage techniques. The revised version has addressed my concerns.
+Reviewer #4: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #4: No
+**********

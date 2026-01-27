@@ -1,0 +1,174 @@
+
+25 Mar 2024
+PONE-D-23-38146The state of AI in medical research: a survey of corresponding authors from top medical journalsPLOS ONE
+Dear Dr. De Cassai,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 09 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Sanaa Kaddoura, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that Figure 1 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 1 to publish the content specifically under the CC BY 4.0 license.  
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an ""Other"" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: This research entitled as “The state of AI in medical research: a survey of corresponding authors from top medical journals” has the following points to be addressed:
+1. Abstract need to be concise and elaborate it clearly.
+2. Title is not fully defended in the Abstract. Either change the title of the manuscript of explain it in the abstract.
+3. Introduction part is also missing the context of the title i.e. AI in medical field is not fully defined.
+4. The result phase showing the survey is related to scientific production and language translation etc. whether title showing the medical field.
+5. Literature related to the field is not well organized.
+6. Environmental concerns, problem statements and solution, future directions in the conclusion is missing.
+Reviewer #2: The manuscript provides valuable insights into the state of AI in medical research, but it requires further improvement and enhancement. By addressing the below mentioned points, the authors can improve the clarity, rigor, and overall impact of the manuscript before publication.
+1.Suggested Modification to the Title of the Manuscript and avoid short form in abstract e.g.AI
+2. It is recommended to avoid the use of first-person pronouns (such as "I," "we," and "our") throughout the manuscript. Instead, use a more impersonal and objective tone by focusing on the subject matter rather than the author's perspective or involvement.
+3.The abstract provides a concise summary of the manuscript, mentioning the purpose, methodology, and key findings of the survey. However, it could be enhanced by including more specific details about the results, such as the percentage of respondents familiar with AI and the specific tasks they integrated AI technologies into. Additionally, consider including a sentence highlighting the main implications or recommendations arising from the findings.
+4.The introduction provides a clear rationale for conducting the survey and highlights the importance of understanding the role of AI in medical research. However, it could benefit from a more comprehensive review of the existing literature on AI in medical research.
+5.Also, include key studies, advancements, or challenges in the field to provide a stronger context for the survey. Additionally, consider discussing the potential impact of AI in terms of improving patient outcomes, accelerating research processes, or addressing specific medical challenges.
+6.The methodology section provides a general overview of the survey design and data collection process. However, it would greatly benefit from more detailed information. Include the specific survey questions like the integration of AI technologies, the challenges faced by researchers, etc.
+7.Additionally, provide information on the response rate, demographics of the respondents, and any measures taken to ensure the representativeness of the sample. Including these details will increase the transparency and rigor of the study.
+8.The results section presents the key findings of the survey, but it lacks in-depth analysis and interpretation. Consider providing more specific data, such as the percentage or frequency of responses for each survey question, to support the findings. Additionally, analyze the results in relation to the research questions or hypotheses posed at the beginning of the manuscript. Provide a more nuanced discussion of the variations in responses based on different factors, such as geographic location, years of experience, or journal impact factor. This will help readers better understand the implications and limitations of the findings.
+9.The discussion section should expand upon the main findings and provide a comprehensive analysis. Start by reiterating the key findings and their significance. Then, delve into a more detailed discussion of the advantages, drawbacks, and challenges associated with integrating AI technologies in medical research, as mentioned in the abstract.
+10.Include specific examples or case studies to illustrate the potential applications of AI and highlight the ethical considerations, bias mitigation strategies, and cyber security measures that need to be addressed.
+11.Discuss how the findings of this survey align with or contribute to the existing literature on AI in medical research.
+12.Finally, provide clear recommendations for future research, policy changes, or guidelines to support the effective and ethical use of AI in the field.
+13.In conclusion, consider reiterating the key recommendations or action points mentioned in the discussion section. Emphasize the potential benefits of integrating AI technologies in medical research while acknowledging the challenges and the need for further research and development.
+14.Avoid introducing new information or ideas in the conclusion.
+15.Ensure that all references cited in the manuscript are included in the reference section and formatted correctly according to the journal's guidelines.
+16.Additionally, consider expanding the list of references to include recent and relevant studies on AI in medical research.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+30 Jul 2024
+PONE-D-23-38146R1The state of Artificial Intelligence in medical research: a survey of corresponding authors from top medical journalsPLOS ONE
+Dear Dr. De Cassai,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 13 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Sanaa Kaddoura, Ph.D.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: N/A
+Reviewer #3: No
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+Reviewer #3: I- Your abstract contains too much background information. A good abstract should briefly and clearly convey the impact of your research without unnecessary length. Here are some key points to improve your abstract:
+i. Context and Specific Topic: Include a sentence that briefly describes the general topic and the specific topic of your
+research. This helps set the stage for your study without delving into excessive background details.
+ii. Central Question or Problem: Clearly state the central questions or problems your research addresses. Explain why
+these questions are important. Are you examining a new topic, filling a gap in previous research, applying new
+methods to existing data, or resolving a dispute in the literature?
+iii. Research Methods: Summarize your research and/or analytical methods. This should be brief but informative enough to give readers an understanding of how you conducted your study.
+iv. Main Findings: Highlight your main findings, results, or arguments. Focus on the most significant outcomes of your research.
+v. Significance and Implications: Explain the significance or implications of your findings. Why do these results matter? How do they contribute to your field of study?
+II- At the end of the introduction add a paragraph to describe the next sections. For example: The rest of the paper is organized as follows: Section 2 presents the method, Section 3 ....
+III- Add a related work section after the introduction to show what others have done.
+IV- What hypothesis you are trying to verify or what research questions you are answering. You have to clearly state this in the paper.
+V- The survey start collection date is July 12 or 13? In the methods you have stated 13 while in the results 12.
+VI- The results of statistical analysis described in the methodology section are not discussed in the results.
+VII- Fix paper spacings for example in sentence two in the introduction "The giant leapthese ..." must be "The giant leap these...". This issue happens through out all the paper.
+VIII- The conclusion is too short, you have to briefly discuss numbers from your findings. The conclusion of a research paper restates the research problem and summarizes your arguments or findings.
+IX- The appendix you referred to in the paper was not attached with the submission.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Dr.Rahul A. Gujar
+Reviewer #3: No
+**********
+
+8 Aug 2024
+The state of Artificial Intelligence in medical research: a survey of corresponding authors from top medical journals
+PONE-D-23-38146R2
+Dear Dr. De Cassai,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Sanaa Kaddoura, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+**********

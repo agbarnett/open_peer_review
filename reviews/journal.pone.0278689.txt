@@ -1,0 +1,163 @@
+
+8 Jun 2022
+PONE-D-22-13932Psychomotor and Visual Skills Underlying Position Specialization in 1352 Elite Youth Baseball PlayersPLOS ONE
+Dear Dr. Appelbaum,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 23 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Yaodong Gu
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified what type you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). If your study included minors, state whether you obtained consent from parents or guardians. If the need for consent was waived by the ethics committee, please include this information. 
+3. Thank you for stating the following financial disclosure: 
+ "This research was funded by grant support to L.G.A. through the United States Army Research Office [W911NF-15-1-0390]. " ext-link-type="uri" xlink:type="simple">https://www.arl.army.mil/who-we-are/aro/"
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. Thank you for stating the following in your Competing Interests section:  
+"All authors declare that they have no conflict of interest related to the research presented in this manuscript."
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state "The authors have declared that no competing interests exist.", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now 
+ This information should be included in your cover letter; we will change the online submission form on your behalf.
+5. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+Additional Editor Comments :
+Please add hypothesis in your study.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Major issues
+The manuscript’s style and format failed to meet the requirements of the journal, please review the full submission guidelines for the journal. Details are in the URL. (https://journals.plos.org/plosone/s/submission-guidelines#loc-file-format)
+Minor issues
+1. Manuscript should include page numbers and line numbers in the manuscript file. Use continuous line numbers (do not restart the numbering on each page).
+2. In the abstract part. In the opinion of reviewer, the author provided too much background descriptions in this part, which may be too long-winded. I suggest that the authors provide more detailed descriptions of the methods, results, and conclusions of this study in this part.
+3. 2.3.2. Multiple Linear Regression, please make sure the equation of  was correct.
+4. Table needs to be re-edited to meet journal requirements.
+5. What is the author's research hypothesis, which I would suggest to be added to the last paragraph of the introduction?
+6. Some small errors in the manuscript need to be corrected. For example, 4.2 Regression Discussion, “Further, the significant average increase in “Functional Vision” performance among catcher, infielder, and outfielder positions compared to pitcher is consistent with past observations when comparing pitchers and batters on visual skills (30)”, this sentence seems to be missing a period.
+7. The discussion part needs more literature support, please add more references.
+8. Please do check the language and grammar mistakes throughout the whole article to further improve clarity.
+In summary, please make sure that your manuscript is properly prepared and formatted before submitting a revision.
+Reviewer #2: This study is an interesting and valuable study, however the introduction and methods parts still need to be revised and optimized. Please ensure that the interaction factor in the repeated measures ANOVA is considered in the analysis of the results of this study. Besides, please provide more details on grouping and culling athletes.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Yuqi He
+**********
+
+19 Oct 2022
+PONE-D-22-13932R1Psychomotor and Visual Skills Underlying Position Specialization in 1352 Elite Youth Baseball PlayersPLOS ONE
+Dear Dr. Appelbaum,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 03 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-emailutm_source=authorlettersutm_campaign=protocols.
+Yaodong Gu
+Additional Editor Comments:
+Please check some questions raised by the reviewers.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you to the authors for submitting the revised manuscript. However, to enhance the quality of the manuscript, revise suggestions are given below.
+1. There are some grammatical errors in the article, please pay attention to the authors to correct them carefully. For example, line 213, I think "was" should be changed to "were".
+2. There are some written errors in the article, please pay attention to the authors to correct them carefully. For example, line 277, “Kolmogorov-Smirnov ps  0.01”.
+3. Does Table 1 have no title? And it is recommended that the authors change the tables to the form of a three-line table.
+Reviewer #2: Congratulations to the authors for the interesting work. The research is original and I enjoyed reading it. I suggest minor comments in order to improve the quality of the manuscript.
+1. The structure of this manuscript is somewhat complex, and to help the reader feel more comfortable reading this study, I suggest adding a new paragraph at the end of the introduction section with a brief description of the structure of this manuscript.
+2. L125-142. The description of the test process section needs to add further details, such as the requirements for athletes during the test, whether there is an interval between each test, etc. A detailed description of the test procedure is necessary for the principle of reproducibility in clinical trials.
+3. L201-205. In a formal experiment, do subjects get only one chance to be tested? Will the test be allowed to be repeated if the subject makes a mistake? Please add specific details.
+4. Were possible interaction issues during testing reported in the results section of this study?
+5. L316-320. Please check this section for formatting issues and the header integrity of Table 1.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Yuqi He
+**********
+
+22 Nov 2022
+Psychomotor and Visual Skills Underlying Position Specialization in 1352 Elite Youth Baseball Players
+PONE-D-22-13932R2
+Dear Dr. Appelbaum,
+Yaodong Gu
+Additional Editor Comments (optional):
+N/A
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you to the authors for submitting the revised manuscript. The authors have done all the suggestions I made.
+Reviewer #2: No more comments. Many thanks to the authors for answering all of the reviewers' comments, this is a valuable study.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Yuqi He
+**********

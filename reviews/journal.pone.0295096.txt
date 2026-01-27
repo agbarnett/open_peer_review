@@ -1,0 +1,109 @@
+
+18 Dec 2023
+PONE-D-23-37577Suberoylanilide Hydroxamic Acid Attenuates Cognitive Impairment in Offspring Caused by Maternal Surgery during Mid-pregnancyPLOS ONE
+Dear Dr. Luo,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The reviewers provide a variety of helpful comments regarding the presentation and discussion of the data.  When preparing your revised version, please take them into account.  Furthermore, for all bar graph presentations I recommend that you also include the individual data points, a mode of presentation that is becoming the standard in the field.  Furthermore, there is some language editing required.  You may consider using an English language editing service.
+Please submit your revised manuscript by Feb 01 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Uwe Rudolph
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please update your submission to use the PLOS LaTeX template. The template and more information on our requirements for LaTeX submissions can be found at http://journals.plos.org/plosone/s/latex.
+3. Thank you for stating the following financial disclosure: 
+ the National Natural Science Foundation of China (81960211, 81460175 and 81060093) and Zhejiang medicine and health science and technology project of Zhejiang Provincial Health Commission (2023KY037).
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. PLOS ONE now requires that authors provide the original uncropped and unadjusted images underlying all blot or gel results reported in a submission’s figures or Supporting Information files. This policy and the journal’s other requirements for blot/gel reporting and figure preparation are described in detail at https://journals.plos.org/plosone/s/figures#loc-blot-and-gel-reporting-requirements and https://journals.plos.org/plosone/s/figures#loc-preparing-figures-from-image-files. When you submit your revised manuscript, please ensure that your figures adhere fully to these guidelines and provide the original underlying images for all blot or gel data reported in your submission. See the following link for instructions on providing the original image data: https://journals.plos.org/plosone/s/figures#loc-original-images-for-blots-and-gels. 
+  
+In your cover letter, please note whether your blot/gel image data are in Supporting Information or posted at a public data repository, provide the repository URL if relevant, and provide specific details as to which raw blot/gel images, if any, are not available. Email us at plosone@plos.org if you have any questions.
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript investigate the effect of SAHA on propofol-induced learning and memory deficits in offspring caused by maternal surgery during mid-pregnancy. They clarified maternal propofol exposure during middle pregnancy impaired the water-maze learning and memory of the offspring rats, increased the protein level of HDAC2 and reduced the protein levels of p-CREB,BDNF and p-TrkB in the hippocampus of the offspring, and such effects were exacerbated by surgery. SAHA alleviated the cognitive dysfunction and rescued the changes in the protein levels of p-CREB, BDNF and p-TrkB induced by maternal propofol exposure alone or maternal propofol exposure plus surgery. In general, the flow of the experiments is logical, and the findings are of considerable interest to the field. Based on the current results, the authors concluded that SAHA could be a potential and promising agent for treating the learning and memory deficits in offspring caused by maternal nonobstetric surgery under propofol aneshtesia. However, the current dataset should be enriched with a few supplemental details.
+1.In the fig4, the platform crossing times in the Propofol +DMSO group was less than that in the Control+DMSO group? There was no label for the statistical analysis of the two group. Please further verify the original data and related statistical methods.
+2.In the fig7, IF staining results revealed that HDAC2 predominantly expressed in the hippocampal neuronal nucleus. Did the expression of HDAC2 in the hippocampus appear regional specificity? The HDAC2 should be detected by staining with neuronal biomarker.
+Reviewer #2: This is a straightforward manuscript from Feng et al., entitled “Suberoylanilide Hydroxamic Acid Attenuates Cognitive Impairment in Offspring Caused by Maternal Surgery during Mid-pregnancy.” The authors based their work on the premise that maternal exposure to commonly used anesthesia (during obstetric and non-obstetric interventions) causes cognitive deficits in offspring, and that decreased histone acetylation has been shown to induce deficits in hippocampus dependent learning and memory. The paper demonstrates that treatment with the class 1 and 2b HDAC inhibitor SAHA can rescue the cognitive deficits and the alterations in synapse-associated proteins induced by maternal surgery under propofol anesthesia in offspring. The data presented are convincing, however a key piece of data that appears missing is the effect of propofol on some histone or non-histone acetylation marks linked to memory. Does propofol decrease acetylation? If so, SAHA would likely reverse such effects.
+The following comments and suggestions should improve the quality of the manuscript.
+• The bar graphs in figure 2 should have scattered points for the reader to better understand the spread of the data.
+• Scattered points should also be added to Figures 3B, 3C and 3D.
+• Scattered points should be added to figures 4B, 4C and 4D.
+• It is not clear what significance is indicated in figure 4B for "propofol + SAHA". Is it a comparison between "propofol + DMSO" and "propofol + SAHA"? If so, it should be clearly indicated on the graph with brackets or other means.
+• It would also be good to indicate whether the difference between "control + DMSO" and "propofol + DMSO" is significant. By eye it looks as significant if not more than "propofol + DMSO" vs "propofol +SAHA."
+• The same corrections as in figure 4 are needed for figure 5. More detailed graphical representations of the significance are needed for figures 5B and 5C.
+• Scattered points are needed for Figures 6B, 6C and 6D. Whenever there appears to be a slight difference, the stats should be graphically shown. For example, it could be "*" for a significance of p<0.05 or "ns" whenever p>0.05.
+• Are figure 7C data normalized to DMSO control? If so the legend in the Y-axis should say % DMSO control. The same comment goes for figures 8C, 9C, 9D and 10B.
+• Figure 7C graphically presents the stats well. It needs to be presented, however as bar graphs with scattered points. The same goes for figures 8C, 9C, 9D and 10B.
+• The western blots used for quantification for figure 7C should be provided in the supplementary material. The same goes for Figures 8C, 9C and 9D.
+• Do the authors have a hypothesis about why surgery exacerbates the effects of propofol? This should be addressed in the discussion. Could it be inflammation related?
+• Editing of the manuscript is needed. for example, the word "purchased" is erroneously separated as "pur" on line 105 and "chase" on line 106. Similarly, there is "laborator" on line 110 and "y" on line 111 to spell out "laboratory". There are many other instances of the same type of error. There are also many places where there is no space after periods, when a new sentence is starting.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+15 Feb 2024
+Suberoylanilide Hydroxamic Acid Attenuates Cognitive Impairment in Offspring Caused by Maternal Surgery during Mid-pregnancy
+PONE-D-23-37577R1
+Dear Dr. Luo,
+Uwe Rudolph
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: This is a good manuscript demonstrating that treatment with the class 1 and 2b HDAC inhibitor SAHA can rescue cognitive deficits and negative changes in synapse-associated proteins induced by maternal surgery under propofol anesthesia in offspring.
+The authors have revised the manuscript well as per the reviewers’ suggestions. The paper is good to go.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

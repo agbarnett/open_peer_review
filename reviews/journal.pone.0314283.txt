@@ -1,0 +1,117 @@
+
+30 Jul 2024
+PONE-D-24-04225Determinants of Depression Among Ever Married Adolescent Girls in Bangladesh: Evidence from Bangladesh Adolescent Health and Wellbeing Survey 2019-2020PLOS ONE
+Dear Dr. Hasan,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: Please insert comments here and delete this placeholder text when finished. Be sure to:Indicate which changes you require for acceptance versus which changes you recommendAddress any conflicts between the reviews so that it's clear which advice the authors should followProvide specific feedback from your evaluation of the manuscriptPlease ensure that your decision is justified on PLOS ONE’s publication criteria and not, for example, on novelty or perceived impact.
+Indicate which changes you require for acceptance versus which changes you recommend
+Address any conflicts between the reviews so that it's clear which advice the authors should follow
+Provide specific feedback from your evaluation of the manuscript
+For Lab, Study and Registered Report Protocols: These article types are not expected to include results but may include pilot data. 
+==============================
+Please submit your revised manuscript by Sep 13 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Md. Shahjalal
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. It is a secondary data analysis. Then it should be described so.
+2. Introduction can be made more coherent.
+3. Table 1 - Check spelling (Syber Bullying)
+4. Inconsistent use of abbreviation (IPV not used even after prior elaboration earlier)
+5. Statement in 346-347 needs reference
+6. Many mistakes in spelling-concrete 6.
+7. Meaning of Line 369-379 not clear
+8. Line 401 -should be though not through
+9. Is it multivariate/univariate analysis? Use standard terms
+10. The study is important, but the manuscript needs significant language edits and spell checks
+Reviewer #2: Thank you for the opportunity to review the paper titled "Determinants of Depression Among Ever Married Adolescent Girls in Bangladesh: Evidence from Bangladesh Adolescent Health and Wellbeing Survey 2019-2020." The study provides valuable insights into the factors influencing depression in this demographic, utilizing data from a comprehensive national survey. Here is my points.
+Introduction
+The introduction is informative and thorough. However, streamlining certain sections could enhance readability. You might consider combining similar points and adopting more concise language to improve the flow.
+Introducing a theoretical framework could significantly bolster the study's conceptual foundation. For instance, applying the ecological systems theory or the life course perspective might provide valuable insights into the factors influencing depression among married adolescent girls.
+To improve clarity and focus, explicitly stating the specific objectives of the study would be beneficial. While the introduction suggests the research aims, clear articulation of these objectives is recommended.
+It would be helpful to include precise definitions of key terms such as "depression" and "adolescence." This will ensure consistency and clarity throughout the manuscript.
+Enhance the connection between the identified risk factors for depression (e.g., social isolation, limited autonomy) and the specific context of married adolescent girls in Bangladesh.
+Address potential ethical considerations pertinent to conducting research with this vulnerable population.
+Methods
+Considering the complex sampling design, it would be helpful to indicate whether sample weights were applied in the analysis to account for the sampling design and enhance the representativeness of the results.
+The exclusion of 383 pregnant women and 394 cases with missing data is mentioned. Providing a more detailed explanation of the missing data mechanisms (e.g., missing completely at random, missing at random, missing not at random) would add clarity.
+The information provided on the reliability and validity of the PHQ-9 is not adequate.
+Further elaboration on the rationale for selecting the specific covariates would be appreciated. Was the selection guided by a theoretical framework?
+Clarifying how missing data for covariates were managed (e.g., imputation, listwise deletion) would strengthen the methodology section.
+Discussion
+While the discussion provides a good overview of the associations between depression and the studied factors, it could be strengthened by exploring potential mechanisms underlying these relationships. For example, how might physical violence lead to depression?
+The discussion could be expanded to provide more specific policy recommendations based on the study findings. What types of interventions could be implemented to address the high prevalence of depression among married adolescent girls?
+The authors could elaborate on the potential directions for future research to build upon the findings of this study. For example, longitudinal studies could be conducted to examine the causal relationships between the studied factors and depression.
+Consider incorporating a theoretical framework to guide the interpretation of the findings and to explain the potential mechanisms underlying the observed associations.
+Discuss the potential role of cultural factors in shaping the mental health experiences of married adolescent girls in Bangladesh.
+Provide more specific recommendations for interventions targeting different levels of prevention (primary, secondary, and tertiary) and for different stakeholders (e.g., government, healthcare providers, community organizations).
+Conclusion:
+While the conclusion calls for policy interventions, it could be strengthened by providing more specific recommendations. For example, the authors could outline potential policy targets, such as strengthening law enforcement against violence, increasing access to mental health services, or promoting gender equality.
+The conclusion could end with a strong call to action, emphasizing the urgency of addressing the mental health needs of married adolescent girls.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+8 Nov 2024
+Determinants of Depression Among Ever Married Adolescent Girls in Bangladesh: Evidence from The Bangladesh Adolescent Health and Wellbeing Survey 2019-2020
+PONE-D-24-04225R1
+Dear Mr. Mehedi,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Md. Shahjalal
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: Yes: Dr Md Ahedulla
+**********

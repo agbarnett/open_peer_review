@@ -1,0 +1,111 @@
+
+31 Jul 2023
+PONE-D-23-21095Developing adapted wheat lines with broad-spectrum resistance against stem rust: Introgression of Sr59 through backcrossing and selections based on genotyping-by-sequencing dataPLOS ONE
+Dear Dr. Rahmatov,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 14 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Pramod Prasad, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.  
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following: 
+● The name of the colleague or the details of the professional service that edited your manuscript
+● A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+● A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+3. Thank you for stating the following financial disclosure: 
+   "For this research financial support obtained from the Swedish Research Council Vetenskapsrådet and FORMAS "
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+Additional Editor Comments:
+Please Revise the MS based on the suggestion of both the reviewers.
+Thank you
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: The findings reported in this manuscript, along with the material that will be available, is valuable to the wheat research community in providing broad stem rust resistance due to the Sr59 allele that has been transferred into more adapted germplasm. Overall, the science is sound in this manuscript and ready for publication. Throughout, there are a few comments on some grammar mistakes, clarification on figures/tables, and also one little part of the materials and methods. Otherwise, the manuscript is really clear to read, and I congratulate the authors on doing a wonderful job on their research.
+Major comments:
+The abstract is too long. The limit listed for the journal is 300 words and the current abstract is over 400. I suggest finding a way to only include the most relevant findings for most people who will use these wheat lines. The information on the Ph1 locus could be eliminated from the abstract to reduce word count.
+What was the field location used for phenotypic evaluations? Please provide a description, along with coordinates. Part of this research was done in Sweden, Denmark, and the US, which would greatly change the results for this part of the project. Also, please provide a more detailed description of small plots, such as rows, length, type, etc. Also, why was only one replication in the field used?
+For all the figures and tables, not enough information is given for each. Please expand with more details for each one. For figure 1: which reference/genome are the physical positions based on, what are the dark red sections, and state that the markers are the three KASP markers. For figure 2: the panel description of a, b, and c doesn’t make what is in the figure so please correct, give a description of the colors used in the figure legend/text section, and more details on this figure. For figure 3, please describe each cluster A-E and make sure it matches what was in the text of the manuscript. For figure 4, please include cluster information. For figure 5, what is the reference used for all the physical positions? For table 1: what is the scale used or the citation for this, please remove the “e” from the end of “note” (I think you meant to say “not available”).
+Minor comments:
+Line 48: Include scientific name for wheat.
+Line 52: Either take out “reached” or “attained”.
+Line 54: Random “Wheat.” as its own sentence.
+Line 58-59: This sentence doesn’t flow smoothly. It may sound better to rewrite as “…and may cause human health issues and be harmful to the environment [5].”
+Line 62: remove “within” and rewrite sentence so has corrected grammar.
+Line 71-72: Please fix grammar mistakes in this sentence as well.
+Line 73: remove “about” before 35. Otherwise, state “about half”.
+Line 115: Please state what type of cultivars these are. The thought behind this suggestion is so readers who are interested in requesting these lines can know what growth type (pretty sure all three are spring) and wheat species (Triticum aestivum).
+Line 234: Please state which figure these KASP markers are on (pretty sure it is figure 1). The authors had switched briefly to discussing Figure 2b so it is confusing which one the KASP are on.
+Lines 249-251: For figure 3, the clusters are labelled as letters in the figure, which don’t match the numbers in the text. Please change either the text or the figure labelling so they match.
+Line 256-258 discusses clusters in Figure 4, but no clusters are labelled in this figure. Please label this figure so it matches the text.
+Lines 312-315: Table 3 should be referenced in this section.
+Line 334: There is no Figure 3B as stated in the text. Please correct to either figure 3 or the correct figure.
+Line 372: Remove “was” after REEDLING#1.
+Reviewer #2: TA5094 is the T2DS•2RL translocation line with the stem rust resistance gene Sr59. The present study described the transfer and subsequent evaluation of Sr59 into agronomically better genetic backgrounds using wheat cultivars as backcross parents. This is a necessary step for wheat breeding.
+Some suggestions have been placed in the attached file.
+A major concern is how to physically map the Sr59 resistance gene on chromosome 2RL (Figure 1). The authors should present a more detailed description.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+28 Sep 2023
+Developing adapted wheat lines with broad-spectrum resistance to stem rust: Introgression of Sr59 through backcrossing and selections based on genotyping-by-sequencing data
+PONE-D-23-21095R1
+Dear Dr. Rahmatov,
+Pramod Prasad, Ph.D.
+Additional Editor Comments (optional):
+All the revision have been made.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The manuscript has been improved largely. The authors have adequately addressed my comments and I feel that this manuscript is now acceptable for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

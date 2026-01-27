@@ -1,0 +1,93 @@
+11 Feb 2025
+PONE-D-25-00223Regulation of transcription elongation anticipates alternative gene expression strategies across the cell cyclePLOS ONE
+Dear Dr. Chávez,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+After considering the review from one referee and my own review of the paper, the main concern is the presentation of the study. This manuscript requires additional text to adequately guide the reader through the study and results. Please address all the comments raised by the reviewer. In addition, please avoid the use of abbreviations as much as possible for clarity. For example, use of "RNAP II ChIP" rather than RPCC and "ribosome biogenesis" in place of RiBi. For the purpose of review, 1.5 line spacing is desirable as are page numbers. 
+Please submit your revised manuscript by Mar 28 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Barbara Jennings
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: [This work was supported by grants PID2020-112853GB-C31 to JEP- O, PID2022-136564NB-I00 to JdlC and PID2020-112853GB-C32 to MCM-C funded by MCIN/AEI/10.13039/501100011033/ERDF, EU.]
+Please state what role the funders took in the study. If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.""
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript: [We thank all members of the IBiS Gene expression and Ribosome biogenesis labs for helpful scientific discussion, and all technicians from IBiS and CITIUS facilities for their experimental help. This work was supported by grants PID2020-112853GB-C31 to JEP- O, PID2022-136564NB-I00 to JdlC and PID2020-112853GB-C32 to MCM-C funded by MCIN/AEI/10.13039/501100011033/ERDF, EU.]
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: [This work was supported by grants PID2020-112853GB-C31 to JEP- O, PID2022-136564NB-I00 to JdlC and PID2020-112853GB-C32 to MCM-C funded by MCIN/AEI/10.13039/501100011033/ERDF, EU.]
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. In the online submission form, you indicated that your data is available only on request from a third party. Please note that your Data Availability Statement is currently missing the contact details for the third party, such as an email address or a link to where data requests can be made]. Please update your statement with the missing information.
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information .
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+**********
+5. Review Comments to the Author
+Reviewer #1: A majority of studies dealing with understanding transcriptional regulation are focused on the initiation step. The transcription, however, is also regulated at the elongation and termination steps, and this downstream regulation is rather a neglected area of research. The focus of this investigation in elucidating regulation of transcription at the elongation step, therefore, is appropriate. Authors employ RNAPII ChIP and GRO approaches to study transcription at different stages of cell cycle in budding yeast. Their results suggest that genes coding for ribosomal components and linked to ribosome biogenesis are expressed at a higher level in pre-mitotic phases and are subjected to regulation at the elongation step. They also uncovered the role of mRNA stability in the overall expression of a number of these genes. These findings are significant and make an interesting scientific story. It is, however, difficult for a general reader of PLOS One to grasp and appreciate these results the way it is presented in this manuscript. Authors need to improve the presentation of results to make it more easily understandable. The following suggestions may help:
+Major Points
+1. Authors mention that some of the cycling genes are subjected to regulation at the elongation step. Inclusion of a list of these genes, and their RNAPII ChIP as well as GRO profile may help strengthen conclusions of the study.
+2. Figure 1C is confusing. The X-axis shows time point after release from alpha-factor arrest, while Y-axis depicts Z-scores. It is, however, not clear what the headings on the top of every panel, G1, G1/S, S, S/G2, and M means. Does this mean the profile shown below is for genes expressed in the indicated stage of cell cycle? This needs to be clarified in the legend and also in the text. If G1 means the profile below is for genes predominantly expressed in G1 phase, then identity of these genes must be included in the form of a table in the supplementary data section.
+3. In Figures 2B and S2B, authors need to explain in detail the basis of grouping genes in nine clusters. Just describing that clustering was done on the basis of RPCC and GRO profiles is not sufficient. Describe the range of RPCC and GRO signal values used for grouping genes in each cluster. Briefly explain SOTA while describing Figure 2A.
+4. In Figure 2C, authors show distribution of gene clusters expressed in different stages of cell cycle. It will be beneficial for readers if these genes can be listed in the form of a table in supplementary data section.
+Minor Points
+1. In the third paragraph of ‘Introduction’, it needs to be clarified that TFIIS is not the only factor that regulates elongation. There are other factors, especially chromatin remodeling factors, histone chaperone and histone modifying enzymes that also regulate elongation through chromatin.
+2. What is START? Explain for the benefit of readers not familiar with yeast.
+3. Explain significance of R2 value.
+4. In ‘Discussion’ section, briefly explain why mitochondrial related genes exhibit decreased mRNA stability with growth rate.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+1 Apr 2025
+Regulation of transcription elongation anticipates alternative gene expression strategies across the cell cycle
+PONE-D-25-00223R1
+Dear Dr. Chávez,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Barbara Jennings
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

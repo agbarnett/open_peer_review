@@ -1,0 +1,267 @@
+
+30 Aug 2023
+PONE-D-23-21555
+Effect of Ultrasound Therapy on Postpartum Uterine Involution: A Randomized Controlled Trial
+Dear Dr. Niu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 09 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Ahmed Mohamed Maged, MD
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for submitting your clinical trial to PLOS ONE and for providing the name of the registry and the registration number. The information in the registry entry suggests that your trial was registered after patient recruitment began. PLOS ONE strongly encourages authors to register all trials before recruiting the first participant in a study.
+As per the journal’s editorial policy, please include in the Methods section of your paper:
+1) your reasons for your delay in registering this study (after enrolment of participants started);
+2) confirmation that all related trials are registered by stating: “The authors confirm that all ongoing and related trials for this drug/intervention are registered”.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+5. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+6. Please note that funding information should not appear in any section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. Please remove any funding-related text from the manuscript.
+7. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+8. We note that the original protocol file you uploaded contains a confidentiality notice indicating that the protocol may not be shared publicly or be published. Please note, however, that the PLOS Editorial Policy requires that the original protocol be published alongside your manuscript in the event of acceptance. Please note that should your paper be accepted, all content including the protocol will be published under the Creative Commons Attribution (CC BY) 4.0 license, which means that it will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution.
+Therefore, we ask that you please seek permission from the study sponsor or body imposing the restriction on sharing this document to publish this protocol under CC BY 4.0 if your work is accepted. We kindly ask that you upload a formal statement signed by an institutional representative clarifying whether you will be able to comply with this policy. Additionally, please upload a clean copy of the protocol with the confidentiality notice (and any copyrighted institutional logos or signatures) removed.
+Additional Editor Comments:
+Please respond to all reviewers comments one by one clearly
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+Reviewer #3: No
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The Ms completed by Niu Xiaoyu and co-authors mainly focused on studying the effect of Ultrasound Therapy on Postpartum Uterine Involution and the effects were principal evaluated via the duration of postpartum lochia. The data in Ms could partially support the conclusion that Ultrasound Therapy contributes to uterine involution and reduces the duration of postpartum lochia. Here I have some major concerns: 1, the functions of Ultrasound Therapy on Postpartum Uterine Involution have been reported several years ago by other groups, so pls showing your contributions detailly. 2, for the assay, you just chose one set-up parameters of ultrasound, can you tell us the underlying reasons. 3, the resolution ratio of the figures in Ms somehow is too low.
+Reviewer #2: 1) Subjects
+It is unclear what were the exclusion criteria. Were the following patients included or excluded?: "Patients with (1) placenta previa; (2) intrahepatic cholestasis of pregnancy; (3) triplets, twins, fetal macrosomia; (4) polyhydramnios; (5) history or signs of placental abruption; (6) severe pre-eclampsia; and (7) anticoagulant treatment, such as that for thrombocytopenia, for being included in the study."
+2) Study design
+The investigators blinded the treating physicians but not the participants. If all participants received standard of care treatment, what exactly was the rational for not blinding the participants to the allocated treatment (LIFUS or sham)? This should be stated and explained as this would be considered a significant study limitation.
+3) Sample size calculation
+Child birth and post partum haemorrhage are not uncommon phenomena and I would guess that the sample size of 176 is too small and the study is likely underpowered, even without doing a sample size calculation. It is unclear how sample size calculation was conducted and based on exactly what evidence. If it was based on a prior study, then please provide references and explanations. If there are no prior studies, then power calculation is irrelevant and the findings would be hypothesis generating.
+4) The manuscript has multiple grammatical errors, typos, and inconsistent formatting. For example, variable font sizes within the text, inconsistent significant figure reporting, and grammatical errors and typos that can change or lead to misinterpretation of the text. Please follow the author guidelines for formatting the texts, figures, tables, legends, etc, and carefully proofread your manuscript in your revision.
+Reviewer #3: A randomized sham-controlled clinical trial was conducted which aimed to describe lochia duration, postpartum symptoms, and uterine involution with the use of low-intensity focused ultrasound (LIFUS) compared to sham treatment. A statistically significant shorter lochia duration was observed in the intervention group compared to controls. Additionally, the height of the fundus differed significantly following the second and third treatment sessions.
+Major revision:
+Provide a comprehensive statistical methods section which includes all the statistical testing methods used for the analysis. Be specific.
+Detailed revisions:
+1- Express p-values more precisely, rather than p<0.05.
+2- Abstract: For significant conclusions, state the direction of the effects.
+3- Line 13 is unclear. “The doctors enroll subjects, one doctor assigns participants to subjects.”
+4- Page 11, Line 5: Clarify the type of summary statistics that have been provided.
+5- Page 11, Line 24: State the type of descriptive statistics that have been provided.
+6- Page 12, Line 6: Clarify the type of summary statistics that have been provided.
+7- Page 12: Sample size justification: The power calculation should include: (1) the estimated outcomes in each group; (2) the α (type I) error level; (3) the statistical power (or the β (type II) error level); (4) the target sample size, (5) for continuous outcomes, the standard deviation of the measurements, and (6) the statistical testing method which achieves the stated power.
+8- Table 1: State the type of summary statistics provided. State the statistical testing methods used to estimate the p-values.
+9- Page 12, Line 18: Provide a measure of dispersion for the median follow-up time. First and third quartiles or ranges would be appropriate.
+10- Table 3: State the type of summary statistics provided.
+11- Page 13, Line 2: The statistical term for average is mean.
+12- Page 13, Line 12: A formal test of the interaction effect should be made. The interpretation of the results is confusing. Provide more clarity.
+13- Table 5: Define “Group Plus.”
+14- Table 6: State the type of summary statistics provided. Indicate the sample sizes: (1) overall, (2) for vaginal delivery, and (3) for cesarean section. State the statistical testing method(s) used to estimate the p-values.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********
+
+29 Nov 2023
+PONE-D-23-21555R1Effect of Ultrasound Therapy on Postpartum Uterine Involution: A Randomized Controlled TrialPLOS ONE
+Dear Dr. Niu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 13 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Ahmed Mohamed Maged, MD
+Additional Editor Comments:
+Please respond to all reviewers comments one by one . 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #3: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: No
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: No
+**********
+6. Review Comments to the Author
+Reviewer #1: one important issue is the novelty of the study, just simple search the paper online, we can find many studies have done the similar job, for example, PMID: 35026964. and the introduction and discussion of paper is too simple.
+Reviewer #3: Major revisions:
+1- Section 2.3 Statistical analyses: Clarify the following statement. What does it mean to be "statistically described"? "The frequency of rank variables was statistically described, and the chi-square test was used to analyse the difference between the two groups."
+2- The interaction effects in the GEE model, presented in table 5, do not appear to be correct. The interaction effect should be treatment (sham vs LIFUS) by session (time). The main effects are treatment and session. The full model would contain the following effects: Intercept, Treatment group, Session, and the interaction of Treatment group by Session. If the interaction effect is significant, provide an interpretation of the results, but do not test main effects because the tests for main effects are uninteresting in light of significant interactions. If interaction effects are non-significant, drop the interaction effects from the model and test the main effects. Determining which results to present when testing interactions is often a multi-step process.
+Minor revisions:
+1- The t-test begins with a lower case letter t.
+2- Section 2.5 Sample Size: Indicate the statistical testing method which achieves 90% power. The power of 90% does not need to included twice.
+3- Table 1: A) Rename the header "Full Sample" to "Total". B) Rename "Covariate" to "Variable".
+4- Section 3.2: A) Indicate if the summary statistics are median and interquartile range.
+B) Specify the differences of what measure between the two groups were analyzed using the Cox PH model... Cox models are typically used to predict time to an event.
+6- The statistical analysis section fails to list and describe the use of the Kaplan-Meier method.
+7- The following statement is vague. "Data were presented as the quantity (percention) deviation."
+8- The values of the t, z and chi-square statistic can be dropped from the tables. The corresponding p-value is sufficient.
+9- The standard statistical term for average is mean.
+11- P-values never equal zero. Express small p-values as < 0.0001
+12- Thoroughly proofread the manuscript. Many grammatical errors are present.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: No
+**********
+
+3 Jan 2024
+PONE-D-23-21555R2Effect of Ultrasound Therapy on Postpartum Uterine Involution: A Randomized Controlled TrialPLOS ONE
+Dear Dr. Niu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Feb 17 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Ahmed Mohamed Maged, MD
+Additional Editor Comments:
+Please respond to all reviewers comments
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: (No Response)
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: Minor revisions:
+2.4 Statistical Analysis section:
+1- Line 22: The term t-test begins with a lower case t.
+2- Line 24 still contains the vague phase of "statistically described". Please list the statistical methods to provide more clarity.
+3- Line 25: The chi-square test was used to analyze the difference in what between the two groups?
+4- Line 26 is unclear due to the repeated word "time. "The Cox proportional hazards model was used to analyze the time difference in time to lochia termination between the LIFUS and sham groups."
+2.5 Sample Size
+1- Line 10: Grammatical error: Replace "calculated" with "calculate".
+2- Line 11: Explain the term "end time".
+3- State the statistical testing method which achieves 90% power. Remove "90% power" at either line 13 or 16.
+4- The value of the t-test can be removed from table 1 and replace "full sample" with "total".
+3.2 Effectiveness.... section
+5- Line 13: State precisely which differences are being compared. Same comment for the sentence that follows.
+6- Lines 19-20: No statistical differences in what between the two groups?
+7- Table 2: Kaplan-Meier curves are not compared with t-tests. Use an appropriate test for comparing Kaplan-Meier curves.
+8- The standard statistical term for average is mean.
+9- P-values never equal zero, express small p-values as p< 0.001, even in summary tables.
+Reviewer #4: Please reformat the title using PICO pattern ( clarify the population included and outcomes
+Add reference for sample size calculation
+Add BMI to table 1
+page 10 line 30 replace included by excluded
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #4: No
+**********
+
+25 Mar 2024
+Effect of Low-intensity Focused Ultrasound Therapy on Postpartum Uterine Involution in Puerperal Women: A Randomized Controlled Trial
+PONE-D-23-21555R3
+Dear Dr. Niu,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at http://www.editorialmanager.com/pone/ and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Ahmed Mohamed Maged, MD
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: (No Response)
+Reviewer #5: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+Reviewer #5: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+Reviewer #5: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+Reviewer #5: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+Reviewer #5: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: Minor revisions:
+1- Line 6: Grammatical error: Insert "the" between in and two.
+2- Line 8: Remove the phase, "was statistically described" and provide more clarity in this sentence.
+3- State the statistical testing method which achieves 90% power. Perhaps it is the t-test.
+Reviewer #5: Overall, the paper is coherently developed. However, there are some suggestions.
+Abstract:
+- Line 23 – Keywords: - Capitalize the words.
+- Replace the semicolon with a comma.
+Introduction:
+- Well structured.
+- Line 7: add a comma after the word ‘’reduced’’.
+Methods:
+Study design:
+- Line 16: Replace the word ‘’were’’ with the word ‘’was’’.
+Discussion:
+- Well structured.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #5: No
+**********

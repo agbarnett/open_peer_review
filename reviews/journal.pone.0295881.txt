@@ -1,0 +1,156 @@
+
+21 Feb 2024
+PONE-D-23-39984Breast and cervical cancer screening among women at reproductive age in Cambodia: Data analysis of Cambodia Demographic and Health Survey 2022PLOS ONE
+Dear Dr. Um,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 06 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Pijush Kanti Khan, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Data 29/01/2024
+To: PLOS ONE editorial team and Authors
+Review comments
+Dear editorial team
+Thank you for inviting to review this articles. Dear authors you welcome with best and interesting research topic. The maternal health is one of the sustainable development goal which needs attention of the world program designer and policy makers. After I said this the comments of the manuscript put section by section below.
+Review title: Breast and cervical cancer screening among women at reproductive age in Cambodia: Data analysis of Cambodia Demographic and Health Survey 2022
+Abstract: The abstract could be outline as background, method, result and conclusion formats
+Q1: Which one is one-third of all cancers worldwide? Is breast cancer or cervical cancer
+Q2: Is demographic and health survey data incorporate behavioral factors that influence screening services? If so Which behavioural factors were included?
+Q3: From which baseline the proportion of screening is low?
+Q4: is media exposure or access to media data were collected by DHS survey?
+Introduction: It good work
+Q1: the national breast cancer and cervical cancer screening strategy, the current Cambodian policy about breast cancer and cervical cancer screening?
+Q2: Previous literatures about factors of breast cancer and cervical cancer screening?
+Q3: What is your theoretical framework of this study and briefly put your theoretical framework
+Methods
+Q1: 254 reproductive age women were missed, how did you manage this missing data?
+Q2: Has a doctor or other healthcare worker ever tested you for cervical cancer is your outcome question, if the women tested twice, three times, which one did you take?
+Q3: The independent variables could be listed for each outcome variables since the two outcome variables are quite different.
+Q4: In DHS data there is clustering is so how did you manage this clustering in logistic regression analysis (why you conduct multilevel analysis)
+Q5: What is the specific value of variance inflation factor (VIF)?
+Q6: In one area it says logistic regression but in one area it says Ordinary Least Squares
+regression model, which one is correct?
+Q7: how did you check model fitness?
+Q8: Is 19242 the sample size of both breast cancer and cervical cancer, if so how did you merge since the two outcomes were measured differently and it could have different missed value, different response and such like…please put the sample size of each outcome variables
+Q9: Operational definition of some independent variables could be necessary like wealth index, media exposure…..
+Q10: Is method of screening and frequency of screening not your concern?
+Q11: is media access and media exposure the same in your study?
+Q12: What about the women already positive for breast cancer, and cervical caner and women age above 49 years?
+Results
+Q1: The mean age were calculated but reported with standard deviation why?
+Q2: In your method part, you wrote 19242 women were included for final analysis while in result section 19251 women included, why this discrepancy occur(19242 VS 19251)?
+Q3: How smoking was measured (smoking in last ten years, is smoking last 20 years or smoking on data collection) which one?
+Q4: In alcohol drinking you classify never drink, ever drink and currently drink if so currently drink is included in ever drink individuals, how did you manage it?
+Q5: You calculated Odds ratio but you say risk factor, how?
+Q6: There is new variable in your result section, how?
+Discussion
+Q1: You did not measure awareness about breast self-examination
+Q2: Please write the implication of your finding?
+Conclusion
+Q1: write result specific conclusion and recommendation
+Write the authors contribution of the study
+Reviewer #2: The manuscript is very interesting and contains significant information on breast and cervical cancer screening across the reproductive age group and it is worthy for publication.
+However, there are few minor suggestions which I would like to suggest.
+1. In tittle, I would suggest that replace the "Data analysis" as "A secondary analysis/ A statistical analysis".
+2. In Table-2, It is well understood with only Yes (%) out of total sample of breast and cervical cancer screening. Here you can add the chi-square value.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+2 Jul 2024
+PONE-D-23-39984R1Breast and cervical cancer screening among women at reproductive age in Cambodia: A Secondary Analysis of Cambodia Demographic and Health Survey 2022PLOS ONE
+Dear Dr. Um,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Additional Editor Comments:
+Thank you for submitting the revised manuscript. Although you have made efforts to address most of the reviewers' comments, they are not yet fully satisfied with the revisions. The reviewers have asked for additional explanations and further revisions in certain sections of the manuscript. They have also suggested that the manuscript undergo a thorough English language edit or professional proofreading to improve clarity and readability.
+Thank you.
+==============================
+Please submit your revised manuscript by Aug 16 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Dr Pijush Kanti Khan, Ph.D.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Dear esteemed editor,
+Thank you for providing me with the opportunity to review this manuscript. I would like to extend my appreciation to the authors for submitting a revised version of their manuscript. However, I would like to request that the authors provide a more detailed and elaborative response to the comments and suggestions provided in the previous review. Totally I am not satisfied with the revision. While I appreciate the effort made by the authors in their revision, I found that the point-by-point response in the submission documents was insufficient in addressing all of the concerns raised in the previous review. Therefore, I would like to request that the authors provide a more detailed and comprehensive response, addressing each of the comments and suggestions in a clear and concise manner.
+Furthermore, I would like to request that the authors pay careful attention to the language used in their revision. It is important that the manuscript be written in a clear and concise manner, with proper grammar and syntax. This will ensure that the manuscript is easy to read and understand for all readers.
+Thank you for your attention to these matters. The current comments are raised section by section below.
+Abstract
+1. On method section the likelihood measures should be written.
+2. On result section it says the pooled prevalence from which did you pooled as we know DHS is secondary data, please clarify how did you pooled, and is only prevalence is pooled or factor variables also pooled?
+3. On conclusion you conduct research on Adherence, while you conclude IFAS why?
+Introduction
+IFAS is one of strategy for morbidity and maternal mortality reduction due anemia. There is many articles and many systematic reviews conducted in previously so briefly show what is methodological gap, empirical gap, evidence gaps and knowledge gaps you could be filled in your research.
+Method
+1. Why 9 countries since East Africa isnot only 9
+2. Ethiopia had demographic survey of 2019, why 2016?
+3. Variable measurement needs reference
+4. Result need more elaboration, in one area it says determinate, while in title it says factor, is it similar?
+5. Discusion add the implication
+6. In conclusion IFAS compliance was limited to one-third of pregnant mothers, what does it mean?
+7. Conclusion is putting the result, please revise the conclusion
+8. In conclusion the reader expected the recommendation but there is no single sentence which recommend based on your findings, why?
+9. Reference 1, 2,10,18, is not full
+Reviewer #3: Thank you for allowing me to review this interesting work. The authors have effectively responded to the comments. I recommend publishing this article after thorough proofreading.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: No
+**********

@@ -1,0 +1,74 @@
+
+26 Apr 2023
+PONE-D-23-00748Online randomised trials with children: A scoping reviewPLOS ONE
+Dear Dr. Lepage,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: Thanks for the opportunity to review this paper. This scoping review aimed to identify methods and tools have been used to create and conduct entirely online decentralized trials with children and determine knowledge gaps.
+This review addresses important topic in the field and may interest to researchers who work in paediatric fields. Overall it is well written. Several points were provided for considerations when designing and conducting online trials with children. I agreed with other reviewers that more elaboration on facilitators and gaps in knowledge as well as implications of this review should be added.
+Please submit your revised manuscript by Jun 10 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+"This work contributes to one of the authors’ (SL) doctoral projects. SL’s PhD is funded by the College of Medicine, Nursing and Health Sciences at the University of Galway and by the Health Research Board (HRB, Ireland) through a grant to the Health Research Board-Trials Methodology Research Network (HRB-TMRN). "
+We note that you have provided additional information within the Acknowledgements Section that is not currently declared in your Funding Statement. Please note that funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+"This research was supported by the Health Research Board [TMRN-2021-001] and by the College of Medicine, Nursing and Health Sciences at the University of  Galway. Funding was received by DD from the Health Research Board of Ireland: https://www.hrb.ie/
+The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Competing Interests section:
+"PW is an associate editor at the Journal of Medical Internet Research and is on the editorial advisory boards of The BMJ, BMC Medicine, The Patient, and Digital Biomarkers. PW is employed by Wicks Digital Health Ltd, which has received funding from Ada Health, AstraZeneca, Biogen, Bold Health, Camoni, Compass Pathways, Coronna, EIT, Endava, Happify, HealthUnlocked, Inbeeo, Kheiron Medical, Lindus Health, MedRhythms, PatientsLikeMe, Sano Genetics, Self Care Catalysts, The Learning Corp, The Wellcome Trust, THREAD Research, VeraSci, and Woebot.
+NG is an employee of THREAD, a decentralized platform provider.
+The remaining authors, AC, DD, LF, and SL have no conflicts of interest to report.
+The findings and conclusions in the document are those of the authors and not necessarily those of NICE."
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Additional Editor Comments:
+Thanks for the opportunity to review this paper. This scoping review aimed to identify methods and tools have been used to create and conduct entirely online decentralized trials with children and determine knowledge gaps.
+This review addresses important topic in the field and may interest to researchers who work in paediatric fields. Overall it is well written. Several points were provided for considerations when designing and conducting online trials with children. I agreed with other reviewers that more elaboration on facilitators and gaps in knowledge as well as implications of this review should be added.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: As scoping reviews do not aim to produce a critically appraised and synthesised result/answer to a particular question, and rather aim to provide an overview or map of the evidence, an assessment of methodological limitations or risk of bias of the evidence included within a scoping review is generally not performed (unless there is a specific requirement due to the nature of the scoping review aim). In this paper, the aim was to evaluate fully online RCTs performed on children, so that the authors could identify the methods and tools used, and to determine the gaps in knowledge, in order to help them perform their own online trial in children.
+The methods used were thorough, necessary, and well documented. They looked at a large number of trials, and followed the protocol meticulously. They were left with 21 studies that met with all the criteria. Exclusion of other studies was well justified. What bothers me about online trials is bias in recruitment, accuracy and validity of the information gathered, and spurious results. Did the authors find ways in which the authors of the different studies accounted for this? Also, were there ways in which the authors of the studies gauged the comprehension of the participants of the tasks set out for them? For informed consent to be valid we need the recruits to understand the implications of their participation. In addition, it would be preferable to include all studies in languages other than English, so as to be more comprehensively cover the subject of study. I understand that lack of funds precluded the authors to include other languages studies, but that does not totally justify excluding them. I agree with the authors’ conclusion that more than one person should have screened all the studies, which would have provided more valid representation of the studies.
+I agree with the conclusions of the review.
+Reviewer #2: This study presented a research question in summarising the evidence in the online RCTs in children. However, many issues should be addressed first before the manuscript can be considered for publication, especially the research problem clarification. My suggestions are as below:
+Introduction:
+1. Please reconsider the research question and make it more clearly. What specific online RCT did the authors want to evaluate. Which type of the children did the authors want to focus on. What specific problems of children did the authors want to address. After that, please also rewrite the title and introduction.
+2. As only RCTs or quasi experimental studies were included, why a scoping review was still conducted, not a systematic review or meta-analysis?
+Methods:
+1. After reclarifying the research problem, the authors should redefine the inclusion criteria of the studies
+2. How about the quality appraisal process? Please add more details of ROB
+Results:
+1. The authors seemed to write this review as a wrong direction. Actually, for the recruitment methods, consent, data collection, compensation, loss to follow-up, and public and patient involvement (PPI) in online trials within paediatric populations, these could be summarised as the quality appraisal results, but should not be the main focus of a systematic review. The main results of the review involving RCTs should summarised the components of the target intervention, such as intervention typer, mode, frequency, and the efficacy of the interventions.
+2. What facilitators and gaps did the authors find out?
+Discussion:
+1. The authors should reconsider the significance of the findings for international scholars.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

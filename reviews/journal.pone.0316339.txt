@@ -1,0 +1,107 @@
+
+22 Aug 2024
+PONE-D-24-25365The Scania Accelerated Intermittent Theta-burst Implementation Study (SATIS) – lessons from an accelerated treatment protocolPLOS ONE
+Dear Dr. Persson,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 06 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Mu-Hong Chen, M.D., Ph.D.
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Competing Interests section: "I have read the journal´s policy and the authors of this manuscript have the following competing interests: Authors MP, VF, AR, AL, and PM none, HE is a full-time employee at HMNC Brain Health, a pharmaceutical company developing pharmaceutical treatments for depression."
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: ""This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared. 
+Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf.
+3. We note that you have indicated that there are restrictions to data sharing for this study. For studies involving human research participant data or other sensitive data, we encourage authors to share de-identified or anonymized data. However, when data cannot be publicly shared for ethical reasons, we allow authors to make their data sets available upon request. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+Before we proceed with your manuscript, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., a Research Ethics Committee or Institutional Review Board, etc.). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories. You also have the option of uploading the data as Supporting Information files, but we would recommend depositing data directly to a data repository if possible.
+Please update your Data Availability statement in the submission form accordingly.
+4. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript.
+5. We notice that your supplementary figures are included in the manuscript file. Please remove them and upload them with the file type 'Supporting Information'. Please ensure that each Supporting Information file has a legend listed in the manuscript after the references list.
+6. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. In common TMS trials, participants with a high risk of suicide are often excluded, as well as those with psychotic features. Due to concerns about heterogeneity, cases with bipolar depression may also be excluded, or the trials may specifically focus on including only those with bipolar depression. Additionally, it is relatively rare to include cases with comorbid autism. Many trials also focus on treatment-resistant depression (TRD), most commonly defined as inadequate response to two antidepressants. Overall, these trials are usually designed this way to enhance the homogeneity of the participants. In this study, despite the small sample size and the high heterogeneity of the population, it is acceptable that the TMS outcomes are closer to those observed in national registry data rather than in a well-designed SAINT protocol study. This is actually more reflective of real-world clinical practice with TMS. However, the author should mention the limitations regarding the participants.
+2. In addition, please describe the participants' medication usage status.
+3. I would like to know the rationale behind designing the study with 5-7-7-7-7 sessions. Why not have 7 sessions each day for 5 days or 5 sessions each day? I suspect the author aimed to reduce the total sessions while increasing the MT% to compare with the SAINT Protocol. However, this should be explained in the Introduction.
+4. Line 360 mentions that SAINT, with its higher number of sessions and total pulses, might be related to better outcomes. There is a considerable amount of research on TMS total pulses/total sessions and treatment effects (though not necessarily in the context of accelerated protocols). The author should delve deeper into this aspect—does more frequent stimulation necessarily lead to better effectiveness?
+(PMID: 38183740, PMID: 38723735)
+5. In the same vein, Line 373, The author mentions that the SAINT protocol uses a lower MT%, which is associated with better outcomes (??). This aspect also requires a more thorough discussion.
+6. It is generally believed that the placebo effect can be quite significant in rTMS research (PMID: 29111404). In this study, many cases showed an immediate response within 2-3 days. Has the possibility of the placebo effect been considered?
+Reviewer #2: I appreciate the invitation to review this work. The manuscript is intriguing, current, significant, and well-written. It explores the effectiveness of SATIS protocols, a modified version of SAINT protocols, and provides a practical feasibility analysis in a clinical setting, addressing the challenges of medical economics. Interestingly, the effectiveness of SATIS was shown to be comparable or maybe lower than standard iTBS protocols, but not comparable to the SAINT technique. I have a few minor comments to share:
+1. 1. When comparing SATIS protocols to general accelerated TMS protocols (which consist of 20-30 sessions administered over a short period), SATIS protocols were found to be more similar to SAINT procedures than the general aTMS protocols. Consequently, readers may be interested in understanding why the results deviated significantly from the SAINT procedures. Therefore. The current discussion may be not enough. I believe that a more comprehensive explanation should be provided regarding the discrepancy observed in the results of the SAINT protocol, as well as the potential underlying confounding factors. For instance, it would be beneficial to include further discussions regarding the overall number of sessions (33 compared to 50 sessions), the motor threshold (subthreshold versus suprathreshold), the localization methods, and the features of the patients. It is also important to include the relevant citation. For instance, the reference should be added for LN364-367 that suggests that the refractoriness of individuals, as shown by their experience of electroconvulsive therapy (ECT) and hospitalization, could potentially impact the success of SATIS.
+2. Furthermore, it is suggested to perform additional analysis and outcomes using the same exclusion criteria and remission definition in order to compare the results with SAINT. The SAINT study enrolled patients diagnosed with major depressive disorder only while excluding individuals with bipolar I disorder, bipolar II disorder, major depressive disorder with psychotic features, and autism spectrum disorder. The impact of rTMS on individuals’ comorbid with those diagnoses remains unknown. Furthermore, they identified remitters if they met these specific criteria at any point during the 4-week follow-up.
+[Am J Psychiatry . 2022 Feb;179(2):132-141. doi: 10.1176/appi.ajp.2021.20101429. Epub 2021 Oct 29. Stanford Neuromodulation Therapy (SNT): A Double-Blind Randomized Controlled Trial]
+3. The inclusion criteria was patients having baseline MADRS≧20. However, LN245 and LN248 reported the min MADRS was 17 at baseline no matter in PP group or ITT group. Please explain the reason.
+4. The readers may be interested in knowing the average percentage changes in depression scores before and after the SATIS protocol and the results of pair-t test before and after SATIS treatment.
+5. LN376-378 “SATIS follow-up depression scores were higher than post-intervention scores. Interestingly a meta-analysis suggested ongoing improvement post-accelerated rTMS treatment, a pattern not observed with aTBS, consistent with our data.” The paragraph is unclear. It is uncertain whether the SATIS results align with the findings in the literature or not. Furthermore, if there is no compatibility, could you provide a rationale for the "relapsed" depression ratings observed throughout the follow-up period?
+6. Table 1 provides information on the number of participants who had undergone Electroconvulsive Therapy (ECT) at least once in their lifetime (n=8). Is it feasible to determine the response or remission rate of earlier electroconvulsive therapy (ECT) in those patients? If the patients did not respond to earlier electroconvulsive therapy (ECT) treatment, particularly after receiving more than six to eight sessions of ECT, it would be more reasonable to expect them to not respond to the SATIS regimen.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Chih-Ming Cheng
+**********
+
+10 Dec 2024
+The Scania Accelerated Intermittent Theta-burst Implementation Study (SATIS) – lessons from an accelerated treatment protocol
+PONE-D-24-25365R1
+Dear Dr. Marcus Persson,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Mu-Hong Chen, M.D., Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I have no further comment. Despite the high heterogeneity of the population and the limited sample size, it remains a study worth publishing.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

@@ -1,0 +1,173 @@
+
+2 Feb 2023
+PONE-D-22-34645Acoustic indices as proxies for bird species richness in an urban green space in Metro ManilaPLOS ONE
+Dear Dr. Diaz,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 19 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Cihun-Siyong Alex Gong, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that Figure 1 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 1 to publish the content specifically under the CC BY 4.0 license.  
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+Reviewer #3: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors have performed an interesting study on natural sound from bird species in an urban environment, using well-known and standard acoustic indices. They obtain robust results using pre-processing data by analysing cross-correlations between indices and bird species, thus discerning more accurately their effective applications to classify such natural sounds. While I can recommend the publication of the paper in PLOS ONE, I have few suggestions which the authors may consider for improvement of the presentation.
+(1) Fig.3: The data for ADI and 1-AEI look identical. Is there a reason for that coincidence? Similar observation holds for H and Hf. Can you give us a hint for this?
+(2) The different correlations observed at different sites should also reflect the different local noise conditions. Can you perhaps estimate such effects in order to understand the variations of correlation values found?
+(3) There is quite recent literature about birds sounds in urban environments that the authors seem not to be aware of. I recommend to check the following references:
+(3a) Benocci, et al. Mapping of the Acoustic Environment at an Urban Park...
+Sensors 22, 3528 (2022).
+(3b) Benocci, R., et al. Auto-correlations and long time memory of environment sound..
+Ecological Indicators 134, 108492 (2022).
+Reviewer #2: The study examines effectiveness of acoustic indices in bird species richness estimation in urban area. Similar studies have been conducted in various environments, so it is not novel approach. However inconsistent results reported in various studies point out that we still need more examples of such comparisons to understand where and when acoustic indices can be used as an approximation of biodiversity. From this perspective the study is valuable.
+Authors identified bird species in 840 5-min sound samples (collected across more than one year) by manual spectrogram scanning and listening to recordings, calculated acoustic indices, and compared it by using Spearman’s correlation. This is very simple approach and, in my opinion, does not fully explore data. Authors reported weak or insignificant correlations between bird species richness and acoustic indices. The limitation of the study is sample size (only 3 recording points). The strong side of the study is that authors sampled soundscape across whole year. There is not a lot of studies analysing effectiveness of acoustic indices across a day and season. I think that daily and seasonally variable effectiveness of acoustic indices may be the main reason of found weak correlations. Did you check how well work acoustic indices when you compare separately dawn chorus, day and dusk chorus, or breeding vs non-breeding season? I suggest re-analysing data that way. I do not know how sound samples are distributed across day and season, maybe it will be necessary to analyse more sound samples to get optimal distribution, but authors can examine how each acoustic index estimate bird species richness dependently on time in a day and season (at least breeding vs non-breeding season). They can do this in simple way applying GLMMs in which they will specify the index for each sound sample as a dependent variable, number of detected bird species, time in a season, time in a day and one-way interactions as fixed effects, point id as a random effect. At the current stage of analysis, in my opinion, it will be difficult to publish results of the study. Also description of the methods should be more precise. I suggest considering reorganization of discussion and describing all indices together instead each of them separately. I suggest adding raw data as a supplementary materials.
+More detailed comments:
+L36: …840, 5-min sound samples.
+L36-37: You used raw and pre-processed data.
+L37: Spearman’s correlation
+L38: …manual spectrogram scanning and listening to recordings.
+L47: Please remove solely.
+L52-53: Mobile network also serves such possibility and seems to be more useful than wi-fi.
+L60-61: Not only these packages and not only R, but I agree that calculation is easy.
+L64-65: Please remember that some indices correlate negatively with soundscape complexity.
+L66-67: Please look at this review https://doi.org/10.1111/brv.12890, it can be useful.
+L71-80: Consider mentioning about complexity and variation of birds vocalization – two different species (or even individuals within a species) will generate different values of acoustic indices.
+L78-80: Great point. But also specific species composition may be one of the main factors responsible for effectiveness of acoustic indices.
+L91: Not many papers reported strong correlation, it is rather moderate or weak.
+L96: ...is home to 42 bird species, including endemic...
+L96-98: How many of them are breeding species, how many are sedentary? Please write how long is a breeding season and when it has place.
+L108-109: The distance between recorders was ca 100 m what means that you probably recorded the same individuals from different recording points (individuals between point A, B and C probably were recorded by three recorders). Most studies report detection distance for most of songbirds ranging between 100 and 200 m. Do you have information about detection distance of used by you equipment? Recording of the same individuals from various points do not limits your study, because soundscape recorded in each point is different.
+L121-122: Please write about frequency response, signal to noise ratio and detection distance of recorders. Did you calibrate recorders before using?
+L124:125: Impressive. Do you use these data in silent cities project?
+L129-130: 840 five minutes sound samples. Please describe how did you select recording? Was it random choose? How was the distribution of sound samples across the year (because you recorded soundscape more than year, does it mean that months from July to June were sampled twice?)? Was it the same number of sound samples analysed per recording point? Did you validate recordings before analyzing (quality, noise, species richness)?
+L130: …daily activity period, including dawn and dusk chorus.
+L132: Which software and settings of spectrogram did you use? How many observers analysed recordings and if they were experienced in birds vocalisations? Did you recognise the species based on songs, calls or both? This is important to point out, because in the breeding season the same species richness will generate different complexity of soundscape than in non-breeding season.
+L136-137: How commonly vocalizations of animals other than birds were recorded? The information about other biological sources of sound in your study area is missing.
+L140: Similar effect you can get modifying setting of acoustic indices calculation.
+L150-154: Please add a table (e.g., as a supply mat) in which you will show settings for each index.
+L155-159: This point is not clear. Did you calculate indices for 5-min sound samples? If yes, you had constant sound-sample duration and you can use raw or standarised indices values for further analyses. Please be precise, describing the dataset used for manual spectrogram scanning and listening to recordings (840 sound samples) and calculating indices (840 sound samples or whole dataset).
+L138: Please look at this review: https://doi.org/10.1080/09524622.2021.2010598
+L175-176: So these two indices should correlate negatively and positively with bird species richness.
+L197-199: It is very simple method. I think that you could use more sophisticated analyses to show how acoustic indices estimate bird species richness dependently on time in a day and time in a season. For example you can use GLMM for each index to check how the index predict bird species richness dependently on time in a day, season and recording point. Such analysis will considerably improve sounds of your study. When you use Spearman’s rho you should demonstrate evidence of a monotonic relationship and lack of severe skewness in raw data. If I good understood you compared the number of bird species detected manually in 840 sound samples with many acoustic indices calculated on the same 840 sound samples. I do not see test comparing effectiveness of indices on raw and pre-processing data, similarly like between recording points, but you write about it in discussion.
+L202-203: 840 5-min sound samples? I suggest adding histogram (or modifying Table 1) to show how many sound samples each bird species was detected.
+L205-206: Why?
+L206-209: You do not need mention them here, please add marker in Table 1 which species are endemic.
+L213: I suggest to show in how many sound samples each species was detected in each recording point instead markers.
+L241: You showed the same in the table and on fig. It would be better to see raw data on the fig., e.g., number of bird species vs index value for each sound sample and the mean/median +/- 95%cu. If you would like to check difference in bird species richness estimation between recording points I suggest using GLMM with point ID as an effect. Additionally in such model you probably would be able to test the effect of time in a day and season on effectiveness of acoustic indices. Please consider such approach.
+L247: In my opinion discussion needs reorganization. I suggest writing it more holistically (like in conclusions) instead describing each index separately. When you write whether pre-processing data increase effectiveness of the index in bird species richness estimation you need to support it by statistical test. More references to effectiveness of acoustic indices in estimation of bird species richness in urban areas are needed.
+L249-255: In your study you did not test the effectiveness of soundscape recorders in comparison to human observers. Therefore this part of discussion is not necessary. You estimated bird species richness based on soundscape recording and compared it with acoustic indices, what is appropriate approach.
+L343-344: There was a few studies examining effectiveness of acoustic indices in urban areas from other regions. Please look at them.
+Reviewer #3: The paper “Acoustic indices as proxies for bird species richness in an urban green space in Metro Manila” describes the correlation results between bird species richness and eco-acoustic indices.
+The paper is clear but requires supplementary analysis before being accepted. It focuses just on a specific aspect of the soundscape recorded at three sites linked to bird species richness. Generally, eco acoustic indices represent summaries of the whole soundscape and highlight specific features of the frequency spectrum. This concept should be included in the introduction.
+More in detail in the Material and Methods section (Data collection), you should include the sampling rate of the recorder and the frequency response. The latter is important especially for low-cost sensors.
+Sect. Manual aural identification: Here, report also all other sound sources identified and their frequencies. This is important especially in urban green areas
+Sect. Acoustic index analysis: when you introduce the pre-processing, please report an example of a spectrum for a raw and pre-processed audio file.
+All indices are based upon a FFT computation of audio recordings. Please specify the number of FFT points use, the frequency and time resolution.
+In Sect ADI and IAEI , it is reported that each frequency bin represents a particular bird species. This is NOT true!!
+At line 176, I would say that higher ADI and 1-AEI indicate higher frequency occupation of the spectrum.
+Fig 2 is not clear: As ordinate axes use a clearer title. Here you should report also differences among the sites in terms of richness and abundance of bird species. This is important because the correlation between indices depends also on the species abundance.
+If possible include a temporal trend of the mean bird richness as well as for the eco-acoustic indices.
+Lines 264-266: this part needs to be improved
+Line 272-273. This is why abundance of birds should be included in the analysis.
+Line 303-304: this is why you need to include a more detailed aural survey.
+In the Conclusions, you should also stress that, besides CNN and machine learning, an approach which implies the use of statistics is also able to help discriminate among different soundscapes in urban areas based upon eco-acoustic indices, as reported in:
+Benocci, R.; Roman, H.E.; Bisceglie, A.; Angelini, F.; Brambilla, G.; Zambon, G. Eco-Acoustic Assessment of an Urban Park by Statistical Analysis. Sustainability 2021, 13, 7857.
+Benocci, R.; Brambilla, G.; Bisceglie, A.; Zambon, G. Eco-Acoustic Indices to Evaluate Soundscape Degradation Due to Human Intrusion. Sustainability 2020, 12, 10455.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+**********
+
+26 Jun 2023
+PONE-D-22-34645R1Acoustic indices as proxies for bird species richness in an urban green space in Metro ManilaPLOS ONE
+Dear Dr. Diaz,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please remove gradient from the caption and specify min and max values in dB, in Fig. 2. Also, please address the comment from reviewer 3, with respect to differences among the used sensors.
+Please submit your revised manuscript by Aug 10 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Additional Editor Comments:
+Please remove gradient from the caption and specify min and max values in dB, in Fig. 2.
+Also, please address the comment from reviewer 3, with respect to differences among the used sensors.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors have satisfactorily responded to all pints raised. As such, I can recommend the publication of this paper in its present form.
+Reviewer #3: The authors mostly addressed the reviewer’s suggestions. Still there are some other minor points to be clarified and stressed.
+Fig 2: remove gradient from the caption and specify min and max values in dB.
+The frequency response that you obtained reveals that there could be significant differences among the used sensors. This may imply that also the indices calculation could be affected by it. This limitation needs to appear in the Conclusions.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #3: Yes: Giovanni Zambon
+**********

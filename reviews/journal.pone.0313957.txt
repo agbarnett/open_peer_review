@@ -1,0 +1,166 @@
+
+21 Oct 2024
+PONE-D-24-41211Challenges in implementation of post-validation surveillance for lymphatic filariasis in the Pacific Islands: A nominal group technique-based research study protocolPLOS ONE
+Dear Dr. Craig,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+ACADEMIC EDITOR:
+​I have invited five experts to review the manuscript. Of them, three agreed to review the ms. All the three reviewers considered the protocol is timely and relevant in the context of post-validation surveillance for lymphatic filariasis. But also raised both major and minor comments. I would request the authors to focus on the major comments on the methodology related to how to elicit meaningful responses from participants or how program personnel would able to identify challenges and provide insights especially in the absence of clear guidance from WHO or other stake holders.
+Please submit your revised manuscript by Dec 05 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Swaminathan Subramanian, Ph.D.
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In the ethics statement in the Methods, you have specified that verbal consent will be obtained. Please provide additional details regarding how this consent will be documented and witnessed, and state whether this was approved by the IRB.
+3. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section. 
+4. We note you have included a table to which you do not refer in the text of your manuscript. Please ensure that you refer to Table 1 in your text; if accepted, production will need this reference to link the reader to the Table.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #1: Comments on the paper titled Challenges in implementation of post-validation surveillance for lymphatic filariasis in
+the Pacific Islands: A nominal group technique-based research study protocol
+Post-validation surveillance (PVS) is an important component of the national Lymphatic filariasis (LF) elimination programs. The progress of PVS is tardy, so far, in the countries that have eliminated LF as a public health problem. In this context, the objective of the authors to identify the challenges in implementing PVS and operational research areas in Pacific island countries is timely and relevant.
+As the authors noted (Line 13), there is limited guidance from WHO or other stakeholders regarding the components and strategies of post-validation surveillance (PVS). Many programs, whether in the PVS phase or post-MDA surveillance phase, may lack a clear understanding of how to organize and implement PVS or estimate its costs. In this context, it is unclear how the authors expect to elicit meaningful responses from participants or how program personnel would be able to identify challenges and provide insights, especially in the absence of concrete guidance. For instance, if I were a program manager or deputy with little knowledge of PVS strategies, it would be difficult to identify challenges or offer perspectives. The authors should address this gap in detail.
+The other points are as follows:
+Line 11: It is not 'eradicated'; it is 'eliminated'
+Lines 56-60: The figures 120 million people and 40 million people refer to the years prior to launching the LF elimination program. The current figures are much lower due to the impact of the LF elimination programs. The authors should provide either current figures or correct the sentence to indicate the figures pertain to pre-GPELF period.
+Line 68: threshold of 1% - provide whether it is Ag prevalence or Mf prevalence.
+Line 93: COR NTD meeting: The dates and venue details of the meeting should be provided.
+Reviewer #2: The manuscript is technically sound, and the authors have well described the protocol for a NGT-based research study addressing the pertinent issue of challenges in the implementation of post validation surveillance for LF.
+There are a few minor clarifications and suggestions that may be addressed by the authors:
+Line no. 52: "potential for dominant voices to influence group decisions"- how this will be addressed in the study shall be briefly explained in the Methods section.
+Line nos. 56-60: Reference no. 8 is quite old. Recent figures and reference shall be provided.
+Line no. 67: "..prevalence of LF to below the prevalence threshold of 1%.."- I suppose it means Mf prevalence<1%. The sentence shall be reframed for better clarity.
+Line nos. 61-71: The paragraph discusses about the LF situation in the PICTs. A line on the parasite (W.b/ B.m) and vector species involved in transmission in PICTs can be included for better understanding of the readers.
+Line nos. 95-98 and Line nos. 108-110, 117-118 are repeated.
+Line no. 128: A sentence on consent for audio recording shall be included under "Consent process"
+Line no. 189: Under Discussion, the authors can briefly discuss the advantages of NGT over Delphi method and any other consensus method available.
+Line no. 198 is unclear and shall be reframed: co-design what?
+Line no. 200: :"..in draft WHO guidelines for PVS of LF"- the same shall be mentioned in Introduction after line no: 79-80
+Reviewer #3: Comments on the paper entitled “Challenges in implementation of post-validation surveillance for lymphatic filariasis in the Pacific Islands: A nominal group technique-based research study protocol”
+PLOS ONE accepts submissions for publication of Study Protocols for any study type within the journal’s scope. The proposed study Protocols describe detailed plans for conducting research, including the background, rationale, objectives, methodology, statistical plan, and organization of a research project. This protocol can be considered for publication as the study plans to use consensus group method by following nominal group technique and bring out the challenges faced in implementing surveillance for LF and research priorities for LF LF-PVS, with an ultimate objective of developing national and regional guidelines.
+Abstract
+1. Line 11: replace “eradicated the disease” by “eliminated”
+2. Line 12: replace “prevent the” by “verify absence of resurgence and …..”
+3. Line 30: add “post validation” before “surveillance”
+4. Line 31: add Nominal Group technique
+Introduction
+5. Line 39: remove “method”
+6. Line 64: add “in 16 countries” after (WHO)
+7. Line 67-68: add after have “cleared Transmission Assessment Survey” and delete “reduced the prevalence of LF to below the prevalence threshold of 1%”.
+8. Line 70: before “to” add “achieve elimination of LF” and delete eliminate
+9. Line 73: replace figure1 by table 1
+10. Table 1: Add a column “population” before “Year validated by WHO as having eliminated LF”, and give the latest population
+Methods
+11. Line 89: is it not biased to include NTD programme staff from LF-eliminated PICTs who are registered to attend the Coalition for Operational Research into Neglected Tropical Diseases (COR-NTD) meeting for the Pacific Islands, scheduled in September 2024?.
+12. Line 102: rephrase as “two groups of NGT discussion will be formed”
+13. Line 107: consent procedure is a repeat of lines 95-98. The text in lines 95-98 can be deleted.
+14. Line 123-125: Additionally, a space on the wall will be designated for displaying and making participant-generated ideas visible to everyone. Should it mean flip chart?
+15. Line 140: does it refer post validation surveillance?
+Discussion
+16. Line 192: does it mean post validation surveillance?
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes: Krishnamoorthy Kaliannagounder
+**********
+
+4 Nov 2024
+Perspectives on the implementation of post-validation surveillance for lymphatic filariasis in the Pacific Islands: A Nominal Group Technique-based study protocol
+PONE-D-24-41211R1
+Dear Dr. Craig,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Swaminathan Subramanian, Ph.D.
+Additional Editor Comments (optional):
+Dear Authors,
+We are pleased to inform you that all the three reviewers have recommended to accept the ms for publication in PLOS ONE (review reports attached). However, there are minor corrections from one of the reviewers (Reviewer 3). I would request you to take care of the minor corrections while submitting the final version.
+Best wishes
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #1: Comments on Perspectives on the implementation of post-validation surveillance for lymphatic filariasis in the Pacific Islands: A Nominal Group Technique-based study protocol
+The contribution of PIC to the field of epidemiology and the control of lymphatic filariasis (LF) since the 1960s, as well as to LF elimination efforts since 2000, is indeed significant and commendable. However, this history alone does not necessarily establish PIC or any other region as “among the best equipped to offer meaningful insights into the challenges faced in the delivery of PVS in the Pacific context.” Without a well-defined strategy, discussing effective delivery and associated challenges seems premature. Therefore, the authors’ argument lacks sufficient support. That said, I appreciate the enthusiasm and dedication of the authors, and I encourage them to publish and implement their protocol.
+Reviewer #2: The authors have addressed all comments in the revised version of manuscript. The necessary changes made are appropriate and acceptable.
+Reviewer #3: This paper may be accepted for publication in the PLOS One Journal as the author have responded to the comments of reviewer 3. However, the authors need to respond to the following two comments:
+Previous comment 6:. Line 64: add “in 16 countries” after (WHO):
+Authors’ response: the sentence has been updated to read, “The GPELF’s main objective was to achieve the elimination of LF as a public health problem across 73 endemic nations, including 16 in the Pacific Islands region, by 2020 [13].” (around line 64)
+Present comment: Line 69-71 of the revised manuscript: Correct the sentence “The GPELF’s main objective was to achieve the elimination of LF as a public health problem across 73 endemic nations, including 16 in the Pacific Islands region, by 2020 [15] [16]]” as “The GPELF’s main objective was to achieve the elimination of LF as a public health problem across 72 endemic nations, including 16 in the Pacific Islands region, by 2020 [15]. [16]
+Previous comment 7: Line 67-68: add after have “cleared Transmission Assessment Survey” and delete
+“reduced the prevalence of LF to below the prevalence threshold of 1%”.
+The authors are yet to respond to this comment.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes: Krishnamoorthy Kaliannagounder
+**********

@@ -1,0 +1,120 @@
+
+4 Jul 2023
+PONE-D-23-12176Net-Export and FDI Nexus: Global Study Based on Wavelet Coherence Technique and Granger CausalityPLOS ONE
+Dear Dr. Jayathilaka,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Aug 18 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The study uses the wavelet method to examine the time-varying interrelation between Net export and FDI. This paper needs to be improved in different ways before it can be accepted. Following are the comments to improve this draft:
+1. Recast the selected paper with four parts: the policy hypothesis is first indicated, then the model (theoretical frame) is developed, next the empirical validation confirms or rejects, then produce a set of policy advisory. In other words, a substantial policy discussion is needed, making sure that the hypothesis testing is policy guided and not guided by the objective to verify the validity/applicability of a given statistical tool.
+2. It’s not clear whether original data indices are used or any transformation is applied to indices before applying wavelet approach.
+3. This article provides some figures about empirical results. However, their information is not clear. Please add a note for the readers and explain how to interpret the wave patterns in the graph.
+4. This study applies the wavelet approach to estimate the linkages between various variables. Why Wavelet approach is preferable to other competitive models? Explain it in detail. The method of wavelet significance testing is not discussed in the paper?
+5. The biggest problem is just showing the empirical results. The empirical results should be discussed in a better way, and their similarities and dissimilarities with previous studies should be elaborated. More explanation is needed regarding the main findings, especially the difference of results across scales.
+6. The Empirical Results should consist of sub-headings, i.e. Preliminary findings, Empirical findings and Robustness check.
+7. The manuscript needs to be checked by a native English speaker for style, grammatical errors, typos, spelling and incorrect word choice. There are many problems in format and I suggest the authors should check the whole paper and correct them. The language is not always fluent. There are also many typos and the language is repetitive (throughout the paper).
+8. There are some related papers that should be cited. Qureshi, F., Qureshi, S., Vo, X. V., & Junejo, I. (2021). Revisiting the nexus among foreign direct investment, corruption and growth in developing and developed markets. Borsa Istanbul Review, 21(1), 80-91. & Kamal, M. A., Ullah, A., Qureshi, F., Zheng, J., & Ahamd, M. (2023). China’s outward FDI and environmental sustainability in belt and road countries: does the quality of institutions matter?. Journal of Environmental Planning and Management, 66(5), 1002-1036.
+9. Policy implications should be improved for the interest of regulators, investors, and policymakers.
+10. The literature review section is very comprehensive but the latest literature of 2022 is missing, therefore it is advised to add few recent studies in this section as well.
+11. In the literature review section, the author(s) could cite more references on the approaches to describing interrelationships, and particularly the wavelets approach, which is one of the main contributions of this paper.
+12. More explanation and justification are needed regarding the choice of the sample period, and the frequency of the data.
+13. The introduction section is slow and should be revised in order to provide a more comprehensive background and motivation on the topic and the necessity to consider the interlinkages in the FDI and Net exports. In this regard, the authors should spend more ink to better explain their added value and contribution of the paper to the academic literature, including the added value of using multiscale-based approach.
+14. The title should be changed to Net Export and FDI Nexus: Global study based on Wavelet analysis
+15. Make sure that all cited papers are presented in the reference list and vice-versa.
+Good luck with the revision.
+Reviewer #2: The topic is interesting, and the author has done a great job in realizing the subject. However, there are few areas on the paper that is still lagging and should be addressed properly.
+Abstract
+1. The authors should motivate the choice of variables with theory and empirical backing on the subject
+2. Keywords should be revised to match key element of title
+3. Rewrite the title to be more catchy
+4. Introduction
+1. The objective of the paper presented need more clarifications to suit reader to understand the main idea of the paper especially for the study case is needed
+2. Literature review
+The literature is well written. However, there is need for more recent studies ranging from 2018-2022 to motivate the study properly. The entire study is too scanty and the related literature is not exhausted
+Trade openness, FDI, and income inequality: Evidence from sub‐Saharan Africa. African Development Review, 33(1), 193-203
+Causal interactions among tourism, foreign direct investment, domestic credits, and economic growth: evidence from selected Mediterranean countries. Portuguese Economic Journal, 19, 195-212
+Methodology
+1. This section is generally well motivated, Kindly take note of the following minor additions
+2. More benefit of the various techniques utilized should be stated
+3. The authors should avoid much mathematical expressions or take some to appendix and make the study reader friendly for other practitioner other than academic with out compromise for study intend and quality.
+Discussion
+1. The discussion is well written, but the authors should like their findings to the previous studies in the literature.
+2. There is need for professional proofreading or consult English native support
+3. Conclusion
+1. The sub-title should be conclusion and policy recommendation but not only conclusion
+2. The policy which is the engine of the study is weak and small. I therefore encourage the authors to elaborate more on the policy recommendations to policy makers for the investigated bloc
+3. The authors should add limitation of the study and future recommendation
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Festus Victor Bekun
+**********
+
+29 Aug 2023
+From Short to Long Term: Dynamic Analysis of FDI and Net Export in Global Regions
+PONE-D-23-12176R1
+Dear Dr. Jayathilaka,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: current version read well and suitable for journal audience
+all section and previously raised issues been meet satisfactory
+from the introductory to the concluding section
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Festus Victor Bekun
+**********

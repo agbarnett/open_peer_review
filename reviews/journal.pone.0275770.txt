@@ -1,0 +1,57 @@
+
+14 Feb 2023
+PONE-D-22-26524The role of perceived expertise and trustworthiness in research study and clinical trial recruitment: Perspectives of clinical research coordinators and African American and Black Caribbean patientsPLOS ONE
+Dear Dr. Morgan,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 31 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Federica Canzan
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating in your Funding Statement:
+“This study received funding support from the University of Miami Clinical Translational Science Institute, UL1 TR000460 (SEM), http://miamictsi.org, and the University of Miami’s Provost’s Research Award, PRA2022-2510 (SEM, TRH), https://www.research.miami.edu/about/admin-areas/rde/provosts-awards/provosts-research-awards/index.html. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+Please provide an amended statement that declares *all* the funding or sources of support (whether external or internal to your organization) received during this study, as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.  Please also include the statement “There was no additional external funding received for this study.” in your updated Funding Statement.
+Please include your amended Funding Statement within your cover letter. We will change the online submission form on your behalf.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+4. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for the opportunity to review this paper. It’s an interesting study with lots of scope for the findings to positively influence the way that trials recruit potential participants. I will be glad to see this published, with a few tweaks to make it as useful as possible for readers. Please see itemised comments below.
+1. In the Introduction you state that African Americans are approached more frequently to join trials - this is a surprise to me, in the UK I don’t think this is the case. Could you add in a sentence or two about why this is, or at least an additional reference to support this figure. In the Discussion of the paper you reference, the authors comment on being surprised by the figure of 16% with some indications about why this is.
+2. In the Introduction you state that ‘clinical trials offer access to cutting-edge care and treatments that cannot be accessed in any other way’ - this isn’t necessarily true of pragmatic trials, academic trials, and later phase trials, and the sentence should reinforce that this is usually the case for earlier phase trials.
+3. I’m not familiar with the elaboration likelihood model but the section (line 68 onwards) where you describe it is well written and clear, providing both pros and cons of the model as well as reasons why you have chosen to use it. Could you also add in why you chose this model over others that may have also been effective in this study?
+4. The participant demographics are clearly split between majority Black or African American and Non-Hispanic for patient groups, and majority white and Hispanic for CRC groups, gender and education is also split different in the two participant groups - this need a comment in the Discussion.
+5. Line 212 - suggest removing ‘emerging themes’, themes do not emerge, themes are constructed and shaped by the interpretation of the researcher(s) doing the analysis.
+6. Please make sure there are quotation marks around all quotes in the Results section, there are some missing, particularly in the bigger quotes e.g., line 234-239, line 244-251.
+7. The comments on professionalism, clothing and appearance etc in terms of patients’ assessment of expertise are quite narrow in their definition of professionalism - ‘business-like’ and comments on personal appearance linked to authority and expertise. This has the potential to veer into misogyny and other forms of discrimination. This deserves a comment in the Discussion about how we define ‘professionalism’ in modern society, how that might impact women for example, younger PIs, neurodiverse PIs, people from LGBTQIA+ communities, and others.
+8. I’d be keen to see a section on ethics and equipoise added to the Discussion of the manuscript. The perceptions detailed throughout the Results section highlight the importance of maintaining equipoise throughout the recruitment process and its interactions. Without highlighting this there’s a risk that people go on to implement strategies to increase trust, cultivate perceptions of goodwill etc and forget the fundamentals of equipoise - the fact that we are doing a trial means that we do not know whether the trial’s intervention will be effective or not, and we must make that clear to potential participants. The non-verbal queues discussed in this paper have the potential to negate that equipoise.
+Reviewer #2: This is a well written paper, easy to follow and on a very important and timely topic. It definitely adds to the literature on the source of trial information and its role in trustworthiness. I would have ideally liked to see the role of physicians in the context of trustworthiness because for some diseases (cancer) physicians are gatekeepers- they introduce the trial and then have the coordinators go through the consent and provide further elaboration. Consider adding this to the discussion.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Dr Heidi Gardner
+Reviewer #2: Yes: Soumya Niranjan
+**********

@@ -1,0 +1,132 @@
+
+6 Feb 2023
+PONE-D-22-25974Kynurenic acid, a key L-tryptophan-derived metabolite, protects the heart from an ischemic damagePLOS ONE
+Dear Dr. Entin-Meer,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please have a look at all the comments brought up by the reviewers, especially regarding methodological descriptions. Also please ensure there is a clear flow of the manuscript.
+Please submit your revised manuscript by Mar 23 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. We note that you have included the phrase “data not shown” in your manuscript. Unfortunately, this does not meet our data sharing requirements. PLOS does not permit references to inaccessible data. We require that authors provide all relevant data within the paper, Supporting Information files, or in an acceptable, public repository. Please add a citation to support this phrase or upload the data that corresponds with these findings to a stable repository (such as Figshare or Dryad) and provide and URLs, DOIs, or accession numbers that may be used to access these data. Or, if the data are not a core part of the research being presented in your study, we ask that you remove the phrase that refers to these data.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The present manuscript authored by a group of investigators reported effects of kynurenic acid on cardiac cell viability or contractile function following exposure to in vitro hypoxia or in vivo myocardial ischemia. Possible involvement of cardiac mitochondria in mediating these effects was also investigated in vitro. They demonstrated an important role played by kynurenic acid as a key metabolite after acute kidney ischemia (AKI) that may paradoxically induce cardioprotection. Overall this is an interesting and elaborated study that has provided some new findings and insights. Please consider the following concerns or suggestions of mine:
+1) Page 6, Line 119: Why 6 mice were excluded due to “normal cardiac function” on Day 1 after LAD ligation? Was this a surgical technical issue or due to resistance of female mice to myocardial ischemia? If so, why the authors chose female mice not male rats for AMI studies, considering the AKI studies were performed in male rats? Why used different animal species and genders?
+2) Page 6, Line 130: Please correct “into 5 µM slices” with “into 5 µm slices”.
+3) Page 7, Line 146 to 154: The description of statistical analysis should be removed here and merged to Page 9, Line 189 to 195, in order to avoid redundancy.
+4) Page 9, Line 165 and 171: How the sole concentration of 10 mM kynurenic acid was selected for the H9C2 experiments? Is 10 mM a physiologically achievable concentration that reflects tryptophan degradation in vivo? Please justify.
+5) In Discussion section, it would be helpful to refer the particular figure(s) or table(s) to justify each of your claims or reasoning, based on the results of the current study.
+6) Page 19, Line 427-428: The paragraph of “Study Limitation” seems to be quite superficial and needs to be expanded with further details and/or explanations. For example, why did the authors use two different species and genders, male rats versus female mice in AKI and AMI studies? Also mitochondrial study was done only H9C2 cells, which have different cellular characteristics from primary cardiomyocytes. This should be discussed as a study limitation.
+7) Do you think the release of cardioprotective substances to circulation after AKI may potentially explain the phenomenon of “remote preconditioning”? If so, please add some discussion on this possibility.
+8) Page 25, Ref. 42: The journal volume/page numbers are missing for this reference.
+9) Figure 6 should use scatter dot plots, instead of bar graphs, in order to reveal all individual data points. Also please report the heart rate data for all groups of mice, since previous study (Ref. 22) showed that in vivo treatment of kynurenic acid significantly reduced heart rate in rats. Please discuss if such heart rate reduction contribute to the cardioprotective effects of kynurenic acid in the present study.
+Reviewer #2: 1. In Fgireu 1, the authors used 26 differentially-expressed cardiac and plasma metabolites at both time points: 1 day and 1 week relative to sham. However, the reviewer cannot understand the reason underlying the time point selection.
+2. It requires to further evaluate the concentration of KYNA in the tissue and serum.
+3. Although the authors reported that KYNA is able to reduces ischemia-mediated H9C2 damage, the molecualr mechanisms undelrying cell death has not been addressed.
+4. The 5/6 nephrectomy is actually a chronic renal failure model but not acute kidney injury.
+5. Acute hypoxia exposure cannot stimulate the model of cardiac injury after AKI.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Lei Xi
+Reviewer #2: No
+**********
+
+2 May 2023
+PONE-D-22-25974R1Kynurenic acid, a key L-tryptophan-derived metabolite, protects the heart from an ischemic damagePLOS ONE
+Dear Dr. Entin-Meer,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Although myself and the Reviewers appreciated your response to the previous comments, there is some further comments regarding the use of the different dyes for mitochondrial structure and for mitochondrial function. Therefore, there should be some discussion regarding the use of these different dyes in a revised version of the manuscript. Additional information regarding this can be found in the comments of Reviewer 3.
+Please submit your revised manuscript by Jun 16 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #3: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: In this revised manuscript, the authors have carefully answered all my previous concerns and suggestions. I am glad to see the substantial improvement and have no further concern.
+Reviewer #3: The manuscript by Bigelman et al. reports the identification by metabolic profiling of kynurenic acid as a differentially expressed metabolite in cardiac lysates and plasma samples of male rats subjected to acute kidney injury (5/6 nephrectomy). The authors show that kynurenic acid enhanced cardiac recovery after acute myocardial infarction (permanent LAD artery ligation) in female mice, as determined by histology and echocardiography, and rescued viability and mitochondrial structure and function in H9c2 cardiac cells grown in anoxia. Even though there are some issues related to the methodology such as the different species and genders used for the studies or the supra-physiological kynurenic acid dose administered in in vivo experiments, in general the methodology is adequate. My main concern relates to the use of MitoTracker Green for mitochondrial structure and MitoTracker Deep Red for mitochondrial function (page 13, line 288-289). How do the authors justify this? MitoTracker fluorescent probes are useful for mitochondria localization. Also, an increase in superoxide production in anoxia, as the increase reported in H9c2 cells, seems counterintuitive, since superoxide is generated from oxygen. How did the authors achieved anoxia, i.e. 0% oxygen? Even though the authors did not explore the molecular mechanisms for kynurenic acid protection, but they propose the one described by Wyant et al. (Science, 377: 621-629, 2022), the results of the study contribute to reinforce the cardioprotective role of kynurenic acid against ischemic damage. Most questions of the original reviewers have been answered in a reasonable manner. Taking all of the above into consideration, and with the caveats stated above, the manuscript is informative and relevant in the field of acute kidney injury and associated ischemic cardiac events.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Lei Xi
+Reviewer #3: No
+**********
+
+20 Jun 2023
+Kynurenic acid, a key L-tryptophan-derived metabolite, protects the heart from an ischemic damage
+PONE-D-22-25974R2
+Dear Dr. Entin-Meer,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: The authors have made some modifications and improvements to the manuscript and I have no further comments.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+**********

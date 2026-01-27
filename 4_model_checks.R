@@ -90,11 +90,16 @@ p_neg = 100*sum(pred<0) / length(pred)
 cat('There were ', sum(pred<0), ' negative predictions which is ', round(p_neg*100)/100, '%.\n', sep='')
 p_over = 100*sum(pred>1) / length(pred)
 cat('There were ', sum(pred>1), ' predictions over 1 which is ', round(p_over*100)/100, '%.\n', sep='')
+# text labels
+text1 = data.frame(x=0.75, y=0.25, text = 'Model overestimates\nprobability')
+text2 = data.frame(x=0.25, y=0.75, text = 'Model underestimates\nprobability')
 
 # a) dots
 pplot = ggplot(data = for_plot, aes(x=predicted, y=observed))+
   geom_point(col='transparent')+ # not plotted, but used for smooth
   geom_smooth()+
+  geom_label(data = text1, aes(x=x, y=y, label=text), col='grey55')+
+  geom_label(data = text2, aes(x=x, y=y, label=text), col='grey55')+
   geom_abline(intercept = 0, slope=1, lty=2)+
   geom_point(data = for_plot, aes(x=pred, y=observed_jitter, colour = negative), pch=1, size=1)+ # used for plot but not smooth
   scale_color_manual(NULL, values=c('navy','darkred'))+
@@ -110,6 +115,8 @@ ggsave('figures/4_fit_vs_observed_dots.jpg', pplot, width = 5.4, height=4.8, uni
 # i) smooth without dots
 pplot1 = ggplot(data = for_plot, aes(x=predicted, y=observed))+
   geom_point(col='transparent')+ # not plotted, but used for smooth
+  geom_label(data = text1, aes(x=x, y=y, label=text), col='grey55')+
+  geom_label(data = text2, aes(x=x, y=y, label=text), col='grey55')+
   geom_smooth()+
   geom_abline(intercept = 0, slope=1, lty=2)+
   scale_y_continuous(breaks=c(0,1), labels=c('No','Yes'), expand=c(0,0))+
@@ -161,3 +168,31 @@ large = bind_cols(x, for_plot) %>% # add observed data
   filter(predicted > 0.8, observed==0) %>%
   select(all_of(vars_to_keep))
 # all of type = "Methods and Resources" and from the UK
+
+## covratio - measure the influence of individual observations on the variance of the regression estimates
+cr = covratio(small_model)
+to_plot = bind_cols(x, cr) %>%
+  as.data.frame() %>%
+  mutate(id = 1:n(),
+         acr = abs(cr - 1)) # to judge against limit
+n = 111609; p =22; limit = 3*p/n
+#
+cplot = ggplot(data = to_plot, aes(x = id, y = acr, col = factor(typeMethods_and_Resources)))+
+  geom_point(shape=1, size=2)+
+  xlab('index')+
+  ylab('COVRATIO')+
+  geom_hline(lty = 2, yintercept=limit) +
+  scale_color_manual('Methods and resources', values=c('darkseagreen2','darkorchid2'), labels=c('No','Yes'))+
+  g.theme+
+  theme(legend.position = 'inside', 
+        legend.position.inside =  c(0.80, 0.85))
+cplot
+#
+ggsave(filename = 'figures/4_covratio.jpg', plot = cplot, width = 5.4, height=4.5, units='in', dpi=500)
+
+# find what's driving separate covratio values (it was methods and resources)
+library(rpart)
+my.control = rpart.control()
+my.control$maxdepth = 2
+tree = rpart(cr ~ x, control = my.control)
+tree

@@ -1,0 +1,98 @@
+
+28 Oct 2024
+PONE-D-24-32539Acceptability and implementation potential of colorectal cancer screening and health literacy training: A qualitative study among general practitioners in deprived areasPLOS ONE
+Dear Dr. Cazorla, Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 12 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Alvaro Galli
+1. When submitting your revision, we need you to address these additional requirements. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf 2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.  When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section. 3. Thank you for stating the following in the Competing Interests section: "I have read the journal's policy and one author of this manuscript have the following competing interests: MA-D has contributed to the development of Option Grid patient decision aids. EBSCO Information Cervices sells subscription access to Option Grid patient decision aids. She receives consulting income from EBSCO Health, and royalties. No other competing interests declared." Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: ""This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.  Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf. 4. We note that you have indicated that there are restrictions to data sharing for this study. For studies involving human research participant data or other sensitive data, we encourage authors to share de-identified or anonymized data. However, when data cannot be publicly shared for ethical reasons, we allow authors to make their data sets available upon request. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.  Before we proceed with your manuscript, please address the following prompts: a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., a Research Ethics Committee or Institutional Review Board, etc.). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories. You also have the option of uploading the data as Supporting Information files, but we would recommend depositing data directly to a data repository if possible. Please update your Data Availability statement in the submission form accordingly. 5. In the online submission form, you indicated that [Requests for further information can be directed to the corresponding author.] All PLOS journals now require all data underlying the findings described in their manuscript to be freely available to other researchers, either 1. In a public repository, 2. Within the manuscript itself, or 3. Uploaded as supplementary information.This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If your data cannot be made publicly available for ethical or legal reasons (e.g., public availability would compromise patient privacy), please explain your reasons on resubmission and your exemption request will be escalated for approval. 6. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well. 7. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for the opportunity to review this manuscript, which addresses an important field for research, namely how health literacy is vital for participation in CRC screening. However, the manuscript has several elements that it addresses. While the introduction concerns CRC screening, the study that has been conducted is about how GPs evaluate a learning intervention about health literacy and CRC screening. It is a bit confusing that the introduction is more about the umbrella study, rather than the issue at stake in this particular qualitative study.
+A second overall comment is about the choice of qualitative interviews and how the data from the interviews is presented in the results section. While the idea of doing a qualitative interview study is good, it is not clear from the results what this choice of method has contributed to, which could not have been identified through using a survey with open ended questions. I would urge the authors to clarify why this design was chosen and what its contribution is. Perhaps this manuscript would benefit from being presented as an evaluation study rather than a qualitative study?
+Some more detailed comments:
+104-107: The introduction is very well written. However, instead of talking about the number of qualitative studies nested within your RCT, could you rather explain why you do the study presented here? What was the current study expected to contribute to the overall study?
+115-116: “We reported our results using the Consolidated Criteria for Reporting Qualitative Research (COREQ) (S1. Appendix COREQ checklist)”
+COREQ is a list of issues that needs to be addressed in each article. However, it is not sufficient to create a high-quality article. I would suggest that the authors of this article look at more qualitative articles to see how they bring depth to their findings. Also, I would suggest reading Sarah Tracy (2010) article on “Big 8 criteria for qualitative research”.
+Something looks strange in the document here:
+147 Setting and participants of the qualitative study
+148 Recruitment of GPs to the qualitative study
+150: what is the purpose of including gender of GP as a factor for the sample? Do you have literature suggesting that gender would be important for the theme of the study?
+154: How did you evaluate that 20 participants were necessary for saturation? What kind of saturation are you referring to here?
+158: what is meant by “implementation potential”? Is this the potential for implementing the GP training among GPs? Or is it about implementation of HL knowledge among patients?
+Data analysis: was the analysis inspired by any analytical approach? Which literature did you use when deciding on inductive thematic analysis? Could you explain more in detail how you used NPT during your analysis?
+181: I would suggest deleting this sentence, it is unnecessary to explain this.
+187: Characteristics of participants should be moved to the methods section.
+Table 3. Summary of major themes according to NPT constructs is difficult to grasp due to the explaining sentences being very long, complex and using many concepts.
+210: t factor?
+221: you write that “A few respondents (n=3)”. What is the purpose of counting how many said what in a qualitative study? This is also done in line 229 (and several places in the results section) where it says that “The majority of GPs (17 out of 22)…”. This makes me question if the results are analyzed through a qualitative approach, or if this is rather an evaluation of the HL training. The results are solely descriptive, even when using the theoretical framework of NPT. This is a weakness of the study, since the analysis does not utilize the qualitative aspect of the data.
+Reviewer #2: Positive Aspects:
+1. The study tackles the low CRC screening rates, especially in deprived areas, and emphasizes the role of health literacy, which is crucial for improving public health outcomes.
+2. The qualitative study offers deep insights into GP perspectives, providing valuable input for future interventions.
+3. Focusing on GP training is strategic, as they are key influencers in promoting CRC screening.
+4. The paper offers practical suggestions for improving training programs, which could aid in scaling up such initiatives.
+Suggestions for Improvement:
+1. The 68% attendance in booster sessions and participants' fading memories suggest the need for repeated reinforcement training. Could the authors discuss the necessity of such sessions and how future training could be enhanced to ensure lasting effects?
+2. Further analysis on the relationship between health literacy and CRC screening uptake could be beneficial. Are there specific health literacy aspects that significantly influence screening behavior, and how can they be targeted in training?
+3. More context on the current CRC screening situation in the study area, including any identified initiatives or barriers, would provide a clearer backdrop for the training program.
+Overall, the manuscript provides important insights into GP training's role in promoting CRC screening and health literacy. With some additional discussion on the points raised, the study could significantly contribute to the field.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+7 Jan 2025
+Acceptability and implementation potential of colorectal cancer screening and health literacy training: A qualitative study among general practitioners in deprived areas
+PONE-D-24-32539R1
+Dear Dr.Cazorla,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Alvaro Galli
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

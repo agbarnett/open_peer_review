@@ -1,0 +1,117 @@
+29 Oct 2024
+PONE-D-24-39467Impact of prior SARS-CoV-2 infection on perioperative cardiac, pulmonary and neurocognitive complications in elderly patients: study protocol for an observative cohort studyPLOS ONE
+Dear Dr. Saller,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The manuscript is substantially well written, but some minor revisions are needed.
+Please submit your revised manuscript by Dec 13 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Prof. Raffaele Serra, M.D., Ph.D
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.
+3. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well.
+4. Please include a caption for figure 1.
+5. We note you have included a table to which you do not refer in the text of your manuscript. Please ensure that you refer to Tables 1 and 2 in your text; if accepted, production will need this reference to link the reader to the Table.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #1: The study titled "Impact of prior SARS-CoV-2 infection on perioperative cardiac, pulmonary, and neurocognitive complications in elderly patients" aims to investigate how previous SARS-CoV-2 infection affects the risk of perioperative complications in elderly patients undergoing elective surgeries. The study is important for Vulnerability of Elderly Patients, Long-term Impact of COVID-19, and Postoperative Delirium and Complications.
+Overall, it addresses a critical gap in knowledge, focusing on how a prior SARS-CoV-2 infection affects surgical risks in a vulnerable population.
+A minor question is about the duration. While the focus is on complications within the first five postoperative days, some complications might emerge later. Extending the follow-up period or adding a later check-in (e.g., at 30 days post-operation) could help identify delayed complications that are relevant to patient recovery.
+Reviewer #2: The paper is very interesting in all parts and the methods are very interesting. There are some elements to improve: 1) the literature, in fact I suggest to include the following paper doi:10.2217/bmm-2020-0201.
+2) it is necessary to improve the English.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+24 Feb 2025
+PONE-D-24-39467R1Impact of prior SARS-CoV-2 infection on perioperative cardiac, pulmonary and neurocognitive complications in elderly patients: study protocol for an observative cohort studyPLOS ONE
+Dear Dr. Saller,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Thank you for taking the time to address the reviewer comments. In addition to the reviewer comment below, please address the following:
+1) Methods - Please add reference to the STROBE checklist (https://www.strobe-statement.org/checklists/) and ensure the study is conducted according to this checklist to promote transparency and rigor.
+2) Title - Please adjust ending to "study protocol for a case-control study" if this is accurate
+3) Methods - Please discuss how COVID infection will be ascertained (i.e. asking patients versus laboratory evidence versus other)
+4) Methods - Please discuss whether any propensity score matching or attempts of addressing confounders through adjustment will be conducted. These should ideally be included.
+5) Please change the terminology of "elderly" to "older adults"
+6) Please insert citations for the Numerical Rating Scale, PONV scales, and delirium (specify the tools in the actual Methods text)
+Please submit your revised manuscript by Apr 10 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Kiyan Heybati
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #2: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #2: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #2: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: No
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #2: The aim of this study is to understand how a previous SARS-CoV-2 infection influences the occurrence of perioperative complications. The paper is interesting in all parts but I suggest to include the following paper: 10.2217/bmm-2020-0201
+Finally, I suggest to revise the language including avoiding use of elderly and using older adults.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

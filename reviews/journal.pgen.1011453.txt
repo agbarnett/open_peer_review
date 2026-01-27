@@ -1,0 +1,76 @@
+
+22 Aug 2024
+Dear Dr Mukhopadhyay,
+Thank you very much for submitting your Research Article entitled 'A non-canonical role of somatic Cyclin D/CYD-1 in oogenesis and reproductive aging, dependent on the FOXO/DAF-16 activation state' to PLOS Genetics.
+The manuscript was fully evaluated at the editorial level and by independent peer reviewers. The reviewers appreciated the attention to an important topic but identified some concerns that we ask you address in a revised manuscript.
+In addition we ask that you:
+1) Provide a detailed list of your responses to the review comments and a description of the changes you have made in the manuscript.
+2) Upload a Striking Image with a corresponding caption to accompany your manuscript if one is available (either a new image or an existing one from within your manuscript). If this image is judged to be suitable, it may be featured on our website. Images should ideally be high resolution, eye-catching, single panel square images. For examples, please browse our archive. If your image is from someone other than yourself, please ensure that the artist has read and agreed to the terms and conditions of the Creative Commons Attribution License. Note: we cannot publish copyrighted images.
+We hope to receive your revised manuscript within the next 30 days. If you anticipate any delay in its return, we would ask you to let us know the expected resubmission date by email to plosgenetics@plos.org.
+If present, accompanying reviewer attachments should be included with this email; please notify the journal office if any appear to be missing. They will also be available for download from the link below. You can use this link to log into the system when you are ready to submit a revised version, having first consulted our Submission Checklist.
+Please be aware that our data availability policy requires that all numerical data underlying graphs or summary statistics are included with the submission, and you will need to provide this upon resubmission if not already present. In addition, we do not permit the inclusion of phrases such as "data not shown" or "unpublished results" in manuscripts. All points should be backed up by data provided with the submission.
+PLOS has incorporated Similarity Check, powered by iThenticate, into its journal-wide submission system in order to screen submitted content for originality before publication. Each PLOS journal undertakes screening on a proportion of submitted articles. You will be contacted if needed following the screening process.
+To resubmit, log into your Editorial Manager account and select the option 'Revise Submission' in the 'Submissions Needing Revision' folder.
+Please let us know if you have any questions while making these revisions.
+Yours sincerely,
+Fengwei Yu
+PLOS Genetics
+Fengwei Yu
+PLOS Genetics
+Reviewer's Responses to Questions
+Reviewer #1: All of my prior comments have been carefully addressed. I find no outstanding issues to correct.
+Reviewer #2: The authors made an effort to address most of my concerns. However, they reinforced my concern about their interpretation that the observed effects show reproductive senescence. The additional data provided confirms that the observed oocyte defects are rather due to developmental defects than premature aging. cyd-1 RNAi in L4 does not reduce oocyte quality. Animals exposed to cyd-1 RNAi in L1 exhibit lower overall egg production and do not stop egg laying premature. Furthermore, these animals show never a “young phenotype”- quite the contrary, all results point to developmental defects that lead to reproductive defects that get worse with age- but "sick" getting "sicker" is not a reproductive aging phenotype.
+I also want to point out that data that is discussed in the paper needs to be included for the reader. So, I "insist" to include the data from former page 13 as wells page 22 (now page 23 "We inquired if knocking down genes essential for sheath cell development (e.g., 23 lim-7, lim-6) would also lead to germline arrest in daf-2 but found no such sterility (data not shown).") that was not shown in the first version of the manuscript.
+Reviewer #3: I agree with the previous reviewer 1's comments that the additional data provided support a developmental role for cyd-1 in oogenesis, and not reproductive aging (at day 1 the fertility of cyd-1 RNAi is already lower than control). I suggest the authors to tone down their conclusions to avoid any suggestions on a reproductive aging phenotype.
+**********
+Have all data underlying the figures and results presented in the manuscript been provided?
+Large-scale datasets should be made available via a public repository as described in the PLOS Geneticsdata availability policy, and numerical data that underlies graphs or summary statistics should be provided in spreadsheet form as supporting information.
+Reviewer #1: Yes
+Reviewer #2: No: I asked in my first review to include data sets on page 13 and page 22 (now page 23 "We inquired if knocking down genes essential for sheath cell development (e.g.,
+23 lim-7, lim-6) would also lead to germline arrest in daf-2 but found no such sterility (data not shown).") that are not shown.
+They added the data from page 13 in the revised manuscript, but only showed the data from page 22 in their response to the reviewers. These need to be added to the manuscript.
+Reviewer #3: Yes
+**********
+PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+
+7 Oct 2024
+Dear Dr Mukhopadhyay,
+Before your submission can be formally accepted and sent to production you will need to complete our formatting changes, which you will receive in a follow up email. Please be aware that it may take several days for you to receive this email; during this time no action is required by you. Please note: the accept date on your published article will reflect the date of this provisional acceptance, but your manuscript will not be scheduled for publication until the required changes have been made.
+Once your paper is formally accepted, an uncorrected proof of your manuscript will be published online ahead of the final version, unless you’ve already opted out via the online submission form. If, for any reason, you do not want an earlier version of your manuscript published online or are unsure if you have already indicated as such, please let the journal staff know immediately at plosgenetics@plos.org.
+In the meantime, please log into Editorial Manager at https://www.editorialmanager.com/pgenetics/, click the "Update My Information" link at the top of the page, and update your user information to ensure an efficient production and billing process. Note that PLOS requires an ORCID iD for all corresponding authors. Therefore, please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field.  This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager.
+If you have a press-related query, or would like to know about making your underlying data available (as you will be aware, this is required for publication), please see the end of this email. If your institution or institutions have a press office, please notify them about your upcoming article at this point, to enable them to help maximise its impact. Inform journal staff as soon as possible if you are preparing a press release for your article and need a publication date.
+Yours sincerely,
+Fengwei Yu
+PLOS Genetics
+Fengwei Yu
+PLOS Genetics
+www.plosgenetics.org
+Twitter: @PLOSGenetics
+----------------------------------------------------
+Comments from the reviewers (if applicable):
+All the reviewers' comments have been addressed.
+Reviewer's Responses to Questions
+Reviewer #2: My concerns are addressed.
+Reviewer #3: The authors have addressed my comments.
+**********
+Have all data underlying the figures and results presented in the manuscript been provided?
+Large-scale datasets should be made available via a public repository as described in the PLOS Geneticsdata availability policy, and numerical data that underlies graphs or summary statistics should be provided in spreadsheet form as supporting information.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #3: No
+----------------------------------------------------
+Data Deposition
+If you have submitted a Research Article or Front Matter that has associated data that are not suitable for deposition in a subject-specific public repository (such as GenBank or ArrayExpress), one way to make that data available is to deposit it in the Dryad Digital Repository. As you may recall, we ask all authors to agree to make data available; this is one way to achieve that. A full list of recommended repositories can be found on our website.
+The following link will take you to the Dryad record for your article, so you won't have to re‐enter its bibliographic information, and can upload your files directly: 
+http://datadryad.org/submit?journalID=pgenetics&manu=PGENETICS-D-24-00562R1
+More information about depositing data in Dryad is available at http://www.datadryad.org/depositing. If you experience any difficulties in submitting your data, please contact help@datadryad.org for support.
+Additionally, please be aware that our data availability policy requires that all numerical data underlying display items are included with the submission, and you will need to provide this before we can formally accept your manuscript, if not already present.
+----------------------------------------------------
+Press Queries
+If you or your institution will be preparing press materials for this manuscript, or if you need to know your paper's publication date for media purposes, please inform the journal staff as soon as possible so that your submission can be scheduled accordingly. Your manuscript will remain under a strict press embargo until the publication date and time. This means an early version of your manuscript will not be published ahead of your final version. PLOS Genetics may also choose to issue a press release for your article. If there's anything the journal should know or you'd like more information, please get in touch via plosgenetics@plos.org.

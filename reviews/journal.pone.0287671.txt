@@ -1,0 +1,113 @@
+
+18 Jan 2023
+PONE-D-22-33479Fibrinolytic and antibiotic treatment of prosthetic vascular graft infections in a novel rat modelPLOS ONE
+Dear Dr. Johansen,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Of particular concern is both the statistical analysis/sample size for the different animal groups, as well as the validity of a fibrinous biofilm. Within that context, the lack of an effect of TPA, in vivo, raised some concerns about the nature of the biofilm, and perhaps even the dosing regiment that was used in your model.
+Please submit your revised manuscript by Mar 04 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Noreen J. Hickok, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+"This work was supported by Aarhus University Research Foundation and Knud og Edith Eriksen Mindefond."
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+"This work was supported by a PhD research grant from the Graduate School of Health, Aarhus University (MIJ), by Aarhus University Research Foundation (https://auff.au.dk/en/) (MIJ) and Knud og Edith Eriksen Mindefond (Grant number 62786) (NPJ)(https://www.keemindefond.dk/). The funders did not play any role in the study design, data collection and analysis, decision to publish or preparation of the manuscript."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Material/implant associated infections are still feared complications after surgery and can have devastating consequences for the patient. Infections of the vascular graft cause morbidity and can lead to death. Improved treatment options of the infection and the biofilm are therefore urgently needed. The authors of the study present a new rat model to investigate prosthetic vascular graft infection and possible treatment options. The model resulted in an infection rate 100% with survival of the animals over the experimental period. They tested the efficacy of tissue plasminogen activator (tPA) in vitro and showed a biofilm reduction of about 30%. In vitro evaluation of the effect of tPA plus antibiotics was not done. They went into the animal model and found a significant but only minor reduction of the CFU after antibiotic treatment, addition of tPA had no effect.
+1. Line 56 ff. The cited studies are no all in vivo studies on IVC infection. Please be more careful with the citation of studies.
+2. Line 70 ff: The authors explain the sample size calculation. I am not an expert in statistics, but it seems unusual to calculate the sample size only for the treatment group. They used a sample size of n=4 for the control and up to n=18 for the treatment groups. This difference needs further explanation.
+3. Due to the comparison of multiple groups, a post hoc test is necessary.
+4. Line 184 ff: please provide the values for the control group. Please give the unit for the values.
+5. Fig. 2: Please show the individual data points (dot plots as in the other graphs)
+6. The effect of tPA is not very pronounced compared to other substances and studies (see Ref 16) and it should be discussed why they used this substance with the low efficacy.
+7. In a previous study (Microorganisms 2016, 4, 36, Ref 13) they saw a much higher biofilm dispersal with lower Steptokinase concentrations (500 vs 2500 U/ml). Please discuss this.
+8. Why was not the combination of tPA plus antibiotics tested in vitro? This would have provided valuable data regarding the possible effect and might have foreseen the failure of the animal study.
+9. Table 1. Please add the information also for the other groups.
+10. Fig. 4: not all animals showed a systemic infection. However, in the abstract they mention infection in all animals. Please clarify.
+11. Figure legends: Please check the sample size for the vanco-group. It should be n=5 as shown in Fig. 5 and described in the drop-out section.
+12. They see a reduction from 6.56 log10 CFU/mL (Control) to 3.50 log10 CFU/mL (V+R). This effect is statistically significant, but is it clinically meaningful? Normally a log3 reduction is expected to show antimicrobial efficacy. This should be discussed.
+13. They discuss several limitations and explain the rational for the study design. However, they do not address the limited in vitro effect, the missing antibiotics group in the in vitro study and why they went with this effect to the in vivo model.
+14. Please check the separation of decimals within the text.
+Reviewer #2: General comments
+This is generally well written and potential valuable paper. However, I have two main concerns. I understand that the authors justifiably strived to use as few animals as possible, but I feel an important control is missing - to assess the impact and integration of the procedure alone by using an uninoculated graft. In addition to weight change the graft and surrounding tissue could be assessed after 10 and 18 days (i.e. immediately prior to treatment and at termination) by H&E or visual inspection. Another criticism is that although the animal model is designed to be a biofilm infection model there is no direct demonstration of biofilm on the untreated control graft. A further control would be to assess for biofilm at days 10 and at 18. If a fibrin coated biofilm did not form might this explain the limited activity of tPA? Confocal or SEM demonstrating biofilm in controls as compared to treated animals would significantly strengthen the manuscript. The grafts could have been sectioned for one piece to be imaged and the other for plate count.
+Specific comments:
+1) It would be useful to provide vancomycin MIC and also to assess, or provide a reference, on whether vanco and rifamp act synergistically or additively.
+2) Why was tPA chosen for the animal studies over streptokinase?
+3) It would be useful to show (or reference) whether tPA or streptokinase have any kind of antimicrobial activity.
+4) can the authors explain why the untreated rats had a higher CFU load on the graft but also showed the most weight gain?
+5) Fig. 5. The vanc + rifamp combinations show bimodal distributions. Is this possibly an artefact of plotting 0 CFU as zero rather than as the detection limit? If the bimodal distribution is real is there any evidence of why those particular mice may have cleared the infection from post-mortem exam during dissection?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+12 Jun 2023
+Fibrinolytic and antibiotic treatment of prosthetic vascular graft infections in a novel rat model
+PONE-D-22-33479R1
+Dear Dr. Johansen,
+Noreen J. Hickok, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I highly appreciate the additional work of the authors. They increased the number of animals in selected groups and added further in vitro and in vivo data. All my comments are satisfactorily answered. Even though the new in vitro experiment do not highly support the in vivo study, the argumentation of the authors is clear and I agree.
+Please check/correct the amount of Streptokinase used in the Biofilm assay (M&M): 500 instead of 2500 U/ml as mentioned in the rebuttal letter and in the figure legend.
+Reviewer #2: The authors have done a good job of doing additional experiments and addressing my concerns. This work will be a valuable contribution to the field.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Paul Stoodley
+**********

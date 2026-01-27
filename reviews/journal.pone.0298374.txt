@@ -1,0 +1,80 @@
+
+15 Dec 2023
+PONE-D-23-29768Quality Improvement Exercises in Inflammatory Bowel Disease (IBD) Services: A Scoping ReviewPLOS ONE
+Dear Dr. Ridsdale,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 29 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Journal requirements:
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Note from Emily Chenette, Editor in Chief of PLOS ONE, and Iain Hrynaszkiewicz, Director of Open Research Solutions at PLOS: Did you know that depositing data in a repository is associated with up to a 25% citation advantage (https://doi.org/10.1371/journal.pone.0230416)? If you’ve not already done so, consider depositing your raw data in a repository to ensure your work is read, appreciated and cited by the largest possible audience. You’ll also earn an Accessible Data icon on your published paper if you deposit your data in any participating repository (https://plos.org/open-science/open-data/#accessible-data).
+3. Thank you for stating the following in the Competing Interests section: 
+[I have read the journal's policy and the authors of this manuscript have the following competing interests: Professor Alan Lobo has acted as a consultant and advisory board member for Takeda Pharma, Janssen and Bristol Myers Squibb.]. 
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: ""This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared. 
+Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors present a very thorough scoping review of published quality improvement interventions in IBD. This expands on a prior work to include pediatric studies and non-American studies, as well as a broader variety of metrics. Bringing all of these studies together is an achievement and worthy of publication. However, the synthesis and "take home messages" from the review could be improved. Most notably, Table 2 needs significant improvement, and the outcomes of unsuccessful interventions need mention.
+--The authors refer to the IBD standards, which presumably are the NHS standards. These are likely unfamiliar to most outside the UK. Consider reframing the categorizations to a set of topics that is more universally understood. Alternatively, though less ideally, these should be explained in adequate detail for a reader unfamiliar with the concept to understand their use in the paper.
+-- Stratified care is referred to - could the authors clarify why the topics of anemia, PSC and obesity are grouped together under this?
+-- The results describe successful interventions, but not those which reported a lack of success. Publication bias notwithstanding, it is worthwhile to understand what hasn't work (rather than just what has).
+-- Table 2 is the most important piece of the work, however it is too vague to be helpful to readers looking to understand characteristics of successful interventions. Consider structuring the table such that each intervention category under each problem category has a row. This would allow the measures used to be reported in a new column, and a more detailed description of the intervention for each can be provided. Most crucially, it should be clear exactly what is being improved and how this was accomplished. This table should serve almost as a "standalone" such that a reader would understand much of the paper looking at just this table, though of course should be more digestible than S4
+-- S4 should be expanded similarly so that it is clear what is being improved and how, rather than just general categories. The present version is helpful to narrow the selection of papers to look at if interested in a specific metric, but more summary is appropriate.
+-- There is a potential missed opportunity in the discussion to translate the results into take home messages for clinicians looking to improve the quality of their center's care. Consider making thematic conclusions about what has worked -- either by type of metric or by type of intervention.
+-- A limitation of the work is the search strategy, which may have missed works that were not captured by QI terms, but that were in fact QI studies targeting specific metrics. This is understandable and should be noted as a limitation.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+
+24 Jan 2024
+Quality Improvement Exercises in Inflammatory Bowel Disease (IBD) Services: A Scoping Review
+PONE-D-23-29768R1
+Dear Dr. Ridsdale,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I thank the authors for their extensive efforts at improving the manuscript, particularly because their improvements will make their work much more approachable for teams looking for QI approaches for the IBD population under their care.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

@@ -1,0 +1,193 @@
+5 Nov 2024
+PONE-D-24-35318Active Tuberculosis in Household contacts of Bacteriologically confirmed Pulmonary Tuberculosis patients: A Multicenter Study Finding the ‘Missed One' in Central Ethiopia.PLOS ONE
+Dear Dr. Abegaz,
+Thank you for submitting your manuscript, PONE-D-24-20230, entitled "Active Tuberculosis in Household contacts of Bacteriologically confirmed Pulmonary Tuberculosis patients: A Multicenter Study Finding the ‘Missed One' in Central Ethiopia" to PLoS One. Your work has been reviewed by experts in the field, who recognize the importance of your research and its potential value to readers. However, the reviewers raised some questions regarding your submission. After careful consideration, we feel that it has merit and therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Please submit your revised manuscript by Dec 20 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Ravi Prakash
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that your Data Availability Statement is currently as follows: [All relevant data are within the manuscript and its Supporting Information files.]
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+3. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information .
+Additional Editor Comments:
+Reviewer 1
+Minor Revision
+This manuscript provides very good information and clarifies further gap in the low economic countries like Ethiopia. The manuscript can be considered for publication after required minor corrections given below. The manuscript is meeting the PONE requirements. Statistical analysis was executed properly. All the required data provided in tales and supplementals.
+Reviewer 2
+Major Revision
+The manuscript addresses an important public health issue by examining active TB detection through door-to-door household contact investigations in Ethiopia. It highlights a significant gap in active TB case detection and provides insights into how home-based interventions might improve detection rates among high-risk groups. But the study design to result is not new, just add a piece of evidence to the established public health knowledge.
+Specific Comments:
+1.Introduction:
+References such as those on TB incidence and the 'missing millions,' could benefit from more recent data to reflect any changes in global trends.
+2. Methods:
+1)The study mentions using the Xpert Ultra assay and TB culture for diagnosis. It would be helpful to briefly describe the sensitivity and specificity of these methods.
+2)Consider adding more details on how "presumptive TB" was defined during the household evaluations.
+3)Actually its Spearman's rank correlation coefficient or Spearman's ρ, not "Spear’s man correlation".
+3. Results:
+1)The section detailing the correlation between the index case’s cycle threshold (Ct) values and household contacts is intriguing. It would be beneficial to include a brief explanation of why this correlation is important in the context of TB transmission.
+2)The comparison between DS-TB and MDR-TB households is valuable. However, the discussion of the similar yield in active TB detection between the two groups should address the potential for misclassification or under-diagnosis of MDR-TB in the HHCs.
+3)Consider highlighting key findings in bullet points or using summary tables for improved clarity.
+4)Figure 1 is useful in showing the contact investigation cascade. However, it could be enhanced with a visual distinction between DS-TB and MDR-TB groups to make differences more apparent.
+4. Discussion:
+1)The limitations are acknowledged, such as the lack of clinical screening (e.g., chest X-rays). However, the authors could further discuss how the use of such diagnostic tools might alter the study's conclusions.
+2)The study's impact on future TB control strategies could be emphasized more. For example, what specific recommendations can be made for integrating door-to-door TB investigations into existing public health frameworks?
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This manuscript provides very good information and clarifies further gap in the low economic countries like Ethiopia. The manuscript can be considered for publication after required minor corrections given below. The manuscript is meeting the PONE requirements. Statistical analysis was executed properly. All the required data provided in tales and supplementals.
+Reviewer #2: The manuscript addresses an important public health issue by examining active TB detection through door-to-door household contact investigations in Ethiopia. It highlights a significant gap in active TB case detection and provides insights into how home-based interventions might improve detection rates among high-risk groups. But the study design to result is not new, just add a piece of evidence to the established public health knowledge.
+Specific Comments:
+1.Introduction:
+References such as those on TB incidence and the 'missing millions,' could benefit from more recent data to reflect any changes in global trends.
+2. Methods:
+1)The study mentions using the Xpert Ultra assay and TB culture for diagnosis. It would be helpful to briefly describe the sensitivity and specificity of these methods.
+2)Consider adding more details on how "presumptive TB" was defined during the household evaluations.
+3)Actually its Spearman's rank correlation coefficient or Spearman's ρ, not "Spear’s man correlation".
+3. Results:
+1)The section detailing the correlation between the index case’s cycle threshold (Ct) values and household contacts is intriguing. It would be beneficial to include a brief explanation of why this correlation is important in the context of TB transmission.
+2)The comparison between DS-TB and MDR-TB households is valuable. However, the discussion of the similar yield in active TB detection between the two groups should address the potential for misclassification or under-diagnosis of MDR-TB in the HHCs.
+3)Consider highlighting key findings in bullet points or using summary tables for improved clarity.
+4)Figure 1 is useful in showing the contact investigation cascade. However, it could be enhanced with a visual distinction between DS-TB and MDR-TB groups to make differences more apparent.
+4. Discussion:
+1)The limitations are acknowledged, such as the lack of clinical screening (e.g., chest X-rays). However, the authors could further discuss how the use of such diagnostic tools might alter the study's conclusions.
+2)The study's impact on future TB control strategies could be emphasized more. For example, what specific recommendations can be made for integrating door-to-door TB investigations into existing public health frameworks?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Ramgopal Sivanadham
+Reviewer #2: No
+**********
+1 Dec 2024
+PONE-D-24-35318R1Active Tuberculosis in Household contacts of Bacteriologically confirmed Pulmonary Tuberculosis patients: A Multicenter Study Finding the ‘Missed One' in Central Ethiopia.PLOS ONE
+Dear Dr. Abegaz,
+Thank you for submitting your revised manuscript to PLOS ONE. After careful consideration, the reviewers still has some concerns in the manuscript. We feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 15 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Ravi Prakash
+Additional Editor Comments:
+Reviewer 1:
+No Comments
+Reviewer 2:
+Minor Revision
+1. The definition of diagnostic is undoubtable following the guideline in line 141-145. "An active pulmonary TB case is a TB case confirmed by either smear microscopy, Gene Xpert MTB/RIF Ultra, or a TB culture test. Bacteriologically confirmed pulmonary tuberculosis: case referred to a pulmonary TB patient with biological specimen positive by Acid-Fast Bacilli (AFB) smear microscopy, Xpert MTB/RIF assay or TB culture, indifference with drug susceptibility profile."
+Now what worrying is the diagnosis of bacteriologically confirmed pulmonary tuberculosis in HHCs, which means that the test may not covered all of three methods of AFB, Xpert, and culture simultaneously, it is a "OR" in your diagnostic criteria. The results may include false positive of dead bacteria patients, on the basis of the screening produce also not included the chest X-ray, which may bias the results.
+This should be discussed and should be put forward in limitation, not only simply narrate in limitation line 389-390 "We did not use clinical screening like chest X-rays which might increase the sensitivity of screening. "
+2.Line 292-294 "Whereas among thirty presumptive household contacts of MDR-TB patients, 2 (6.67%; 95% CI: 1.16- 23.51) were MTB detected Rifampicin resistance was not detected." this need to discuss in depth, is any other evidence or report that the MDR-TB HHCs not infected with MDT-TB strains, it should be addressed and clarify the primary and secondary drug resistance in this case.
+3. line 300 "There was a positive correlation between the ct values of the index case and the corresponding HHC ct) value at each probe ", This bracket seems superfluous.
+4. last time comment "Consider highlighting key findings in bullet points or using summary tables for improved clarity.
+Author Response: Thank you for the suggestion. We tried to put key findings of the study at the end of result section. Page 12 line 309-315"
+Lets make it clear that authors could embeded the key findings in the article, not only list and summary in the back of results, which is a bit redundant and may overlap with the discussion. Author should also be associated with the journal's editorial policy and format.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1:  All my recommendations in minor revision have been addressed. The manuscript can be proceeded for next steps in publication.
+Reviewer #2:  1. The definition of diagnostic is undoubtable following the guideline in line 141-145. "An active pulmonary TB case is a TB case confirmed by either smear microscopy, Gene Xpert MTB/RIF Ultra, or a TB culture test. Bacteriologically confirmed pulmonary tuberculosis: case referred to a pulmonary TB patient with biological specimen positive by Acid-Fast Bacilli (AFB) smear microscopy, Xpert MTB/RIF assay or TB culture, indifference with drug susceptibility profile."
+Now what worrying is the diagnosis of bacteriologically confirmed pulmonary tuberculosis in HHCs, which means that the test may not covered all of three methods of AFB, Xpert, and culture simultaneously, it is a "OR" in your diagnostic criteria. The results may include false positive of dead bacteria patients, on the basis of the screening produce also not included the chest X-ray, which may bias the results.
+This should be discussed and should be put forward in limitation, not only simply narrate in limitation line 389-390 "We did not use clinical screening like chest X-rays which might increase the sensitivity of screening. "
+2.Line 292-294 "Whereas among thirty presumptive household contacts of MDR-TB patients, 2 (6.67%; 95% CI: 1.16- 23.51) were MTB detected Rifampicin resistance was not detected." this need to discuss in depth, is any other evidence or report that the MDR-TB HHCs not infected with MDT-TB strains, it should be addressed and clarify the primary and secondary drug resistance in this case.
+3. line 300 "There was a positive correlation between the ct values of the index case and the corresponding HHC ct) value at each probe ", This bracket seems superfluous.
+4. last time comment "Consider highlighting key findings in bullet points or using summary tables for improved clarity.
+Author Response: Thank you for the suggestion. We tried to put key findings of the study at the end of result section. Page 12 line 309-315"
+Lets make it clear that authors could embeded the key findings in the article, not only list and summary in the back of results, which is a bit redundant and may overlap with the discussion. Author should also be associated with the journal's editorial policy and format.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Ramgopal Sivanadham
+Reviewer #2: No
+**********
+18 Dec 2024
+Active Tuberculosis in Household contacts of Bacteriologically confirmed Pulmonary Tuberculosis patients: A Multicenter Study Finding the ‘Missed One' in Central Ethiopia.
+PONE-D-24-35318R2
+Dear Dr. Abegaz,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Ravi Prakash
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: All minor revision suggestions have been implemented, and the manuscript is now ready to move forward with the publication process.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

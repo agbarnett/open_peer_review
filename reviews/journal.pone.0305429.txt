@@ -1,0 +1,119 @@
+
+8 May 2024
+PONE-D-24-14937Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosisPLOS ONE
+Dear Dr. Sugino,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 22 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Competing Interests/Financial Disclosure * (delete as necessary) section:
+"All authors contributed substantially to this work and are responsible for the consent of the manuscript.
+KS have received lecture fees from Nippon Boehringer Ingelheim Co., Ltd and Shionogi & Co., Ltd.
+The other authors have no financial relationships relevant to this article.
+All authors have no competing non-financial interests."
+We note that you received funding from a commercial source: "KS have received lecture fees from Nippon Boehringer Ingelheim Co., Ltd and Shionogi & Co., Ltd."
+Please provide an amended Competing Interests Statement that explicitly states this commercial funder, along with any other relevant declarations relating to employment, consultancy, patents, products in development, marketed products, etc.
+Within this Competing Interests Statement, please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials by including the following statement: "This does not alter our adherence to PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Please include your amended Competing Interests Statement within your cover letter. We will change the online submission form on your behalf.
+3. We note that your Data Availability Statement is currently as follows: "All relevant data are within the manuscript and its Supporting Information files."
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+Additional Editor Comments :
+Thank you for submitting your manuscript to PLOS ONE. We kindly request that you resubmit your manuscript after appropriate response to the reviewer's comments.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Author submitted an interesting manuscript about switching anti-fibrotics. I have several concerns for author.
+1. You showed two patterns of elderly IPF patients in Table 3. Which threshold is better for considering elderly IPF patients based on your cohort ?
+2. Regarding adverse effect of anti-fibrotics, we also consider the possibility of interaction of other medication especially in elderly patients with polypharmacy. How about the possibility of drug interaction of each case ?
+3. When you commence PFD in your cohort, did you do any specific management especially in nintedanib intolerance patients not disease progression ?
+4. Which kind of disease progression of your switching anti-fibrotics such as FVC decline with worsening symptoms, progression of HRCT imaging of fibrosis and DLco decline ? We would like to know more detailed information.
+5. How about the smoking effect of discontinuation of anti-fibrotics ?
+6. Secondary PH is also crucial comorbidity in IPF patients. Could you show us the incidence of PH of both continuation and discontinuation group ?
+7. How about the change of body weight when did you switch anti-fibrotics ?
+Reviewer #2: 1. General comment
+This manuscript is well written and well presented.
+2. Major comments
+・In the present study, 72.4% continued nintedanib for 1 year. Real-world data showed that about 50% of Japanese IPF patients discontinued nintedanib treatment within the first year (Ref 23. Ogura et al.). Probably, IPF management in the author’s hospital have been well managed to prevent adverse events of nintedanib itself.
+On the other hand, when it comes to deciding whether disease progression or adverse event (e.g., appetite loss, fatigue), it’s hard to know where to draw the line?
+・A post-marketing surveillance study that included Japanese IPF patients treated with nintedanib showed that older age, male sex, small body surface area, severe IPF, and lower %FVC predicted at baseline were associated with an increased risk of early discontinuation of nintedanib treatment. The present study showed similar results (i.
+e., lower BMI, and lower initial %FVC, higher GAP stage). However, no significant difference was observed in the nintedanib discontinuation rate between elderly and non-elderly patients. This is because many patients were preserved physique, not limited to mild IPF)
+・Which reference do authors define disease progression? Please mention.
+・In results paragraph, authors mentioned “Next, 80 patients (65%) had to reduce the NT dose because of the following reason:・・・”. During 1 year or whole follow-up period?
+・Initial NT dosage in all patients was 150mg×2/day? During follow-up, the patients increasing the dosage halfway was none?
+・In table 4, higher GAP stage was risk factors for discontinuing NT within 12 months. On the other hand, a lower BMI was most significant predictor of deterioration after switching from NT to PFD, not higher GAP stage. Although I predicted the similar results in the above two analyses, how should I interpret it?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+30 May 2024
+Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis
+PONE-D-24-14937R1
+Dear Dr. Sugino,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Additional Editor Comments (optional):
+Thank you for submitting your manuscript to PLOS ONE.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Author responded my questions properly. It is informative for chest physician. Current status will be acceptable for publication.
+Reviewer #2: The authors revised the manuscript to address almost my questions and concerns. I think the revised manuscript has been properly fixed.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

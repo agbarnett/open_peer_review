@@ -1,0 +1,115 @@
+
+25 Oct 2023
+PONE-D-23-25684Validation of physical activity levels from shank-placed Axivity AX6 accelerometersPLOS ONE
+Dear Dr. Gafoor,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Authors presented an interesting study which value was recognized by both Reviewers. However, the Experts recognized some major points that need to be carefully addressed before publishing the manuscript. In particular, it was highlighted a lack in the  methodological procedure that may alter the the validity of the results and conclusion. Since Authors performed a validation in their study, it is very important that the methodology is clearly stated and the analysis properly carried. For this reason I suggest major revision of the work. 
+Please submit your revised manuscript by Dec 09 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Andrea Tigrini, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Note from Emily Chenette, Editor in Chief of PLOS ONE, and Iain Hrynaszkiewicz, Director of Open Research Solutions at PLOS: 
+Did you know that depositing data in a repository is associated with up to a 25% citation advantage (https://doi.org/10.1371/journal.pone.0230416)? If you’ve not already done so, consider depositing your raw data in a repository to ensure your work is read, appreciated and cited by the largest possible audience. You’ll also earn an Accessible Data icon on your published paper if you deposit your data in any participating repository (https://plos.org/open-science/open-data/#accessible-data).
+Additional Editor Comments:
+Authors presented an interesting study which value was recognized by both Reviewers. However, the Experts recognized some major points that need to be carefully addressed before publishing the manuscript. In particular, it was highlighted a lack in the methodological procedure that may alter the the validity of the results and conclusion. Since Authors performed a validation in their study it is very important that the methodology is clearly stated and the analysis properly carried. For this reason I suggest major revision of the work.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: In the presented work, Gaboor and colleagues tried to obtain reliable results placing accelerometers at the shank in older adults to measure physical activity. In particular, they wanted to identify and validate specific cut-points to recognize four different levels of exercise intensity. The work is well-written and fluid in the reading. However, there are some parts that need more details. More specifically, the method section lacks of important information in my opinion and some issues must be addressed. Comments are reported below.
+- You talked a lot about PA, but which kind of PA were the subjects asked to perform?
+- Line 55: "objective measures of PA" such as? I would suggest to mention some of them.
+- Line 64: "activity counts", what are they? How are they identified? Based on which criterion?
+- Line 66: it is stated that cut-points are used to classify the intensity, but firstly it would be appreciated if it is explained what these cut-points are and then how they are identified (trial and error or mathematically or what so ever). It is a key point for good comprehension of the work.
+- Line 111: in this paragraph it is reported the number of used sensors and their location, but a figure should be included to better understand the considered experimental protocol.
+- Line 124-131: ActiGraph and Axivity are two different types of sensors that were used, the first one as the gold standard and the second one to be validated. The ActiLife software was used to acquire simultaneously the two sensors, so was the signal to start the recording given directly by the software to both type of sensors? Moreover, nothing is said about the preprocessing of the data, such as filtering, do this mean that no pre-processing has been done and data has been used in their raw form or something different? I suggest to report the preprocessing part if done, if not performed to specify it and justify why.
+- Line 140-144: to make a fairer comparison you should verify that the results given by this MATLAB script are the same of those given by the ActiLife software using the same data, i.e. those of the ActiGraph (if it has been already done, please specify and add reference if necessary).
+- Line 148: you stated that an optimization algorithm was created and a short description follows; you should go more in depth in this part, it is not enough, a more accurate description of the optimization algorithm should be provided, which is the reasoning behind and the chosen criteria.
+- Line 151: are the data collected prior to this study referred to the same type of PA? In my opinion, they should be the same type of PA to be included as starting point.
+- Line 249: "the time spent in..." the sentence is not concluded, please conclude it.
+Regarding the participants, it is not clear if the participants are all healthy or all pathological or a mix of them. As it is written, it seems that it is not a homogeneous set of subjects, in my opinion mixing data from healthy and pathological subjects (moreover different among them in the pathology) is not a fair, since this could influence the results. Could you specify better the healthy status of the subjects?
+About the location of the sensor that you wanted to validate, it is clear that it is an ideal position for free-gait analysis but it is neither a comfortable position for the subject nor a location that could be included for instance in the clothes, so why should be used?
+Reviewer #2: The paper analyzed shank-mounted Axivity data to classify the physical activity levels on older adults during recordings lasting 72 hours. Congratulations to the authors, the study is interesting. In general, the paper has a high-quality English language and the results are clearly presented, but further analyses and comments should be added and discussed.
+See the attached file with the bullet points.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+22 Jan 2024
+PONE-D-23-25684R1Validation of physical activity levels from shank-placed Axivity AX6 accelerometers in older adultsPLOS ONE
+Dear Dr. Gafoor,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Authors provided a detailed revision of the manuscript and it was constantly updated. However, some concerns that deserves to be clarified were pointed out bu the Expert. 
+==============================
+Please submit your revised manuscript by Mar 07 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Andrea Tigrini, Ph.D.
+Additional Editor Comments:
+Authors provided a detailed revision of the manuscript and it was constantly updated. However, some concerns that deserves to be clarified were pointed out bu the Expert.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: All the comments have been addressed.
+I would suggest just to add a table summarizing the acronyms of the different PAs, some examples of them (as already written in the text) and the corresponding cut-points found by the author. Then, also to add the obtained cut-points in table 5 (or to create another table) near the values from Rhudy et al. just for a more direct comparison between what is found and what is present in the literature.
+Reviewer #2: I would like to thank the authors for addressing the raised points. Further points below:
+1) Concerning the previous raised point 7, it is clear how you performed the LOOCV analysis. But did you split the dataset into a construction set (to train and perform validation, e.g., 80% of the entire dataset) and a test set (e.g., 20% of the entire dataset)? You should show the averaged results from all the iterations of the LOOCV and also the results of the best trained model on the test set. Please update accordingly Figure 2, Table 2 and 3, and further explain how you evaluated the method performances. If you did not split the entire dataset as explained above, justify it and mention it in the limitations, and clarify what you mean by results from training model and LOOCV analysis.
+2) Concerning the previous raised point 12, please mention the down-sampling at 30 Hz of Axivity data to be able to compare the results with ActiGraph.
+3) The information of the percentual time spent in different PA intensities is provided by the Bland-Altman plots. Please add in the text the overall averaged reference % of time spent in different PA intensities to provide a clear idea of the different amount of data of the different PA levels. This values can be added in line 327.
+4) Please rephrase lines 326-330. Since the activity counts are only based on accelerations, I would not say that the higher VPA cut-point at the shank is related to a higher effort of older adults, but only intensity.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

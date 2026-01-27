@@ -1,0 +1,72 @@
+
+29 Aug 2023
+PONE-D-23-22500Is sugar as sweet to the palate as seeds are appetizing to the belly? Taste responsiveness to five food-associated carbohydrates in zoo-housed white-faced sakis, Pithecia pitheciaPLOS ONE
+Dear Dr. Laska,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 13 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. We noticed you have some minor occurrence of overlapping text with the following previous publication(s), which needs to be addressed:
+https://link.springer.com/article/10.1007/s10329-018-0697-0
+In your revision ensure you cite all your sources (including your own works), and quote or rephrase any duplicated text outside the methods section. Further consideration is dependent on these concerns being addressed.
+3. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+4. We note that you have included the phrase “data not shown” in your manuscript. Unfortunately, this does not meet our data sharing requirements. PLOS does not permit references to inaccessible data. We require that authors provide all relevant data within the paper, Supporting Information files, or in an acceptable, public repository. Please add a citation to support this phrase or upload the data that corresponds with these findings to a stable repository (such as Figshare or Dryad) and provide and URLs, DOIs, or accession numbers that may be used to access these data. Or, if the data are not a core part of the research being presented in your study, we ask that you remove the phrase that refers to these data.
+Additional Editor Comments (if provided):
+In this manuscript the authors carried out preference tests to assess taste responsiveness to sugars in captive white-faces sakis. The ms is well written and the aim of the study is straightforward and well justified. The reviewers suggest further elaboration of some topics, including improved justifications, more data/examples on feeding behavior and diets of wild sakis, and more details on the behavior of the study subjects.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Authors argue that sakis may have a lower taste sensibility to carbohydrates than most frugivorous non-human primates (because of sakis also may use seeds of the fruits they consume as food and obtain energy), even they show that “white-faced sakis include a large proportion of fruits into their diet and are therefore commonly considered as frugivores”.
+The information described in the introduction section does not fully justify this idea, as authors don’t show data of saki’s feeding behavior as feeding rate, specifically on ripe/unripe fruits/seeds and compare this data with others frugivorous seed-dispersing monkeys. Why sakis should be less sensitive to carbohydrates if simple sugars are the main source of easily digestible energy? I invite the authors to reinforce their hypothesis.
+Authors determined taste preference thresholds for five food-associated carbohydrates, although, I wonder if sakis secrete salivary amylase, as they used maltose and they didn’t show if this sugar can be found in diet of sakis, or if sakis may secrete salivary amylase or maltase which help to release simple sugars.
+Annotations:
+L74. Please explain with specific examples, feeding time (%)- units/min sakis include unripe fruits into their diet and compare with others frugivorous primates. What if sakis include unripe fruits into their diet due low availability of ripe fruits? Which level of no ripeness do sakis accept?
+L91. Do sakis secrete salivary amylase? Which arboreal plant species contain starch? Please give examples, and justify using Maltose as one of your test carbs.
+L113. Please show nutritional content of the diet and food consumption to ensure that caloric requirements were met, so you can suggest it was unlikely that voracious appetite affected the outcome of the taste tests.
+Reviewer #2: This is a well-written and informative manuscript reporting the results of a study of taste preference in white-faced sakis. This species is of interest in the context of sweet taste sensitivity in light of their preferential consumption of fruit seeds rather than fruit flesh (and thus greater lipid > carbohydrate intake). The choice of sugars to evaluate is sensible (sucrose/fructose/glucose/maltose/lactose) and results indicate, contrary to hypotheses, an ordered set of preferences that aligns with other monkey species that consume fruit flesh.
+The results are presented clearly and interpreted with insightful comments. I therefore have only minor comments and a few queries.
+1. It would be illuminating to briefly describe the habitat and sorts of fruits that comprise the diet of the white-faced saki in the introduction.
+2. It is stated that trials began ~2h after feeding - but was this after the 0800 or 1500 feed (or both)? In addition, please specify on how many days per week tests were conducted.
+3. Did the researchers track the pattern of alternations between the two solutions? This would be interesting to know, even if just informal observations. Rodent data show that animals will periodically switch between two tastants under some conditions.
+4. Were there any other noteworthy behavioural responses to the tastants such as frustration with diluted concentrations or enhanced appetitive/approach responses after initial consumption?
+5. Notwithstanding the small sample, could the authors comment on difference between the sexes or according to age?
+6. Did the introduction of regular taste preference tests alter the subjects' food intake behaviour at regular feeding sessions?
+7. Is there a possibility that the diet of wild white-faced sakis might differ from the subjects of the present study, and if so, might this be a caveat worth mentioning?
+8. In a similar vein to the discussion of optimal foraging theory, is there any relationship between sweetness of unripe fruit flesh and the lipid content (i.e. energy density) of the seed?
+9. Greater detail about the statistical analyses would be useful for clarity.
+Minor comments
+Line 66: is 'prey upon' correct terminology here? 'Consume' or 'feed on' seems more appropriate as seeds are inanimate.
+Line 92: 'Additionally' does not seem to flow here. Suggest replacing with 'Thus'
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

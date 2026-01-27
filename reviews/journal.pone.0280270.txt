@@ -1,0 +1,123 @@
+
+19 Jul 2022
+PONE-D-22-15620Identification of ARMH4 and WIPF3 as human podocyte proteins with potential roles in immunomodulation and cytoskeletal dynamicsPLOS ONE
+Dear Dr. De Luca,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 02 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Nicole Endlich, Prof
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified what type you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). If your study included minors, state whether you obtained consent from parents or guardians. If the need for consent was waived by the ethics committee, please include this information.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. PLOS ONE now requires that authors provide the original uncropped and unadjusted images underlying all blot or gel results reported in a submission’s figures or Supporting Information files. This policy and the journal’s other requirements for blot/gel reporting and figure preparation are described in detail at https://journals.plos.org/plosone/s/figures#loc-blot-and-gel-reporting-requirements and https://journals.plos.org/plosone/s/figures#loc-preparing-figures-from-image-files. When you submit your revised manuscript, please ensure that your figures adhere fully to these guidelines and provide the original underlying images for all blot or gel data reported in your submission. See the following link for instructions on providing the original image data: https://journals.plos.org/plosone/s/figures#loc-original-images-for-blots-and-gels. 
+  
+In your cover letter, please note whether your blot/gel image data are in Supporting Information or posted at a public data repository, provide the repository URL if relevant, and provide specific details as to which raw blot/gel images, if any, are not available. Email us at plosone@plos.org if you have any questions.
+5. We note that you have included the phrase “not shown” in your manuscript. Unfortunately, this does not meet our data sharing requirements. PLOS does not permit references to inaccessible data. We require that authors provide all relevant data within the paper, Supporting Information files, or in an acceptable, public repository. Please add a citation to support this phrase or upload the data that corresponds with these findings to a stable repository (such as Figshare or Dryad) and provide and URLs, DOIs, or accession numbers that may be used to access these data. Or, if the data are not a core part of the research being presented in your study, we ask that you remove the phrase that refers to these data.
+6. Please amend either the abstract on the online submission form (via Edit Submission) or the abstract in the manuscript so that they are identical.
+Additional Editor Comments:
+Dear Dr. de Luca,
+The reviewers have sent their decisions. Because your manuscript contains many preliminary results that lack basic controls and have methodological deficiencies, I must inform you that a major revision is required.
+Please address all objections.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: General:
+In general, the approach applied by De Luca and colleagues is feasible to identify new podocyte markers which with little doubt is of great importance for the field. In general, the manuscript is well written, and most parts sufficiently discussed. However, especially the post-screening validation and their preliminary functional characterization lack fundamental controls and has methodological downfalls.
+Major points:
+1. The authors state in the discussion regarding the finding in Fig. 2: “Both immunofluorescence and immunohistochemistry supported localization of these proteins in podocytes, but the subcellular distribution differed for ARMH4 depending on the staining method.” For a new, yet undescribed protein suitable antibody controls are required here. The minimal requirement for a new protein of interest would be at least a control lacking the primary antibody (or better a non-specific antibody of the same isotype) or the same staining with primary antibody that has been preincubated with a blocking peptide. Otherwise, doubts will remain over specificity of the antibody, especially if localization differs between staining methods. A second, independent antibody (meaning not used in the HPA IHC pipeline that was a component of the screen) would strengthen this finding as well.
+2. To conclude from viral overexpression in proximal tubule cells to a stereotypic cellular response in podocytes is far-fetched. How do cultured podocytes react upon viral transfection of the respective genes? To me, it is not clear why the researchers have not used the podocyte cell line for this as well. Cytoskeletal reorganization in specialized cells like podocytes differs substantially from proximal tubular cells. Therefore, to conclude to a cell-specific phenotype, these important investigations should be performed in podocytes.
+3. The second part of the title is misleading. In line with major point 2: Immunomodulation is not described here, yet properly discussed. Doubtless, this is an important point for postmitotic podocytes, but the results presented here do not allow such conclusion. In line with that: Solely by the increase of N-WASP, the authors suggest a role in cytoskeletal dynamics. To conclude to a role in cytoskeletal dynamics more experiments are needed: A starter can be morphological assessment of actin cytoskeleton after transfection and/or functional assays like migration assays.
+Minor points:
+1. For the screening validation: The authors could integrate publicly available scRNA sequencing datasets in their analysis to strengthen their targets. A short look indeed supported their finding of podocyte specificity of at least WIPF3 which in several datasets clusters in the podocyte fraction. This is a chance for external validation of their findings. For mouse https://cello.shinyapps.io/kidneycellexplorer/ and for human: http://humphreyslab.com/SingleCell/
+2. Figure 2: The general quality of the immunofluorescence micrographs is not convincing and very dim. It may be that during figure conversion the general fluorescence intensity was impaired.
+3. Regarding the western blot results: From the methods it is not clear whether the authors used reducing or non-reducing conditions for the SDS-PAGE. The choice of the loading buffer can influence the height protein of interest will run in a gel. This could lead to such unforeseen results.
+4. Figure 3 E: Quantitative image analysis should be used to demonstrate this upregulation (e.g. mean fluorescence
+Reviewer #2: De Luca and colleques identified so far unknown podocyte proteins with potential roles in immunomodulation and cytoskeletal dynamics. New podocyte specific proteins were identified by using publicly available databases for RNAseq, the Human Protein Atlas and computational analysis. Hereby they identified potential novel podocyte markers. Two of them were selected for further analysis in immunofluorescence und immunohistochemistry as well as overexpression experiments in vitro. Transcripts of both genes (ARMH4 and WIPF3) was increased after overexpression of the podocyte transcription factor LMX1B. Furthermore, overexpression of ARMH4 in primary kidney epithelial cells reduced IL-1B and IL-8. In contrast, overexpression of WIPF3 stabilized N-WASP, which is required for maintenance of podocyte foot processes.
+General comments:
+This study is an interesting and important research study. However, there are some points harming the enthusiasm for this paper:
+MM section
+1. Despite RNA-Seq data are derived from an existing database, it would be helpful to get more information on samples that were analysed in this study, e.g. sample number, healthy or diseased patients?, It also remains unclear how many kidney tissues from tumor nephrectomies were analysed
+2. Information for the used secondary antibody in immunohistochemistry is missing.
+3. Using the protocol described for the isolation of primary proximal tubular cells I would expect that you will establish a culture of tubular cells with mixed origin, not restricted to proximal tubular cells.
+4. The method used to identify new transcripts of podocytes worked in the present work. However, to my understanding, podocyte specific genes may be regulated differently than the genes used such as nephrin, podocin and Glepp1. In particular, when podocytes are damaged, slit membrane proteins are known to be downregulated. Podocyte-specific injury markers, however, could then be upregulated, for example, and not correlate with this. The elucidation of such podocyte-specific proteins would also contribute to a better understanding of pathological changes.
+Results section
+5. Overall, the illustration for this publication is in poor resolution. Therefore, figures and labels appear pixelated. In the immunofluorescence staining it is impossible to recognize the described staining. Here, the fluorescence signal should be enhanced. The use of confocal microscopy could also be very helpful here and verify co-localization with known podocyte proteins.
+6. If I understood the authors correctly, there is no perinuclear inheritance in frozen section inheritance. What controls have been done to rule out non-specific inheritance in immunofluorescence or immunohistology? It is possible that immunohistochemical staining detects ARMH4 in endoplasmic reticulum membranes. However, it is unclear why this is not seen in the frozen sections. Perhaps different methods should be tested for the antigen retrieval.
+7. Furthermore, it remained unclear to me why tubule cells and not podocytes were used for the overexpression experiments.
+Discussion
+8. Is there any idea whether ARMH4 fulfills its function as a urate transporter and what is the importance of this for the podocyte?
+9. It would also be interesting to investigate the significance of the two newly described podocyte proteins in renal diseases. Suitable for this would be either immunohistological studies on biopsy material from patients with different human kidney diseases. Another possibility to get an impression whether these proteins are up- or down-regulated during renal disease would be the analysis of expression data accessible in the NephroSeq database. Including such data would significantly increase the relevance of the manuscript.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Christoph Daniel
+**********
+
+26 Dec 2022
+Identification of ARMH4 and WIPF3 as human podocyte proteins with potential roles in immunomodulation and cytoskeletal dynamics
+PONE-D-22-15620R1
+Dear Mr. De Luca,  
+Peter R. Corridon
+Additional Editor Comments (optional):
+The authors have satisfactorily addressed the reviewers' comments. I will ask the authors to do the following prior to publication:
+- Add scale bars to several figures: e.g., Fig 3, 4; and
+- Revise the level of fluorescence, as outlined by the reviewer. The current level still seems very weak, so it can only be seen reasonably well when the figure is enlarged to more than 100%. The intensities could be better emphasized with image processing of the individual fluorescences for printing the manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: With their revision, De Luca et al. have addressed all my major points. For example with the addition of appropriate control experiments, verification of findings in a podocyte cell line and a scratch assay in podocytes the paper has been substantially approved.
+From my perspective, only one minor point has been left: Several micrographs are missing scale bars: e.g. Fig 3, 4
+Reviewer #2: The authors have satisfactorily answered the questions I asked and made appropriate changes and additions to the manuscript. However, the fluorescence still seems very weak to me, so that it can only be seen reasonably well when the figure is enlarged to more than 100%. Perhaps the intensities could be better emphasised with image processing of the individual fluorescences for printing the manuscript.
+PS: Unfortunately, I can no longer find a citation for my claim that ARMH4 is a urate transporter; I must have made a mistake in my research, so please excuse me for this mishap.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Christoph Daniel
+**********

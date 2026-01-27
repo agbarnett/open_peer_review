@@ -1,0 +1,70 @@
+
+5 Nov 2024
+PONE-D-24-32602Beauty of Symmetry - The Impact of Logo Symmetry on Perceived Product QualityPLOS ONE
+Dear Dr. Wu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 20 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that your Data Availability Statement is currently as follows: [All relevant data are within the manuscript and its Supporting Information files.]
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+3. Please ensure that you include a title page within your main document. You should list all authors and all affiliations as per our author instructions and clearly indicate the corresponding author.
+Additional Editor Comments:
+This study can potentially contribute to the literature. However, it should be made more scientific with some corrections.
+First of all, the introduction seems short. The introduction should be expanded and the main contribution of the study should be stated.
+The first person singular we and i should not be used in the study. There should be expressions such as this study or in this study instead of we and our.
+The conclusion of the study should be written in more detail with previous literature. The differences or similarities between the previous literature and the current literature are emphasized. More policy recommendations should be given. limitations and future directions should be stated.
+Also, all text must be rearranged for stitching.
+Hypothesis setups should be revised. Hypotheses should be established with more scientific and clear sentences.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This article investigates the effect of logo symmetry on perceived product quality, and as a scientific reviewer, it can be evaluated from the following perspectives:
+Literature Review and Theoretical Foundation: The article provides a detailed literature review supporting the effect of logo symmetry on perceived product quality. However, it would benefit from referencing more recent studies and discussing the influence of other logo design elements in greater depth beyond symmetry.
+Hypothesis Development: The hypotheses are clearly stated, yet the hypothesis that "symmetrical logos increase perceived quality" could be grounded in a more concrete theoretical framework. Strengthening theoretical explanations, particularly regarding symmetry’s impact on cognitive processing alongside its aesthetic value, would be beneficial.
+Methodology and Experimental Design: The three experiments used in the study offer an appropriate methodological approach to test the hypotheses. However, expanding the participant pool to increase the generalizability of the findings would be recommended. Additionally, the exclusive use of online experiments may overlook the complex influences present in real-world environments.
+Presentation of Findings: The findings are clearly presented, but further interpretation of the statistical analyses could be useful. In particular, detailing the role of cognitive load would help readers better understand this factor’s influence.
+Theoretical and Practical Contributions: The article articulates its theoretical contributions well, though it would be beneficial to support the practical recommendations with specific application examples. This would provide a more concrete guide for businesses regarding logo design considerations.
+Conclusion and Limitations: While the article summarizes its research findings and offers suggestions for future studies, emphasizing the limitations that might be encountered in real-world applications could further enhance the reliability of the study.
+In conclusion, the article has a generally strong structure; however, it could be enriched by adding more depth in areas such as the literature review, theoretical framework, methodological details, and practical contributions, making it scientifically more robust.
+Reviewer #2: A few explanatory sentences about the symmetry effect can be added to the introduction.
+The discussion sections of the study should be expanded in a more explanatory manner.
+The general discussion section should also be expanded.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

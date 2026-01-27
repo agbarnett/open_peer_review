@@ -1,0 +1,102 @@
+
+30 Aug 2023
+PONE-D-23-23431Relationship Between the Evaluation of Agricultural Scientific and Technological Innovation Capacity and the Influencing Factors of Green AgriculturePLOS ONE
+Dear Dr. Zhang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 14 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This paper uses the Solow growth model coupled with the Cobb–Douglas production function and vector autoregressive models to examine the driving effect of scientific and technological innovation on economic growth and green agriculture. Then it uses the contribution rate of ASTP as the assessment index to evaluate the agricultural scientific and technological innovation capacity. In this way, the paper is well organized and easy to understand. However, I still have some questions.
+1. In the study of green agriculture, the carbon footprint value is taken as the measurement index, and only the stock index is analyzed. The analysis of incremental data may produce new findings and results, so it is suggested to add this part of the study.
+2. The literature review cited sufficient previous studies as the basis, but some of the references were blunt, so it was too natural to highlight the problems to be explained and the proof content of the references.
+3. If the data specifications in the text are inconsistent, the specifications should be unified and the accuracy should be consistent.
+4. As for research methods and data, this study lacks literature annotation on the source of methods and theoretical support.
+5. This paper divides Guangdong Province into four parts: the Pearl River Delta region, the East wing region, the West wing region and the mountainous region. The prefecture-level cities included in each part should be indicated in the paper.
+6. Guangdong Province is mostly hilly and mountainous. For the Pearl River Delta region, the eastern region, the western region and the mountainous region, their topographic characteristics and farming conditions are quite different, which should be taken into account when analyzing the differences.
+7. In the statistical relationship between variables tested by Granger causality test, changes in the carbon footprint of pesticides and fertilizers affect the degree of application of scientific and technological innovation in the agricultural field, while irrigation is not the cause of agricultural scientific and technological innovation, which indicates that the scientific and technological innovation ability of Guangdong Province in irrigation and water-saving needs to be further improved. In this paper, the analysis results of machinery, pesticides, fertilizers and irrigation should be correlated with the actual situation, and the results of data analysis should be verified by facts.
+8. In the impulse response function analysis of the impact effect of endogenous variables, the correlation between diesel consumption and agricultural science and technology should take into account not only the use of machinery, but also the use of new mechanical structures and the improvement of mechanical efficiency.
+Reviewer #2: According to the discussion in this paper, the author’s method is helpful. But there are still some shortcomings in the depth of the conclusion. The following are my relevant suggestions.
+1. The introduction introduces the theme from the relevant situation of the current development of green agriculture and the progress of agricultural science and technology, and the respective is appropriate. The introduction content is relatively rich, however, the internal logic and relevance should be strengthened to explain the practical significance of carrying out this research.
+2. In this paper, some data are not labeled with reference to sources, such as the carbon footprint coefficient of green agricultural indicators such as diesel fuel, irrigation, fertilizer and pesticide.
+3. This study analyzed the influencing factors of agricultural science and technology innovation ability and green agriculture, and took the contribution rate of agricultural science and technology progress as the representative of agricultural science and technology innovation ability and the carbon footprint as the representative of green agriculture, which has a certain theoretical basis. However, in the data analysis, conclusion and strategy part of the paper, the correlation between them is not fully discussed. It proves its correlation and practical significance more deeply.
+4. Broad agriculture includes agriculture (planting industry), forestry, animal husbandry, sideline industry and fishery (aquaculture industry). In this study, carbon emission indicators are mainly selected as machinery, irrigation, fertilizer and pesticide, which mainly refers to narrow agriculture and should be indicated in the paper.
+5. There are many factors affecting green agriculture. This paper chooses machinery, irrigation, fertilizer and pesticides as the main indicators. Although these four are the main sources of carbon emission, there lacks basis for selection.
+6. This paper takes the overall changes of the past five years as the evaluation node, corresponding to the major strategic stages of China's the 11th Five-Year Plan, the 12th Five-Year Plan and the 13th Five-Year Plan, which is highly representative. However, a brief introduction should be made to these stages to show their importance to scientific and technological progress, so as to strengthen the logic of the discussion.
+7. There is a time lag between the innovation of agricultural research and its actual effect, which should be reflected in the relevant conclusions and discussions.
+8. In China's actual national conditions, agricultural production is changing from intensive cultivation of small farmers to mechanization and scale, and the input of farm manure and manpower in small farmer production is huge and difficult to measure, and there are some errors in statistical data, which can be taken into account in the study.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+20 Nov 2023
+Relationship Between the Evaluation of Agricultural Scientific and Technological Innovation Capacity and the Influencing Factors of Green Agriculture
+PONE-D-23-23431R1
+Dear Dr. Zhang,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: All comments have be addressed. The abstract and introduction of the paper is appropriate, does not require further work. The results and the discussion are well presented, no further adjustments are necessary.
+Reviewer #2: All recommendations are considered. The revised version is publishable.
+I wish you success in the further publishing process.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

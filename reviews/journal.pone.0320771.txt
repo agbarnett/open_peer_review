@@ -1,0 +1,120 @@
+8 Dec 2024
+PONE-D-24-28801GDBM: A database of global drainage basin morphologyPLOS ONE
+Dear Dr. Grieve,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please ensure that your decision is justified on PLOS ONE’s publication criteria and not, for example, on novelty or perceived impact.
+For Lab, Study and Registered Report Protocols: These article types are not expected to include results but may include pilot data. 
+==============================
+Please submit your revised manuscript by Jan 22 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Huasheng Huang
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that Figure 1 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 1 to publish the content specifically under the CC BY 4.0 license.  
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an ""Other"" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Additional Editor Comments:
+Please revise point-to-point based on the two reviewers' comments.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: I have thoroughly examined the manuscript titled "GDBM: A database of global drainage basin morphology " The study aims to present a new near-Global dataset of Drainage Basin Morphology, GDBM, which provides morphometric measurements of 254,966 basins based on Shuttle Radar Topography Mission (SRTM) topographic data with Köppen-Geiger climate classifications. The authors have done commendable work; however, before getting accepted, the manuscript needs major revision to strengthen the impact of the research. Kindly see the following comments.
+1. Although the abstract claims that the dataset was generated by combining Köppen-Geiger climatic classifications with SRTM topography data, it doesn't explain exactly how this was done. Additionally, channels were classified with "high confidence," however it's not obvious how this was determined.
+2. In the abstract, novelty is not given enough attention.
+3. The abstract needs a strong conclusion regarding the potential impact and applications of the dataset.
+4. Using a drainage threshold of 22.5 km² may still introduce some bias, especially in areas with naturally low drainage network densities (such as deserts). Defend (justify) it.
+5. The dataset is intimately linked to estimates of worldwide aridity and Köppen-Geiger climatic zones, providing possibilities to examine river and basin morphology in relation to climate. However, it could be difficult to distinguish morphological changes caused by the environment from those resulting from other causes like geology or human activity.
+6. The use of the dataset is restricted by the exclusion of the polar climatic zones (ET and EF). Explain the exclusion.
+7. The accuracy of the dataset in capturing dryland hydrological dynamics may be negatively affected by differences in the resolution of climatic zone data and Aridity Index data.
+8. While channel extraction from Shuttle Radar Topography Mission (SRTM) data at 30-meter resolution is a well-established approach in geomorphology; however, it has drawbacks compared to modern LiDAR data. Give a reason for using the SRTM data.
+9. Descriptions of many variables in the table 2 and 3 are incomplete and demand more details.
+Reviewer #2: The manuscript introduces the GDBM, a near-global dataset of drainage basin morphology. It provides morphometric measurements of 254,966 drainage basins and their longest river channels, derived using SRTM topography data combined with Köppen-Geiger climate classifications. However, the current manuscript has several issues that must be addressed before it can be considered for publication.
+1. In March 2024, the journal ESSD published a paper titled "A global dataset of the shape of drainage systems." This work used global 90m DEMs to extract 0.67 million drainage basins larger than 50 km² and their longest river channels (from drainage divide to outlet). It also measured river length, sinuosity, basin area, and aspect ratio. The preprint of this article was available online in September 2023. I am puzzled and surprised as to why this highly relevant and important paper has been completely ignored. The authors should carefully compare the differences between the two studies and rewrite the second paragraph of the Introduction to better highlight the innovations of this paper based on He et al., 2024. I think this is this manuscript's most significant flaw.
+2. I suggest adding a section to discuss the limitations of the dataset, such as the exclusion of large basins and long rivers due to the division of DEMs.
+3. How do the authors verify that the rivers extracted from desert DEMs (e.g., in the Sahara Desert) are real and not artifacts such as dunes?
+4. Please provide a global map of the rivers and basins included in this dataset.
+5. Providing only CSV files will limit the usability of this study for readers. Why are shapefile formats not included?
+6. Line 296: What does "CO2e" refer to?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: yes
+Reviewer #2: No
+**********
+25 Feb 2025
+GDBM: A database of global drainage basin morphology
+PONE-D-24-28801R1
+Dear Dr. Grieve,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Huasheng Huang
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The manuscript has been improved by the authors . Therefore, I recommend acceptance of the manuscript for publication.
+Reviewer #2: The authors have adequately addressed my comments and made the necessary revisions. I have no further comments and recommend the paper for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

@@ -1,0 +1,75 @@
+10 Oct 2024
+PONE-D-24-38555The Social and Nutritional Factors Controlling the Growth of Honey Bee (Apis mellifera) QueensPLOS ONE
+Dear Dr. Shpigler,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but the reviewers raise a number of important concerns. While I want to emphasize that publication in PLoS ONE does not require novelty, the methods need to be sufficiently described to allow exact replication, particularly for a methodology-based manuscript. It is also in your best interest to optimize the clarity of the presentation, as suggested by both reviewers.
+Please submit your revised manuscript by Nov 24 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Olav Rueppell
+1. When submitting your revision, we need you to address these additional requirements. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf 2. In your Methods section, please provide additional information regarding the permits you obtained for the work. Please ensure you have included the full name of the authority that approved the field site access and, if no permits were required, a brief statement explaining why. 3. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This manuscript presents an interesting new method to rear queens using cages of worker bees in an incubator. The authors perform a series of experiments examining how factors known to affect queen rearing success in colonies affect rearing success in their system, demonstrating similar outcomes. It appears well conducted, and their conclusions are well supported. However, I would want to see a suggested next step for validating this as a viable queen rearing method. The next logical comparison would be to look at mating success, followed by mated queen performance. Aside from this, my strongest critiques relates to missing information in their methods section and some grammatical errors.
+See below:
+L40-41: This sentence is incomplete.
+L42: Consider using the word “produce” instead of “grow.”
+L57: I’m confused as to what the authors mean by “at emergence.” Emergence of what? Do you mean “in emergencies”?
+L71: What makes a colony “superior” in this context?
+L96: “This method allows researchers to conduct…”
+L93-108: I don’t think the introduction is the best place to summarize the results. It’s somewhat redundant since you’ve already done this in the abstract. Consider eliminating mention of the final results.
+L110: How many colonies were bees sourced from? Were the same colonies used for each experiment? How were the colonies maintained? How were they selected for use?
+L122: I’m finding the authors’ description of ratios to be confusing (here and throughout). Consider using a different format to express this.
+L133: “larval”
+L143: “This manipulation did not affect the hatching success of the pupae.” How was this determined?
+L154: I see this line after each experiment, and I don’t know what exactly it means. Two colonies were used for adult bees? For larvae? Did you repeat the experiment, once for each colony? How did you account for variation due to source colony in your experimental design and analysis?
+L165: How long were the frames outside of the colony for? Could this have influenced the results?
+L176: “larvae were”
+L183: “The weight of the…”
+L190: “and none of the larvae developed into…” I think this is a better way to express this.
+L203-203: It seems like you should have had more queens than this to look at. Why not measure all of them?
+L211: “Larval Age”
+L213: “acceptance rate”
+L223: “larvae”
+L225: Is there a citation you can add after “collectively”?
+Reviewer #2: Dear Authors,
+Thank you for submitting your manuscript and endeavoring the peer-review process. I enjoyed reading your manuscript on a laboratory assay for honey bee queen rearing. I have now read your manuscript and reviewed the data provided in the supplementary materials. Your study reports on developing a laboratory rearing method for queen honey bees. You include an experiment where you asked the question, how many nurse bees are required to raise queen honey bees from larva in the lab; a second experiment where you adjust the age of the honey bee larva used in the queen cell grafting process in the lab; and a final experiment where you manipulate the proportion of pollen in the artificial diet used during the queen rearing process in the lab. I think it is interesting that you can rear queens in the lab, in semi-decent sample sizes, however, I was surprised to see that you consider this method novel, as rearing queen honey bees in the lab has been tried with success since the 80's (see Vandenberg and Shimanuki, 1987) and workers even earlier than the 80's. However, setting your work apart from the older works includes the use of nurse bees in the lab, which I think is an important distinction, however, you do not even mention these works, or the advantage of bringing worker bees into the lab for rearing, when rearing queens in the lab can be done without them. In fact, I would think bringing workers into the lab would be a lot of additional work, especially when queen rearing has been shown to be successful in their absence. The second experiment exploring the age of honey bee larvae used to graft queen cells is an exhausted study, also dating back to the 80's, and it's not clear why it was done in this study, other than to corroborate what beekeepers and researchers already know. The third experiment on the proportion of pollen used to rear queens also seems a bit corroborative. Perhaps including hypotheses and predictions would help elucidate the relevance and significance of these experiments to your overall study objectives will help?
+Context of the Study and Study Objectives:
+You've provided a nice review of queen honey bees, the breeding process and some of the significance behind the breeding process and their importance to apicultural and agricultural industries. However, you have not set up the gap, or need for a new laboratory rearing method for queens, especially when one already exists. There is a recent review of queen rearing methods Buchler et al., 2024, that may help supplement your background on current methods and practices of queen rearing, such that the introduction can be refocused to the gap this queen rearing method of yours fills. As I was reading the introduction, I got the sense that your objective was targeting an alternative queen rearing method in the lab to support queen rearing on a large scale to support the growing demand for queens in the industry, especially given the discussion around seasonality. But after reading your manuscript, this purpose seems unlikely and unattainable, as you still require continuous access to honey bee larvae and nurse bees in the field to rear queens in the lab. So I question the significance of rearing queens in the lab following your protocol with nurse bees because the context for alternative purposes or novel questions to address with such a method are not addressed or discussed.
+Methods, Stats, and Reproducibility:
+I've provided several annotations throughout the manuscript, please review for specific editorial suggestions, comments, confusions, and questions. In short, while I have a general understanding of the experiments, what you did, how you did them, the data you collected, and how it was analyzed and reported, I did not come to this understanding until the end of your results and figures. Your methods are not written straightforwardly, they do not provide details on sample size or replication, and are therefore not reproducible. I'm not sure why several chi square tests were done, when the majority of your data is 'presence/absence' binomial data that a binomial distribution should model well. After reviewing your data file in the supplementary attachment, they appear incomplete. Shared data requires more annotation. You've included your statistics, which is not required, but as is, is not complete. Treatments should be defined.
+Reporting of Results:
+Your results can be reported more concisely (see line-by-line comments). You essentially report all data in the text even though a figure is provided. I make suggestions on revising your figures, where you response variables are success rates of different developmental stages, instead of the current 'number of larvae'. Your discussion of results does not really discuss your results in the context of the field, aside from corroborating what is already known. Much of the discussion is a regurgitation of the results, as it is written in the results section.
+I think with a clearer narrative on the importance of this method of queen rearing, including the questions and gaps of knowledge that could be addressed with such a method, this method would have merit.
+Please consider my line-by-line annotations in the attached file, as there are several additional comments, suggestions, and questions.
+All the best in the review process.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

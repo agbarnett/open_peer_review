@@ -1,0 +1,132 @@
+
+11 Sep 2023
+PONE-D-23-17696LGBTQ+ Identities in the Indian Audiovisual Advertisements: A Content AnalysisPLOS ONE
+Dear Dr. Khuman,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONEâs publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+The comments are mentioned at the end of the email.
+==============================
+Please submit your revised manuscript by Oct 26 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office atÂ plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Bidisha Banerjee, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found atÂ 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf andÂ 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1:Â Yes
+Reviewer #2:Â Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1:Â Yes
+Reviewer #2:Â N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1:Â Yes
+Reviewer #2:Â No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1:Â Yes
+Reviewer #2:Â Yes
+**********
+5. Review Comments to the Author
+Reviewer #1:Â This is a good piece of work. I really enjoyed reading it. It adds to the literature. I have only one suggestion. The discussion, result, and conclusion look very repetitive, you may consider cutting the discussion down a little bit.
+Reviewer #2:Â Hi,
+First of all, many congratulations to the author for working on such an important topic. Although, one can notice authorâs hard work here but this paper still lacks scientific rigor. I have a few following suggestions to improve the quality of this paper:
+1. Comments:
+2. URL of the data is not working
+3. Take professional help for editing.
+4. Under introduction, my suggestion to the authors would be add a few more studies linking advertisement with identity development among in-general population as well as among minority group of sexual preference.
+5. What is LGBTQ+2 ? (Written in 3rd para of intro.)
+6. No doubt this paper is based on an important aspect of our society that still needs to be studied by the Indian researchers. However, this paper lacks a strong rationale. It is my advice that the authors should write more convincing and stronger rationale for this study.
+7. No need to write importance of this study under introduction section.
+8. Under methodology, you have written that 16 web sources were traced for advertisement campaigns. Suggest you to give a reason for choosing these 16 web sources. On what basis these 16 web sources were shortlisted for this study?
+9. The title suggest that the paper is based on a content analysis but except title of the paper there is no mention or description how the author have used this method for analysis.
+10. Did you follow any criteria w.r.t. timeline of advertisement or language (as India is a country of many languages).
+11. Your statement, âThus, 105 observations of marketing campaigns were collected and used for the various analyses discussed below:â, is very unclear. What do you mean by âvarious analyses? As per my understanding, you are referring to various coding categories. Further, it is again unclear, whether these are inductive or deductive categories and on what basis you have decided on these so-called âvarious analyses?
+12. Why did you analyses advertisements released yearly and monthly? You need to justify that too.
+13. Further, you should have first developed research questions and hypothesis (you can find many good papers on content analysis that have developed hypothesis) to justify the requirement of your âvarious analysesâ mentioned under methodology.
+14. Findings of this study is interesting but it lacks scientific rigour.
+15. Suggest you to not use bullet points for writing your discussion.
+16. Under 1st point of discussion, please correct the citation of (Group M, 2022).
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+If you choose ânoâ, your identity will remain anonymous but your review may still be made public.
+Reviewer #1:Â No
+Reviewer #2:Â No
+**********
+
+25 Oct 2023
+LGBTQ+ identities in the Indian audiovisual advertisements: A content analysis
+PONE-D-23-17696R1
+Dear Dr.Bhagirath,
+Weâre pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+Within one week, youâll receive an e-mail detailing the required amendments. When these have been addressed, youâll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+Alex Siu Wing Chan
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the âComments to the Authorâ section, enter your conflict of interest statement in the âConfidential to Editorâ section, and submit your "Accept" recommendation.
+Reviewer #2:Â All comments have been addressed
+Reviewer #3:Â (No Response)
+Reviewer #4:Â All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2:Â Yes
+Reviewer #3:Â Partly
+Reviewer #4:Â Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2:Â N/A
+Reviewer #3:Â Yes
+Reviewer #4:Â Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2:Â Yes
+Reviewer #3:Â Yes
+Reviewer #4:Â Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2:Â Yes
+Reviewer #3:Â Yes
+Reviewer #4:Â Yes
+**********
+6. Review Comments to the Author
+Reviewer #2:Â Hi,
+Thank you for addressing all my concerns and suggestions. However, I still have one suggestion to make.
+Please do not write conclusion, limitations and future research using bullet points. It do not look academic or professional. Therefore, suggest you to remove it.
+Other than this, I have no concerns.
+Thank you.
+Reviewer #3:Â This paper conducts a content analysis on advertisements to examine LGBTQ+ representation in marketing campaigns in India. The authors find that advertisements that depict sexual minorities centered around themes of love, with young actors in urban settings being overutilized. Advertisements using transgender adults centered around human rights with older actors in non-urban settings.
+There are many strengths to this paper:
+1) First, the authors make a strong âcaseâ as to the contribution of their study. The introduction of the manuscript does a great job contextualizing their study within the broader work on LGBTQ advertising analysis while also making a great argument for the novel contribution that their analysis provides.
+2) I appreciated the inclusion of notable cultural and legal events to speculate about the motivations for the increase in LGBTQ+ centered advertising.
+3) Including an analysis of gender minorities in addition to sexual minorities really enhances the study. I liked the depth and complexity of considering gender and sexuality.
+4) I think that overall, the findings are interesting and speak to broader cultural shifts in India regarding perceptions and attitudes towards gender and sexual minority people. This study is valuable and informative.
+I highlight some concerns below:
+1) I think that 7 RQ questions may be a bit too much. It takes away from a broader discussion, when the RQs are so pointed. Would it be possible to condense the RQs to 3? I think that many of the RQs are actually âsub questions.â I suggest that the authors reframe their questions into 3 broader questions that encompass some of these âsub questions.â For example, 1) How are gender and sexual minorities portrayed in advertisements? is a broader RQ that encompasses questions 3,4, 5 and 7.
+2) This is minor, but there seems to be variation in text font size throughout the manuscript.
+3) While the author does a great job of describing the criteria for analysis, I am unsure about some additional elements of the observations. The author mentions that they were examining audio visual observations but fails to mention the length of the observations. For example, did the audio-visual observations range in length? If so, how did they address differences in length? Often, people conducting content analysis will select a specific time frame to examine such as 30 seconds to maintain consistency across observations. More clarification would be helpful.
+4) It seems that the author was looking for âloveâ and âhuman rightsâ themes since this was posed as a RQ. Was there some reasoning for this? Were there other themes that arose or were the authors only interested in the two selected themes.
+5) I would avoid using bullet points in the discussion of the results (pages 29-30).
+6) There is a significant number of subheadings throughout the text. It âbreaksâ the narrative and at times is a bit distracting. I would suggest reorganizing the manuscript in a way that relies on transition sentences, rather than on subheadings.
+7) Numbering the conclusions is not the best way to discuss the results in the conclusion. I would present this in narrative form. Discuss the findings, rather than list them.
+8) Again, the limitations or future implications should not be simply listed. Re-write in narrative form and present more of a discussion.
+9) I understand that the analysis was more descriptive without statistical modeling. I do not think that is a weakness. I would, however, encourage the authors to make a âbigger pictureâ conclusion. Moving beyond listing the results but speaking to the overarching literature on sexuality and marginalization would strengthen the paper.
+Reviewer #4:Â It appears the author has addressed all of the comments from previous reviews. I have nothing additional to add.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+If you choose ânoâ, your identity will remain anonymous but your review may still be made public.
+Reviewer #2:Â No
+Reviewer #3:Â No
+Reviewer #4:Â No
+**********

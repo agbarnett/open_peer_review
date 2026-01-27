@@ -1,0 +1,183 @@
+
+5 Jul 2023
+PONE-D-23-16243RE-TESTING AS A METHOD OF IMPLEMENTING EXTERNAL QUALITY ASSESSMENT PROGRAMME FOR COVID-19 PCR TESTING IN UGANDAPLOS ONE
+Dear Dr. Okek,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+All reviewers had concerns, some of which were major. Kindly review their comments and address as appropriate.
+Please submit your revised manuscript by Aug 19 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Chika Kingsley Onwuamah, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+ “This work did not have direct funding. It's part of routine program activities of the Uganda Virus Research Institute. The institute was designated as COVID19 National reference Laboratory by the Ugandan Ministry of Health. UVRI was also designated as regional referral laboratory for COVID19, influenza and viral hemorrhagic fevers by CDC and WHO. A lot of samples have been referred from South Sudan, Democratic Republic of Congo, Burundi amongst others. As part of the dissemination plan, staffs are encouraged to publish in peer reviewed journals.”
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+4. Please amend the manuscript submission data (via Edit Submission) to include authors Jocelyn Kiconco, John Kayiwa, Esther Amwine, Daniel Obote, Stephen Alele, Charles Nahabwe, Jackson Were, Bagaya Bernard, Balinandi Stephen, Thomas Nsibambi, Julius Lutwama and Pontiano Kaleebu.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: No
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+5. Review Comments to the Author
+Reviewer #1: REVIEW: RE-TESTING AS A METHOD OF IMPLEMENTING EXTERNAL QUALITY ASSESSMENT PROGRAMME FOR COVID-19 PCR TESTING IN UGANDA
+1. What type of PCR? Is it conventional or real time PCR? This should be stated at required points in the paper.
+2. There is need to check the use of the word “quadrille” and use as appropriate.
+3. The statement starting from “In September …” needs to be referenced.
+4. The paragraph starting from "A total of eight different genes, dyes …” is ambiguous and disjointed. It is important to state clearly the functons of the primers and the dyes. The dyes are not the targets.
+5. Abbreviations are not expected at the beginning of a sentence as seen in the statement starting from “CT …”
+6. In what form were the samples retrieved? As extracted DNA or in the crude form? What was the storage condition at the different facilities prior to retrieving the samples from them? How many days after initial testing were the samples re-tested?
+7. Quotation referred to J. Greenman et. al. needs to be revised for clarity.
+Reviewer #2: As a Quality Assurance measure during the rollout of SARS-CoV-2 diagnostic testing, Okek et al. performed confirmatory qRT-PCR testing after initial testing was done at multiple hospitals, private test centers, and university sites within Uganda. The confirmatory testing was performed at the Uganda Virus Research Institute and included re-testing of 10 positive samples and 20 negative samples from each external site. Among the 11 external sites that participated, 5 had fully concordant positive/negative results with UVRI. At 2 external sites, there were three false-positives each, and at 4 external sites, there were one false-positive each. There were no false-negatives. This study nicely illustrates the importance of centralized confirmatory testing as multiple assays were rolled out quickly during the SARS-CoV-2 pandemic. As suggested below, the manuscript would be strengthened by adding more details and reframing some interpretations.
+- How were sites chosen to be offered confirmatory testing? How many sites were offered confirmatory testing and declined? Could there have been bias towards better-performing sites in those that agreed to undergo confirmatory testing?
+- In the Discussion, the authors allude to RNA degradation as a potential reason for tests going from positive (at the initial external site) to negative (at UVRI). I agree this is a very likely explanation for the “false positives” observed, and the authors should include more details in the Methods and Results sections about the temperature and duration of storage for samples at each site. For the “false positive” samples, it would be important to evaluate whether their storage conditions were different from the others.
+- Figure 1 – please label the y-axis. If the y-axis indicates the number of positive tests, then to me it looks like more positive tests were found at UVRI than the external sites, which would indicate false-negatives at the external sites, not false-positives.
+- I don’t understand the relevance of the genes, dyes, and targets reported by different laboratories. What question(s) were the authors asking by evaluating this information? Instead, it would be more informative to provide a table listing the assays, kits, and machines used by each external site.
+- As the authors note in the Discussion, it’s very difficult to compare Ct values between assays. This point should be acknowledged sooner, and while OK to present data about the Ct values (Table 2 and Figure 3), I think the interpretation needs to be much softer. For example, it is not accurate to expect that sample with a Ct of 31.5 tested at an external site should have had the same (or even a similar) Ct when tested at UVRI. Similarly, it may not be accurate to state that “For the other three facilities with false positives, the CT values were out of the acceptable range for a positive test result according to the National reference Laboratory,” since the cutoff needs to be determined for the specific assay and machine being used. I also don’t think it’s appropriate or necessary to compare Ct values by statistical testing, and the authors do not state what test was used.
+- In Table 2, what do the different rows indicate? It would be more informative to list each sample on a separate row and label the rows.
+- In Figure 3, why are only seven sites shown?
+- I disagree with the authors that they found a high level of discrepancy. For one thing, it was very good that no false-negatives were found. The few false-positives that were found could be explained by storage, RNA degradation, and different assays used. The differences in Ct observed between sites/assays is expected. Although the exact Cts are not expected to be the same, you would generally expect the difference between any two assays to be consistent between samples, and looking at Figure 2 this seems to be the case.
+- While human error could be a component of discrepant results, some of the wording is overstated e.g. “With the stated inadequacies, discrepant results were inevitable.” Furthermore, it’s difficult to invoke incompetency as an explanation without testing operator competency. This section should be rewritten to be more constructive.
+Reviewer #3: Methodology
+• What is the frequency of the visit of experts to the labs? Is it one-off or periodic?
+• How long and at what temperature are samples stored before they are selected for testing?
+• Was the method used for testing by the labs retrieved also?
+• What is the “right” temperature at which retrieved samples are stored at the reference lab?
+• Packaging, Documentation & transportation. Selected samples were triple packaged according to (7). This is an incomplete statement
+Results
+• The methodology is described in the result section as it had to do with Fig 2 (VIC, FAM, ROX, and CV5). This should be moved to the methodology section.
+• Differences in CT values are expected even when the same samples are run in duplicates in the same run. There is a need to confirm the assays' intra and inter-assay variabilities to interpret CT values within the context of the manufacturer’s performance characteristics. It is important to know if the same RNA extraction method was used between the reference and primary labs in order for an objective comparison.
+Discussion
+• There is a need for specification with this statement “Mulago NRH for example was testing over 500 samples”. Is it 500 per day/month/year?
+• The methods used for COVID-19 testing at some labs were mentioned in the discussion but this was not listed as part of the metadata obtained from the facilities along with the samples.
+• It is unclear how the authors describe QMS to be lacking in some labs when the study did not assess its implementation.
+• A mention that the samples were stored for months at the primary testing labs before collection for retesting negates the essence of the quality assurance re-testing program. Since the aim of this program is not to assess the quality of storage but of results, the procedure used was not suitable for the objective.
+Conclusion
+• Most of the factors listed as affecting the discrepancy in results were not investigated in this study hence, cannot be categorically attributed.
+General
+• Confounders need to be addressed before making any general statements else they should be listed as limitations.
+• Considering the requirement for confidentiality, the names of the labs should have not been mentioned.
+• A review by an English editor will provide some more clarity.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Babatunde Akeem Saka
+Reviewer #2: No
+Reviewer #3: No
+**********
+
+14 Sep 2023
+PONE-D-23-16243R1RE-TESTING AS A METHOD OF IMPLEMENTING EXTERNAL QUALITY ASSESSMENT PROGRAMME FOR COVID-19 REAL TIME PCR TESTING IN UGANDAPLOS ONE
+Dear Dr. Okek,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The reviewers acknowledge the manuscript has greatly improved. However, all the issues raised have not be addressed. Kindly address all issues raised by the three reviewers in both rounds of reviews.
+Please submit your revised manuscript by Oct 29 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Chika Kingsley Onwuamah, Ph.D.
+Additional Editor Comments:
+Please, the issues raised by all three reviewers have not been fully addressed. Kindly address all satisfactorily to allow us proceed. See the reviewers comments included
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: No
+**********
+6. Review Comments to the Author
+Reviewer #1: 1. Previous corrections such as the use of abbreviations at the beginning of a sentence is still in the manuscript.
+2. The word quadrilled was still used wrongly in the manuscript.
+3. CT value means cyclethreshold and should be referred to as such. Thermocycler value cannot be abbreviated as CT.
+4. The use and interpretation of dyes and genes is still confusing in this manuscript. For clarity, dyes are the coloured probes used to detect the genes intended for identification (amplification). Dyes are not to be grouped as items to be identified as this paper implied especially summarised in the pie chart.
+Reviewer #2: While the manuscript has improved, there are important comments from myself and other reviewers that have not been adequately addressed. I have some examples below, but I recommend that the authors carefully go through the prior detailed review to make sure they understand and address each comment. The manuscript contains valuable data, but there are still important inaccuracies in the analysis and interpretations. Just a couple of examples:
+-A fundamental problem with the paper is the expectation that the specific Ct values produced by the reference lab should match the specific Ct values produced by each other lab. This is not true, because machines and assays have different ways of producing and measuring fluorescence, which are not expected to generate the same Ct value for the same sample. Here is an example of a study that demonstrates variable Ct values across assays and platforms, even though all are valid to use:
+https://journals.asm.org/doi/10.1128/jcm.00821-20
+Because of this well known inter-assay variability, specific comparisons are not appropriate, though the relative value of each sample can be compared e.g. using correlation tests.
+-I still do not understand Figure 1. Using the external site MNRH as an example (first set of bars), it looks like 7 samples tested positive at MNRH and 10 samples tested positive at UVRI. This would mean that there were either 3 false-positives at UVRI or 3 false-negatives at MNRH. This is the opposite of what is described in the text.
+-As reviewers 1 and 2 noted, the description of dyes and probes in the various real-time PCR assays is confusing and misleading. Dyes are not probes; each assay will use a dye, and some will also use a probe. By placing them in the same pie chart in Figure 2, the authors make it seem as though each assay uses either a dye or a probe.
+-Again, these are just a few examples of where I do not think the authors have adequately addressed prior comments.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+8 Nov 2023
+RE-TESTING AS A METHOD OF IMPLEMENTING EXTERNAL QUALITY ASSESSMENT PROGRAMME FOR COVID-19 REAL TIME PCR TESTING IN UGANDA
+PONE-D-23-16243R2
+Dear Dr. Okek,
+Chika Kingsley Onwuamah, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I agree to publishing this not because it is novel but because it will provide further information about the quality of testing and preservation of samples collected in another country. Same has been reported in so many other countries globally.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

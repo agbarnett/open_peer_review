@@ -1,0 +1,112 @@
+
+20 Mar 2023
+PONE-D-23-04701Leverage point themes within Dutch municipalities' healthy weight approaches: A qualitative study from a systems perspectivePLOS ONE
+Dear Dr. Bogt,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 04 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Elizabeth McGill
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+3. Please ensure that you include a title page within your main document. You should list all authors and all affiliations as per our author instructions and clearly indicate the corresponding author.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Additional Editor Comments:
+In addition to the comments from the reviewers, please address the following in your revised version:
+- The abstract is somewhat hard to follow with the use of multiple abbreviations and parentheses
+- A COREQ checklist should be submitted as supplementary material
+- Check that all in-text references appear in the reference list; for example, Bartelink et al.,2021 is cited multiple times in the text but does not appear in the reference list.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for allowing me the opportunity to review your manuscript. I enjoyed reading your work and believe this manuscript has the potential to be impactful and make a significant contribution with some further work. The revisions below are provided to strengthen the manuscript. I'm looking forward to receiving a revised manuscript in due course.
+Page three, line 56: Can you explain or provide an example about why the impact of these healthy weight approaches are limited?
+Page five, line 151: How did you gain access to your participants? There needs to be information around sampling strategy in this section.
+Page five, lines 162-163: Were there any challenges that arose as a result of interviewing both the old and new members in the same interview together? Did they influence each others’ answers or perspectives? I can see some connotations moving forward and potential ramifications of doing so which might not always be positive for the HWA.
+Page five, lines 165-166: Were any changes made to the interview guide as a result of the pilot interviews?
+Page five, line 183: In the abstract you said inductive thematic analysis was used, but that isn’t reflected in the narrative of the analysis sub-section. Please either amend the abstract to reflect the analysis done, or update the narrative in the analysis sub-section to reflect completing an inductive thematic analysis. With a thematic analysis, I would expect to see the work of Braun and Clarke (2006) or Clarke and Braun (2013) cited here.
+Page five, line 183: In addition to the above, it could be problematic to have two researchers individually code transcripts. This needs to be highlighted as a potential limitation of the approach, if not already done so.
+Page eight: In your results, it would be helpful to include the sub-themes in brackets or square brackets next to the narrative so there’s a clear line of understanding and identification between the Figures and the results narrative. For example, which sections in the narrative relate to prioritize health under the municipal processes theme? This would really strengthen the narrative in the results.
+Page 10, line 340-346: This is a really interesting quote and goes deeper than the narrative provided. For example, working together and sharing the same goal goes over an above “creating familiarity and showing importance and cooperation among others”. It would be worth re-visiting and revising the narrative here to support the quote provided.
+Page 10, line 352: Forgive my naivety, but what is meant by “linking pins”? Is this a colloquial phrase?
+Page 13, line 447: Further information is required around citizens not wanting to participate because of shame. Furthermore, what do you mean when you refer to “low support base”? Is this social support or other forms of support?
+Page 13, line 478: The first sentence suggests that Action Scales Model was used to inform the interviews and I assume subsequent analysis, yet in the abstract it says inductive thematic analysis, and there’s no mention of the ASM in the methods section particularly relating to procedure, interview guide, and analysis. Therefore, did you take a deductive or inductive approach to the study design and analysis? This needs clarity throughout the manuscript.
+Page 15, line 535: It would be interesting to know if the citizen’s perspective on that first sentence was congruent with what the professionals stated, particularly as three citizens were interviewed as part of this study.
+General discussion point: There’s a lot of points where your findings support previous research, but to make sure your work is impactful and novel, it’s important to highlight the key findings not reported elsewhere in the literature. In addition, it is important to indicate why these findings are important for those working within a HWA and within the different levels. Please amend the discussion throughout to reflect these points.
+Page 15, line 558: Again, here the Action Scales Model is mentioned, but it does not come through in the methods, approach, or results.
+Reviewer #2: A useful paper contributing to understanding of system approaches to action on obesogenic environments. The method is well described and appears robust. The authors have drawn upon Action Scales Model to inform approach, interview questions and design. There are, however, a few areas where further clarify is required to enhance the paper.
+Introduction: I would like to see the authors describe Action Scales Model and leverage points as 'an' approach to thinking about systems, rather than as 'the' way to think of systems. Systems thinking/science is a large and varied field. Each tool and approach provides a perspective on complex systems, shining a light on some parts yet shadow on others.
+Findings and Discussion: The authors introduce the concept of Leverage Point Theme (LPT), defined on lines 106-108. I struggle to differentiate between LPT as distinct from sub-themes and leverage points. LPTs may need further definition and description within findings. My reading of the literature, LPTs are not something we would find in Action Scale Models or Meadows 12 points to intervene framework, so I am unclear how they link results to underpinning systems frameworks.
+I also think the findings and discussion are missing some "so what" and "what next" focus. All system leverage point frameworks contain ideas that action on beliefs, then goals, provides most opportunity for system change, yet are difficult to act upon. Can the Action Scales Model be used to prioritise any leverage points identified? How should HWA be better supported to change obesogenic environments? At the moment the findings appear as a big list, without prioritisation.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Mat Walton
+**********
+
+30 May 2023
+Leverage point themes within Dutch municipalities' healthy weight approaches: A qualitative study from a systems perspective
+PONE-D-23-04701R1
+Dear Dr. Bogt,
+Elizabeth McGill
+Additional Editor Comments (optional):
+Thank you for addressing the reviewers' and editor comments. I look forward to seeing this work published in due course. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you for taking on board our feedback and revising the manuscript. I'm happy to accept the manuscript in its current form. Congratulations, team.
+Reviewer #2: I thank the authors for giving careful consideration to reviewer comments. I am satisfied that substantive comments have been addressed. I feel that the manuscript does make a contribution to the area of study, in particular a worked example of using the Action Scale Model in practice.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Mat Walton
+**********

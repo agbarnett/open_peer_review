@@ -1,0 +1,71 @@
+
+20 Feb 2023
+PONE-D-23-01146Antigen concentration, viral load, and test performance for SARS-CoV-2 in multiple specimen typesPLOS ONE
+Dear Dr. Golden,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Md Maruf Ahmed Molla
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. Thank you for stating the following financial disclosure: 
+"This work was supported by grants from The Rockefeller Foundation [2020 HTH 039] and Amazon.com [2D-04020007] to GJD.  Rockefeller and Amazon's contributions to the study and publication are  represented by authors VG and LW.  FGN and VAN were supported by the National Council for Scientific and Technological Development [grant 403276/2020-9] and Inova Fiocruz / Fundação Oswaldo Cruz [grant VPPCB-007-FIO-18-2-30 - Knowledge generation].  FGN is a National Council for Scientific and Technological Development (CNPq) fellow. Benchmarking work cited and that was used in analysis was funded by the Bill & Melinda Gates Foundation (https://www.gatesfoundation.org/) via grant INV-016821. Other than the contributions by authors VG and LW, funders did not have any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+We note that one or more of the authors is affiliated with the funding organization, indicating the funder may have had some role in the design, data collection, analysis or preparation of your manuscript for publication; Rockefeller Foundation, Amazon, Inova Fiocruz (Fundação Oswaldo Cruz)
+In other words, the funder played an indirect role through the participation of the co-authors. If the funding organization did not play a role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript and only provided financial support in the form of authors' salaries and/or research materials, please do the following:
+(1) Review your statements relating to the author contributions, and ensure you have specifically and accurately indicated the role(s) that these authors had in your study. These amendments should be made in the online form.
+(2) Confirm in your cover letter that you agree with the following statement, and we will change the online submission form on your behalf: 
+“The funder provided support in the form of salaries for authors [insert relevant initials], but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.”
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+"This work was supported by grants from The Rockefeller Foundation [2020 HTH 039] and Amazon.com [2D-04020007] to Gonzalo J Domingo. Felipe Gomes Naveca and Valdinete Alves do Nascimento were supported by the National Council for Scientific and Technological Development [grant 403276/2020-9] and Inova Fiocruz / Fundação Oswaldo Cruz [grant VPPCB-007-FIO-18-2-30 - Knowledge generation]. Felipe Gomes Naveca is a National Council for Scientific and Technological Development (CNPq) fellow. Benchmarking work cited and that was used in analysis was funded by the Bill & Melinda Gates Foundation(https://www.gatesfoundation.org/) via grant INV-016821. The Bill & Melinda Gates Foundation did not have any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+"This work was supported by grants from The Rockefeller Foundation [2020 HTH 039] and Amazon.com [2D-04020007] to GJD.  Rockefeller and Amazon's contributions to the study and publication are  represented by authors VG and LW.  FGN and VAN were supported by the National Council for Scientific and Technological Development [grant 403276/2020-9] and Inova Fiocruz / Fundação Oswaldo Cruz [grant VPPCB-007-FIO-18-2-30 - Knowledge generation].  FGN is a National Council for Scientific and Technological Development (CNPq) fellow. Benchmarking work cited and that was used in analysis was funded by the Bill & Melinda Gates Foundation (https://www.gatesfoundation.org/) via grant INV-016821. Other than the contributions by authors VG and LW, funders did not have any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Comments to the Author
+In this manuscript Number PONE-D-23-01146 entitled"Antigen concentration, viral load, and test performance for SARS-CoV-2 in multiple specimen types", the authors provided an overview of the SARS-CoV-2 diagnostic techniques within different specimens in Brazil with their clinical manifestations. This paper presents an interesting topic with a broad appeal to readers and presents a balanced view. However, it can be further improved and specific concerns need to be addressed before publication:
+1. The title can be better modified to “The correlation between SARS-CoV-2 Antigen concentration and viral load using different techniques and specimens”.
+2. 31-32 no need to repeat “specimen”.
+3. 33 no need for “cases”.
+4. 66 “The performance” correction.
+5. 69,71 repeated word “understanding” please rephrase.
+6. 86 “The design” correction.
+7. 35, 88, 200, 201 can you please make it clear about the 214 cases and 50 cases in these positions, also in the supplementary table A? shouldn’t you have 214 cases and 65 positive cases, so what is this 50?
+8. In table 1, can you address the symptomatic, asymptomatic/oligosymptomatic cases, as you mentioned in 274, 275
+9. In Supplementary A, there are more than 65 positive cases of close contacts and in 202-203 “Among all the close contacts, 65 tested as SARS-CoV-2 positive by the reference assay at least once “, please make it clear.
+Reviewer #2: The article titled 'Antigen concentration, viral load and test performance for SARS-CoV-2 in multiple specimen types' emphasizes on the comparison between the RT-PCR and RDT method. However, the importance of Nucleocapsid Protein o 'N Antigen' as the standard for viral load and antigen concentration measurement was not explained as there are other antigens such as 'ORF1b, S' that are also used in SARS-CoV-2 diagnostic methods. RT-PCR was not conducted on ANS sample and RDT was not conducted on NPS sample. As it was mentioned as a limitation, so how does this impact the findings of this study?
+In page 8, the heading 'Antigen testing' is kind of misleading. it may be addressed as 'Rapid diagnostic testing/RDT of N antigen'. Also in page 10, the paragraph 'Antigen concentration determination' was not well versed. Table 1 needs to be rewritten and explained precisely. The grammatical and typographical errors needs to be corrected.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Ahmed H. Mousa
+Reviewer #2: No
+**********

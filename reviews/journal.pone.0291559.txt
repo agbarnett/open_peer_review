@@ -1,0 +1,70 @@
+
+7 Jul 2023
+PONE-D-23-02223Interventions Promoting Recovery from Depression for Patients Transitioning from Outpatient Mental Health Services to Primary Care: Protocol for a Scoping ReviewPLOS ONE
+Dear,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+1-Can you proofread the documents for minor language and grammar issues?
+2-Could you elaborate your research question. Please provide more RQ and what is your hypothesis.
+3-How would you validate the results?
+4- The current given strength and limitation of protocol is not in depth and did not address all bias or outcome in context to strength of study. Write it in details.
+5-Please specify on how you disseminate your finding. The generalized statement is not the right method.
+Please submit your revised manuscript by 7th July 2023. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Muhammad Shahzad Aslam, Ph.D.,M.Phil., Pharm-D
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section.
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Additional Editor Comments (if provided):
+1-Can you proofread the documents for minor language and grammar issues?
+2-Could you elaborate your research question. Please provide more RQ and what is your hypothesis.
+3-How would you validate the results?
+4- The current given strength and limitation of protocol is not in depth and did not address all bias or outcome in context to strength of study. Write it in details.
+5-Please specify on how you disseminate your finding. The generalized statement is not the right method.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?
+The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?
+The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?
+Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors described where all data underlying the findings will be made available when the study is complete?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.
+(Please upload your review as an attachment if it exceeds 20,000 characters)
+Reviewer #1: A well-thought out, practicable and meaningfully pragmatic protocol for a scoping review of interventions promoting recovery from depression for patients transitioning from outpatient mental health services to Primary Care.
+Reviewer #2: The study as defined and written is fit, adequate and commendable to reviewer appraisal for acceptance.
+However, the proposed study’s exclusion criteria do not include depression with commonly co-occurring disorders such as substance use disorder(s) or psychotic depressions or depression with psychosis or sequelae of psychosis, whose omission proven an unusual exception given an expectable empirical standard and the fact that not just drug abuse but thought disorders like psychosis affecting depression presumably entail highly unique barriers of care across system tiers or levels, potentially rendering dubious shared putative empirical load when transitioning care services.
+More urgently perhaps, I would seek to know if the eventual quantitative analyses will adequately account for various temporal and epochal considerations since these should be outlined a priori, such as whether studies will be assessed for homogeneity based on lengths of outpatient exposures in the study populations (since for the present study in particular this will not be an un-impactful statistical control), and more pressingly I wonder if it is entirely appropriate to include previous inpatient groups due to diagnostic conflation, urgent care diagnostic thresholds compared to general population diagnostic thresholds and the much higher service needs and resultant statistical bias of inpatient populations.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Dr Sarah Markham
+Reviewer #2: Yes: Paul-Andre Betito
+**********

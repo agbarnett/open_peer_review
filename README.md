@@ -12,7 +12,7 @@ The _R_ files are in order of execution with a prefix of:
 
 * 0_ read in the XML files and exclude papers that were not peer reviewed
 * 1_ process the authors' countries and papers' topics
-* 2_ run the statistical models for the quality outcomes (citations and retractions); add author paper counts
+* 2_ run the statistical models for the quality outcomes (citations and retractions); add author paper counts; random sample of reviews
 * 3_ prepare data and run stability selection
 * 4_ report main model and run model checks
 * 99_ other files, including some functions
@@ -24,6 +24,7 @@ The subfolders are:
 * `data` data in _R_ format.
 * `figures` for figures.
 * `results` for results in RData format, latex-ready tables, rmarkdown reports.
+* `reviews` a random selection of the open peer reviews
 
 <details><summary>R version and packages</summary>
 <p>

@@ -1,0 +1,142 @@
+
+27 Dec 2023
+PONE-D-23-30888Probing sustained attention and fatigue across the lifespanPLOS ONE
+Dear Dr. Hanzal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Both reviewers agree the manuscript is of interest, and make various suggestions that should improve clarity throughout.
+Please submit your revised manuscript by Feb 10 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Jessica Adrienne Grahn
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“We would like to extend our gratitude to all the reviewers and the editors who contributed to the finalisation of this article. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+We note that you have provided funding information that is currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+“SH was supported by the Economic and Social Research Council Grant: ES/P000681/1. https://www.ukri.org/councils/esrc/
+GM was funded by the Wellcome grant 209209/Z/17/Z.
+https://wellcome.org/
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript investigated the association of fatigue (at the trait and state level) and sustained attention task performance across a sample of individuals from young to old age. Performing the attention task resulted in greater self-reported state fatigue, and state fatigue was predicted by initial pre-task trait fatigue ratings. Age was also associated with task performance measures. There were also some unexpected findings, such as a negative relationship between change in state fatigue (from before to after performing the task) and trait fatigue. The study also served as a proof of concept for the administration of the SART in an online experiment. Overall, the study is interesting and addresses an important issue – linking the subjective sense of fatigue and individual experiences with objective performance measures. My primary concerns with the paper centered on a few areas: (1) the use of a sustained attention task rather than a cognitively demanding task may induce fatigue in different ways, and produce different results – this distinction can be further clarified both in the introduction and discussion; (2) the use of a stepwise regression approach may produce results that are somewhat idiosyncratic, and may obscure the joint influence of multiple predictors in the models; and (3) there are some elements of the online administration procedure that are not entirely clear, which may influence the findings, such as the monitoring of the timing of breaks for study blocks. More specific comments related to these concerns and others are noted further below:
+Introduction:
+-I am a bit confused by the sentence: “We did not propose trait fatigue to affect task performance directly, but trait fatigue to affect state fatigue and thus indirectly contribute to changes in performance, and changes in state.” If certain measures of task performance are reflective of state fatigue, and trait fatigue directly influences state fatigue, then would this not be a direct affect on task performance? Perhaps this can be clarified a bit further.
+-the distinction and/or similarity between “fatigue” and “energy” could be further outlined.
+-Trait fatigue may also not only be defined as fatigue over a prolonged period of time, but rather it is often further characterized as an individual’s inherent tendency to experience fatigue across a range of situations. Perhaps this is not so different than the way it is defined in the text, but it may be useful to integrate this latter conceptualization of trait fatigue further into the introduction. I ask that the authors consider if this latter conceptualization provides some unique perspective to the way it is already presented in the paper.
+-Specific hypotheses associated with each aim could be added to the paper.
+Methods:
+-was the wording adjusted for some items of the VAS-F due to regional language norms? The reliability of the scales is presumably based on the original wording used in the scales, so further comment on this adjustment is warranted.
+-Were there any other specific inclusion/exclusion criteria for participants? For example, normal vision, no history of cognitive/neurological impairment, etc. This should also be noted in the participants section of the methods.
+-lines 216-218: I am not following the logic of the “at chance level” phrasing here. I understand the general reasoning, which is that people could adopt a strategy where they just tend to either respond or not respond regardless of the stimulus – but I am not quite understanding how this is at chance level (like flipping a coin). These strategies would bias the response either towards higher overall accuracy (at the expense of nogo inaccuracy) or lower overall accuracy (to the benefit of nogo accuracy). Is “at chance level” the correct wording to use here?
+-It is unclear to me why the additional 10ms is expected for response times in the online task in comparison to in the laboratory. The expectation of increased variability seems understandable, as various systems will have different precision for detecting response speed over multiple trials. But is there a reason that a systematic delay would be expected as well, rather than just increased variability, across participants’ computers?
+-Was the number sequence randomized for each individual participant, or was the sequence of numbers the same for each person?
+-It appears that a stepwise regression model was used to identify predictors that would remain in the model based on whether they reached a specific significance threshold. In general, stepwise regression can result in idiosyncratic findings that may be difficult to replicate across studies, because they increase the number of tests that are being performed and are susceptible to enhancing the impact of false positives that may be present in a given dataset. In contrast, a hypothesis driven regression model that includes a pre-specified, well-reasoned set of predictor variables is thought to produce more reliable findings. The predictors that the authors identify seem reasonable, and I suggest that the model should just include all of these predictors, especially if the authors believe that each of these predictors is a potential contributor to variance in the outcome measure. The sample size is certainly large enough for the number of predictors (I believe five in total), and the information gained from this analysis design would be more informative and potentially more reliable than a stepwise regression approach.
+-The effects of fatigue on the SART are being estimated by comparing performance between the first and fourth blocks. However, on the fourth block, participants are still starting the block after having a break. So it is somewhat unclear how much performance should be expected to decline if there are sufficient breaks between each block.
+Furthermore along these lines: was there any data collected regarding the length of the breaks that participants took between blocks? Did participants take different lengths of breaks, on average, based on the age stratification? This is a potential confound in the data that should be reported, and which could also potentially be further controlled for in the statistical analyses.
+Results:
+-What was the reason for log-transforming the reaction time data? Were the reaction time data skewed? If they were normally distributed, then why is the log transformation necessary?
+-A table should be included that provides a full overview of the relevant statistics for the regression models.
+-The left panel in figure 4 appears to show identical mean reaction time and SD of RT across the four blocks of the task. However, the trendline in the right panel, and the analyses reported in the text, both appear to indicate that there is a reduction of RT overall across the blocks. It seems that there is a discrepancy between these figures, or is there some other additional information I am missing here? A similar question applies regarding the variability (SD) around the mean.
+-Were corrections for multiple comparisons applied to other analyses that did not include age and gender? If that is not the case, then is unclear why the correction was applied only when these factors were present in the analyses.
+Discussion:
+-I am curious if the improving performance on the SART as a function of increasing age is influenced in some way by the level of fatigue an individual experiences (either trait or state). Do individuals with greater reported fatigue not show the same level of improvement across task blocks? The discussion on page 25 suggests that the older participants may have been more interested in the task – but I wonder if this interest would wane for individuals that are highly fatigued, and if this effect would be stronger in older compared to younger participants.
+-The ability to sustain attention (as represented in the SART) could be conceptualized as overlapping with, but also distinct from, fatigue in different ways. Cognitive fatigue, in particular, is thought to be induced when people have to engage in a cognitively challenging task with high demands. In contrast, the SART is not necessarily cognitively challenging to the same degree as some other tasks. So the findings of the study could be different based on whether one is measuring sustained attention vs. a cognitively demanding task, such as for example a challenging dual-task paradigm or task with high working memory or executive demand. This nuance of the findings could be further outlined in the discussion (and maybe it would be worth addressing this further in the introduction as well).
+Other minor comments:
+Abstract: perhaps some additional text could be added to provide further context for the meaning of “reduced energy” in the abstract.
+-line 38, typo? – “the3”
+-line 56: MFI should be defined at first use.
+-line 89: check phrasing of the sentence.
+-line 124: should just say “SART” without “task” afterwards, I believe, as the “task” is redundant with the “T” in the acronym.
+-I am unclear what is meant by the phrase “a balanced mean” on page 16.
+-line 476, typo: “reaction times”.
+-line 480, phrasing: “the laboratory setting”
+Reviewer #2: Overall I think this study is a very good study however, this study ignores much of the published works of O'Connor, Boolani and Filippi. The work of Fillipi (Fillipi, et al, 2022) suggests that what you are measuring with MFI may be prolonged state fatigue and not necessarily trait fatigue. Further, works by both Boolani and O'Connor suggest that trait fatigue is the long-standing pre-disposition to fatigue and not how someone has felt lately, as the MFI instructions suggest.
+Further, recent work by Boolani (>5 manuscripts) support that trait mental and physical energy and fatigue modify state energy and fatigue in the direction that your results suggest (high trait fatigue results in a lower increase in state fatigue than low trait). This may be due to the fact that those who normally feel fatigued (high trait fatigue) do not have much reserve left and are already starting more fatigued than their counterparts so they can't possibly feel worse. Boolani and colleagues have noted these changes in multiple studies. Their control interventions may provide you with comparisons.
+Another issue with this work is that the authors do not acknowledge that energy and fatigue are two distinct uniolar moods with their own distinct biological, behavioral and biomechanical correlates.
+Secondly, I downloaded your data and did some visualizations and ran Shapiro-Wilks tests for normality and your pre and post VAS scales were not normally distributed (after calculating for fatigue and energy scores). I ran the same for deltas and saw that while fatigue was normally distributed, energy was not. Did you apply any sort of data transformation techniques to these scores? Same with age, you had more people in the late teens/early 20s in the 18-29 cohort, the same goes for the 70-81.
+I think the statistics need a closer look as distribution of data may impact your models.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+19 Mar 2024
+PONE-D-23-30888R1Probing sustained attention and fatigue across the lifespanPLOS ONE
+Dear Dr. Hanzal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+There are some minor comments suggested by one reviewer that I do think would be relevant to address, and I would anticipate no need to send out for review again.
+Please submit your revised manuscript by May 03 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Jessica Adrienne Grahn
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors have made substantial revisions to the paper, and I believe it is much improved. I have provided some additional comments below that the authors could further consider:
+Abstract:
+-There should be a reference for the quoted text in the first sentence, if it comes directly from a source.
+-Could just say “An online version” and leave the JsPsych part out of the third sentence – as this could potentially lead to some confusion about what this is referring to without further context. It seems unnecessary to note the software used to administer the task in the abstract, from my perspective.
+Introduction:
+-There could be a brief description of the way that the SART is administered when this is first mentioned.
+-The conceptual distinction between energy and fatigue could still be further described in the introduction.
+-The “Online Research” section feels a bit out of place. I wonder if this could possibly be combined with another section in a way that makes it less abrupt when reading the introduction. Just something to consider.
+-suggested edit for the aims: “Specifically, we predict that no-go accuracy…”
+Methods
+-What is the relevance of the statement: “All European participants completed the study in the morning…” Why was this done? Also, did non-European participants complete the study at a different time? This is mentioned again later, but I am wondering why there is a distinction in here on the European vs. non-European participants.
+Results:
+-It is more conventional to include the statement on informed consent in the methods section, rather than the results.
+-In the text (e.g., page 16, line 341), a beta value of < .001 is noted for the fatigue change predictor. However, inspection of the supplementary tables shows that this is the unstandardized coefficient. There are other examples of this elsewhere in the results section. I suggest that the standardized beta coefficients can also be added to the tables, to provide further context for the size of the effects regardless of measurement tool scale in the regression analyses. Given the very small values for the unstandardized coefficients, I think it could be helpful to also include the standardized coefficients.
+Discussion:
+-I wonder about another potential explanation for the finding that older participants had better nogo performance than younger participants; and that greater fatigue change was associated with poorer nogo performance. Does this mean also that younger people had greater fatigue change with time on task? That is perhaps also somewhat unexpected. Another potential factor that should be considered in the discussion is how the at-home, online nature of the task may have resulted in these findings. The use of the remote delivery of the test is discussed, but primarily in the context of its usefulness for engaging in research that uses an online delivery method. However, this approach could also have a different impact on fatigue and performance in younger vs. older individuals, possibly due to novelty of the experience. Perhaps, younger individuals, who may potentially engage in online activities more frequently and proficiently in some regard, may also engage in multitasking more frequently when engaging in analogous activities. Therefore, maintaining attention towards a single, relatively simple task of this type may lead to greater distractibility and be more mentally draining for younger individuals (maybe they were even multitasking a bit – was this possible or monitored?). In contrast, older individuals may find this experience to be more novel (and maybe more “formal”), and therefore may not be as distractable or find the task as mentally draining to engage with for a prolonged period of time. This speculation leads me to wonder if the results would be replicated in the in-lab setting. What contexts might change these findings? It could be worth further considering this and adding to the discussion along these lines.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
