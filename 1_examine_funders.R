@@ -1,6 +1,6 @@
 # 1_examine_funders.R
 # looking for most common funders - extract all names associated with numbers
-# Nov 2025
+# Feb 2026
 library(dplyr)
 library(jsonlite) # for reading JSON files on funders
 library(stringr)
@@ -26,7 +26,8 @@ N = nrow(tab)
 for (k in 1:N){ # takes a little while due to web searches
   
   # find funder names from web
-  url = paste(url_start, tab$numbers[k], sep='')
+  number = tab$numbers[k]
+  url = paste(url_start, number, sep='')
   funder = fromJSON(url)
   
   # paste all names together (preferred and alternative) ...
@@ -35,17 +36,20 @@ for (k in 1:N){ # takes a little while due to web searches
       tolower() %>%
       paste(collapse='\\b|\\b') # paste all together; add breaks because of acronyms
   }
-  if(is.null(funder$altLabel) == FALSE){
+  if(is.null(funder$altLabel) == TRUE){
     all_names = tolower(funder$prefLabel$Label$literalForm$content)
   }
   # check
   if(length(all_names) != 1){cat('Error for k = ', k, '\n', sep='')}
   
   # concatenate data
-  frame = data.frame(funder_number = as.character(tab$numbers[k]),
+  frame = data.frame(funder_number = as.character(number),
                      search_text = paste('\\b', all_names, '\\b', sep=''))
   funder_text = bind_rows(funder_text, frame)
 }
+
+# check
+filter(funder_text, funder_number == 100004440) # should be Wellcome
 
 # save
 save(funder_text, file = 'data/1_funder_info.RData')

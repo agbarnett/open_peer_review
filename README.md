@@ -11,11 +11,17 @@ XML data downloaded from [PLOS](https://plos.org/resource/open-peer-review/). Be
 The _R_ files are in order of execution with a prefix of:
 
 * 0_ read in the XML files and exclude papers that were not peer reviewed
-* 1_ process the authors' countries and papers' topics
-* 2_ run the statistical models for the quality outcomes (citations and retractions); add author paper counts; random sample of reviews
-* 3_ prepare data and run stability selection
-* 4_ report main model and run model checks
+* 1_ get the funders' data
+* 2_ process the authors' countries and papers' topics
+* 3_ add the authors number of papers
+* 4_ run the statistical models for the quality outcomes (citations and retractions); add author paper counts; random sample of reviews
+* 4_ prepare data and run stability selection
+* 5_ report main model and run model checks
 * 99_ other files, including some functions
+
+## How the key files and data are inter-linked
+
+![Network diagram](figures/99_program_network.jpg)
 
 The subfolders are:
 
