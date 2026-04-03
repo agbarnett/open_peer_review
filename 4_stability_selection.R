@@ -1,5 +1,6 @@
 # 4_stability_selection.R
 # use stability selection to find variables associated with open peer review
+# run on HPC instead
 # December 2025
 library(dplyr)
 library(stringr)
@@ -8,9 +9,8 @@ library(stabs) # for stability selection
 library(broom)
 TeachingDemos::char2seed("blackpool")
 
-# get the data from 3_patch_author_experience.R
+# get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
-
 # prepare the data
 source('4_data_prepare.R')
 

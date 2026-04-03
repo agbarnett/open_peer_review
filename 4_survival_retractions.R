@@ -1,20 +1,20 @@
 # 4_survival_retractions.R
 # survival models for time to retraction
-# December 2025
+# March 2026
 library(dplyr)
 library(stringr)
 library(survival)
 library(survminer) # for plotting
 source('R/dark_theme.R') # for dark slide theme for AIMOS presentation
 cbPalette <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#999999") # colours
-# folder for figures:
+# folder for conference figures:
 loc = 'C:/Users/barnetta/OneDrive - Queensland University of Technology/talks/AIMOS5/figures/'
 
-# get the data from 3_patch_author_experience.R
+# get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
-
 # prepare the data
 source('4_data_prepare.R')
+
 # create outcome
 data = mutate(data, 
               open_review = case_when(
@@ -74,4 +74,3 @@ test.ph
 format(round(sum(data$time_to_retraction)), big.mark=',')
 # average follow-up time (years)
 round(10*sum(data$time_to_retraction) / nrow(data))/10
-

@@ -1,23 +1,29 @@
 # 99_program_network.R
 # how the R programs link together
-# Feb 2026
+# to share on github
+# March 2026
 library(diagram)
 library(stringr)
 
+# to do, need to add results folder
+# add more colours to boxes? files that make figures/tables?
+# then also add legend
+
 # labels
 files = dir(pattern='.R$')
-files = files[!str_detect(files, '99_')] # remove test files
-files = files[str_detect(files, '0_|1_|2_|3_')]
+files = files[str_detect(files, '0_|1_|2_|3_|4_|5_')] # should go from zero to five; do not need test files 99_
+files = c(files, '3_combine_experience_data.R') # add file from HPC
 files = str_remove(files, '\\.R$')
 # remove files that are not part of the main flow
-remove = c('2_extract_reviews', # for exporting reviews to file
+remove = c('0_my_openalex_key_do_not_share', # not important for network
+           '2_extract_reviews', # for exporting reviews to file
            '2_get_funder_openalex', # was not as useful as XML data
            '4_random_forest', # test file
            '5_plot_transparency' # test file
            )
 files = files[!files %in% remove]
-# add three data sources
-sources = c('crossref','PLOS','OpenAlex')
+# add three data sources (order is important)
+sources = c('OpenAlex','PLOS','crossref')
 files = c(sources, files)
 n_files = length(files)
 
@@ -57,14 +63,27 @@ M[which(files=='3_validate_data'), which(files=='2_process')] = paste("'", data[
 
 # box colours
 box.colour =rep('grey79', n_files)
-box.colour[1:3] = 'darkseagreen2'
+box.colour[1:3] = 'darkseagreen2' # for bibliographic data
 
 ## make figure 
-jpeg('figures/99_program_network.jpg', width=7, height=5, units='in', res=400, quality = 100)
+jpeg('figures/99_program_network.jpg', width=8, height=5, units='in', res=400, quality = 100)
 par(mai=c(0,0.04,0.04,0.04))
-plotmat(M, pos = pos, name = files, lwd = 1, shadow.size=0, curve=0,
-        dtext = 0.12, # controls the position of arrow text relative to arrowhead
-        box.lwd = 2, cex.txt = 1, box.size = 0.14, box.col=box.colour,
-        box.type = 'rect', box.prop = 0.20, txt.col = 'black')
+plotmat(M, 
+        pos = pos, 
+        name = files, 
+        lwd = 0.1, 
+        shadow.size=0, 
+        dtext = 0.2, # controls the position of arrow text relative to arrowhead
+        box.lwd = 2, 
+        cex.txt = 1, 
+        box.size = 0.14, 
+        box.col = box.colour,
+        box.type = 'rect', 
+        box.prop = 0.20, 
+        curve = 0.2,
+        arr.pos = 0.4,
+        arr.col = 'navy', # colour for arrows
+        arr.tcol = 'darkorchid', # colour for text along arrows
+        txt.col = 'black') # colour for text in boxes
 dev.off()
 

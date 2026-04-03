@@ -1,13 +1,12 @@
 # 4_data_prepare.R
 # prepare the data for the models
-# January 2026
-# called by 4_stability_selection.R and 5_model_checks.R
+# March 2026
+# called by 4_citations.R, 4_survival_retractions.R, 4_stability_selection.R and 5_model_checks.R
 
 # remove small amount of missing country and last authors paper count
-data <- filter(data, !is.na(country)) # 98
-data <- filter(data, !is.na(author_papers)) # 110
+data <- filter(data, !is.na(country)) # 103
+data <- filter(data, !is.na(author_papers)) # 191
 data <- filter(data, lengths(subjects) > 1) # 721 (subject = 'missing' if there's only one)
-data <- filter(data, type != 'Formal Comment') #74 late exclusion after talking with PLOS staff
 
 # scale data; best transformations from 3_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,

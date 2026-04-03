@@ -19,17 +19,21 @@ library(ggplot2)
 g.theme = theme_bw() + theme(panel.grid.minor = element_blank())
 
 # for x and y matrices/vector
-load('data/2_plus_experience.RData') # from 2_add_author_experience.R
-# remove missing country, subjects, and author experience to match analysis data; added late exclusion for Formal Comments
-data_for_table = dplyr::filter(data, !is.na(country), !is.na(author_papers), lengths(subjects)>1, type!='Formal Comment')
+# get the data from 3_combine_experience_data.R on HPC
+load('data/3_plus_experience.RData')
+# remove missing country, subjects, and author experience to match analysis data
+data_for_table = dplyr::filter(data, 
+                               !is.na(country), 
+                               !is.na(author_papers), 
+                               lengths(subjects)>1)
 n_rows = nrow(data_for_table)
 data_for_table = mutate(data_for_table, year = as.numeric(format(published, '%Y'))) # add year published
 
 # to get X matrix and Y
-source('3_data_prepare.R')
+source('4_data_prepare.R')
 ```
 
-## Top ten countries
+## Top ten countriesd
 
 ```{r top_ten_countries}
 ## find top ten countries across all results
@@ -81,7 +85,7 @@ ftab = flextable(tab) %>%
   autofit()
 ftab
 # export to latex
-print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/3_countries.tex")
+print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/4_countries.tex")
 ```
 
 There were `r n_country` countries in total. 
@@ -139,7 +143,7 @@ ftab = flextable(tab) %>%
   autofit()
 ftab
 # export to latex
-print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/3_subjects.tex")
+print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/4_subjects.tex")
 ```
 
 There were `r n_subject` subjects in total. 
@@ -197,7 +201,7 @@ ftab = flextable(tab) %>%
   autofit()
 ftab
 # export to latex
-print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/3_domain.tex")
+print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/4_domain.tex")
 ```
 
 Some papers had multiple emails. 
@@ -247,15 +251,22 @@ tab2 = mutate(tab2,
               no = paste(count, ' (', percent, ')', sep=''))%>%
   select(-percent)
 rownames(tab2) = NULL
-#
+# get names from https://dx.doi.org/10.13039/501100000781
 tab = full_join(tab2, tab1, by='funder') %>%
   arrange(desc(count)) %>%
   rename('funder' = 'funder') %>%
   select(-count) %>%
   mutate(funder = case_when( # replace numbers with names
+    funder == '501100001659' ~ 'German Research Association',
+    funder == '501100007601' ~ 'Horizon 2020',
     funder == '501100000781' ~ 'European Research Council',
     funder == '501100000265' ~ 'Medical Research Council',
     funder == '501100001809' ~ 'National Natural Science Foundation of China',
+    funder == '100018696' ~ 'Horizon Europe Health',
+    funder == '100006520' ~ 'Edwards Lifesciences',
+    funder == '501100011821' ~ 'Ministry of Education - Kingdom of Saudi Arabia',
+    funder == '501100001459' ~ 'Ministry of Education - Singapore',
+    funder == '501100000780' ~ 'European Commission',
     funder == '100000001' ~ 'National Science Foundation',
     funder == '100000002' ~ 'National Institutes of Health',
     funder == '100004440' ~ 'Wellcome', 
@@ -271,7 +282,7 @@ ftab = flextable(tab) %>%
   autofit()
 ftab
 # export to latex
-print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/3_funder.tex")
+print(xtable(tab), include.rownames=FALSE, hline.after=FALSE, file = "results/4_funder.tex")
 ```
 
 Some papers had multiple funders. 
@@ -307,7 +318,7 @@ m2 = data.frame(print(tab2,
                       showAllLevels = TRUE,
                       formatOptions = list(big.mark = ""))) %>%
   tibble::rownames_to_column(var = "var")
-print(xtable(m2), include.rownames=FALSE, hline.after=FALSE, file = "results/3_big_table.tex")
+print(xtable(m2), include.rownames=FALSE, hline.after=FALSE, file = "results/4_big_table.tex")
 ```
 
 ## Openness over time

@@ -1,22 +1,23 @@
 # 5_model_checks.R
 # run model checks
-# January 2026
+# March 2026
 source('R/vif_matrix.R') # for VIF
 library(xtable) # for latex
 library(stringr)
+library(rpart) # for trees
 library(dplyr)
 library(ggplot2)
 library(gridExtra)
 g.theme = theme_bw()+ theme(panel.grid.minor = element_blank())
 cbbPalette <- c("#E69F00", "#56B4E9", "#009E73", "yellow3", "#0072B2", "#D55E00", "#CC79A7")
 
-# get the data from 2_add_author_experience.R
-load('data/2_plus_experience.RData')
+# get the data from 3_combine_experience_data.R on HPC
+load('data/3_plus_experience.RData')
 # prepare the data
-source('3_data_prepare.R')
+source('4_data_prepare.R')
 
-# get the model estimates, from 3_stability_selection.R
-load('results/3_ests_stability.RData')
+# get the model estimates, from 4_stability_selection.R
+load('results/4_ests_stability.RData')
 
 # influential diagnostics
 influential = influence.measures(small_model)
@@ -26,11 +27,17 @@ influential = influence.measures(small_model)
 ## large Cook's distance
 index = which(colnames(influential$infmat) == 'cook.d')
 cookd = influential$infmat[,index]
-index = which(cookd > 6e-04)
+index = which(cookd > 1e-04)
 index_y = colnames(x) %in% x_selected_names
 x_influential = x[index,index_y]
 y_influential = y[index]
 d_influential = cbind(y_influential, x_influential)
+# find what's driving high Cook's distances (two funders)
+my.control = rpart.control()
+my.control$maxdepth = 2 # small tree
+tree = rpart(cookd ~ x, control = my.control)
+tree
+
 # plot
 to_plot = data.frame(cookd)
 cplot = ggplot(data = to_plot, aes(x=cookd))+
@@ -42,7 +49,7 @@ cplot
 ggsave('figures/5_cooks_distance.jpg', cplot, width = 4.2, height=4.2, units='in', dpi=500)
 cat('The largest Cook`s distance was ', format(max(to_plot$cookd), scientific=FALSE), '.\n', sep='')
 
-## largest df-betas
+## largest df-betas, are for 501100001665
 dfb = dfbeta(small_model)
 to_plot = data.frame(dfb) %>%
   reshape::melt() %>%
@@ -76,7 +83,7 @@ print(xtable(to_export, digits=2), include.rownames=FALSE, hline.after=FALSE, fi
 
 ## smooth fit against predicted
 pred = predict(small_model)
-for_plot = data.frame(observed = as.numeric(y), 
+for_plot_pred = data.frame(observed = as.numeric(y), 
                       predicted = pred,
                       random = runif(n=length(pred), min=0, max=0.15)) %>% # for jitter
   mutate(observed_jitter = case_when(
@@ -95,7 +102,7 @@ text1 = data.frame(x=0.75, y=0.25, text = 'Model overestimates\nprobability')
 text2 = data.frame(x=0.25, y=0.75, text = 'Model underestimates\nprobability')
 
 # a) dots
-pplot = ggplot(data = for_plot, aes(x=predicted, y=observed))+
+pplot = ggplot(data = for_plot_pred, aes(x=predicted, y=observed))+
   geom_point(col='transparent')+ # not plotted, but used for smooth
   geom_smooth()+
   geom_label(data = text1, aes(x=x, y=y, label=text), col='grey55')+
@@ -159,15 +166,15 @@ jpeg('figures/5_fit_vs_observed.jpg', width = 5.4, height=4.8, units='in', res=5
 grid.arrange(bplot, pplot1, ncol = 1, heights = c(0.15,1))
 dev.off()
 
-# examine large residuals
+# examine large residuals (high predicted probability but not shared)
 vars_to_keep = filter(ests, term!='(Intercept)') %>%
   pull(term) %>%
   str_remove('x_selected') %>%
   c('predicted')
 large = bind_cols(x, for_plot) %>% # add observed data
-  filter(predicted > 0.8, observed==0) %>%
+  filter(predicted > 0.7, observed==0) %>%
   select(all_of(vars_to_keep))
-# all of type = "Methods and Resources" and from the UK
+# no clear pattern
 
 ## covratio - measure the influence of individual observations on the variance of the regression estimates
 cr = covratio(small_model)
@@ -175,23 +182,25 @@ to_plot = bind_cols(x, cr) %>%
   as.data.frame() %>%
   mutate(id = 1:n(),
          acr = abs(cr - 1)) # to judge against limit
-n = 111609; p =22; limit = 3*p/n
+n = 116359; p =22; limit = 3*p/n # 
+quantile(cr, 0.99) # observed upper limit
 #
-cplot = ggplot(data = to_plot, aes(x = id, y = acr, col = factor(typeMethods_and_Resources)))+
-  geom_point(shape=1, size=2)+
+cplot = ggplot(data = to_plot, aes(x = id, y = cr, col = factor(funder_501100001665)))+
+  geom_point(shape=1, size=1)+
   xlab('index')+
   ylab('COVRATIO')+
-  geom_hline(lty = 2, yintercept=limit) +
-  scale_color_manual('Methods and resources', values=c('darkseagreen2','darkorchid2'), labels=c('No','Yes'))+
+#  geom_hline(lty = 2, yintercept=limit) + # limit
+  scale_color_manual('Funder = French National Research Agency', values=c('darkseagreen2','darkorchid2'), labels=c('No','Yes'))+
+#  scale_color_manual('Methods and resources', values=c('darkseagreen2','darkorchid2'), labels=c('No','Yes'))+ # previous problem
   g.theme+
-  theme(legend.position = 'inside', 
-        legend.position.inside =  c(0.80, 0.85))
+  theme(legend.box.spacing = unit(0, 'mm'), # reduce space between plot and legend
+        legend.margin = margin(0, 0, 0, 0), # reduce space
+        legend.position = 'top')
 cplot
 #
 ggsave(filename = 'figures/5_covratio.jpg', plot = cplot, width = 5.4, height=4.5, units='in', dpi=500)
 
-# find what's driving separate covratio values (it was methods and resources)
-library(rpart)
+# find what's driving separate covratio values (it was French funder)
 my.control = rpart.control()
 my.control$maxdepth = 2
 tree = rpart(cr ~ x, control = my.control)

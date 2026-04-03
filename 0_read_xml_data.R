@@ -1,11 +1,15 @@
 # 0_read_xml_data.R
-# downloaded and unzipped entire PLOS corpus from https://plos.org/text-and-data-mining/ on 15 August 2025
+# downloaded and unzipped entire PLOS corpus from https://plos.org/text-and-data-mining/ in March 2026
 # some helpful code here https://pgomba.github.io/pgb_website/posts/08_10_23/
-# November 2025
+# February 2026
 library(tidyverse)
 library(rvest)
 library(stringr)
 source('99_conflict_pattern.R') # conflict of interest patterns
+source('R/extract_funders.R') # function to extract funder name from text
+
+# funder text from 0_examine_funders.R
+load('data/0_funder_info.RData')
 
 # types of paper to exclude, not peer reviewed
 source('99_excluded.R')
@@ -15,20 +19,22 @@ here = getwd()
 xml_location = "C:/Users/barnetta/Downloads/allofplos" # had to put on C drive because could not unzip on U drive
 setwd(xml_location)
 d = dir(xml_location) 
-length(d) # should be 386,179
+length(d) # should be 391,477
 count_corrections = sum(str_detect(d, 'correction')) # needed for flow chart
 d = d[!str_detect(d, 'correction')] # remove corrections
 table(nchar(d)) # check, should all be 24
+# re-order to catch bugs quicker
+N = length(d)
+d = sample(d, size = N, replace=FALSE)
 
 # big loop to extract data
 data = excluded = NULL
-start = 1 # for restarts
-N = length(d)
+start = 5876 # for restarts
 # missing_k = which(str_detect(d, pattern=paste(d_not,collapse='|'))) # for filling in missing papers
 for (k in start:N){
   
-  infile = d[k] # temporary
- # infile = 'journal.pone.0240295.xml'
+  # infile = 'journal.pone.0240295.xml' # simple test
+  infile = d[k] # 
   article = read_html(infile)
   
   # DOI
@@ -36,6 +42,7 @@ for (k in start:N){
     html_nodes("article-meta") %>%
     html_nodes("article-id[pub-id-type='doi']") %>%
     html_text2()
+  
   
   # exclude if not an XML file
   if(is(article, 'xml_node') == FALSE){
@@ -56,7 +63,7 @@ for (k in start:N){
     next;
   }
   
-  # submission and acceptance dates
+  ## submission and acceptance dates
   dates <- article %>%
     html_nodes("history") %>%
     html_nodes('date')
@@ -89,6 +96,51 @@ for (k in start:N){
     excluded = bind_rows(excluded, frame)
     next;
   }
+  
+  ## funders as a list; there is also institution-id, but it's not always available
+  ## sometimes there's only a funding statement, e.g., 10.1371/journal.pone.0240295
+  # get statement
+  funders_statement = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes('funding-statement') %>%
+    html_text2() %>%
+    paste(collapse = ' ')
+  # rare to be missing, glitch here: "10.1371/journal.pone.0259601"
+  if(length(funders_statement) == 0){
+    funders_statement = NA
+  }
+  # now extract funder number from statement
+  if(length(funders_statement) > 0){
+    funders_statement = extract_funders(text = funders_statement, funder_data = funder_text) # isolate funder number from the text
+  }
+  # get funder(s) names; second source
+  funders = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes("funding-source") %>%
+    html_nodes("institution") %>%
+    html_text2() %>%
+    unique() %>%
+    paste(collapse = ' ')
+  # now extract funder number from names
+  if(length(funders) > 0){
+    funders = extract_funders(text = funders, funder_data = funder_text) # isolate funder number from the text
+  }
+  # assume missing means no funders
+  if(length(funders) == 0){
+    funders = NULL
+  }
+  # get funder number(s); third source
+  funder_number = article %>%
+    html_nodes("funding-group") %>%
+    html_nodes("funding-source") %>%
+    html_nodes("institution-id") %>%
+    html_text2() %>%
+    unique()
+  funder_number = str_remove_all(funder_number, 'http://dx.doi.org/10.13039/')
+  if(length(funder_number) == 0){
+    funder_number = NULL
+  }
+  funder_number_consolidated = unique(c(funders_statement, funders, funder_number))
   
   # subjects (list)
   subject <- article %>%
@@ -181,48 +233,6 @@ for (k in start:N){
   # binary no conflict
   no_conflict = str_detect(tolower(conflict), pattern = conflict_pattern)
 
-  ## funders as a list; there is also institution-id, but it's not always available
-  ## sometimes there's only a funding statement, e.g., 10.1371/journal.pone.0240295
-  # get statement
-  funders_statement = article %>%
-    html_nodes("funding-group") %>%
-    html_nodes('funding-statement') %>%
-    html_text2() %>%
-    tolower()
-  # rare to be missing, glitch here: "10.1371/journal.pone.0259601"
-  if(length(funders_statement) == 0){
-    funders_statement = NA
-  }
-  # clean up
-  if(length(funders_statement)>0){
-    funders_statement = str_remove_all(funders_statement, pattern = dot_pattern) # remove full-stops that can be confused with full-stops
-    funders_statement = str_extract(funders_statement, pattern = start_pattern) # remove starting text and go to end of first sentence
-    funders_statement = str_remove_all(funders_statement, pattern = remove_brackets) # remove everything in brackets
-    funders_statement = str_squish(funders_statement)
-  }
-  # get funder(s) names
-  funders = article %>%
-    html_nodes("funding-group") %>%
-    html_nodes("funding-source") %>%
-    html_nodes("institution") %>%
-    html_text2() %>%
-    tolower() %>%
-    unique()
-  # assume missing means no funders
-  if(length(funders) == 0){
-    funders = "None"
-  }
-  # get funder number(s)
-  funder_number = article %>%
-    html_nodes("funding-group") %>%
-    html_nodes("funding-source") %>%
-    html_nodes("institution-id") %>%
-    html_text2() %>%
-    unique()
-  funder_number = str_remove_all(funder_number, 'http://dx.doi.org/10.13039/')
-  if(length(funder_number) == 0){
-    funder_number = NA
-  }
   
   ## are there any author comments, meaning: is peer review open? (dependent variable)
   comments <- article %>%
@@ -233,7 +243,7 @@ for (k in start:N){
   
   # stop if data is not complete
   if(length(doi) == 0 | length(journal_name) == 0 | length(subject) == 0 | length(aff) == 0 | length(no_conflict) == 0 | 
-     length(n_orcids) == 0 | length(funders) == 0 | length(dates) == 0 | length(email) == 0){stop('Incomplete data for ', k, '\n', sep='')}
+     length(n_orcids) == 0 | length(dates) == 0 | length(email) == 0){stop('Incomplete data for ', k, '\n', sep='')}
   # stop if data is too long
   if(length(doi) > 1 | length(journal_name) > 1 | length(dates) != 2){stop('Too much data for ', k, '\n', sep='')}
   
@@ -248,12 +258,10 @@ for (k in start:N){
                  domain = list(email), # can be multiple emails, so keep as list
                  n_emails = n_emails,
                  no_conflict = no_conflict,
-                 received = received,
-                 accepted = accepted,
+                 received = received, # date
+                 accepted = accepted, # date
                  published = d3, # date
-                 funders_statement = funders_statement, # keeping lots on funders, will process in next round
-                 funders = list(funders), # can be multiple, so keep as list
-                 funder_number = list(funder_number), # can be multiple, so keep as list
+                 funder_number_consolidated = list(funder_number_consolidated), # can be multiple, so keep as list
                  review_available = review_available
   )
   data = bind_rows(data, frame)
@@ -272,7 +280,7 @@ data = mutate(data,
               journal = str_replace(journal, "PLoS", "PLOS"), # for consistency
               journal = str_replace(journal, "PLOS One", "PLOS ONE"),
               journal = str_replace(journal, "PLOS Medicin$", "PLOS Medicine")) %>%
-  unique() # safety net
+  unique() # safety net from restarts
 
 # check
 if(nrow(excluded) + nrow(data) != N){cat('Error, missing papers\n')}
@@ -286,10 +294,9 @@ t_to_compare = c(e_to_compare, i_to_compare)
 table(duplicated(t_to_compare))
 d_not = d_to_compare[!d_to_compare%in%t_to_compare] # which files are missing
 t_not = t_to_compare[!t_to_compare%in%d_to_compare] # which files are missing
-# check for doubles
+# check for doubles, should all be 1
 table(table(data$doi))
 
-
-# save
+## save
 setwd(here)
 save(data, excluded, count_corrections, file = 'data/0_unprocessed.RData')

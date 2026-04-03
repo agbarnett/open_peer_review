@@ -1,9 +1,10 @@
 # 99_check_funders.R
-# check that funder data and countries match (e.g., biggest funder of research in China is from China)
+# check that observed funder data and countries match (e.g., biggest funder of research in China is from China)
 # Feb 2026
 library(dplyr)
+library(stringr)
 
-# analysis data from from 3_add_author_experience.R
+# get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
 
 # to get X matrix and Y
@@ -25,7 +26,19 @@ for (c in countries_to_check){
 }
 
 # add names
-load('data/1_funder_info.RData')
+load('data/0_funder_info.RData') # from ?.R
 findsx = mutate(finds, funder = str_remove_all(funder, 'funder_')) %>%
   rename('funder_number' = 'funder') %>%
   left_join(funder_text, by='funder_number')
+View(findsx)
+
+# check Australia and MRC
+cindex1 = which(country_mat_names=='country_Australia')
+index1 = country_mat[,cindex1] == 1
+cindex2 = which(funder_mat_names=='funder_501100000265')
+index2 = funder_mat[,cindex2] == 1
+#
+index3 = index1 & index2
+data[index3,] %>% sample_n(1) %>%str() # check at random
+
+# example error, "10.1371/journal.pone.0248931" in not MRC it is NHMRC

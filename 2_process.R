@@ -5,8 +5,7 @@
 # - add time between submission and acceptance
 # - add retractions
 # - add citations
-# - process funders
-# November 2025
+# Feb 2026
 library(readxl)
 library(rvest) # for read_html
 library(stringr)
@@ -14,6 +13,7 @@ library(dplyr)
 library(openalexR) # for citations
 library(tidyr) # for separate
 library(janitor) # for clean_names
+source('0_my_openalex_get_do_not_share.R') # my key
 source('R/add_country.R') # for countries
 source('R/add_us_state.R') # for countries
 source('R/extract_email_domain.R') # for emails
@@ -41,7 +41,7 @@ table(unlist(data$edomain)) # check
 prop.table(table(is.na(unlist(data$edomain)))) # check missing
 
 # get citations and retractions from OpenAlex in batches
-batch_size = 500 # number of DOIs to get from OpenAlex per request
+batch_size = 100 # number of DOIs to get from OpenAlex per request
 max_batch = floor(nrow(data)/batch_size) + 1
 open_alex = NULL
 for (b in 1:max_batch){
@@ -52,6 +52,7 @@ for (b in 1:max_batch){
                      entity = 'works',
                      abstract = FALSE,
                      options = list(select=c('doi','is_retracted', 'cited_by_count')),
+                     api_key = my_open_alex_key,
                      mailto = 'a.barnett@qut.edu.au')
   open_alex = bind_rows(open_alex, from_oa)
   from_oa = NULL # safety net
@@ -64,6 +65,7 @@ open_alex = mutate(open_alex,
   unique()
 # 4 results with no OpenAlex data, e.g., 10.1371/journal.pclm.0000347
 # 2 from open alex in twice,  10.1371/journal.pcsy.0000021 
+# some with no records in Open Alex , e.g, 10.1371/journal.ppat.1008361
 open_alex = group_by(open_alex, doi) %>%
   arrange(doi, desc(cited_by_count)) %>%
   slice(1) %>% # take paper with highest citations
@@ -115,54 +117,11 @@ time_to_retraction = case_when( # calculate time to retraction
 )) 
 prop.table(table(data$retracted))*100 # check percentage retracted
 
-# consolidate three funders variables
-data$funder_number_consolidated = NA
-load('data/1_funder_info.RData') # from 1_examine_funders.R
-for (k in 1:N){ # big loop, takes a while
-  this_number = NULL # start blank
-  
-  # step 1, add funder numbers
-  if(is.na(data$funder_number[k][[1]][1]) == FALSE){
-    this_number = c(this_number, data$funder_number[k][[1]])
-  }
-  
-  # step 2, search text based on numbers (see 1_examine_funders.R) and add any included funder numbers
-  if(is.na(data$funders_statement[k]) == FALSE){
-    this_text = mutate(funder_text, statement = data$funders_statement[k]) %>%
-      mutate(mentioned = str_detect(statement, pattern = search_text)) %>%
-      filter(mentioned == TRUE) %>% # just matches
-      pull(funder_number)
-    if(length(this_text) > 0){
-      this_number = c(this_number, this_text)
-    }
-  }
-  
-  # step 3, search extracted funders' text
-  n_funders_extracted = length(data$funders[k][[1]])
-  if(n_funders_extracted > 0){
-    for (j in 1:n_funders_extracted){ # loop through individual funders
-      this_funders = data$funders[k][[1]][j]
-      this_text2 = mutate(funder_text, statement = this_funders) %>%
-        mutate(mentioned = str_detect(statement, pattern = search_text)) %>%
-        filter(mentioned == TRUE) %>%
-        pull(funder_number)
-      if(length(this_text2) > 0){
-        this_number = c(this_number, this_text2)
-      }
-    } # end of j loop
-  }
-  
-  # add to data
-  data$funder_number_consolidated[k] = list(unique(this_number))
-}
-
-# check two retraction sources (crossref and openalex)
-
 # check for duplicates
 table(table(data$doi)) # should all be 1
 get_dupes(data)
 # slim down data
-data = select(data, -aff, -domain, -'Journal', -accepted, -ret_date, -funders_statement, -funder_number, -funders) # no longer needed
+data = select(data, -aff, -domain, -'Journal', -accepted, -ret_date) # no longer needed
 
 # save
 save(data, censor.date, file = 'data/2_processed.RData')

@@ -1,4 +1,4 @@
-# 3_random_forest.R
+# 4_random_forest.R
 # look at random forests for classifying open peer review in selected countries
 # September 2025
 library(dplyr)

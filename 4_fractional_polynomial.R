@@ -1,18 +1,18 @@
 # 4_fractional_polynomial.R
-# fractional polynomials for the four continuous variables
-# January 2026
+# fractional polynomials for the five continuous variables
+# run before stability selection
+# March 2026
 library(ggplot2)
 library(dplyr)
 
-# get the data from 3_patch_author_experience.R
+# get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
 # remove small amount of missing country and last authors paper count (do not run 3_data_prepare.R)
 data <- filter(data, !is.na(country))
 data <- filter(data, !is.na(author_papers))
 data <- filter(data, lengths(subjects)>1)
-data <- filter(data, type != 'Formal Comment') 
 
-# works on unstransformed variables (have not yet called 3_data_prepare.R)
+# works on unstransformed variables (have not yet called 4_data_prepare.R)
 powers <- c(-2, -1, -0.5, 0, 0.5, 1, 2, 3) # fractional polynomials
 fit <- NULL
 for (p in powers) {

@@ -1,22 +1,25 @@
 # 4_citations.R
 # model of citation counts dependent on open peer review
-# December 2025
+# March 2026
 library(dplyr)
 library(stringr)
 library(broom)
 library(DHARMa) # for residuals
 
-# get the data from 3_patch_author_experience.R
+# get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
 # prepare the data
 source('4_data_prepare.R')
 
 # make follow-up time to offset citation counts (scaled to per year)
-date.searched = as.Date('2025-12-01')
+date.searched = as.Date('2026-03-02') # date that open alex was searched
 data = mutate(data, follow_up = as.numeric(date.searched - published)/365.25)
 
 # follow-up time as offset, over-dispersion is needed; scaled offset to a year
-model = glm(citations ~ review_available, offset=log(follow_up), data = data, family=quasipoisson())
+model = glm(citations ~ review_available, 
+            offset=log(follow_up), 
+            data = data, 
+            family=quasipoisson())
 summary(model)
 tidy(model, conf.int=TRUE, exponentiate = TRUE)
 
@@ -46,6 +49,7 @@ newdata
 # adjusted model; some reduction in dispersion
 modela = glm(citations ~ review_available + log2(n_authors) + journal, offset=log(follow_up), data = data, family=quasipoisson())
 summary(modela)
+
 
 ## using approach by Cheng et al who found opposite association between open review and citations (https://doi.org/10.1016/j.joi.2024.101540)
 data =  mutate(data,

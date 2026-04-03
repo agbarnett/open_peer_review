@@ -1,6 +1,7 @@
 # 5_plot_stability.R
+# plot the selection diagram
 # plot the categorical estimates from the stability selection
-# January 2026
+# March 2026
 library(stringr)
 library(dplyr)
 library(ggplot2)
@@ -35,7 +36,10 @@ for_plot = filter(for_plot, stab.lasso.max >= 0.25) %>%
 labels = str_replace(for_plot$rowname, '^type', 'type_') # type did not start with _
 labels = str_replace_all(labels, 'p_orcid', 'ORCID proportion') # better label
 labels = str_replace(labels, '501100000781', 'European Research Council') # change funder numbers to names
+labels = str_replace(labels, '100010663', 'H2020 European Research Council')
 labels = str_replace(labels, '501100000265', 'Medical Research Council')
+labels = str_replace(labels, '501100001665', 'French National Research Agency')
+labels = str_replace(labels, '501100004189', 'Max Planck Society') # for the Advancement of Science; cut label
 labels = str_replace(labels, '100004440', 'Wellcome')
 labels = str_replace(labels, '100000011', 'Howard Hughes Medical Institute')
 
@@ -89,6 +93,8 @@ to_plot = filter(ests, !str_detect(term, 'Intercept|published$|orcid')) %>%
          # add funders (from http://dx.doi.org/10.13039/)
          term = str_replace(term, '501100000781', 'European Research Council'),
          term = str_replace(term, '501100000265', 'Medical Research Council'),
+         term = str_replace(term, '501100001665', 'French National Research Agency'),
+         term = str_replace(term, '100004440', 'Wellcome'),
          # add narrower intervals
          crit = qnorm(1-(0.50/2)), # critical value
          lower_50 = estimate - (std.error*crit),
@@ -132,7 +138,9 @@ ggsave('figures/5_stability_estimates_square.jpg', cplot_square, width = 7.2, he
 
 # plot country separately
 to_plot_country = filter(to_plot, group == 'Country') %>%
-  mutate(x=1:n())
+  mutate(term = str_replace(term, 'Republic of','Republic\nof'), # save white space on left
+         term = str_replace(term, 'United ','United\n'), # save white space on left
+         x = 1:n())
 expand = 0.03
 cplot2 = ggplot(data = to_plot_country, aes(x = x, y = estimate, ymin = conf.low, ymax = conf.high, col=group))+
   geom_point(size=2)+
@@ -154,7 +162,7 @@ ggsave('figures/5_stability_country.jpg', cplot2, width = 4.7, height=4.5, units
 cplot_slide = cplot2 + dark.theme + 
   geom_point(size = 4, col = 'darkseagreen1')+ # thicker and more noticeable
   geom_errorbar(width=0, linewidth=1.25, col = 'darkseagreen1')
-out = paste(loc, '4_country_slide.jpg', sep='')
+out = paste(loc, '5_country_slide.jpg', sep='')
 ggsave(filename = out, cplot_slide, width=6.5, height=4.2, units='in', dpi = 500, bg = 'transparent')
 
 # plot estimates bar country separately
@@ -182,7 +190,7 @@ cplot3
 cplot3_slide = cplot3 + dark.theme + 
   geom_point(size = 4)+ # thicker and more noticeable
   geom_errorbar(width=0, linewidth=1.25)
-out = paste(loc, '4_not_country_slide.jpg', sep='')
+out = paste(loc, '5_not_country_slide.jpg', sep='')
 ggsave(filename = out, cplot3_slide, width=8.5, height=4.7, units='in', dpi = 500, bg = 'transparent')
 
 ## alternative version to above with separate panels that are assembled using grid.arrange
@@ -209,14 +217,14 @@ tplot = ggplot(data = to_plot_type, aes(x = x, y = estimate, ymin = conf.low, ym
                      labels = to_plot_type$term,
                      expand = c(expand, expand))+
   g.theme+
-  theme(plot.margin = unit(c(t=1,r=2,b=1,l=12), "mm"))+ # use left margin to match others
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=12), "mm"))+ # use left margin to match others
   coord_flip()
 ## country
 cplot2 = cplot2 + 
   ggtitle('Country') + 
   ylab(NULL) +
   geom_hline(lty=3, yintercept=0, color = dash_colour, linewidth=1.25)+
-  theme(plot.margin = unit(c(t=1,r=2,b=1,l=1), "mm"))
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=1), "mm"))
 ## domain
 colour = 'darkseagreen3'
 to_plot_domain = filter(to_plot, group == 'Email domain') %>%
@@ -232,7 +240,7 @@ dplot = ggplot(data = to_plot_domain, aes(x = x, y = estimate, ymin = conf.low, 
                      labels = to_plot_domain$term,
                      expand = c(expand, expand))+
   g.theme+
-  theme(plot.margin = unit(c(t=1,r=2,b=1,l=14), "mm"))+ # expand left margin to match other plots (trial and error)
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=14), "mm"))+ # expand left margin to match other plots (trial and error)
   coord_flip()
 ## subject
 colour = 'yellow3'
@@ -250,7 +258,7 @@ splot = ggplot(data = to_plot_subject, aes(x = x, y = estimate, ymin = conf.low,
                      labels = to_plot_subject$term,
                      expand = c(expand, expand))+
   g.theme+
-  theme(plot.margin = unit(c(t=1,r=2,b=1,l=1), "mm"))+
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=1), "mm"))+
   coord_flip()
 #
 ## funder
@@ -269,7 +277,7 @@ fplot = ggplot(data = to_plot_funder, aes(x = x, y = estimate, ymin = conf.low, 
                      labels = to_plot_funder$term,
                      expand = c(expand, expand))+
   g.theme+
-  theme(plot.margin = unit(c(t=1,r=2,b=1,l=12), "mm"))+
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=2), "mm"))+
   coord_flip()
 
 ## X-axis label
@@ -279,9 +287,9 @@ lplot = ggplot(data = NULL)+
   theme_void()
 
 # using layout for combined plot
-lmat = matrix(c(1,2,3,6,4,4,5,6), ncol=2, byrow=FALSE) 
+lmat = matrix(c(1,2,2,3,3,3,6,4,4,4,4,4,5,6), ncol=2, byrow=FALSE) 
 jpeg('figures/5_stability_estimates_square.jpg', width = 7.2, height=7.2, units='in', res=500)
 grid.arrange(tplot, dplot, splot, cplot2, fplot, lplot,
-             layout_matrix = lmat, heights = c(1,1,1,0.1)) # heights for x-axis label at bottom
+             layout_matrix = lmat, heights = c(1,1,1,1,1,1,0.2)) # heights for x-axis label at bottom
 dev.off()
 
