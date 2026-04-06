@@ -33,7 +33,7 @@ data_for_table = mutate(data_for_table, year = as.numeric(format(published, '%Y'
 source('4_data_prepare.R')
 ```
 
-## Top ten countriesd
+## Top ten countries
 
 ```{r top_ten_countries}
 ## find top ten countries across all results

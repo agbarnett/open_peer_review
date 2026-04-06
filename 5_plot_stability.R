@@ -76,7 +76,7 @@ pplot = ggplot(data = for_plot, aes(x = x, y = stab.lasso.max, col = selected))+
 pplot
 # export
 ggsave('figures/5_stability_selection.jpg', pplot, width = 4.9, height=5.2, units='in', dpi=500)
-cat('There were ', filter(for_plot, stab.lasso.max==1)%>%nrow(), ' variables that were selected in all 100 bootstrap samples.\n', sep='')
+cat('There were ', filter(for_plot, stab.lasso.max==1)%>%nrow(), ' variables that were selected in all 500 bootstrap samples.\n', sep='')
 cat('There were ', n_selected, ' variables selected.\n', sep='')
 
 ### Plot 2: plot categorical estimates ###
@@ -277,7 +277,7 @@ fplot = ggplot(data = to_plot_funder, aes(x = x, y = estimate, ymin = conf.low, 
                      labels = to_plot_funder$term,
                      expand = c(expand, expand))+
   g.theme+
-  theme(plot.margin = unit(c(t=1,r=3,b=1,l=2), "mm"))+
+  theme(plot.margin = unit(c(t=1,r=3,b=1,l=5), "mm"))+
   coord_flip()
 
 ## X-axis label
@@ -286,10 +286,24 @@ lplot = ggplot(data = NULL)+
   geom_text(aes(x=0,y=0,label=axis_label))+
   theme_void()
 
-# using layout for combined plot
-lmat = matrix(c(1,2,2,3,3,3,6,4,4,4,4,4,5,6), ncol=2, byrow=FALSE) 
+# using layout for combined plot (number match estimates)
+lmat = matrix(c(1,2,2,3,3,3,3,3,3,6,4,4,4,4,4,4,4,4,5,6), ncol=2, byrow=FALSE) 
+lheights = rep(1, nrow(lmat)) # row heights
+lheights[nrow(lmat)] = 0.3 # for x-axis label
 jpeg('figures/5_stability_estimates_square.jpg', width = 7.2, height=7.2, units='in', res=500)
 grid.arrange(tplot, dplot, splot, cplot2, fplot, lplot,
-             layout_matrix = lmat, heights = c(1,1,1,1,1,1,0.2)) # heights for x-axis label at bottom
+             layout_matrix = lmat, heights = lheights ) # heights for x-axis label at bottom
 dev.off()
 
+# alternative version with consistent scales
+ylow = -0.118 # as narrow as possible, used summary stats
+yupp = 0.123
+tplot = tplot + scale_y_continuous(lim = c(ylow, yupp))
+dplot = dplot + scale_y_continuous(lim = c(ylow, yupp))
+splot = splot + scale_y_continuous(lim = c(ylow, yupp))
+cplot2 = cplot2 + scale_y_continuous(lim = c(ylow, yupp))
+fplot = fplot + scale_y_continuous(lim = c(ylow, yupp))
+jpeg('figures/5_stability_estimates_consistent.jpg', width = 7.2, height=7.2, units='in', res=500)
+grid.arrange(tplot, dplot, splot, cplot2, fplot, lplot,
+             layout_matrix = lmat, heights = lheights ) # heights for x-axis label at bottom
+dev.off()

@@ -4,10 +4,10 @@
 library(stringr)
 library(diagram)
 
-l1 = "Authors submit a paper to a PLOS journal"
-l2 = "Selected papers are sent for review"
+l1 = "Authors submit an article to a PLOS journal"
+l2 = "Selected articles are sent for review"
 l3 = 'Authors respond to peer review comments, potentially with multiple rounds'
-l4 = 'Authors of accepted papers decide on open peer review'
+l4 = 'Authors of accepted articles decide on open peer review'
 # wrap text by consistent amount
 char_wrap = 20
 l1 = str_wrap(l1, width = char_wrap)

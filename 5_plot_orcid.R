@@ -1,6 +1,6 @@
 # 5_plot_orcid.R
 # plot the continuous estimate for ORCID proportion
-# called by 5_plot_stability.R
+# called by 5_plot_stability_continuous.R
 # November 2025
 
 # create data for predictions

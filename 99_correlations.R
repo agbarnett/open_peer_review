@@ -3,11 +3,11 @@
 library(dplyr)
 library(stringr)
 
-# get the data from 2_add_author_experience.R
-load('data/2_plus_experience.RData')
+# get the data from 3_add_author_experience.R
+load('data/3_plus_experience.RData')
 
 # prepare the data
-source('3_data_prepare.R')
+source('4_data_prepare.R')
 
 # country correlations
 bigr = cor(country_mat) # takes a while

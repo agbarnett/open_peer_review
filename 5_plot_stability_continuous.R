@@ -10,7 +10,7 @@ g.theme = theme_bw()+ theme(panel.grid.minor = element_blank())
 loc = 'C:/Users/barnetta/OneDrive - Queensland University of Technology/talks/AIMOS5/figures/'
 
 # load the results
-load('results/3_ests_stability.RData') # from 3_stability_selection.R
+load('results/4_ests_stability.RData') # from 4_stability_selection.R
 
 # need to run for mean and SD used for standardisation
 load('data/3_plus_experience.RData')
@@ -18,11 +18,11 @@ source('4_data_prepare.R')
 
 ## plot continuous variables 
 # a) date published
-source('4_plot_date.R')
+source('5_plot_date.R')
 # export
 ggsave('figures/5_date_effect.jpg', rplot, width = 5.2, height=4.2, units='in', dpi=500)
 # b) ORCID proportion
-source('4_plot_orcid.R')
+source('5_plot_orcid.R')
 # export
 ggsave('figures/5_orcid_effect.jpg', oplot, width = 5.2, height=4.2, units='in', dpi=500)
 

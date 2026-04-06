@@ -54,3 +54,27 @@ filter(all_authors, first == 'Yuxuan')
 #
 head(arrange(all_authors, desc(surname), desc(first)))
 head(arrange(all_authors, surname, first))
+
+## Bayes calculation for upper estimate of overlap
+# beta priors and posterior
+prior_a = 1
+prior_b = 2 # vaguely informative prior
+observed_a = 1 # overlap observed
+observed_b = 99 # no overlap
+posterior_a = prior_a + observed_a
+posterior_b = prior_b + observed_b
+#
+x = seq(0,0.15,0.001) # range of errors to examine
+prior = data.frame(x=x, d=dbeta(x, shape1 = prior_a, shape2=prior_b))
+posterior = data.frame(x=x, d=dbeta(x, shape1 = posterior_a, shape2 = posterior_b))
+
+# estimating 90% upper limit for author overlap
+p_limit = 0.9
+# prior
+upper_prior = qbeta(p_limit, shape1 = prior_a, shape2 = prior_b)
+upper_prior = round(upper_prior*1000)/1000
+# overlap
+upper_overlap = qbeta(p_limit, shape1 = posterior_a, shape2 = posterior_b)
+upper_overlap = round(upper_overlap*1000)/1000
+posterior_mode = (posterior_a - 1 )/ (posterior_a+posterior_b-2)
+posterior_mode = round(posterior_mode*1000)/1000

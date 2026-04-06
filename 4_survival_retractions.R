@@ -32,7 +32,7 @@ splot = ggsurvplot(smodel,
                    palette = cbPalette[1:2],
                    conf.int = TRUE, # Add confidence interval
                    xlab = "Time to retraction (years)",
-                   ylab = 'Cumulative retraction',
+                   ylab = 'Cumulative incidence of retraction',
                    xlim = c(0, 5.2), # last retraction is 5.1 years
                    censor.size = 0, # suppress censoring ticks
                    ncensor.plot = FALSE, 
@@ -74,3 +74,13 @@ test.ph
 format(round(sum(data$time_to_retraction)), big.mark=',')
 # average follow-up time (years)
 round(10*sum(data$time_to_retraction) / nrow(data))/10
+
+## sensitivity analysis, stratify on year (vary baseline hazard)
+# no change
+ymodel = coxph(Surv(time = time_to_retraction, event = retracted) ~ review_available  + strata(year), data = data)
+summary(ymodel)
+
+# mean follow-up by group (almost no difference)
+group_by(data , review_available) %>%
+  summarise(n = n(),
+            mean = mean(time_to_retraction))

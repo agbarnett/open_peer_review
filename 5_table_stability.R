@@ -4,6 +4,7 @@
 library(stringr)
 library(dplyr)
 library(xtable) # for latex
+library(ggplot2)
 
 # load the results
 load('results/4_ests_stability.RData') # from 4_stability_selection.R
@@ -41,3 +42,39 @@ to_latex = mutate(to_table,
   select(group, term, cell) %>%
   mutate(cell = str_replace_all(cell, '-', '--')) # latex negative
 print(xtable(to_latex, digits=2), math.style.negative=TRUE, include.rownames=FALSE, hline.after=FALSE, file = "results/5_estimates_table.tex")
+
+
+## compare logistic and linear models
+pred1 = fitted(small_model)
+pred2 = fitted(small_model_logistic)
+cor(pred1, pred2)
+# bland-altman
+ba = data.frame(linear = pred1, logistic = pred2) %>%
+  mutate(av = (linear+logistic)/2,
+         diff = linear - logistic)
+#
+label1 = data.frame(av = 0.01, diff = 0.009, label = 'Logistic greater')
+label2 = data.frame(av = 0.01, diff = -0.009, label = 'Linear greater')
+# limits of agreement
+loa_lower = quantile(ba$diff, 0.025)
+loa_upper = quantile(ba$diff, 1 - 0.025)
+#
+bplot = ggplot(data = ba, aes(x = av, y=diff))+
+  geom_text(data = label1, aes(x = av, y =diff, label = label), col='grey66', adj=0)+
+  geom_text(data = label2, aes(x = av, y =diff, label = label), col ='grey66', adj=0)+
+  geom_point(alpha=0.75, size=0.5, pch=1, col='darkseagreen3') + # increase transparency
+  geom_hline(lty=2, col='navy', yintercept=0, linewidth=0.5)+ # lines on top of dots
+  geom_hline(lty=2, col='darkred', yintercept=loa_lower, linewidth=0.5)+
+  geom_hline(lty=2, col='darkred', yintercept=loa_upper, linewidth=0.5)+
+  theme_bw()+
+  theme(panel.grid.minor=element_blank())+
+  scale_x_continuous(lim=c(0,NA), expand=c(0,0))+ # start at zero
+  xlab('Average of linear and logistic probability')+
+  ylab('Linear minus logistic probability')
+bplot
+# export
+ggsave(filename = 'figures/5_bland_altman_probs.jpg', bplot, width = 5, height=4, units='in', dpi=400)
+
+# look at prediction ranges
+summary(pred1)
+summary(pred2)

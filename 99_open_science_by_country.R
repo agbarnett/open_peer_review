@@ -1,17 +1,18 @@
 # 99_open_science_by_country.R
-# examine open science practices over the same period (from March 2019) for the eight countries with a low/high probability
+# examine open science practices over the same period (from May 2019) for the eight countries with a low/high probability
 # - using pubmed to examine preprints by country
 # - DORA signatories
 # - Open Access papers
-# December 2025
+# April 2026
 library(rentrez)
-library(openalexR)
 library(dplyr)
 library(tidyr)
 library(xtable)
 library(readxl)
 library(janitor)
 library(rvest)
+library(openalexR)
+source('0_my_openalex_key_do_not_share.R')
 
 ## part 0
 # country codes for OpenAlex, see https://api.openalex.org/institutions?group_by=country_code
@@ -20,6 +21,7 @@ code,country
 GB,UK
 FR,France
 PK,Pakistan
+PL,Poland
 NL,Netherlands
 ET,Ethiopia
 KR,South Korea
@@ -27,25 +29,21 @@ CN,China
 SA,Saudi Arabia
 ')
 
-## part 1: DORA signatories by country, from a search of the DORA web site made on 12 december 2025
+## part 1: DORA signatories by country, from a search of the DORA web site made on 6 April 2026
 dora = read.table(sep=',', header=TRUE, text='
 country,individual,organisations
-UK,1945,293
-France,1343,96
-Ethiopia,20,0
-South Korea,239,8
-Netherlands,434,30
-China,140,10
-Pakistan,100,59
-Saudi Arabia,46,4'
+UK,1977,296
+France,1350,97
+Ethiopia,25,0
+South Korea,239,9
+Netherlands,437,30
+China,145,10
+Pakistan,102,63
+Poland,419,16
+Saudi Arabia,47,4'
 )
 
 ## denominators for part 1
-# get number of universities per country as a denominator using data from Wikipedia
-#source('99_wikipedia_universities.R')
-#dora = left_join(dora, universities, by='country')
-# do not use as denominators are clearly not working
-
 # estimate number of current authors; with country code
 author_numbers = NULL
 for (k in 1:nrow(country_codes)){
@@ -54,6 +52,7 @@ for (k in 1:nrow(country_codes)){
                  last_known_institutions.country_code = country_codes$code[k], # last known institution, will count if an author has multiple institutions
                  'summary_stats.2yr_mean_citedness' = '>1', # trying to get recent researchers
                  count_only = TRUE,
+                 api_key = my_open_alex_key,
                  verbose = TRUE, # to get url
                  mailto = 'a.barnett@qut.edu.au')
   
@@ -73,6 +72,7 @@ countries = list(c('China'),
                  c('France'),
                  c('Ethiopia'),
                  c('Netherlands','Holland'),
+                 c('Poland'),
                  c('UK','United Kingdom','Wales','England','Scotland','Northern Ireland'),
                  c('South Korea','Republic of Korea'),
                  c('Saudi Arabia'),
@@ -87,10 +87,10 @@ for (country_num in 1:length(countries)){
     country_text = paste('(', paste(this_country, sep='', collapse= ' OR '), ')[AFFL]', sep='')
   }
   # preprints
-  query1 = paste(country_text,' AND preprint[ptyp] AND 2019:2025[pdat]', sep='')
+  query1 = paste(country_text,' AND preprint[ptyp] AND 2019:2026[pdat]', sep='')
   qres1 = entrez_search(db = 'pubmed', term = query1)
   # all articles
-  query2 = paste(country_text,' AND 2019:2025[pdat]', sep='')
+  query2 = paste(country_text,' AND 2019:2026[pdat]', sep='')
   qres2 = entrez_search(db = 'pubmed', term = query2)
   #
   this_data = data.frame(country = this_country[1], number = qres1$count, denominator = qres2$count)
@@ -114,8 +114,9 @@ for (k in 1:nrow(country_codes)){
     is_oa = TRUE,
     is_paratext = FALSE, # don't want front covers, etc
     output = 'list',
+    api_key = my_open_alex_key,
     mailto = 'a.barnett@qut.edu.au',
-    from_publication_date = "2019-03-01", # from March 2019
+    from_publication_date = "2019-05-01", # from May 2019
     verbose = TRUE,
     count_only = TRUE
   )
@@ -129,7 +130,7 @@ for (k in 1:nrow(country_codes)){
     is_paratext = FALSE, # don't want front covers, etc
     output = 'list', # not needed as using counts, but good for checking
     mailto = 'a.barnett@qut.edu.au',
-    from_publication_date = "2019-03-01",
+    from_publication_date = "2019-05-01", # from May 2019
     verbose = TRUE,
     count_only = TRUE
   )

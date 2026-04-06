@@ -10,6 +10,8 @@ data <- filter(data, lengths(subjects) > 1) # 721 (subject = 'missing' if there'
 
 # scale data; best transformations from 3_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,
+               # add year published for sensitivity analysis in survival models
+               year = format(published, '%Y'),
                # add ORCID proportion (do before author transform)
                p_orcid = (n_orcids+0.5)/(n_authors+0.5), # avoid zero
                p_orcid = p_orcid^2, # best fractional polynomial

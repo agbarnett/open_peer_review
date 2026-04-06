@@ -1,6 +1,6 @@
 # 99_subjects_to_remove.R
 # selected based on multiple high correlations and picking relatively rarer (see 99_correlations.R)
-# called by 3_data_prepare.R
+# called by 4_data_prepare.R
 # Nov 2025
 
 to_remove = c('Lentivirus','Immunodeficiency viruses','Energy-producing organelles','Natural antisense transcripts',

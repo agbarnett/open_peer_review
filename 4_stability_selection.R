@@ -26,6 +26,10 @@ x_selected = x[,as.numeric(stab.lasso$selected)]
 small_model = glm(y ~ x_selected)
 ests = tidy(small_model, conf.int = TRUE)
 
+# re-fit model as logistic as a sensitivity analysis
+small_model_logistic = glm(y ~ x_selected, family=binomial())
+
+
 # selected names
 x_selected_names = str_remove(ests$term, '^x_selected')
 x_selected_names = x_selected_names[x_selected_names!='(Intercept)']
@@ -42,4 +46,4 @@ for (this_name in categorical){
 }
 
 # save estimates
-save(ests, stab.lasso, small_model, x_selected_names, file = 'results/4_ests_stability.RData')
+save(ests, stab.lasso, small_model, small_model_logistic, x_selected_names, file = 'results/4_ests_stability.RData')
