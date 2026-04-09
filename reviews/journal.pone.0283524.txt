@@ -1,0 +1,118 @@
+
+22 Nov 2022
+PONE-D-22-28984Subjective Burden of Government-imposed Covid-19 Restrictions in Switzerland:
+Evidence from the 2022 LINK Covid-19 SurveyPLOS ONE
+Dear Dr. Fink,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jan 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Florian Follert
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified what type you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). If your study included minors, state whether you obtained consent from parents or guardians. If the need for consent was waived by the ethics committee, please include this information.
+3. Please include your full ethics statement in the ‘Methods’ section of your manuscript file. In your statement, please include the full name of the IRB or ethics committee who approved or waived your study, as well as whether or not you obtained informed written or verbal consent. If consent was waived for your study, please include this information in your statement as well. 
+4. Please amend the manuscript submission data (via Edit Submission) to include author Katharina Förtsch.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Dear authors,
+Good job and I hope you can see publised your paper as soon as possible. If you need more comparative references, please find attached: https://doi.org/10.1111/beer.12431; doi: 10.3389/fpubh.2022.801525; https://doi.org/10.3390/ijerph182412907;https://doi.org/10.3390/ijerph18041376;https://doi.org/10.37467/gka-revvisual.v8.2805;https://doi.org/10.3390/su13094655.
+Reviewer #2: Overall assessment:
+The authors address the negative effects of Covid-restrictions on quality-adjusted life years lost and make an attempt to quantify the restrictions in monetary terms. The topic is highly relevant and I have a lot of a lot of sympathy for their research. However, I have some concerns regarding the methodology, which I perceive as crucial issues. Moreover, I have a number of further points, which the authors should address (in particular, I am very critical of the comparison of quality-adjusted life years and life years lost). Generally, the paper is written well, but there are some inconsistencies and imprecisions that have been confusing. I suggest the authors to carefully check for these.
+Crucial issues:
+1. Question regarding stricter restrictions (line 88 ff. and 166 ff.):
+a. What was the original formulation of the question in German/French/Italian?
+First, the last part of the question in line 84/85 is different from line 167/168. In particular, line 167/168 read “Would you rather have x YEARS of your normal life, or 12 MONTHS with these restrictions”. This is very confusing to me.
+Second, even without this year/month issue, the question on the time trade-off is in my eyes not very intuitive to answer - I tested this question with several people who got confused.
+Thrid, I wonder if some participants misunderstood “cannot eat, drink, go to clubs or the gym” as “cannot eat, drink”, especially as the previous question reads “go to restaurants”, and later questions also mention “bars and restaurants” explicitly. This might seem unlikely in most cases, but it might have been that some subjects misinterpreted the question in this way, which would explain the extremely high fraction of subjects not willing to give up any month of their normal life for 12 months under restrictions.
+The authors should provide the original questions in an appendix and take care of a proper and consistent translation in the manuscript. A lot rides on the question (the following results build on it) and potential misunderstandings might undermine the results. As things stand, I am not completely convinced by the measurement.
+b. Even if my concerns regarding the formulation of the question is resolved, there are two other concerns. First, the authors correctly note that the scenario is hypothetical and in fact, most people are probably not used to make such a decision. Hence, I am a bit hesitant to interpret the number of months at face value (especially in comparison to actual months of life lost). Second, I wonder about the expressive nature of the question. Those subjects who strongly oppose the restrictions might understate the number of months they are willing to trade-in – simply to express how much they dislike the restrictions. In contrast, those who are willing to trade-in 12 months of normal life for 12 months under restrictions might argue they do not have the choice anyway. They might see the pandemic and the governmental restrictions as unavoidable and take events as they are happening, and/or might value living in general.
+For these reasons, I think a (implicit) comparison of “actual estimated life years lost” and “estimated quality-adjusted life years lost due to restrictions” such as in Table 3 is problematic. It is of course important to quantify the costs of restrictions (government and self-imposed) and to point out that these have to be taken into account – I would stop here, however, and do not compare life years lost that are based on very different concepts.
+2. Robustness tests:
+I would ask the authors to provide two more robustness tests.
+First, the authors should provide a similar figure to Figure 1 for the very first question on the time trade-off for the less strict lockdown measure. This would help to judge on whether there is a problem with the understanding of the question on the stricter lockdown. Moreover, the authors should then show the robustness of their results by using the less strict lockdown question (which corresponds most likely to intermediate restrictions) to compute utility weights, and then interpolate for strict (and light) restrictions as done before with utility weights of strict restrictions.
+Second, what would happen to the results if only those who are not willing to give any month of their normal life for 12 months under restrictions are excluded? As outlined above, these could be subjects who misunderstood the question. I don’t think the same argument applies to those who do not “value” a month under restrictions less than under normal conditions. Therefore, just focusing on those with an interior switching point to show robustness of results did not convince me – it rules out “extreme preference” (symmetric) but not a lack of understanding (asymmetric). The proposed robustness test would be a more conservative estimate of the effect size than the exclusion of extreme preferences in general.
+Major issues:
+3. General:
+The line between what is a binding governmental restriction and what is a restriction by the pandemic itself is a bit blurry. For example, even in absence of a governmental restriction, I might voluntarily wear a mask. This does not imply that I don’t have a willingness to pay to pay not to wear it (i.e. to live in a world without Covid-19), but the personal cost-benefit evaluation. In this sense, I would argue that it is (inseparable) the pandemic and governmental restrictions, and not only governmental restrictions (as concluded in line 233/234).
+4. Framing:
+The discrete choice makes an effort to use a neutral setting, which would protect against my last point. However, I am doubtful that simply stating the introductory sentence “Imagine a world without COVID-19” (line 98) is strong enough to “force subjects to think about the restriction by itself” (line 96). First, the majority of subjects will have never experienced such restrictions before Covid, and the intensity of restrictions and the short time lag to the removal of restrictions will potentially tight them strongly to Covid. Second, the previous questions on the time trade-off lead to an implicit Covid-framing. Third, some of the elicited restrictions are clearly possible in a world without Covid (such as travel restrictions in totalitarian regimes), others like “wearing masks in public” seem highly unlikely in a world without infectious disease. Therefore, I am not surprised that there is no difference to previous study with Covid-framing. In summary, I would be more careful in claiming that it is only the governmental restrictions, but would rather see results as the sum of governmental and Covid-imposed restrictions.
+5. Discussion:
+I strongly disagree with the interpretation and comparison in line 236 to 241. First, I don’t think estimated quality-adjusted life years lost due to restrictions are comparable to life years lost due to higher mortality in an uncontained pandemic – see also my first point. Second, even if we would accept such a comparison, the death of 1% of the population would have severe consequences on the rest of the population. In this case, the benchmark is not the “normal life” anymore. Instead, we would have to do a similar choice experiment as for the restrictions, namely “normal life with functioning health sector” versus “life with collapse of health sector” or “life with old relatives“ versus “life with death of old relatives”. I don’t think it is far-fetched to assume that most people would not change 12 months of normal life against 12 months under such conditions.
+This is a rather strong referee request, but I would ask the authors not to make this comparison between actual life year lost and quality adjusted-life years lost in the discussion and also not in Table 3 (see point 1). The comparison is simply not valid for methodological reasons and I think the paper makes an interesting contibution even without the comparison.
+6. Willingness to pay:
+Summing-up the average willingness to pay, subjects would be willing to spend on average a net monthly income of CHF 16,000 to avoid the restrictions. This amount is outside the monthly budget constraint of most individuals and seems highly inflated. The reason might be similar as before. Subjects who oppose the restriction might overstate their willingness to pay in order to express their strong opposition. The authors point the potentially overstated willingness to pay out in line 255 of the discussion but remain silent on potential reasons and implications.
+My suggestion here would be to add that the elicited willingness to pay should not be taken at face value, and potentially to not state the numbers prominently in the abstract. Instead, I would recommend a relative interpretation of restrictions in comparison to the most (or least) “expensive” restrictions (e.g. on average, subjects are willing to pay 6.8-times as much to be allowed to do private parties than to not have to wear masks in public).
+Minor issues:
+7. Explanation of approach: Complementary to the description how the authors calculated the quality-adjusted life years with the utility weights in the text, I think stating the formal estimation approach would ease the understanding (potentially accompanied by an example). This might be also information for an additional appendix.
+8. Typos
+- line 89: should it read “live” instead of “leave”?
+- line 93: missing space “was asked”
+- line 106: “each subject”
+- line 119 to line 123: it should read “months” instead of “years”? (questions before are referring to “months”)
+- line 163: it should read “normal life” instead of “health life”?
+- line 172: it should be either “for” or “among”?
+- line 198 (Table 2): some confidence intervals are not displayed correctly (minus sign and brackets covered)
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Antonio SANCHEZ-BAYON, Applied Economics, Universidad Rey Juan Carlos
+Reviewer #2: No
+**********
+
+12 Mar 2023
+Subjective Burden of Government-imposed Covid-19 Restrictions in Switzerland:
+Evidence from the 2022 LINK Covid-19 Survey
+PONE-D-22-28984R1
+Dear Dr. Fink,
+Prof. Dr. Florian Follert
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: Thank you very much for the opportunity to comment on the revised version of the paper. I feel the authors have incorporated my comments and suggestion very thoughtfully, and addressed all of my crucial and major points in a comprehensive way. This holds in particular for the requested robustness checks and the revised Table 3, which now allows the reader to compare different estimation scenarios. I’m happy to see their research published and think they make an important contribution to the debate on the effects of the Covid-19 restrictions.
+Upon reading the revised version, there are two minor points that the authors might want to include, but I would leave it up to them and would suggest an acceptance of the final version without a further round with the reviewers.
+1. In the instructions for participants (Appendix 1, second paragraph for each language), participants were told that the survey experiment was about Covid-19 and it’s impact on the daily life. This information might have made it particular attractive for people with strong opinions about Covid-19 restrictions to participate, and may explain the rather high fraction of people willing to trade-in zero or twelve months of their normal life. This is of course speculative, but might be mentioned in the discussion (line 272 following). Given that the results are robust to the exclusion of extreme preferences, it seems unlikely to me that such kind of selection drives the results – still, readers might be interested about explanations for the extreme preferences.
+2. The third paragraph of the introduction mentions papers documenting welfare losses in different countries, but there is no paper on other German-speaking countries (which I would consider relevant). I’m aware of two studies in Germany that use the related concept of life satisfaction. Both find rather large effects of Covid-19 restrictions on life satisfaction in Germany, namely Konrad and Simon (2021)[ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816728] and Bittmann (2022)[ https://link.springer.com/article/10.1007/s11482-021-09956-0]. I would suggest citing them as well.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

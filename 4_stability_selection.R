@@ -14,9 +14,10 @@ load('data/3_plus_experience.RData')
 # prepare the data
 source('4_data_prepare.R')
 
-# bootstrap combined with lasso (takes a while); using default of B = 100 bootstrap replications
+# bootstrap combined with lasso (takes a while)
 stab.lasso <- stabsel(x = x, 
                      y = y, # binary outcome
+					 B = 500, # bootstrap samples
                      fitfun = lars.lasso, 
                      cutoff = 0.75, # probability cut-off for selecting variables
                      PFER = 1) # per-family error rate; expected number of falsely selected variables

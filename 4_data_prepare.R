@@ -1,14 +1,14 @@
 # 4_data_prepare.R
 # prepare the data for the models
 # March 2026
-# called by 4_citations.R, 4_survival_retractions.R, 4_stability_selection.R and 5_model_checks.R
+# called by 4_survival_retractions.R, 4_stability_selection.R and 5_model_checks.R
 
 # remove small amount of missing country and last authors paper count
 data <- filter(data, !is.na(country)) # 103
 data <- filter(data, !is.na(author_papers)) # 191
 data <- filter(data, lengths(subjects) > 1) # 721 (subject = 'missing' if there's only one)
 
-# scale data; best transformations from 3_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
+# scale data; best transformations from 4_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
 data <- mutate(data,
                # add year published for sensitivity analysis in survival models
                year = format(published, '%Y'),

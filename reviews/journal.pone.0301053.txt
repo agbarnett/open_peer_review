@@ -1,0 +1,115 @@
+
+21 Dec 2023
+PONE-D-23-35756Political participation among deaf youth in Great BritainPLOS ONE
+Dear Dr. Espinoza,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Feb 04 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2.  Did you know that depositing data in a repository is associated with up to a 25% citation advantage (https://doi.org/10.1371/journal.pone.0230416)? If you’ve not already done so, consider depositing your raw data in a repository to ensure your work is read, appreciated and cited by the largest possible audience. You’ll also earn an Accessible Data icon on your published paper if you deposit your data in any participating repository (https://plos.org/open-science/open-data/#accessible-data).
+3. Thank you for stating the following financial disclosure: 
+The READY study is funded by the National Deaf Children’s Society (UK). The views expressed in this article are those of the authors and not necessarily those of NDCS.
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+The READY study is funded by the National Deaf Children’s Society (UK). The views expressed in this article are those of the authors and not necessarily those of NDCS. The full READY research team also includes Dr Garry Squires, Dr Katherine Rogers and Dr Helen Chilton who are co-investigators on this research project. We sincerely thank all deaf young people who took the time to respond to our survey and provide data on their lives. 
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+The READY study is funded by the National Deaf Children’s Society (UK). The views expressed in this article are those of the authors and not necessarily those of NDCS.
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+5. We note that you have indicated that there are restrictions to data sharing for this study. For studies involving human research participant data or other sensitive data, we encourage authors to share de-identified or anonymized data. However, when data cannot be publicly shared for ethical reasons, we allow authors to make their data sets available upon request. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+Before we proceed with your manuscript, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., a Research Ethics Committee or Institutional Review Board, etc.). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories. You also have the option of uploading the data as Supporting Information files, but we would recommend depositing data directly to a data repository if possible.
+Please update your Data Availability statement in the submission form accordingly.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Topic
+The article is developed around a very pertinent topic for different research fields as sociology, youth studies, education and inclusion: political participation of deaf young people. Through a quantitative approach the study aims to compare not deaf and deaf young people levels of political participation. Less attention has been given to policital participation among young people from the deaf culture.
+Abstract:
+The abstract includes information regarding the research gap, method, results and recommendations, but would benefit from a clear theoretical and conceptual standpoint underlying the research and data analysis.
+Introduction: the introductions starts by providing an analytical context for youth participation, in particular recent forms of participation or involvement in social movements and the absence ok knowledge regarding how young deaf are part of those.
+Although the concept of interseccionality is mentioned it seems that deafness is the main characteristic (variable) that interfere in being involved in practices of participation and it sounds that the author is pointing to a more homogenous perspective of Deaf community.
+Moreover, the concept of political participation needed to be defined and clarified at this point of the article as in the end of the introduction some results and claims are presented but without any clear guidance regarding the main conceptual organisers.
+Lit. Review
+This section focus on contribution of the literature to understand political participation of people with disabilities and raise relevant questions regarding levels of participation among that population and discusses specifically how participation among deaf people. However, I suggest to further discuss some aspects that sounds incomplete. For example, the sentence in page 3 sound incomplete, our at least needed some additional information: “In contrast, the literature on Deaf people who are sign language users and political 75 participation is distinct”. Could you elaborate a bit more on this idea.
+This section needs some review at two levels: level of structure as it is a bit circular and moving back and forward around the issue of disables and Deaf youth, mixing political rights and citizenship discussion with identity deriving sign language. Although it is understandable the reference to all of this subjects the section needs a clear sequence of topics to which are given relevance by the main aim of this article. This leads to the second level: content level. To include literature review regarding political participation of young people in general sounds necessary, not only because implicitly it is against those theoretical perspectives that Deaf youth participation is understood, but also because this study aims to compare Deaf youth with youth in general. The debate on political participation and what it is included in that definition seems necessary in this context.
+Suggestion: I suggest to include the last paragraph related to READY either in the introduction or in the Methods section.
+Method
+Methodological procedures, as well as specifically Ethical procedures are clear and presented in detail. Procedures regarding how hypothesis were approached are detailed and well explained, supported by similar actions taken before. Regarding the third hypothesis, the PCA resulted in three factors with consistency and with alpha values that are good for social sciences. One factor has only one item and this would deserve a clear justification. Moreover, theoretical support of the 3 factors would be beneficial for clarity and pertinence.
+Results and discussion
+The descriptive statistics could provide information to understand results intra sample (READY respondents) to understand if deafness is the main variable to explain different results. This aspect is more clear in the following sections presenting interesting results, but the gender differences found, for example, are not clearly explained and discussed. This section is mainly presented at the descriptive level. I suggest proposing an explanatory framework to support results and to connect those with theory. There are signs that the Deaf young people are diverse intra sample and this is not completely explored.
+---
+What is the contribution of this study to advance new layers of understanding regarding youth participation?
+In the abstract the last sentence points to some contributions to policies development, but the article either in results or in the conclusion does not elaborate on this.
+Reviewer #2: An excellent manuscript to be published which compares the levels of political participation among deaf youth with those of their peers in the general population and discusses how sociodemographic factors, self-identification as deaf, and meaningful interactions with other deaf people contribute to their political engagement. However, this manuscript needs more discussion, which can be improved by referring to the highlighted literature review.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+11 Mar 2024
+Political participation among deaf youth in Great Britain
+PONE-D-23-35756R1
+Dear Dr. Espinoza,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at http://www.editorialmanager.com/pone/ and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: The manuscripts underscore the importance of acknowledging the diversity of deaf youth in terms of affiliation with various forms of deaf identity, rendering their experience different from both disabled and hearing youth. All the comments have been addressed and the manuscript is recommended for publication.
+Reviewer #3: "Political participation among deaf youth in Great Britain" is a very-well written paper which has an important contribution to make to the literature on political participation by a special focus on deaf youth in Great Britain. As a reviewer who is reading the paper in its second round, I also had the possibility to read the review of Reviewer 1 and the responses of the authors. As far as I can see, all the comments/suggestions of the Reviewer 1 was taken seriously and the paper in its actual form addresses all these points. The paper does not only present novel research and discusses thouroughly the findings of this novel research. These findings challenge the existent literature discussing the reduced political involvements among individuals with disabilities as they demonstrate that deaf youth participate more actively in politics than their hearing peers. The paper also demonstrates that deaf youth is also not homogeneous and underlines the complexity and intersectionality involved with this category. The conclusion successfully summarizes the main findings and also highlight the limitations of the study for further research. In conclusion, I believe that he paper meets all the criteria of the journal and will make an important contribution to the literature on political participation.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #3: No
+**********

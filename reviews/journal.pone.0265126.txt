@@ -1,0 +1,89 @@
+
+19 Jan 2022
+PONE-D-21-22455R1Enhanced protection face masks do not adversely impact thermophysiological comfortPLOS ONE
+Dear Dr. Golovin,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please see the reviewer comments below.
+Please submit your revised manuscript by Mar 04 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Hanna Landenmark
+on behalf of 
+Yasir Nawab
+Additional Editor Comments (if provided):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: The article titled “Enhanced protection face masks do not adversely impact thermophysiological comfort” deals with the development of mask with enhanced physiological comfort and other more protection. The focus of this study is to development and analysis of different fabric combinations in the face mask.
+All the comments of the previous reviewer were addressed properly and explained according to need.
+Here are some points in the current embodiment, need to address for better understanding of the research.
+1. You have selected the fabric H and Fabric I but not used in the final fabric selection of fabric face mask development. Why?
+2. What is the reason of higher AP of D-3 as compared to D-4 in wet condition as both have same fabric structure?
+3. Please provide the layer-to-layer configuration of the masks and pictures of original developed samples.
+4. Overall research is interesting but needs to address the above points for further clarification.
+This is an interesting and novel research work which is very productive for the subjected field.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Raja Muhammad Waseem Ullah Khan
+Reviewer #2: No
+
+24 Feb 2022
+Enhanced protection face masks do not adversely impact thermophysiological comfort
+PONE-D-21-22455R2
+Dear Dr. Golovin,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: The manuscript provided a deep insight into thermophysiological comfort properties of face masks and is recommended for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Raja Muhammad Waseem Ullah Khan
+Reviewer #2: Yes: Asfandyar Khan

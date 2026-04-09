@@ -1,0 +1,324 @@
+
+9 Nov 2021
+PONE-D-21-13207
+Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in India
+Dear Dr. T.,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 23 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Susan A. Bartels, MD, MPH, FRCPC
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The research and resulting manuscript is very well done. Please complete minor editorial changes (e.g. data should always be plural, "data are" not "is"). Also, is there a possibility for comparison of data from other Indian states? That would be an interesting next step.
+Reviewer #2: Referee Report on “Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in India”
+This paper explores the relationship between dowry demand and domestic violence in two states in India. The methodology is descriptive, and the authors find that the prevalence of domestic violence was higher amongst girls who reported that dowry was demanded by their husbands. While, an important topic with nuanced relationships this paper does not make a sufficient enough contribution beyond the existing literature. Here are the main reasons why:
+1. The paper is based on data from the UDAYA project. The sole advantage of this data over more comprehensive and nationally representative surveys such as the DHS which records domestic violence, is that an additional question regarding dowry demand was asked. Why did the authors not use the India Human Development Survey (IHDS) panel dataset which has even more detailed dowry and domestic violence information and more coverage with regards to age and geography?
+2. The authors are particularly interested in examining this amongst adolescent girls, but the paper lacks any motivation as to why this would be interesting and relevant to examine.
+3. In the subsection labelled “Data,” the authors elaborate on how they select their analytical sample. However, the numbers do not add up. According to the information provided, the analytical sample of married girls from both states should be 5206 (1798 + 3408) and not 5226. Similarly, the number for the effective sample size do not add up either and the number of observations used for the estimations are not provided in the tables.
+4. The equation in the subsection titled “Statistical Analysis” is not explained at all and there is no discussion of the perils of using a logistic regression to estimate this relationship or that of sample selection (the worst cases of domestic violence are likely not captured by the sample) which are surely important considerations when examining this relationship. Furthermore, there is no discussion of the endogeneity of dowry demanded which is certain to make this estimate biased.
+5. Despite these shortcomings, there are some very crucial claims made by the paper which are unsubstantiated. For instance, the sentence “In the process of empowering women, the study indicates that parents appear to be replacing property inheritance to their daughters by giving them alternative transfers in the form of higher dowries.” The authors do not have any information on inheritance and do not present any results for such a replacement. ‘
+6. Another such claim in the Conclusion section is “The results presented in this study suggest that policies that ensure equal inheritance and property rights for women and programs that help women retain equal power and say in their families may be necessary to reduce their vulnerability to domestic violence.” The authors have presented no evidence to support this claim.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Priya Banerjee
+Reviewer #2: No
+
+9 Jun 2022
+PONE-D-21-13207R1Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in IndiaPLOS ONE
+Dear Dr. T.,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 24 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Susan A. Bartels, MD, MPH, FRCPC
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: (No Response)
+Reviewer #4: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+Reviewer #4: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+Reviewer #4: No
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: This paper examines the relationship between dowry demands and IPV among adolescent girls. I have a few suggestions for improvement:
+1) Throughout the paper, I think the language of risk factors need to be changed to correlates since this is a cross sectional study. Also calling a paid job and marital duration as risk factors could present them as factors that need to be corrected for when findings on employment among women related to IPV in India are mixed. The empowerment of women can also sometimes protect women. Being in marriage for a long time can also be a reason why women are facing violence. Authors elaborate on this in the discussion but I think correcting the language early on would be better. This could be changed in the abstract and other areas of the paper.
+2) In introduction, you could include how you define intimate partner violence- method section discusses that but will be good for the reader to know early on.
+3) Methods: the sentence on page 19 needs to be corrected--"For instance, married girls faced more violence to increase the length of the marriage."
+4) Discussion- this section could be strengthened with discussing how early marriage in adolescence can enhance risk and the practice and policy implications of early marriage
+Reviewer #4: This is an interesting paper which explores the relationship between demands for dowry and domestic violence focusing on young women which is an important topic. However, the paper raises a number of questions and comments – which if addressed might make for an interesting contribution to the literature in this field.
+1. The hypothesis that dowry demands are associated with increased violence against women is neither new nor particularly helpful, unless the authors explain what their study contributes to existing knowledge and why it is important.
+2. The conceptual framework is a bit simplistic – it simply connects a number of facts and says they lead to increased violence. It is not clear if all the elements in the first box lead to all the elements in the second box, and regardless they lead to violence? I would have thought that some of the factors in the second box would be protective factors, i.e. paid work and decision making autonomy – or are the authors proposing that despite the existence of these facts – that all of them are necessary for violence against women? There are a few interesting ideas here, but I would encourage the authors to create a more nuanced conceptual framework – where some factors may promote and others protect against perpetration of violence. Also some factors may produce violence acting alone (e.g. demands for dowry) and others in combination (social class plus attitudes towards women) to suggest increased likelihood of violence. The internal relationship between these identified factors needs to be reflected in the figure presented.
+3. Strongly suggest that the figures and tables are labelled. It would also be good to have a table giving an overview of the relevant demographic information about the sample of participants in one glance.
+4. Outcome variable for all types of violence focused only on violence by the husband, however, often violence (dowry related or otherwise) including sexual violence, is inflicted other members of the family – how do the authors account for that? At the very least some acknowledgement of the fact is required.
+5. Similarly, they continue to say, “Similarly, violence had a significant positive association with the educational level of girls and wealth index.” – however it is a negative relationship between violence and educational level – i.e. the higher the education, the lower the violence and the same with wealth. The way ‘positive association’ reads now it implies, the greater the wealth the more the violence inflicted – which is the opposite of what the authors go on to explain is happening.
+6. The authors report, “Interestingly, the likelihood of any violence was 41 percent and 2.06 times more likely among adolescent girls whose marital duration was 2-3 years [OR: 1.41; CI: 1.19-1.66] and 4 years or more [OR: 2.06; CI: 1.60- 2.64] respectively, compared to those whose marital duration was less than or equal to one year.” Why is this interesting? Is it not obvious – the more exposure, the more likelihood of experiencing violence? What would be interesting would be to explore if the trajectory of violence is upward with time and yet the girls choose to remain in the marriage? Is there a tipping point at which the girl might take some action or complain? Probably the data does not allow the authors to answer these questions, but they are nevertheless more interesting.
+7. In the discussion section, the authors report: “In the process of empowering women, the previous study indicates that parents appear to be replacing property inheritance to their daughters by giving them alternative transfers in the form of higher dowries (42). This might have resulted in husbands and family in-laws of empowered women not perpetrating any violence.” – that is a big generalisation – often dowries are taken over by the in-laws and the woman has little or no control over her wealth. What is the evidence that higher dowries succeed in empowering women – especially if the amount bestowed is lower than that demanded by the in-laws?
+8. Furthermore, the authors report, “The finding is similar to a study based on the National Family Health Survey which noted that because of being forthright against male dominance and better reporting of incidences of domestic violence, Indian working women have a higher likelihood of being victims of violence (47).”
+It is not clear what the authors are claiming from their finding that those in paid employment are more likely to be victims of domestic violence – is it because they are more willing to acknowledge and report violence or because they pose a threat to their partners on traditional gender roles and hence are vulnerable to partner violence?
+Further, does this mean that having paid employment makes some women more vulnerable and not having enough economic empowerment makes other women more vulnerable? If in both situations some women are vulnerable – then there must be other factors that will determine who is more likely to be vulnerable with economic empowerment and who isn’t. On the one hand the authors seem to suggest in the Discussion that when women are more likely to report violence (either because they are economically empowered or have been married for a longer period) they are more likely to suffer violence, but do not mention why this might be the case. Are the findings suggesting that women who are empowered to speak out against violence are more likely to suffer future violence as a result – if so – this sends out a very negative message as it does not support more empowerment for women – perhaps the authors might need to carefully caveat this finding.
+Further they go on to state that higher education status and social class act as protective factors and such women are less likely to be victims of violence. I am not sure the authors have reconciled these contrary findings effectively.
+9. A few grammatical issues need addressing. For example,
+a. There are no page numbers for giving exact location, but in the results section the authors report “For instance, married girls faced more violence to increase the length of the marriage.” – which does not sound correct – Suggest rephrase.
+b. “A dearth of literature repeatedly found educational attainment and higher social status as major factors to reduce the likelihood of experiencing domestic violence in developed as well as developing countries (56–59)”. How can a dearth of literature (which means lack of literature) repeatedly find ….something?
+c. The authors state, “This study is based on sample of married girls from both the states which is 5,226 which is representative of 15-19 married girls at state level.” – perhaps they mean sample representing married girls between the age group of 15 to 19 years.
+10. One big gap in the paper is the relationship between violence and whether the woman has been able to produce children, preferably male offspring which might be related to or completely separate to demands for dowry. Were the women asked whether they felt their victimisation by their partner was due to unfulfilled demands for dowry and/or other factors?
+11. Did the dataset not have any information about dowry related domestic violence not perpetrated by the husband/partner? How do the authors propose to deal with this lacuna?
+I do believe that the paper can make an important contribution if the authors work on developing a more nuanced conceptual framework and hypothesise which factors provide effective protection or which combination of factors make women more vulnerable to victimisation. A defined theoretical framework to make better sense of the data would make a significant contribution to the current literature on the topic. This would also help the authors structure their answer the ‘so what’ question better in terms of concrete policy implications which in the current version are a bit imprecise.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #4: Yes: Jyoti Belur
+**********
+
+11 Aug 2022
+PONE-D-21-13207R2Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in IndiaPLOS ONE
+Dear Dr. T.,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please note that PLOS ONE does not copy edit accepted manuscripts (https://journals.plos.org/plosone/s/criteria-for-publication#loc-5). To that effect, please ensure that your revision is free of typos and grammatical errors. Please also ensure you have also stated whether you obtained consent from parents or guardians of the minors included in the study or whether the research ethics committee or IRB specifically waived the need for their consent.
+Please submit your revised manuscript by Sep 24 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Staff Editor
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+**********
+
+11 Oct 2022
+PONE-D-21-13207R3Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in IndiaPLOS ONE
+Dear Dr. Muhammad,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Reviewer 3.
+I have no further comments except that the conceptual model needs to be updated and in line with the findings of the study. For example, non-Hindu category being only 15.9% of the sample and non significant in Tables 2 and 3, is presented as a risk factor in the model- Domestic violence is prevalent across religions and is not a characteristic of one particular religion
+Reviewer 5
+Thank you for the opportunity to review the manuscript entitled: “Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in India”. The authors have tackled an important public health problem. Understanding how negative societal norms and cultures impact women’s risk of violence experience is important in the development of violence prevention programs and policies to mitigate these negative experiences, especially for young vulnerable women. However, I have some suggestions and recommendations that may help in strengthening the paper as outline below.
+The authors have presented the conceptual framework for their study which seems rather simplistic. I expected more inter-linkages between the identifies clusters of risk factors or protective factors. As it is now, most factors only have direct paths to the outcome (IPV). What does literature say on link between Education status and attitudes that accept violence against women, decision making autonomy, employment etc for example. The other main concern is that their analytical approach does not seem to be consistent with their conceptual model.
+Their “Data and Methods” section could be written in a more concise and clear way. The authors could briefly describe the original (UDAYA) study with references and then focus on describing data that they are using in this particular analysis. Otherwise, the whole first page of the “methods” section is confusing. For example, on the first page of the methods, they mention an effective sample size of 5226 and then on the second page the sample is 4893, with not so clear explanation on how the sample reduced to 4893. There is also a lot of repetitions of information in the section. The authors need to revise the section and make it more concise.
+It is not necessary to include the mathematical definition of a logistic model. If authors really want to include it, then they should interpret all the terms in the model in the context of their data. The authors have just given a generic interpretation of the linear component of the logit model but do not explain the logit function of the model in the context of their binary outcomes. It is easier to just state in the data analysis section that logistic regression model will be used. They do not need to include the model.
+Authors should make it explicit in Table 3 that they are presenting adjusted OR. Considering that their write up in the results section for the logistic regression only covers combined violence outcome and not the specific type of violence, I would suggest Table 3 focuses on that. They could then include the crude ORs, so a reader could look at both crude and adjusted ORs for main exposure variables.
+The authors need to explain/justify in the methods section why the multivariable model included variables that were non-significant in the Chi-square test (Table 2).
+Does the original UDAYA study have data on partner characteristics eg age of partner as these could also have impact on the power dynamics within the Household and impact on risk of IPV. If this data is available, authors need to adjust for these in the model. Another crucial variable that they could look at which would be more informative on cumulative risk of IPV (lifetime experience of IPV) than marriage duration is the age of participant at marriage. This could be derived from age of participant and marriage duration (assuming the participants are in their first marriage).
+The last sentence on second page of the discussion section: “The results are in agreement with an earlier study in India which found that women married for five years and longer were more likely to be beaten by their husbands [53].”, is rather misleading considering what is being measured in the study is ‘lifetime experience of IPV” as such the authors are looking at cumulative experience of IPV. I would suggest this sentence is revised to: “The results are in agreement with an earlier study in India which found that women married for five years and longer were more likely to have been beaten by their husbands [53].”, to reflect cumulative risk due cumulative exposure.
+ Please submit your revised manuscript by November 21, 2022. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+Reviewer #5: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+Reviewer #5: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+Reviewer #5: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: (No Response)
+Reviewer #5: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+Reviewer #5: No
+**********
+6. Review Comments to the Author
+Reviewer #3: I have not further comments except that the conceptual model need to be updated and in line with the findings of the study. For example, non-Hindu category being only 15.9% of the sample and non significant in Tables 2 and 3, is presented as a risk factor in the model- Domestic violence is prevalent across religions and is not a characteristic of one particular religion.
+Reviewer #5: Thank you for the opportunity to review the manuscript title “ Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in India”. The authors have tackled an important public health problem. Understanding how negative societal norms and cultures impact women’s risk violence experience are important in the development of violence prevention programs and policies to mitigate these negative experiences, especially for young vulnerable women. However, I have some suggestions and recommendations that may help in strengthening the paper as outline below.
+The authors have presented the conceptual framework for their study which seems rather simplistic. I expected more inter-linkages between the identifies clusters of risk factors or protective factors. As it is now, most factors only have direct paths to the outcome (IPV). What does literature say on link between Education status and attitudes that accept violence against women, decision making autonomy, employment etc for example. The other main concern is that their analytical approach does not seem to be consistent with their conceptual model.
+Their “Data and Methods” section could be written in a more concise and clear way. The authors could briefly describe the original (UDAYA) study with references and then focus on describing data that they are using in this particular analysis. Otherwise the whole first page of the “methods” section is confusing. For example, on the first page of the methods, they mention an effective sample size of 5226 and then on the second page the sample is 4893, with not so clear explanation on how the sample reduced to 4893. There is also a lot of repetitions of information in the section. The authors need to revise the section and make it more concise.
+It is not necessary to include the mathematical definition of a logistic model. If authors really want to include it, then they should interpret all the terms in the model in the context of their data. The authors have just given a generic interpretation of the linear component of the logit model but do not explain the logit function of the model in the context of their binary outcomes. It is easier to just state in the data analysis section that logistic regression model will be used. They do not need to include the model.
+Authors should make it explicit in Table 3 that they are presenting adjusted OR. Considering that their write up in the results section for the logistic regression only covers combined violence outcome and not the specific type of violence, I would suggest Table 3 focuses on that. They could then include the crude ORs, so a reader could look at both crude and adjusted ORs for main exposure variables.
+The authors need to explain/justify in the methods section why the multivariable model included variables that were non-significant in the Chi-square test (Table 2).
+Does the original UDAYA study have data on partner characteristics eg age of partner as these could also have impact on the power dynamics within the Household and impact on risk of IPV. If this data is available, authors need to adjust for these in the model. Another crucial that they could look at which would be more informative on cumulative risk of IPV (life time experience of IPV) than marriage duration is the age of participant at marriage. This could be derived from age of participant and marriage duration (assuming the participants are in their first marriage).
+The last sentence on second page of the discussion section : “The results are in agreement with an earlier study in India which found that women married for five years and longer were more likely to be beaten by their husbands [53].” , is rather misleading considering what is being measured in the study is ‘life time experience of IPV” as such the authors are looking at cumulative experience of IPV. I would suggest this sentence is revised to : “The results are in agreement with an earlier study in India which found that women married for five years and longer were more likely to have been beaten by their husbands [53].”, to reflect cumulative risk due cumulative exposure.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #5: No
+**********
+
+6 Jun 2023
+PONE-D-21-13207R4Dowry demand and associated partner violence among married adolescent girls: A cross-sectional analytical study in IndiaPLOS ONE
+Dear Dr. Muhammad,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 21 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Obasanjo Bolarinwa
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #6: (No Response)
+Reviewer #7: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #6: Yes
+Reviewer #7: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #6: Yes
+Reviewer #7: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #6: Yes
+Reviewer #7: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #6: Yes
+Reviewer #7: Yes
+**********
+6. Review Comments to the Author
+Reviewer #6: Although suggested by reviewer 3 to present the odds ratios for crude ORs, the authors have not modified accordingly, additionally, I would recommend presenting the regression results by various forms of IPV and dowry demand (maybe in a separate table or in appendix)
+In response to comments received from reviewer 3, the authors say that they included the background characteristics despite the variables being insignificant as they might have impact on IPV after being adjusted, however, in the next response the authors refute the idea of including age of partner claiming those variables to be insignificantly associated. I feel the authors should consider including partner’s age as it is an important determinant of IPV.
+Abstract:
+Line “The present study aimed to examine the association of dowry …” should be corrected to association between ‘. The conclusion section is unclear in terms of language and clarity.
+The authors are advised to look thoroughly for grammatical errors.
+Introduction- I do not understand what the authors mean by the statement “this study may contribute to how gender-specific risk and protective factors…” . I don’t feel that the analysis and context of the study in any-way related to both gender or gender-specific risk or protective factor.
+Manuscript
+In the introduction section the authors hypothesize that demand for dowry is associated with increased violence among married adolescent girls. However, the authors make no, make no mention of the rejection or acceptance of hypothesis. The authors should clearly mention it in the manuscript.
+In data and methods, the authors mention that dowry demand question was asked as “Dowry demand by in-laws” however, in abstract and in results section the authors write as “dowry was demanded by their husbands”. The authors should check for such errors and correct it throughout the text.
+The data section should be more concise.
+As per the title of the manuscript, I expected a focus on the association and impact of dowry on the IPV which I could not find. An extensive elaborate discussion of other predictors impacting IPV diverts from the central idea of the paper. I would recommend the authors consider revising the discussion and an emphasis is given on the dowry which is the core idea of this paper. Additionally, the discussion should include findings from this study which now seems just to be a theoretical evidence from other literature.
+Additionally, I could not find anything related to dowry and its association with dowry in the conclusion section which should have been as per the focus of the study.
+I do not understand what the authors mean when they say” A large proportion reporting dowry may be explained by the fact that many of them do not consider dowry as a repressive practice but a rightful share…” If the respondent views the dowry as their rightful share, the proportion reporting dowry should be low. If so, what I understand and what is mentioned are two different sides of the coin.
+Reviewer #7: Responses to 2, 3, 5 reflect that overall the manuscript is well written and analyses are strong, but improvements are needed on all of these areas.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #6: No
+Reviewer #7: No
+**********
+
+27 Aug 2024
+PONE-D-21-13207R5Dowry demand, perception of wife-beating, decision making power and associated partner violence among married adolescent girls: A cross-sectional analytical study in IndiaPLOS ONE
+Dear Dr. Muhammad,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 11 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Obasanjo Afolabi Bolarinwa
+Additional Editor Comments:
+Please kindly review the manuscript for the last time to be scientifically judged.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #8: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #8: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #8: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #8: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #8: Yes
+**********
+6. Review Comments to the Author
+Reviewer #8: Background
+Under the first sentence in the 2nd paragraph under "Background", the sentence "In South Asia, IPV is a complex challenge that is related to cultural dynamics." could be strengthened further by stating some of these cultural dynamics and possibly stating references that validates these cultural determinants with IPV.
+In the subsequent sentence in the same paragraph, it would be great to start the sentence with an opening that establishes the role of personal experiences and societal factors in amplifying the likelihood of IPV. This can come just before the sentence "Research links IPV in the region, including India....".
+Furthermore, within the same paragraph (sentence before last), the use of the word "ecology of IPV" seems vague - consider alternative terms like "prevalence".
+Last sentence in the second paragraph, "Additionally, interventions, such as couple-based programs, have been explored for the primary prevention of IPV in India, emphasizing the need for effective strategies to address this issue" provided valuable perspective. However, the author should either expand on these interventions briefly here or move this entire sentence to the Conclusion session and share some existing interventions as suggested here.
+Data & Method
+I would re-label this section to "Methodology" and then the "data' to 'Overall Approach' - First paragraph and then "Sampling Strategy" - starting with the 2nd paragraph. Under the first paragraph, consider including a sentence briefly describing what the UDAYA project is about.
+Variable description -
+Include a summary paragraph that briefly described the types of variables analysed (in this case outcome & exposure variable) and a short rationale for focusing on each.
+Statistical Analysis -
+In line 3, you established that association between the binary 'outcome variable' and 'explanatory variables' were conducted. However, in your description of variables, you used 'exploratory variable' - there is need for consistency.
+Discussion -
+Last sentence in paragraph 5 should be reworded for clarity from "The present study in concordance with this found that
+higher education and upper social class in the Indian caste hierarchy of married adolescent girls were protective factors against partner violence" to "The findings from this study which establishes that higher education and upper social class in the Indian caste hierarchy of married adolescent girls were protective factors against partner violence, is consistent with existing literature.
+The subsequent paragraph (2nd sentence seem incomplete: "Owing to the cross-sectional nature of this study, no causal relationships could be established"...add "between X variables and Y variables". You may decide to stratify with of the causal factors were worse off between the personal, social, cultural or otherwise.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #8: No
+**********

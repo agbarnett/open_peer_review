@@ -1,0 +1,115 @@
+
+10 Jun 2020
+PONE-D-20-14729
+Lung ultrasound score to monitor COVID-19 pneumonia progression in patients with ARDS
+Dear Dr. Auguste Dargent,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+I have received the comments of the reviewers on your manuscript. The specific comments of the reviewers are included below. Please provide point by point response in your revised manuscript.
+Please submit your revised manuscript by due date. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+Muhammad Adrish
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. One of the noted authors is a group, COVID-LUS study group.
+In addition to naming the author group, please list the individual authors and affiliations within this group in the acknowledgments section of your manuscript.
+Please also indicate clearly a lead author for this group along with a contact email address.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+Reviewer #3: No
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+Reviewer #3: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The article describes monitoring of pneumonia progression in patients with COVID-19 infection using lung ultrasound.
+It is well written and interesting.
+Lung ultrasound is an established approach for monitoring pulmonary diseases in the ICU. It makes a lot of sense to use this method in this population of COVID-19 infected patients from an infection control perspective. It is a bedside test and can be performed rather quickly. If done by experienced providers, it can save trips to the CT which always comes at a risk of infecting other patients or staff if the patient traveling for the test has a contagious disease.
+The provided figure gives a good overview of score development during the hospitalization and puts it in clinical perspective.
+My only critique is that it would be very helpful for the reader to have a panel of pictures from a patient prior and post development of VAP to illustrate the described changes as the authors promote this method for earlier diagnosis of VAP in COVID-19 patients. This is particularly important as there is currently debate about the difference of ARDS in patient with COVID-19 amongst themself and compared to the traditional population diagnosed with ARDS.
+Reviewer #2: I do want to congratulate the authors on their work. This is an interesting paper looking at the LUSS score in the management of the COVID 19 patients.
+Using of Lung US in well documented in the critical care practice. Use of LUSS score has been used in management of ARDS.
+Although study is interesting there are many limitations to study. First the patient number is small to draw any definite conclusions
+Second there no clear mythological pattern describe by author , as daily or twice a day LUSS score assessment.
+Third: In patient outcomes, it would be ideal to know what was the LUSS score prior to extubation if that is available, as there are studies that have showed correlation between the two. Ref : Caltabeloti F, Monsel A, Arbelot C, Brisson H, Lu Q, Gu WJ, et al. Early fluid loading in acute respiratory distress syndrome with septic shock deteriorates lung aeration without impairing arterial oxygenation: a lung ultrasound observational study. Crit Care 2014;18:R91.
+Fourth : The author have showed LUSS score >1 region with score of 3 and then marked that point as VAP in 5 of their patients , it would be beneficial to know if these ultrasound finding also correlated with clinically diagnosis of VAP.
+Fifth: It has been established that score of 3 can have limitations as that if the area consolation is not in taken into account, it can overestimate the lack of aeration and give a high score, I would like if authors could justify if they took this into consideration. Ref: Chiumello D, Mongodi S, Algieri I, Vergani GL, Orlando A, Via G, et al. Assessment of lung aeration and recruitment by CT scan and ultrasound in acute respiratory distress syndrome patients. Crit Care Med 2018;46:1761–1768.
+Overall interesting concept and may be clinically useful tool to guide therapy in treatment of this new disease.
+Reviewer #3: General
+In this manuscript, Dargent et al describe serial assessments of the Lung Ultrasound Score (LUSS) on 10 consecutive patients admitted to their intensive care unite with moderate to severe ARDS. Multiple scores were available for each patient (average of 10.9 scans per patient on average) and their course of LUSSs were tracked throughout the study. They found that in successfully extubated patients, the LUSS decreased and was lower than at the time of intubation. In a patient who died from refractory hypoxemia the LUSS increased. They suggest that the LUSS accurately reflects disease progression and may help in early VAP diagnosis, mechanical ventilation weaning management, and potentially reduce the need for other imaging.
+Overall I was intrigued by the apparent association in lower scores in those who were successfully weaned from mechanical ventilation, but I don’t have strong confidence in the validity of this claim given the unknown result of patient #6 (see below). Whether patient #6 needed non-invasive ventilation or was re-intubated it was associated with a high LUSS indicating that extubation may have been premature.
+Major
+A PubMed entry of "COVID Lung US" yielded 243 results – as such, this study has missed the opportunity to be presented as “pioneering” work, and as such a description of 10 patients without the ability to clearly demonstrate added value beyond already available clinical data, and without any statistical testing at all fundamentally limits my enthusiasm.
+The short term and variable length of followup is problematic. Figure 1 shows this problem graphically and makes it hard to draw any meaningful conclusions about the observations described.
+It’s not clear how the results of the LUSS affected care, particularly with the lack of a control group. It’s impossible to draw conclusions of benefit from this manuscript.
+Patient #6 was extubated on April 7th with a LUSS of 27, but placed on non-invasive ventilation. It is not mentioned if this patient was re-intubated or not, but if the patient was not I wonder if the group is wrong to which the patient is assigned. If not re-intubated then the patient was breathing spontaneously on non-invasive ventilation and by some would be considered to have been successfully extubated. Was the patient not included in this group because of re-intubation or because the LUSS would not allow a claim of lower LUSS in those successfully extubated because of the LUSS at that time being 27 or because the authors felt that the need for non-invasive ventilation does not meet the criteria of a successful wean from mechanical ventilation?
+A claim is made that the LUSS decreased for those patients who were successfully extubated, but I see no statistical analysis of the LUSS to see if there was actually a statistical difference.
+Minor
+I cannot find the number of sonographers reported who performed the exams. Given the operator dependent nature of ultrasonography there is a potential for issues with inter-observer reliability. This may have led differences in LUSS not due to a change in disease severity, but purely because another sonographer scanned the patient that day.
+The method by which the diagnosis of VAP was reached was not outlined in the study or whether the sonographer was blinded to this or if they were the ones making the diagnosis.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Andreas Schmid
+Reviewer #2: No
+Reviewer #3: No
+
+7 Jul 2020
+Lung ultrasound score to monitor COVID-19 pneumonia progression in patients with ARDS
+PONE-D-20-14729R1
+Dear Dr. Dargent,
+Muhammad Adrish
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: This is an interesting report about a valuable bedside examination during a time where transport of patients in the hospital has to be limited.
+Comments of reviewers have been addressed as feasible with reasonable efforts.
+Reviewer #2: All my concerns about the manuscript have been addressed in the revision. The manuscript can be considered for publication. I have no further concerns
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

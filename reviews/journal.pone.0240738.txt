@@ -1,0 +1,101 @@
+
+17 Aug 2020
+PONE-D-20-22192
+Urban density and spatial planning: the unforeseen impacts of Dutch devolution
+Dear Dr. Claassens,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+As the reviewers suggest, the submitted manuscript has good scientific grounds and generally the research is well structured and presented. However, there are minor issues as highlighted by the reviewers such as grammar corrections, missing information and minor structural changes. Therefore, I invite you to address the issues in the reviewer reports and re-submit the revised manuscript.
+Please submit your revised manuscript by 10 September 2020. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+"This research was financially supported by the Dutch Research Council (NWO) as a SURF Pop up project."
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+"The author(s) received no specific funding for this work."
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for the opportunity to review the manuscript entitled “Urban density and spatial planning: the unforeseen impacts of Dutch devolution”. The authors investigated residential development since 2000 in the Netherlands in relation to the changing planning policies. The study found that while the national policy on residential development is decentralised making it look weak and the share of residential development within existing urban areas increased. The findings of this study contribute to literature especially its methodological approach. In general, this is a well-written manuscript. However, I have a few suggestions that when considered can help improve the manuscript.
+Topic
+1. The topic appears great because it is clear and specific to the purpose of the study.
+Abstract
+2. The sentences should be in the past. For instance, page 2 line 17 and 19 should be we focused… and we quantified… respectively.
+3. Keywords: Please add rural women
+Background
+4. The background and problem statement looks great but kindly state the specific objectives.
+5. Kindly add the significance of the study to the background.
+Dutch Context
+6. This section was well explained
+Methods
+7. The study design was not too clearly stated.
+8. Please check the sentence of page 7 line 150, it should read …, we focused on the…
+9. Is there any justification for putting brownfield redevelopment into bracket (line 177)?
+10. Please check the sentence of line 181, it is supposed to read we use
+Results and discussions
+11. The results presented were great but the conclusion made could it be all summed in the conclusion and recommendation? If not, kindly state it as your key findings. For instance, line 300 “This is our first important conclusion: the disappearance of national coordination and the abolition of development subsidies did not result in a drop in the number of housing units added to the stock”. Similar of such conclusion could be found in line 309.
+12. In some of the interpretations, please refer to the exact table number. For instance, line 303, “The table (Table 2) shows a large reduction in the share of new housing constructed outside existing urban areas: from 58% in the first period to 31% in the third”. This is similar in the following lines; line 323 and 373.
+13. In line 372, the saldi stated here cannot be found in table 2. Kindly check.
+14. Well synthesised, Good job done!
+Conclusion and recommendation
+15. This was done well but line 466-467 talks about proximity to certain amenities was not mentioned in the results and discussion so how do you draw conclusion on that?
+Reviewer #2: The manuscript is technically strong and is a good scientific research with data that supports the conclusions. The conclusions is appropriately based on the data presented and the statistical analysis has been performed appropriately and the manuscript presented in an standard English. I would like to be able to offer more precise data on the evolution of housing prices and to establish clearer recommendations for public policy.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+2 Oct 2020
+Urban density and spatial planning: the unforeseen impacts of Dutch devolution
+PONE-D-20-22192R1
+Dear Dr. Claassens,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you for the opportunity to review the manuscript entitled “Urban density and spatial planning: the unforeseen impacts of Dutch devolution”. The authors investigated residential development since 2000 in the Netherlands in relation to the changing planning policies. The study found that while the national policy on residential development is decentralised making it look weak and the share of residential development within existing urban areas increased. The findings of this study contribute to literature especially its methodological approach. In general, this is a well-written manuscript. All concerns raised have been addressed.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No

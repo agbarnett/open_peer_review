@@ -1,0 +1,130 @@
+
+31 May 2022
+PONE-D-22-11647Internationalization, cultural embeddedness and institutional governmentality for quality control in transnational higher education cooperation: An empirical assessmentPLOS ONE
+Dear Dr. Zhu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Your choice of topic and research demonstrate a firm commitment to contribute to the better understanding of TNE in China. It is an important project, which may offer a fresh insight into the major items on your agenda, i.e. internationalization, cultural embeddedness and the question of quality control at institutional level. Although Reviewer 2 was suggesting a full green light, I agree more with Reviewer 1 and the detailed criticism provided over there.
+Please, revise your manuscript thoroughly in particular with regard to your theoretical framework, research questions and empirical work. As for the literatiure review, consult more recent pieces published in the relevant fields, also possibly with a wider look at internationalization and the geopolitics of higher education. Reviewer 2 raises several serious problems about your findings and how you interpret your data.
+Please submit your revised manuscript by Jul 15 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified what type you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). If your study included minors, state whether you obtained consent from parents or guardians. If the need for consent was waived by the ethics committee, please include this information.
+3. Please ensure that you include a title page within your main document. We do appreciate that you have a title page document uploaded as a separate file, however, as per our author guidelines (http://journals.plos.org/plosone/s/submission-guidelines#loc-title-page) we do require this to be part of the manuscript file itself and not uploaded separately.
+Could you therefore please include the title page into the beginning of your manuscript file itself, listing all authors and affiliations.
+4. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+5. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: There is no doubt that there is growing interest among higher education institutions across countries of the world to develop the transnational higher education setting to reflect evolving global needs. The current study – “Internationalization, cultural embeddedness and institutional governmentality for quality control in transnational higher education cooperation: An empirical assessment” is very important to the development of TNE in China. While I commend the authors for the time and effort invested in the study, I think that there are additional work that need to be done in all the sections in order to bring the research to the journal’s standards. First, there is a lack of a clear theoretical underpinning of the study. I do not think that the authors’ discussions on internationalization and transnational higher education provide adequate information on the theoretical foundation. Secondly, although the introduction sets a very good pace for the delivery of very informative discussion on TNE and what the authors term as cultural embeddedness and institutional governmentality for quality control, the literature review and empirical sections were short of fulfilling those expectations. The major problem identified with the research findings is the lack of “thick data” or “participants’ narrative” to inform the findings. Summarily, although the current study is very important to the field of transnational higher education, I do not think that the authors have demonstrated enough evidence to show what new knowledge emerges from their study. I have provided some additional comments below for their attention.
+Literature review
+I think that the literature review section needs to be improved substantially to provide readers with better understanding of internationalization and transnational higher education. In its current form, the literature review section reads like an extension of the background section. The authors should provide answers to some vet important questions. For example: What are the theoretical foundations of internationalization and transnational higher education? What is already known in the field? What are the existing gaps in the concepts? Etc. unfortunately, these very important information cannot be found in the current text.
+Research site and research methodology
+The authors have not provided adequate information concerning the population of their study, the sampling technique adopted to select participants for the study and how the questions were developed. I read the literature review section again to find out how the authors developed their research questions but I could not gather adequate information on that. Also information on the process used to analyze the data is very scanty. Seeing that that authors followed a systematic investigation process, readers should be informed about how the codes were developed into the three main themes. This further connects to my earlier comment concerning the gap between the questions and the theories/concepts used by the authors.
+Research findings
+I struggled to identify how the narratives of the focus group participants were captured in the findings section. Did the researchers decide to abbreviate the contributions of participants? I suggest that the authors take a second look at the content and structure of the research findings section and provide readers with the rich text that reveal the voices of study participants. The discussion section also relies heavily on the secondary data analysed rather than the findings from the narratives of participants.
+Reviewer #2: The topic of this article is very relevant from the viewpoint of internationalization trends in higher education. The research methodology (PAR, case study) adopted in this study is proper. Conclusions are clear and well established. There are some typing mistakes (e.g. lowercase instead of capital letters) left in the text. Please correct them.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Dr. Yaw Owusu-Agyeman
+Reviewer #2: No
+
+25 Jul 2022
+PONE-D-22-11647R1Internationalization, cultural appreciation and institutional governmentality for quality control in transnational higher education cooperation: An empirical assessmentPLOS ONE
+Dear Dr. Wang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================I was happy to see that the original submission was improved, but still more thorough work needs to be done, especially, as Reviwer 1 also underscores, the data analysis and the results section must be improved. Please, also take sufficient time to compose your sound rebuttal to all the questions, critical remarks articulated by the reviewers. If these are then accepted, I can support the acceptance of your article for publication.==============================
+Please submit your revised manuscript by Sep 08 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I must commend the authors for the hard work in revising the current manuscript. While I have seen that the authors have provided some additional information to the original version of their work, I think that there are some outstanding issues that needs to be resolved. First the authors should avoid abbreviations. For example on page 4 (literature review, line 1) the authors indicate that, “before delving into the challenges posed by the globalization of higher education, we'd want to….” The sentence should read as, “before delving into the challenges posed by the globalization of higher education, we would want to…..” Secondly, information on the process used to analyze the data is very scanty. Seeing that that authors followed a systematic investigation process, readers should be informed about how the codes were developed into the three main themes. This comment was contained in my earlier review report but they have not been addressed in the revised study. Lastly I still do not see an improvement in the results section where the narratives of the focus group participants are captured in the findings section.
+Reviewer #2: The authors have successfully managed to revise their paper according to the recommendations. The revised sections (Literature Review, The internationalization of higher education, Research site and research methodology) have made this research article more suitable for publication from a theoretical and empirical point of view. It is also acceptable that the authors have only provided a summary of thoughts contributed by the interviewed participants. This does not reduce the academic quality of this paper. It is understandable to take into account the word limit. This paper will enrich the academic literature dealing with the internationalization of higher education with a special focus on quality control. I highly recommend the authors to continue their research and extend it to other Chinese universities which have a transnational cooperation in the field of tourism.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+8 Sep 2022
+Internationalization, cultural appreciation and institutional governmentality for quality control in transnational higher education cooperation: An empirical assessment
+PONE-D-22-11647R2
+Dear Dr. Wang,
+Additional Editor Comments (optional):
+As long as all the comments of the reviewers have been addressed neatly, which they (especially Reviewer 1) also accepted, and I can also see that the manuscript has improved a lot, I wish to support the publication of the paper in the journal.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: I must congratulate the authors for the hard work. The revised manuscript looks good. I wish them all the best with their future research.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Yaw Owusu-Agyeman
+**********

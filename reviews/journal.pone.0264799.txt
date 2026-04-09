@@ -1,0 +1,55 @@
+
+18 Mar 2022
+PONE-D-22-04674MafB, WDR77, and ß-catenin interact with each other and have similar genome association profilesPLOS ONE
+Dear Dr. Struhl,
+thank you for submitting your manuscript to PLOS ONE. After careful consideration, and having read the manuscript myself, I concur with the Reviewer that it has many merits but does not fully meet PLOS ONE’s publication criteria as it currently stands. Specifically, I would focus on point 1 raised by the Reviewer. Point 2 would be a plus, but I don't think it is mandatory, as the data currently stands.
+Thereafter, I invite you to resubmit a revised version of the manuscript.
+Please submit your revised manuscript by May 02 2022 11:59PM. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Roberto Mantovani
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+[This work was supported by grants from the National Institutes of Health to KS (CA 107486) and ZW (HG009446).]
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+ [HHS | National Institutes of Health (NIH):Lizhi He,Kevin Struhl CA107486; HHS | National Institutes of Health (NIH):Mingshi Gao,Henry Pratt,Zhiping Weng HG009446]
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+4. PLOS ONE now requires that authors provide the original uncropped and unadjusted images underlying all blot or gel results reported in a submission’s figures or Supporting Information files. This policy and the journal’s other requirements for blot/gel reporting and figure preparation are described in detail at https://journals.plos.org/plosone/s/figures#loc-blot-and-gel-reporting-requirements and https://journals.plos.org/plosone/s/figures#loc-preparing-figures-from-image-files. When you submit your revised manuscript, please ensure that your figures adhere fully to these guidelines and provide the original underlying images for all blot or gel data reported in your submission. See the following link for instructions on providing the original image data: https://journals.plos.org/plosone/s/figures#loc-original-images-for-blots-and-gels. 
+  
+In your cover letter, please note whether your blot/gel image data are in Supporting Information or posted at a public data repository, provide the repository URL if relevant, and provide specific details as to which raw blot/gel images, if any, are not available. Email us at plosone@plos.org if you have any questions.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript by He et al. describes the physical and genomic association between MafB, WDR77 and β-catenin, three proteins belonging to different families that have been previously reported to be involved in cellular transformation processes. This is a descriptive work by an excellent team with a solid expertise in genomic studies. It is not clear to me whether this a resubmission to Plos One journal or a transfer from another journal, as a Rebuttal letter has been attached by the Authors. Anyway, I have read the answers to Referees’ comments and I agree with the Authors that these results could be useful for the research activity of other scientists studying the role of MafB, WDR77 and β-catenin proteins. In the absence of functional data that would allow to submit the manuscript to higher impact journals, Plos One is the appropriate journal.
+1. I respect the frankness of the Authors that stated that the rationale of the work rose from unrelated observations on β-catenin interactors and MafB. Despite this, I believe that the first paragraph of the Results section does not give the reader a clear idea about the research. The Authors reported the reference to their previous works on YAP/TAZ and S100A8/A9, but, as they stated in their Rebuttal, these works are not linked to the present one. I believe that the first paragraph should be differently elaborated to give the reader a better understanding of the work.
+In the first and third paragraphs, the Authors refer to mass spectrometry experiment that allows to identify WDR77 as β-catenin interactor. Are these results published or can the Author provide some details?
+2. I believe that the results would be of great interest to other scientists if the Authors could identify transcription factor binding sites within MafB, WDR77 and β-catenin ChIP-Seq data. Moreover, it would be useful if the Authors could add GO/KEGG analysis of RNA seq profiles. In particular, which are gene categories of differentially expressed genes overlapping between the three transcriptional profiles from RNAi cells showed in Figure 5A-B?
+Minor:
+-The MCF10A-ER-SRC cellular model has been previously used and described by the Authors, but I suggest to add at least that tamoxifen treatment is used to induce Src-mediated transformation (second paragraph of the results section:” …in the presence of tamoxifen”) to help readers that did not read previous works.
+- Statistical analysis should be added for the histograms showed in Fig. 1D-E.
+- Page 7: the Authors described H3K4me3 and H3K27ac as markers of +1 nucleosome position but they show only H3K4me3 Fig.4C; I suggest to remove H3K27ac from the description.
+- Please, edit “CRIPSR” in Figure 1A, and “ß-catenin siRN” in Fig. 1D, “noramlized ChIP-seq signal” Fig. 3A.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No

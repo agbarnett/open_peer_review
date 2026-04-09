@@ -1,0 +1,164 @@
+This paper was transferred from another journal. As a result, its full editorial history (including decision letters, peer reviews and author responses) may not be present.
+
+22 Apr 2021
+PONE-D-21-07038
+The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19
+Dear Dr. Navar,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by 15 May. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Francesco Di Gennaro
+Additional Editor Comments:
+Dear Authors follow reviewer suggestion to improve your paper.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for providing the following Funding Statement: 
+"This study was supported by Cerner Corporation who provided access to the dataset and employee time to participate on the research study. The dataset for this study was created by Cerner for use by academic researchers with support from Amazon Web Services, and is available for access to external researchers upon request. Ann Marie Navar and Eric Peterson receive support for consulting to Cerner Corporation for activities outside of this work, but were not compensated for work on this analysis. Rob Taylor, Qingjiang Hou, and Stacey Purinton are employees of Cerner Corporation. They were not compensated for their work on this study beyond their regular salary for employment with Cerner."
+We note that one or more of the authors is affiliated with the funding organization, indicating the funder may have had some role in the design, data collection, analysis or preparation of your manuscript for publication; in other words, the funder played an indirect role through the participation of the co-authors.
+If the funding organization did not play a role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript and only provided financial support in the form of authors' salaries and/or research materials, please review your statements relating to the author contributions, and ensure you have specifically and accurately indicated the role(s) that these authors had in your study in the Author Contributions section of the online submission form. Please make any necessary amendments directly within this section of the online submission form.  Please also update your Funding Statement to include the following statement: “The funder provided support in the form of salaries for authors [insert relevant initials], but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.”
+If the funding organization did have an additional role, please state and explain that role within your Funding Statement.
+Please also provide an updated Competing Interests Statement declaring this commercial affiliation along with any other relevant declarations relating to employment, consultancy, patents, products in development, or marketed products, etc.  
+Within your Competing Interests Statement, please confirm that this commercial affiliation does not alter your adherence to all PLOS ONE policies on sharing data and materials by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests). If this adherence statement is not accurate and  there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Please know it is PLOS ONE policy for corresponding authors to declare, on behalf of all authors, all potential competing interests for the purposes of transparency. PLOS defines a competing interest as anything that interferes with, or could reasonably be perceived as interfering with, the full and objective presentation, peer review, editorial decision-making, or publication of research or non-research articles submitted to one of the journals. Competing interests can be financial or non-financial, professional, or personal. Competing interests can arise in relationship to an organization or another person. Please follow this link to our website for more details on competing interests: http://journals.plos.org/plosone/s/competing-interests
+3. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Reviewer comment for PLOS ONE
+Date of review: 14 April 2021
+Manuscript Number: PONE-D-21-07038
+Article Type: Research Article
+Full Title: The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19
+Suggested title: The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19 in the United States
+Corresponding Author: Ann Marie Navar, UT Southwestern: The University of Texas Southwestern Medical Center, Dallas, UNITED STATES
+Reviewer comment
+Summary of the research and overall impression
+This manuscript identified whether race and ethnicity impact on risk of death among those hospitalized for COVID-19 in the US. Generally, the paper presented well. The introduction is short and required to add more data about the burden of the disease and background situation in the hospitals or States included in the study. Methods session presents how the analysis was carried out. Results are comprehensive, however, a few editions are suggested.
+BTW, I don’t see the line number in the manuscript in PDF version and it is difficult to provide the direction of the comments.
+Discussion on specific area of improvement
+Abstract
+Well-written and clearly presented abstract.
+1. Results - line 3: “[22.7% vs 20.8%, unadjusted 1.12 (95% CI 1.02-. I think it should be unadjusted OR 1.12.
+2. The paper was said “in adult”, please add the mean (or median) age of participants in the results.
+Introduction
+3. Introduction is too short; it is incomplete information. Suggest to add more data on COVID-19 pandemic outbreak prevalence of (burden) across the US, differences in States, proportion of hospitalized patient and mortality rates, etc. (burden of disease)
+4. Suggest to include other studies findings on race and ethnicity diversion on disease burden and mortality in other infectious diseases and any literature on COVID-19 in other countries. No data is the data to present. (gap in knowledge)
+5. Suggest to add how race and ethnicity can influence for diagnosis and treatment for preventing life-threatening situation or reduce the mortality in certain diseases, more appropriately with infectious diseases or COVID-19. (gap in knowledge)
+6. Lastly, why this study is important to conduct (justification) and how this study can provide information or input to the health system.
+Materials and methods
+7. Pg. 10, 3rd paragraph, 1st line: “ICD-10 diagnosis codes” – please spell this out and add reference.
+8. Pg. 10, 3rd paragraph, 3rd line: “Cerner EHR” – please spell this out. Add reference for using cut off point for obesity.
+Results
+9. Pg. 12, 1st paragraph: to add text about age (said “younger”, but please specify), sex and geographic distribution of cases
+10. Pg. 12, the title is not matched with the text, it is talking about “demographic characteristics and comorbidity of the cases”, not “race and ethnicity”
+11. Again, the paragraph does not refer to any table. Please add reference table for the data presented in the text.
+12. Tables: the data (numbers) is suggested to right-aligned, rather than centered.
+13. Pg. 18, table 3: Please add odds ratios (OR) and CI in the tables. You may use * for p-values that are significant (eg. *p<0.001, #p<0.01)
+Discussion and conclusions
+14. Pg. 19, 1st paragraph, line 1: please use the exact sample size, do not use “nearly 20,000 patients” and use “52 health systems”.
+15. Pg. 20, 2nd paragraph: line 1-3: please add reference.
+Recommendation
+I would like to propose the minor revision for this manuscript.
+Please add the ethical approval number from Duke University.
+Reviewer #2: The investigators conducted a retrospective cohort study to evaluate, among patients hospitalized for COVID-19, the differences in race and ethnicity and their association with death.
+The manuscript is presented clearly and concisely. The following comments may help in improving the manuscript.
+General
+1. Persons/patients, consider using one uniformly.
+2. Mortality/death consider using one uniformly.
+3. clinical comorbidities/comorbidities consider using one uniformly.
+Methods
+1. “..we utilized any available encounter within 3 years of and including the analysis hospitalization”. Consider revising this text for clarity.
+2. “those discharged on hospice”. Should it be“to” instead of “on”?
+Results
+1. Consider reporting, % of participants for whom data on race and ethnicity were missing.
+2. “Compared with White adults, black adults had similar rates of myocardial infarction, but higher rates of myocardial infarction, stroke, ventricular tachycardia, and pulmonary embolism.” In this sentence, should the text “but higher rates of myocardial infarction” be omitted?
+Tables
+1. Expand abbreviations in footnotes (e.g. ESRD)
+2. There is no data in Table 1 on complications, and survival, consider revising the Table title
+Discussion
+1. Outcome (mortality) data for a significant proportion of participants (about 31%) was not available. Consider mentioning this as a limitation and its likely implications.
+Conclusion
+1. Consider revising to exclude redundant text and for clarity.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Poe Poe Aung
+Reviewer #2: No
+
+5 Jul 2021
+The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19
+PONE-D-21-07038R1
+Dear Dr. Navar,
+Stanislaw Stepkowski
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Reviewer comment for PLOS ONE
+Date of review: 23 June 2021
+Manuscript Number: PONE-D-21-07038_R1
+Article Type: Research Article
+Full Title: The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19
+Corresponding Author: Ann Marie Navar, UT Southwestern: The University of Texas Southwestern Medical Center, Dallas, UNITED STATES
+Reviewer comment
+Summary of the research and overall impression
+The manuscript was revised according to the reviewer’s comment, improved and ready for publication after revising the title by adding “in the United States”.
+Discussion on specific area of improvement
+Suggested title: The Impact of Race and Ethnicity on Outcomes in 19,584 adults Hospitalized with COVID-19 in the United States [to add the name of the country at the end of the title]
+Recommendation
+I would like to accept this manuscript.
+Reviewer #2: The authors provided point-by-point response to the reviewers comments and have improved the manuscript.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Poe Poe Aung
+Reviewer #2: No

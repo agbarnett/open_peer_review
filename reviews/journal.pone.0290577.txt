@@ -1,0 +1,102 @@
+
+12 May 2023
+PONE-D-23-09029The COVID-19 Related Stress and Social Network Addiction among Chinese College Students: A Moderated Mediation ModelPLOS ONE
+Dear Dr. Li,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 26 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Alejandro Vega-Muñoz, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+3. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors presented a study on the topic: “The COVID-19 Related Stress and Social Network Addiction among Chinese College Students: A Moderated Mediation Model” which examines the relationship between COVID-19 related stress (CRS) and social network addiction (SNA) among Chinese university students. In this study, the authors adopted a social cognitive theory and gender differences as determining factors in their theoretical framework. Both factors investigate the mediating role of fear of missing out (FoMO) as well as the moderating role of gender. There are few comments I wish to address as follows:
+1. The hypothetical problem is not very clear; I would suggest that the authors outline their hypothesis by identifying the hypothesis and stating them in order. Authors can use bulletins to do that.
+2. Authors should relate their findings according to the stated hypothesis.
+3. The tables in the article should be properly drawn. Some lines are hidden with text hovering over the lines.
+4. According to the gender influence in the study, can the authors provide an explanation or theoretical justification for why males might be more affected by FoMO compared to females.
+Reviewer #2: Hypotheses 2 and 3, when speaking of a "mediating or moderating role", it is not clear in what sense. These hypotheses should be stated more concretely.
+In the method, the steps to be followed for the validation of the instruments and the rest of the analysis should be indicated more clearly and in a logical order. The presentation of results should also follow this order, keeping the concordance between each item of the research.
+In the practical contributions, the first part emphasizes Covid. A broader context should be given based on the current situation, which is no longer a health emergency. On the other hand, emphasis is placed on the actions to be taken by university teachers, however, the study does not focus on them; in this regard, the practical contributions should be related to the main line of research of this study.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+11 Aug 2023
+The COVID-19 Related Stress and Social Network Addiction among Chinese College Students: A Moderated Mediation Model
+PONE-D-23-09029R1
+Dear Dr. Li,
+Alejandro Vega-Muñoz, Ph.D.
+Additional Editor Comments (optional):
+Both reviewers have accepted the manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The publication exhibits a remarkable and sophisticated writing style, showcasing the mastery of English language construction. The study was meticulously conducted, reflecting a commendable commitment to adhering to research ethics and best practices. The authors demonstrated a clear understanding of ethical considerations, ensuring the well-being and rights of participants throughout the research process.
+The comprehensive nature of this study is evident, with the authors leaving no stone unturned in their pursuit of knowledge and understanding. The methodology employed was sound, fostering confidence in the validity and reliability of the results obtained. The data analysis was both robust and thorough, leading to meaningful insights and valuable contributions to the field of study.
+It is evident that the authors have taken great care in crafting their publications and presenting their findings in a logical and coherent manner. The clarity of their arguments and the organization of the content make it an engaging read for both experts and non-experts in the subject matter.
+Given the rigour and high quality of this research, the publication is undoubtedly suitable for inclusion in this esteemed journal. Its significance and relevance to the broader academic community make it a valuable addition to the body of literature in the field.
+While the publication meets the standards for this journal, it is always beneficial to invite external peer reviews to further validate the research and provide constructive feedback. This process can strengthen the credibility of the study and ensure that potential blind spots or biases are addressed.
+Additionally, I would like to commend the authors for their adherence to research ethics and responsible conduct. Ethical considerations are of utmost importance in research, and their conscientious approach provides a positive example for others in the academic community.
+Finally, I suggest that the authors should consider sharing their research data openly, if possible, to promote transparency and facilitate reproducibility. This practice not only benefits the research community but also upholds the principles of scientific integrity.
+Overall, the publication is a testament to the author's dedication, expertise, and adherence to research ethics, making it a worthy addition to the journal's prestigious collection of scholarly works.
+Reviewer #2: The authors have answered the questions of the first round of review, making the required adjustments in the article.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

@@ -1,0 +1,125 @@
+
+21 Nov 2019
+PONE-D-19-18946
+Disaggregated Level Child Morbidity in Bangladesh: An Application of Small Area Estimation Method
+Dear Dr. Kawsar,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR: Please insert comments here and delete this placeholder text when finished. Be sure to:
+Indicate which changes are required versus recommended for acceptanceAddress any conflicts between the reviewsProvide specific feedback from your evaluation of the manuscript
+Indicate which changes are required versus recommended for acceptance
+Address any conflicts between the reviews
+Provide specific feedback from your evaluation of the manuscript
+==============================
+We would appreciate receiving your revised manuscript by Jan 05 2020 11:59PM. When you are ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+Tabassum Insaf
+When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+1. Our internal editors have looked over your manuscript and determined that it may be within the scope of our Mathematical Modelling of Infectious Disease Dynamics Call for Papers. The Collection will encompass a diverse range of research articles on using mathematical models to better understand infectious diseases. Additional information can be found on our announcement page: https://collections.plos.org/s/mathematical-disease-dynamics. If you would like your manuscript to be considered for this collection, please let us know in your cover letter and we will ensure that your paper is treated as if you were responding to this call. If you would prefer to remove your manuscript from collection consideration, please specify this in the cover letter.
+2. Please note that PLOS ONE has specific guidelines on software sharing (http://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-software) for manuscripts whose main purpose is the description of a new software or software package. In this case, new software must conform to the Open Source Definition (https://opensource.org/docs/osd) and be deposited in an open software archive. Please see http://journals.plos.org/plosone/s/materials-and-software-sharing#loc-depositing-software for more information on depositing your software.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+4. Please amend either the title on the online submission form (via Edit Submission) or the title in the manuscript so that they are identical.
+5. We note that [Figure(s) 4,5,6] in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+1.    You may seek permission from the original copyright holder of Figure(s) [4,5,6] to publish the content specifically under the CC BY 4.0 license. 
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+2.    If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: p8, I would avoid using language that refers to the outcomes as "event" as it implies these are incident rates, these are from a survey so they are prevalences, and the event language should not be used. I would suggest using the term "outcome"
+What software was used to do the analysis?
+Where are the sub-district level variables derived from? the DHS itself? specify source and if you derived them, how this was done
+In appendix table 1, instead of pliterate and other variable names from the computer software, spell these out (e.g. % literate), same with the sub-district level variable names
+I don't think the figure 1 is necessary
+I think the figures in figure 3 on the right would be better presented as points,vs the line, also i'm not sure from the figure what the solid black line represents
+Figure 4, remove the blue lines between districts, use a thin black line instead. Also the islands on the ocean side of the country are basically illegible because there are so many, would simplified shapefile be a better choice for this presentation?
+Have the district and sub-district maps have the same scales so the colors are comparable between the two levels.
+I would recommend a formally defined Discussion and Conclusion section of the manuscript
+Grammatical notes
+p5. change area level method to area level methods
+p5. change due to zero observation to due to zero observations
+p5. change however not possible to estimate to however it is not possible to estimate
+p7. change source of drinking water, sanitation to source of drinking water, and household sanitation
+p8, multilevel is misspelled as multilvel
+p8. problematic is misspelled as problemtic
+p8 change discussed in model development section to discussed in the model development section
+Reviewer #2: This is an interesting paper about the application of a small area estimation (SEA) method to child morbidity in Bangladesh. The paper is useful as it extends a technique used by the World Bank for continuous variable (consumption per capita and nutrition Z-score) to dichotomous variables on ARI and diarrhea. The authors apply the method to 2011 data from the BDHS and Bangladesh census.
+A few comments:
+- It will be good to present more information on applications of SEA to other countries, even if using continuous variable. Particular emphasis could be discussing any validation studies or comparisons of the small area estimates obtained with SEA with estimates obtained from other sources for the small areas or with estimates that came from a census (or sample from a census).
+- The authors make a good argumentation on the fitness of the model, however, the figures were barely readable. For a method based largely on figures, it was not good.
+- In page 15, the authors discuss Table 3. The text says “Table 3 indicates that the mean …” but the estimates presented are from the “Median” column in Table 3.
+- This application had the benefit of having the DHS and the census sample from the year. It will be good for the authors to elaborate on the application of SEA in other situations of data availability that are more prevalent in developing countries, such as, a number of years of separation between the DHS and a census (an its sample), or having a limited number of common variables in the two data sources.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+27 Apr 2020
+Disaggregated Level Child Morbidity in Bangladesh: An Application of Small Area Estimation Method
+PONE-D-19-18946R1
+Dear Dr. Kawsar,
+Within one week, you will receive an e-mail containing information on the amendments required prior to publication. When all required modifications have been addressed, you will receive a formal acceptance letter and your manuscript will proceed to our production department and be scheduled for publication.
+Shortly after the formal acceptance letter is sent, an invoice for payment will follow. To ensure an efficient production and billing process, please log into Editorial Manager at https://www.editorialmanager.com/pone/, click the "Update My Information" link at the top of the page, and update your user information. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org.
+With kind regards,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: Review Comments to the Author:
+NO ADDITIONAL COMMENTS.
+I feel that the authors have addressed my concerns and the manuscript acceptable for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: GUSTAVO ANGELES

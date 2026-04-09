@@ -1,0 +1,64 @@
+
+26 Jan 2023
+PONE-D-22-01741Cervical kinematic change after posterior full-endoscopic cervical foraminotomy for disc herniation or foraminal stenosisPLOS ONE
+Dear Dr. Kim,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 09 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.​If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating in your Funding Statement: 
+"This work was supported by the New Faculty Startup Fund from Seoul National University. This study was supported by grant no. 04-2021-0540 from Seoul National University Hospital research fund."
+Please provide an amended statement that declares *all* the funding or sources of support (whether external or internal to your organization) received during this study, as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.  Please also include the statement “There was no additional external funding received for this study.” in your updated Funding Statement. 
+Please include your amended Funding Statement within your cover letter. We will change the online submission form on your behalf.
+3. Thank you for stating the following in the Competing Interests section: 
+"I have read the journal's policy and the authors of this manuscript have the following competing interests: The corresponding author (CHK) is a consultant of RIWOspine GmBH. All the other authors declare that they have no conflicts of interest concerning the materials/methods used in this study or the findings described in this paper. No benefits in any form have been or will be received from any commercial party related directly or indirectly to the subject of this manuscript."
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: ""This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared. 
+Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf.
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+********** 
+5. Review Comments to the Author
+Reviewer #1: Dear authors, I congratulate your work on this subject.
+Line 51, 359, 374: please explain in the discussion, why cervical curvature become more lordotic while disc height not changed? (is there other explanation than due to pain relieve, line 412 ?)
+Reviewer #2: Thank you for your submitting this research and hopefully you can overcome the limitations
+Reviewer #3: This is an excellent and well-made article. The topic is of interest in the neverending debate on what is the best approach for foraminal stenosis or intraforaminal disc herniation. Unfortunately, the sample size is relatively small, but the author accounts for this in the limitation section.
+I will add some minor revisions to the discussion part:
+1) Please add a paragraph specifying the best indications for PECF. More specifically, what are the best candidates from and anatomical (i.e., neck lordosis, shape, etc.) and from type of pathlogy point of view (i.e., foraminal stenosis, disc herniation). It is relatively unclear to the readers and is not specified well enough in the text.
+2) Please add a paragraph explaining to the readers what is the reasoning process that the spine surgeon should keep in mind in patient selection after considering the results from your analysis.
+********** 
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Raed J. Chasib
+Reviewer #2: No
+Reviewer #3: Yes: Enrico Giordan
+**********

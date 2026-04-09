@@ -1,0 +1,96 @@
+
+10 Feb 2020
+PONE-D-19-35238
+Information feedback in relative grading: Evidence from a field experiment
+Dear Prof. Suzuki,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Though Reviewer 4 rejected PONE-D-19-35238, the reviewer provided many valuable and constructive comments. Considering reviewers’ useful comments and the interesting topic of the manuscript, I would like to give you a chance to revise your manuscript. The revised manuscript will undergo the next round of review by the same reviewers.
+We would appreciate receiving your revised manuscript by Mar 26 2020 11:59PM. When you are ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+Baogui Xin, Ph.D.
+When submitting your revision, we need you to address these additional requirements:
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at http://www.plosone.org/attachments/PLOSOne_formatting_sample_main_body.pdf and http://www.plosone.org/attachments/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The authors conducted a randomized controlled trial at a Japanese university to examine the impact of relative performance information feedback of students' performance on their examination score under the relative. Their results show that relative performance information feedback has a significantly positive impact on the students' final examination score on average, but that the average positive impact is derived by the improvement of low-performing students.
+In general, this is not a large sample for RCT, but I think it’s an interesting topic and authors perform a good study design and data analysis. However, I fear that this will require quite some work with respect to the paper.
+First, although authors claim that it would be generally difficult for a student in the control group to identify a student in the treatment group with exactly the same score and it leads to the ITT effects may underestimate the average causal effects on those in fact treated, my major concern still the information spill over that students in both the control and treatment groups sit in the same classroom can exchange their information from letters. Actually, it is easy for students to exchange their score and rank information in the same classroom, especially in the classroom 1 (only 40 students), and students may guess why only a part of students receive rank information that would disturb the treatment effect. Authors should make more clarification or verification about this problem.
+Second, authors should report more details on experiment manipulation. For example, how they avoid different pass standards for exam scores from different instructors? Did students pass exam depend on specific distribution of all the scores, and whether students know it? Whether there was a strict demand from school on distribution of every score level (A/B/C/D) for instructors?
+Third, authors can do more work on data analysis. The paper presents some reasons that authors do not report robust standard errors on classroom level. I want to know whether they can try to cluster at the other level, such as dormitory. The paper does not report the variables they controlled in the regression. In addition, whether they can try to use the difference between the midterm exam score and the final exam score as the explained variable.
+Reviewer #2: Review overview:
+In this paper, the authors look at how effort responds to information about relative position in a classroom graded on the curve. The primary treatment arm randomly assigns students to receive information about their midterm exam grade relative to the population of students. Then, the authors measure how this affects performance on the final exam. As a result of this information intervention, higher ability students reduce their motivated relative to lower ability students.
+This paper has chosen an important topic and an ambitious approach to studying it. I have no concerns about this being of broad interest.
+Please see attached file for the remainder of the review.
+Reviewer #3: Report on PONE-D-19-35238: Information feedback in relative grading: Evidence from a field experiment by Shinya Kajitani, Keiichi Morimoto, & Shiba Suzuki
+Summary: The authors report the results from a field experiment with economics students testing the impact of providing relative performance feedback in an intermediate exam on students' performance in the final exam. They find that the intermediate relative performance feedback has a significantly positive effect on students' performance in the final exam on average, and that this effect is mainly driven by students who performed badly in the intermediate exam.
+Comments:
+This paper reports interesting results from a well-conducted field experiment in a relevant setting with real incentives. I am in general quite positive about the paper, however, I do have some comments and questions that the authors should or could address in a revision.
+Major comments
+1) Generalizability of the result that relative performance feedback mainly affects low performers: One of the main results of the experiment, which the authors mention already in the abstract, is that the relative performance feedback had an effect mainly by increasing the performance of students who performed badly in the intermediate exam. While this effect is interesting and is supported by the data analysis of the current experiment, it seems important to state that this effect cannot simply be generalized to other settings in which relative performance feedback is given. From a theoretical perspective, on which groups relative performance feedback has an effect likely depends on the distribution of performance or skills differences in the population (and, of course, people's knowledge about or perception of these distributions) and on the exact incentive structure. If the incentive structure is such that only very top performers are rewarded or if initial low performers have much lower skills (higher effort costs) than their higher-skilled competitors, then it may well be the case that relative performance feedback actually demotivates low performers and has a more motivating effect on people in the middle of the skill / performance distribution. Thus, while I believe the result the authors find in the current setting is interesting, I think it should be made clear that one cannot automatically expect it to generalize to other settings where relative performance feedback is used.
+2) Observations of students who did not take the final exam: Currently the authors set the scores of students who did not take the final exam to zero. This seems to be a strong assumption that is not necessarily warranted. Another approach would be to simply treat these observations as missing and exclude them from the analyses. As a robustness check, I would like to see the results of the regression analyses if this way of dealing with these cases is used. Moreover, I find the authors' use of the "Intention to Treat" (ITT) effect in the paper confusing. To me an ITT effect would much rather be including those students who were randomized into a certain group but did not receive the treatment (i.e., the feedback).
+3) Estimators used in regression analyses: what estimator was used in the regressions? I assume the authors used a Tobit-estimation, as they speak about left-censoring. If this is the case, I doubt whether it is necessary. It seems perfectly fine to simply use OLS to estimate the effects of treatment interventions on test scores with a lower bound at zero (see, e.g., Levitt et al., 2016). Using OLS would also allow dropping the marginal effects columns, as the coefficients can be directly interpreted. In any case, the authors should be clear about what estimator they used and why.
+Minor comments
+4) Information / knowledge about incentive structure: The authors write that the "students in Economics II knew the grading scheme … because the instructors already explained the grading scheme in detail at the beginning of the second semester and this grading scheme had already been employed in Economics I" (p. 8). Given that students' knowledge about the relative performance incentive structure created by the grading scheme is a key element of the experiment and the paper, I think it would nice to provide more details on the exact information that students received. Could, for instance, slides or other materials that were used to explain the grading scheme to students be shown in an Appendix? Or, even better, do the authors have any data on students' understanding of the grading system and the incentive structure it creates? The system seems relatively complicated with quite some discretion on the part of the graders, so it is not completely obvious that the students would have understood how the system works exactly and what incentives it creates. Any additional evidence that can be provided in this regard would therefore be helpful and make the interpretation of the experimental results more convincing.
+5) Were the graders blind to the treatment a certain student had been assigned to? Ideally, they would have been. In any case, this information should be added.
+6) If available, please provide some more information on demographics for the randomization checks in Table 1 (e.g., gender or any other available data).
+7) I think the paragraph on how randomization avoids pitfalls of regression to the mean (p. 10) can be deleted. This point is obvious to anybody who has understood how randomization works, and the paragraph does little more than divert the reader's attention.
+8) I don't understand how Table 5 allows addressing the point that "relative performance information feedback could positively affect high-performing students more than low-performing students, even if the rank for the high-performing students has less tangible benefits" (p. 15). The only thing that the regressions reported in Table 5 do differently compared to those in Table 4 is to use a non-binary intermediate performance variable (the score in the intermediate exam) in the interaction term. This is a relevant robustness check, as the dummy for top-half vs. bottom-half in the intermediate exams contains less information than the quasi-continuous score variable. I would suggest that the authors motivate Table 5 that way, or alternatively, explain better how this analysis addresses the point quoted above.
+9) Moreover, the authors could consider mean-centering Y_M (the score in the intermediate exam) in the regressions reported in Table 5. Without mean-centering (as is currently the case) the effect of the treatment Dummy D is estimated at Y_M = 0, which is a very special case.
+10) Wording / language:
+P. 2: "efficient way of eliciting the incentives": "eliciting" doesn't seem to be the right word to me here. Maybe "increasing" would be better?
+P. 3: First sentence of the second paragraph (starting with "revealing the role of…") needs to be rewritten.
+P. 6: First sentence in second full paragraph: "The randomized controlled trial was conducted immediately after…": I think it would be more appropriate to write something like "The experimental intervention was implemented immediately after…."
+P. 9: I would suggest calling Table 1 "Randomization Checks" instead of "Confirmation of randomness"
+Congratulations to the authors on a very nice paper and all the best for their future work!
+Levitt, S. D., List, J. A., Neckermann, S., & Sadoff, S. (2016). The behavioralist goes to school: Leveraging behavioral economics to improve educational performance. American Economic Journal: Economic Policy, 8(4), 183-219.
+Reviewer #4: This paper reports results of an RCT study on the effect of relative performance information feedback on students’ examination score in a compulsory subject in a Japanese university. Authors find a significant positive effect but the average treatment effect is driven by improvement of scores of low-performing students but not high-performing students. Though there are a few studies on effect of relative grading feedback on scores, there is a dearth of studies on effect of relative grading feedback on scores in a real educational environment. In this context, the study contributes to vast empirical literature on grade incentives. However, there are major issues that need to be addressed. Please find below my specific and general comments.
+Specific Comments:
+1. The design of experiment has not been explained clearly. For instance, what was the logic behind having Classroom 1 with higher ability students being selected into it? Is it because they are deemed to be more motivated than others or the stratification was driven by other aspects? What were the variations for the three other classrooms? Was there a neutral framing in the group assignment?
+2. Any insights on the power calculations would have been useful to understand if the cell sizes are statistically justified?
+3. The experiment procedure suggests several threats to internal validity. Of particular concern are the spill over effects. The authors have raised concerns about both treatment and control groups sitting in the same classroom. Was there any control over communications among students about the different grading patterns?
+4. How does the treatment result in the observed impact? There is a debate on how relative grading influences motivation that has not been discussed. Aspects of direct competition among peers is not evident.
+5. Does the relative performance feedback affect self- perceived ability, cognitive tactics, strategies, reinforcing cues, or identity rather than directly affecting effort? How does the effort incentives differ for those with low and high grades?
+6. Theoretically relevant interaction effects and robustness checks could be examined. E.g. past academic history and relative grading.
+7. Are there gender gaps in performance such that the sex-ratios in classrooms need to be controlled for?
+8. Role of teachers is not clear in this experiment. There is no information on teacher ability differences that may impact students’ scores. This is particularly disconcerting because feedback and instructions have interactions that have been shown to impact performance.
+General Comments:
+1. The paper is generally well written but there are a few typos that can be addressed.
+2. The review of literature can improve, and major theoretical aspects relevant to the paper can be developed.
+3. Please verify the claim “By contrast, no existing study examines the impact of relative performance information feedback on student incentives under relative grading in an actual educational environment.”
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Jun Luo
+Reviewer #2: No
+Reviewer #3: Yes: Manuel Grieder
+Reviewer #4: No

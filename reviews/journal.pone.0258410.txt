@@ -1,0 +1,106 @@
+
+7 Sep 2021
+PONE-D-21-25428MNI: An enhanced multi-task neighborhood interaction model for recommendation on knowledge graphPLOS ONE
+Dear Dr. Hao Zhang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct. 6th. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Qi Zhao
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for your submission to PLOS ONE. Before we can proceed, we kindly ask you to address the following concerns:
+Upon internal assessment of your manuscript, we found that it is similar to one of your previous works published in PLOS ONE: "Multitask Feature Learning Approach for Knowledge Graph Enhanced Recommendations with RippleNet".
+PLOS policy specifies that if a submitted study is similar to previous work, as appears to be the case in this instance, authors should provide a sound scientific rationale for the submitted work and clearly outline how the new submission differs from the past work. The manuscript should also include, if appropriate, a discussion of the current study in context of previous work. We note that the previous work was not cited in your list of references, nor was it included in the section "Related Works". We would expect it to be included in both of these sections.
+We also note that numerous citations in your list of references are conference proceedings. While we do allow for this, we would expect the majority of your statements to be supported by reference to peer-reviewed literature. As such, we suggest that you support your statements with a greater number of peer-reviewed citations.
+Furthermore, you have used LastFM, MovieLens and Book-Crossing datasets; however, we ask you to provide the URLs for these sites, and to additionally provide the search terms or other details needed to extract the exact data used in the study. The manuscript should provide sufficient details such that any reader could readily replicate the results of your study. Without details on how you accessed the exact data, this is not possible.
+We appreciate your attention to these queries and look forward to your response.
+3. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service. 
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://learn.aje.com/plos/) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services.  If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+Upon resubmission, please provide the following:
+The name of the colleague or the details of the professional service that edited your manuscript
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)”
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This paper describes a recommendation system on knowledge graph, which deploys neighbor-neighbor interactions to explore high-order relations. Then the algorithm applies a cross & compress unit to combine the recommendation system and knowledge graph, whereby those two modules can interact and share latent features to improve the recommendation precision.
+Pros:
+The algorithm explains well understood and the experiment supports the algorithm assumption and shows improvement compared with other baselines.
+Cons:
+1.Figure 2 is the whole structure of the framework, however, needs more explanations in the paragraph.
+2.There are some mistakes of English grammar in the abstract and the introduction part, needs to correct them. For example, Therefore, researchers tend to integrate side information which includes user… “which” should be changed to “that”
+3.The future work should be discussed in detail.
+4.The caption of Figure 1 is not self-explained. The caption should state which one is user, item, or attribute.
+5.In the experiment, Figure 5-7 the yellow line is not clear enough to recognize. Also, the captions should be in more detail.
+Reviewer #2: The algorithm MNI adopts the separation of recommendation system and knowledge graph, and use a bridge unit to share each latent feature. It also applies neighbor-neighbor reconstruction instead of user-item interaction, containing more information about user-user interaction, item-item interaction, and a deep understanding of the high-order relations.
+However, some minor correction should be made:
+1. Reference format is not consistent. The authors should double check and revise it.
+2. The algorithm 1 on page 10 should be explained more in detail. It is fuzzy when just looking at the algorithm.
+3. The blocks and colors in the figure 2 is not well explained. Are there any different meaning about different shapes and colors? The author needs to be clearer.
+4. About the recommendation module, the author use 2-layer GAT. Could you explain GAT as for the reader is hard to follow.
+5. Minor typos, e.g., Missing space between citation and text.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Zhen Liu
+Reviewer #2: No
+
+27 Sep 2021
+MNI: An enhanced multi-task neighborhood interaction model for recommendation on knowledge graph
+PONE-D-21-25428R1
+Dear Dr. Hao ZHANG,
+Qi Zhao
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors have expounded the opinions I put forward in the last round of review, and the data description in the manuscript can also technically support the author's conclusions. It is hoped that the authors will check the English expression before the official publication of the manuscript.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

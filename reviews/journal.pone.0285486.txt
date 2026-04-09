@@ -1,0 +1,114 @@
+
+12 Mar 2023
+PONE-D-23-04438Benchmarking of novel green fluorescent proteins for the quantification of protein oligomerization in living cellsPLOS ONE
+Dear Dr. Chiantia,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 26 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Rajiv Kumar Kar, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+“We thank all the members of the Physical Biochemistry group for useful feedback. VD is grateful for
+373 support by an HFSP long-term postdoctoral fellowship (HFSP LT0058/2022-L). This work was partially
+374 supported by the Deutsche Forschungsgemeinschaft (DFG) project number 407961559 to S.C”
+We note that you have provided funding information that is currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+“Deutsche Forschungsgemeinschaft (DFG) project number 407961559 to S.C.
+www.dfg.de
+HFSP long-term postdoctoral fellowship (HFSP LT0058/2022-L) to V.D.
+www.hsfp.org
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. We note that you have included the phrase “data not shown” in your manuscript. Unfortunately, this does not meet our data sharing requirements. PLOS does not permit references to inaccessible data. We require that authors provide all relevant data within the paper, Supporting Information files, or in an acceptable, public repository. Please add a citation to support this phrase or upload the data that corresponds with these findings to a stable repository (such as Figshare or Dryad) and provide and URLs, DOIs, or accession numbers that may be used to access these data. Or, if the data are not a core part of the research being presented in your study, we ask that you remove the phrase that refers to these data.
+Additional Editor Comments:
+The authors are furthermore requested to submit the raw data of their experimental results in the supporting information. Authors must ensure the reproducibility of the results by providing explicit details of the methodologies (and protocols) involved in this work.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Petrich et al. compared the performance of several green fluorescent proteins in live cell imaging and tried to establish a benchmark for selecting appropriate tags for quantitative microscopy. The experiments were well-designed and supported by statistical analysis. The manuscript is well-written and suitable for PlosOne. However, it requires minor revisions to fix the following issues.
+1. What is the basis for selecting the linker sequences? What would be the result if the linker sequence were changed?
+2. In Figure 2A, to explain brightness, the authors used interquartile range (IQR), which has a scattered value compared to the mean of all readings. However, the authors did not explain the significance of IQR.
+3. The authors are recommended to mention the goodness of fit in Fig. S1D and Fig. S6. In
+4. Figure S6, the authors are recommended to improve the fitting as, in certain cases, the error is more than 20%.
+5. To follow the benchmark set by the authors, they should mention the curve fitting equations used in each analysis.
+6. The authors are recommended to provide a tabulated summary for the use of different FP tags based on the results of the current study. This will make it easier for readers to follow the outcomes of this study and apply them in their work.
+Reviewer #2: This manuscript is about the luminescent properties of some novel GFP variants. The authors have carried out the ‘number and brightness’ analysis as well as the scanning FCS. They have previously published similar work with other fluorescent proteins, keeping the same application (oligomerization) in the mind (e.g. Sci Rep. 2018; 8: 10634). This study, therefore, is an incremental contribution to the already published reports, and could be of use for researchers employing GFP variants for studying protein oligomerization. The study may be considered for publications provided the following minor issues are addressed:
+1. As it is a follow up study, the authors have to be careful about the plagiarised text. The sentence spanning lines 156-159 “To quantify the amount of non-fluorescent FPs, we consider all these processes together in a single parameter, the apparent fluorescence probability (pf), i.e. the probability of a FP to emit a fluorescence signal”, for example, is an identical copy from their previous work in Scientific Reports (2018). There could be other similar issues that might have been overlooked by the authors.
+2. Abstract: “several cellular functions”. Several is used to indicate more than two but not too many. I think “many cellular functions” will fit better in this sentence.
+3. The abbreviation FB is for ‘fluorescent protein’, and not ‘fluorescence protein’, I guess.
+4. “provided Fig S1A” should be “provided in Fig. S1A”.
+5. There are several typographical errors that the authors need to carefully check and correct.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+25 Apr 2023
+Benchmarking of novel green fluorescent proteins for the quantification of protein oligomerization in living cells
+PONE-D-23-04438R1
+Dear Dr. Chiantia,
+We’re pleased to inform you that your article has been adequately amended and has now been accepted for publication. However, it must meet all outstanding technical requirements.
+Best wishes and thank you for choosing PLOS One to publish your work.
+Within one week, you’ll receive an e-mail detailing any required amendments. When these have been addressed, you’ll be notified and your manuscript will be scheduled for publication.
+Rajiv Kumar Kar, Ph.D.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Petrich et al. compared the performance of several green fluorescent
+proteins in live cell imaging and tried to establish a benchmark for selecting appropriate
+tags for quantitative microscopy. The experiments were well-designed and supported
+by statistical analysis. The manuscript is well-written and suitable for PlosOne.
+They have fixed the issues and answered the queries convincingly.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

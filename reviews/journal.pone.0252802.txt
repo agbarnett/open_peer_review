@@ -1,0 +1,99 @@
+
+30 Mar 2021
+PONE-D-21-05421
+Health and wellness in the Australian coal mining industry: A cross sectional analysis of baseline findings from the RESHAPE workplace wellness program.
+Dear Dr. Bezzina,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 14 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Frank T. Spradley
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+3. Thank you for stating the following in the Financial Disclosure section:
+"This research was supported by funding from Coal Services Health and Safety Trust
+G1800980."
+We note that one or more of the authors are employed by a commercial company: "Ethos Health,"
+and
+We note that you received funding from a commercial source: "Coal Services Health and Safety Trust"
+a) Please provide an amended Funding Statement declaring this commercial affiliation, as well as a statement regarding the Role of Funders in your study. If the funding organization did not play a role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript and only provided financial support in the form of authors' salaries and/or research materials, please review your statements relating to the author contributions, and ensure you have specifically and accurately indicated the role(s) that these authors had in your study. You can update author roles in the Author Contributions section of the online submission form.
+Please also include the following statement within your amended Funding Statement.
+“The funder provided support in the form of salaries for authors [insert relevant initials], but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.”
+If your commercial affiliation did play a role in your study, please state and explain this role within your updated Funding Statement.
+b) Please also provide an updated Competing Interests Statement declaring this commercial affiliation and funder along with any other relevant declarations relating to employment, consultancy, patents, products in development, or marketed products, etc. 
+Within your Competing Interests Statement, please confirm that this commercial affiliation does not alter your adherence to all PLOS ONE policies on sharing data and materials by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests) . If this adherence statement is not accurate and  there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Please include both an updated Funding Statement and Competing Interests Statement in your cover letter. We will change the online submission form on your behalf.
+Please know it is PLOS ONE policy for corresponding authors to declare, on behalf of all authors, all potential competing interests for the purposes of transparency. PLOS defines a competing interest as anything that interferes with, or could reasonably be perceived as interfering with, the full and objective presentation, peer review, editorial decision-making, or publication of research or non-research articles submitted to one of the journals. Competing interests can be financial or non-financial, professional, or personal. Competing interests can arise in relationship to an organization or another person. Please follow this link to our website for more details on competing interests: http://journals.plos.org/plosone/s/competing-interests
+4. We note you have included a table to which you do not refer in the text of your manuscript. Please ensure that you refer to Table 1 in your text; if accepted, production will need this reference to link the reader to the Table.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 
+1. I know space is limited, but a bit more information about the RESHAPE program would help the abstract.
+2. The phrase “5 serves of vegetables” in the abstract needs to be corrected.
+3. What is novel about this study. Any similar studies in a comparative cohort from other countries? And what about this specific industry linked to greater rates of overweight/obesity versus other labor industries?
+4. The introduction is too long and should focus on the rationale for this study – it should be 2 pages at most. Instead providing “baseline data” as a rationale for conducting this study, a directional hypothesis statement needs to indicate what is expected about diet and physical activity programs on rates of overweight and obesity in blue-collar workers.
+5. As mentioned in the introduction, is there any specific information about the workplace health promotion programs? How does this study help overcome time and knowledge and gender targeted interventions to implement workplace health programs?
+6. In the conclusions, it is stated, “Poor nutrition is likely to be a key component in this scenario; however, this is further compounded by workplace factors which exacerbate challenges workers face in implementing health behavior change.” What are these factors, and can they be assessed here?
+7. RESHAPE is not mentioned much in the discussion.
+8. Why not include figures about physical activity?
+9. Including a biostatistician would be helpful and provide rigor.
+10. As funding was provided from a coal industry, is this some type of conflict of interest?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+
+24 May 2021
+Health and wellness in the Australian coal mining industry: A cross sectional analysis of baseline findings from the RESHAPE workplace wellness program.
+PONE-D-21-05421R1
+Dear Dr. Bezzina,
+Frank T. Spradley
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The authors have adequately addressed all previous comments and this manuscript is suitable for publication.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No

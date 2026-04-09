@@ -6,20 +6,15 @@ library(dplyr)
 library(stringr)
 library(rvest) # for reading XML files
 
-# sample size per year; years to use
-n_sample = 100
-years = 2023:2025
+# sample size
+n_sample = 101
 
-# get data from 1_process.R
-load('data/1_processed.RData')
+# get data from 2_process.R
+load('data/2_processed.RData')
 TeachingDemos::char2seed('rotherham')
-to_sample = filter(data, review_available) %>%
-  mutate(year_published = as.numeric(format(published, '%Y'))) %>%
-  filter(year_published %in% years) %>%
-  group_by(year_published) %>%
+to_sample = filter(data, review_available) %>% # must have review available
   sample_n(size = n_sample) %>%
   ungroup()
-# table(to_sample$year_published) # check
 sampled_dois = pull(to_sample, doi)
 
 # file location
@@ -176,3 +171,14 @@ for (this_doi in sampled_dois){
   cat(review, file = zz)
   close(zz)
 }
+
+## export to csv
+small_data = select(data, doi, journal, published)
+review_tibble = mutate(review_tibble, id = paste('10.1371/', id, sep='')) %>%
+  rename('doi' = 'id')
+basics = left_join(review_tibble, small_data, by='doi') %>%
+  select(doi, published, journal, review) %>%
+  group_by(doi, published, journal) %>%
+  mutate(review = str_remove_all(review, '\n')) %>%
+  summarise(Review = paste(review, collapse=' '))
+write.table(basics, file ='reviews/all_100_randomly_selected_reviews.txt', quote=FALSE, row.names = FALSE, sep='\t')

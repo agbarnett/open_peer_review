@@ -13,15 +13,7 @@ loc = 'C:/Users/barnetta/OneDrive - Queensland University of Technology/talks/AI
 # get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
 # prepare the data
-source('4_data_prepare.R')
-
-# create outcome
-data = mutate(data, 
-              open_review = case_when(
-                review_available == TRUE ~ 'Yes',
-                review_available == FALSE ~ 'No'
-              ),
-              time_to_retraction = time_to_retraction / 365.25) # convert to years
+source('4_data_prepare_retractions.R')
 
 # run the survival model
 smodel = survfit(Surv(time_to_retraction,retracted) ~ open_review, data = data)
@@ -75,7 +67,8 @@ format(round(sum(data$time_to_retraction)), big.mark=',')
 # average follow-up time (years)
 round(10*sum(data$time_to_retraction) / nrow(data))/10
 
-## sensitivity analysis, stratify on year (vary baseline hazard)
+
+### sensitivity analysis, stratify on year (vary baseline hazard)
 # no change
 ymodel = coxph(Surv(time = time_to_retraction, event = retracted) ~ review_available  + strata(year), data = data)
 summary(ymodel)
@@ -84,3 +77,18 @@ summary(ymodel)
 group_by(data , review_available) %>%
   summarise(n = n(),
             mean = mean(time_to_retraction))
+
+
+### Adjusted model
+# variables decided based on those likely to impact retractions 
+smodel_adjusted = survfit(Surv(time_to_retraction,retracted) ~ open_review +
+              published + # date
+              time_between + # peer review time
+               n_authors + # number of authors
+               subject_mat + # subject
+              country_mat, # country
+            data = data)
+summary(smodel_adjusted)
+
+# store the results
+save(smodel, smodel_adjusted, file='results/4_retraction_models.RData')

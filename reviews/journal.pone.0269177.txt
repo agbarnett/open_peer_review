@@ -1,0 +1,293 @@
+
+5 Aug 2021
+PONE-D-21-20067
+Estimating genetic variability among diverse lentil collections through novel multivariate techniques
+Dear Dr. Iqbal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 17 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Tzen-Yuh Chiang
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+“There is no financial assistance for publication of this research article”
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: In this study, the authors evaluated 220 lentil collections for various quantitative and qualitative traits using augmented design in 2018 and 2019. However, sufficient detail of the field layout and statistical analysis of the raw data was not provided. How many blocks were used? Each genotype was grown on a 5m row but it is not indicated if all rows were arranged in a single block or multiple blocks were used? Augmented design is used when the number of entries are large. Entries are unreplicated but checks should be replicated and are used to adjust entry means for soil gradient differences. The authors did not indicate if they used adjusted means. This is critical because some of the quantitative traits are highly influenced by the environment and the observed differences may be due to the location effect.
+The background statement states that low yield of lentil in Pakistan is mainly because of adaptation of low yielding local genotypes in different environments due to low genetic variability. However, the best genotypes with the highest seed yield, early maturity, and lowest cooking time are from Pakistan which contradicts the first statement. Overall, I found several grammatical and punctuation errors which made reading the paper difficult. I advise the authors to address the comments below and resubmit it to local/regional journals as it may be more useful to lentil breeders in and around Pakistan.
+Lines 31-32: if (Pak) stands for Pakistan then write in full to make it consistent with the one writes on Line 30.
+Lines 37-39: In conclusion, 12 genotypes including 5664, 5687,… Markaz 2009, and Punjab 2009 were selected on …..
+Line 42: Lens culinaris Medik.
+Line 43: It was domesticated
+Line 45: throughout the Mediterranean Basin
+Line 46: Lentil is the 4th major pulse crop in the world after common bean, pea, and chickpea, and includes seven taxa and four species such as L. culinaris,
+Line 50: Lentils are consumed due to their third-highest level
+Line 62: Why is the reference in superscript as opposed to within square brackets? Be consistent throughout.
+Lines 67-69: The sentence “For combating effects of biotic and abiotic stresses by….cautiously practicable [12]” is not clear what the authors are trying to say. These are practicable. Are the authors referring to Pakistan? Moreover, reference no 12 was cited here but it has nothing to do with the sentence. Please double check if it is the right reference?
+Line 79: quantitative and qualitative traits [20].
+Line 97: I suggest moving Table 1 into supplementary material.
+Line 100: during 2018 and 2019. It is known that these are two consecutive years. Revise similar expressions throughout.
+Line 101: Presentation of Figure 1 in material and methods section is unnecessary. Here describe methods only Eg. Monthly temperatures during these years were recorded at the experimental station. Present the figure in the results section.
+Line 101: Reference 16 is superscript again???
+Line 125: color of testa were observed???
+Table 1: Table caption should be placed above the table and figure caption should be below the figure. This should be supplemental file. Do not present tables and figures in Materials and methods section.
+Statistical analysis: XLstat 2019 was used to analyze quantitative and qualitative traits data” The method is not detailed enough. What type of analysis performed? The authors used augmented design with two checks interspersed every 20 lines? But in the statistical analysis there is no mention if entry values were adjusted relative to the checks. Proper ANOVA need to be performed for quantitative traits. Are the frequency distribution, Pearson correlation, and PCA performed based on adjusted entry means??? How is Heritability estimated? Is it broad-sense or narrow-sense? Which formula was used to estimating heritability? It appears that the authors divided VG/VP but there is no mention how VG is computed. The trial was conducted for 2 years but no mention of how this computation was performed. These are critical questions that need to be addressed but the methods lack sufficient detail to assess if the right approach was followed.
+Results: Presentation of results should focus on key findings. The authors do not need to repeat everything that can be easily seen in tables. Moreover, if proper ANOVA was conducted and there was no significant effect of year then the two-year means can be presented instead of showing each year data separately which made the paper unnecessarily lengthy.
+Table 2: What is V? SP is shown in the footnote but not indicated in the table?? What is VC? Do you mean CV? The authors should have taken time to clean up such mistakes before submitting this manuscript.
+Table 6 and 7: As these are qualitative traits, they are almost similar between the two years. Why is it necessary to show almost identical data in two tables?
+Tables 9 and 10: What are Fs? Each table should be standalone and descriptions of acronyms should be added in footnotes. Same for Table 11.
+Table 11: The authors are trying to predict yield using cooking time as independent variable which doesn’t make sense. How is cooking time contributing to yield? Also they presented correlation of agronomic traits with cooking time. Correlation does not imply causation.
+Page 24-24: “Values less than 1.00……. individual differences”. This sentence is not accurate. Heritability is a dynamic number and values less than 1 does not necessarily mean genes did not contribute to the phenotypic variance.
+Page 26 line 30, Page 27 line 1: different in text citation. Be consistent and refer to the journal citation and reference formats. There are several other similar cases and need revision throughout.
+Reviewer #2: The paper by Hussain et al. focus on the important topic of legume germplasms characterization to feed international breeding programs and promote technological advances in plant alternatives to the 5 major crops in which the World currently relies for protein and carbohydrates provision.
+The quality of the english writing is very poor, starting from the first sentence of the abstract (not abstracts as in L21) and with repeated writing problems such as misplaced capital letters and words lacking. This requires professional english correction.
+The amount of Tables and Figures is too dense, and authors should revise information to be put as supplementary data or presented in alternative ways. This is also true for the paper in general, I believe that authors must revise the content and make the paper more straightforward and lighter, since it is too extensive in its current form.
+In general the reference section has older papers and has to be updated.
+L62,101; P31 - reference in the wrong format.
+L76 - more recent references, such as, DOI: 10.1002/ppp3.10158; https://doi.org/10.3390/foods9040400
+L82 - delete 'in the near past'; this is a current topic
+L94 - Change Plants to Plant
+L103 - these two check varieties are already described for which traits?
+L105 - soil characterization is required
+From page 8 forward there is no numbering of the lines.
+In the results section, grams appear after the numbers both without spacing or between parenthesis or in full word (e.g p11). The correct form is after the number with spacing e.g. 3.2 g. Correct throughout the whole text.
+P9 'Lentils characterized during first year showed better performance as compared to subsequent year.' this is discussion, not results description.
+P11 - replace & with and
+Table 4/5 are not readable and the authors should present this in an alternative, more friendly reader way. In the titles is not best performed, but best performing
+P16/18/22/24 - no need to refer the program again, it's in M&M
+Table 9 & 10 can be supplementary data and the results description regarding PCA should focus only on the first two components.
+P26 - Jaleel et al, 2009 is not in the correct form
+P27 - Pushpavalli et al, 2014 also
+P27 - please correct the sentence 'Another aspect of lentils is lowest cooking time considered a favorite trait for consumers.in the current studies, lowest cooking time 10 mint' from punctuation to words misspelling
+The discussion on seed coat coloring and the genetic background is quite interesting but I feel it lacks integration in the context of the author's study, as they did not look at this dimension.
+The definition of PCA is excusable. This is for academic partners who know this method.
+P29 - And not only in Pakistan or Turkey, for example: https://doi.org/10.1071/CP18205
+P30 - Once again, punctuation errors should be covered throughout the entire document: 'Moreover, other traits like number of pods. Lower pod height and plant height were also placed in F3, F4, and F5, respectively.'
+In the conclusion section, authors shouldn't just summarize the main findings again, that is for the Abstract section; here, the main findings should be commented on further, with the industry and farmers sector perspective, showing the importance of the study for them. Would the authors advise farmers to just use the best performing genotype and forget the rest? Are these 12 genotypes well adapted to different edaphoclimatic regions, or just in the research center site?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Teketel Haile
+Reviewer #2: No
+
+8 Nov 2021
+PONE-D-21-20067R1Estimating genetic variability among diverse lentil collections through novel multivariate techniquesPLOS ONE
+Dear Dr. Iqbal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 23 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Tzen-Yuh Chiang
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: No
+**********
+6. Review Comments to the Author
+Reviewer #1: The revised manuscript has been greatly improved but there are still some grammatical and punctuation issues. Please address my comments attached.
+Reviewer #2: The authors have addressed some of the comments, however, there are still inconsistencies and issues to be resolved.
+Regarding the English, although the authors have improved and revised the manuscript, there are still several problems which make the text not correct. Most importantly, the Abstract must be completely revised as it is not written in correct english.
+Furthermore, the discussion section is too dense. It must be more focused and concise.
+In the previous revision, I had asked for the authors to re-write the Conclusion section, being more critical about the importance of the study instead of just summarizing the results. Some text was changed, but it still continues very focused on the summary of results.
+Please note that numbers below 10 must be written in full. Correct throughout the entire manuscript.
+L70: the lack of adaptation? the difficulty to adapt?
+L139/L146: please correct Hierarchical Cluster Analysis
+L147: correct drwan to drawn
+L171: correct the number of the means in parenthesis
+L180: missing one dot at the end of the sentence
+L181: why is the unit (g)? Again there are still inconsistencies in the unit presentation; in P11 grams appear in full; with minutes is the same; sometimes appear in full, others as min. or min - please homogenize through the entire document.
+L181-185: please revise the punctuation of this sentence, as it is now it is not understandable
+L187: significantly contributes?
+No line numbering after Page 9.
+P11: remained insignificant does not mean anything - please correct;
+P12: The first sentence of is not comprehensible. Re-write.
+P13: The parameters analyzed sometimes appear as abbreviation and other times in full, e.g. biological yield / BY
+P15: There is some repeated text, for example, "The factor 1 component contributed 19.05% total variation and factor 2 as 12.51%." appears twice
+P24: Again, this sentence is irrelevant, please delete. "PCA is an approach used statistically to distribute number of variables in data by extracting important one from a wide number of genotypes."
+P24: Discussion on PCA factors besides 1 and 2 is irrelevant and should be deleted.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+7 Feb 2022
+PONE-D-21-20067R2Estimating genetic variability among diverse lentil collections through novel multivariate techniquesPLOS ONE
+Dear Dr. Iqbal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 24 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Tzen-Yuh Chiang
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: This manuscript has improved a lot from the previous version. The authors managed to address all my previous comments. However, there are still some grammatical and punctuation issues that need to be addressed before proceeding to publication. Please find below some of my comments.
+Line 141: remove double comma and adjust spacing.
+P11, L 8-9: What do you mean by there in “Short duration genotypes are suggested as early maturing genotypes hence required further trials to see there early maturity cultivar status.” Delete the entire sentence.
+P12, L5-7: Remove “Traits which possess low variability must be required to address through new collection by broadening existing lentil genetic resources through local as well as exotic sources.” There are sentences at the end of each paragraph which are not making any sense. In the result section only point out to important findings. Discussion of results should be in the discussion section.
+P13, L4-7: Under Pearson correlation matrix: authors indicated that HSW exhibited positive correlation with PS and BY. PH and PS also showed positive correlation with NSP
+and DM but Table 4 only shows correlation of SY with other traits in both years. Either you have to show all pairwise correlation in table 4 or don’t write about results that are not shown in the table.
+P 21, L 16: Revise the sentence as “In this study, HSW varied between the years with 3.65 g in 2017-18 and 3.28 g in 2018-19”
+P21, L 22: Cooking time not only saves energy and time but also it develops ….
+P 23, L5: replace & with and
+P 23, L 9: Revise as “Similar results were observed”
+Conclusion: tons/hectare versus t/h be consistent throughout
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+17 Mar 2022
+PONE-D-21-20067R3Estimating genetic variability among diverse lentil collections through novel multivariate techniquesPLOS ONE
+Dear Dr. Iqbal,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 01 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Tzen-Yuh Chiang
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: My comments are added to the attached pdf file. I advise the authors to take their time to correct grammatical and punctuation issues. I tried to point out some of them but it is better to have it proofread by native speakers of English or use online platforms such as grammarly for addressing these issues.
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+16 May 2022
+Estimating genetic variability among diverse lentil collections through novel multivariate techniques
+PONE-D-21-20067R4
+Dear Dr. Iqbal,
+Tzen-Yuh Chiang
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: All my previous comments were addressed and the manuscript is in good shape now. I don't have any other comments.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No

@@ -1,0 +1,115 @@
+Dear Dr. Chowdhury,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+A
+Dear Dr. Chowdhury,
+I received comments from the advisers on your manuscript "Development and accuracy assessment of molecular markers associated with crown rust resistance genes in oat" which you submitted to PlosONE. Based on reviewer comments and my careful assessment I have decided that your manuscript could be reconsidered for publication after minor improvements. When preparing a revised manuscript, you are asked to carefully consider the reviewer comments and submit a list of detailed and itemized responses to the comments.
+With kind regards,
+Dragan
+==============================
+Please submit your revised manuscript by Mar 31 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Dragan Perovic, Ph.D
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1.  Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf   and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+“The research at USDA-ARS in Aberdeen, ID was supported with base fund Project No.: 2050-21000-034-000D”
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+4. We note that you have included the phrase “data not shown” in your manuscript. Unfortunately, this does not meet our data sharing requirements. PLOS does not permit references to inaccessible data. We require that authors provide all relevant data within the paper, Supporting Information files, or in an acceptable, public repository. Please add a citation to support this phrase or upload the data that corresponds with these findings to a stable repository (such as Figshare or Dryad) and provide and URLs, DOIs, or accession numbers that may be used to access these data. Or, if the data are not a core part of the research being presented in your study, we ask that you remove the phrase that refers to these data.
+Additional Editor Comments:
+Dear Dr. Chowdhury,
+I received comments from the advisers on your manuscript "Development and accuracy assessment of molecular markers associated with crown rust resistance genes in oat" which you submitted to PlosONE. Based on reviewer comments and my careful assessment I have decided that your manuscript could be reconsidered for publication after minor improvements. When preparing a revised manuscript, you are asked to carefully consider the reviewer comments and submit a list of detailed and itemized responses to the comments.
+With kind regards,
+Dragan
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+Reviewer #1: The manuscript ‘Development and accuracy assessment of molecular markers associated with crown rust resistance genes in oat’ by Chowdhury et al. is of topical interest and valuable. In this study the authors developed criteria for assessing the reliability of various published and unpublished SNP markers associated with several Pc genes in oats and validated it further by developing PACE assays. The study is useful contribution and resource for oat breeders for conducting reliable marker assisted selection and germplasm characterization for resistance to Pc. The manuscript is very well written and is of high standard. The objective of the study is clear, and methodology used is sound. Results are well presented, discussed and concluded.
+I recommend the manuscript for publication after minor revisions (below):
+1) The authors mentioned ‘this study considered a false positive rate of 25% or higher to
+be excessively high'. What’s the basis of deciding on this benchmark? Clarification needed in support of this statement.
+2) Table 1: Revise the values in rows under the column 'False positive rate (%)'. Remove ‘to’ and replace by hyphen (8-27, 23-63…).
+3) Table 2 and 3 can be merged with extra column <10% and 10-25%.
+Reviewer #2: Chowdhury reports on the validation of PACE assays interrogating SNPs linked to Pc genic information in the literature. The study is of value to the community however in my opinion 25 % false positive rate is far too high and the utility of many of these markers is overstated from a breeding perspective.
+Why was the validation presented after the screening of the 92 susceptible oat lines?
+Is it more logical to test the markers first (or present the validation first) in known carriers and non-carriers?
+In the report, 20 of these 31 non-carrier lines in the validation panel were also part of the 92 lines - does this set function as negative control?
+In the validation panel (S7), 12 of the 19 carrier lines were also used as positive controls, so again, makes more sense to report the 'validation' first, unless the final validation is performed in entirely new set of materials.
+How reliable is the "non-carrier" status of 92 lines? Have these been genotyped/pedigreed? There are some lines in this panel that have unknown parentage. What are the chances of type I error to occur? Maybe elaborate this a little bit in the discussion.
+Minor comments to address
+Line 152 - Pc48 data not shown in S4 Table.
+Line 167 - KASP genotyping- Seems to came out of the blue - was KASP genotyping also used?
+Line 218 - Please clarify "in combination". What assay design was implemented? Was this described in Materials and Methods?
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Davinder Singh
+Reviewer #2: No
+**********
+Development and accuracy assessment of molecular markers associated with crown rust resistance genes in oat
+PONE-D-24-42419R1
+Dear Dr. Chowdhury,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Dragan Perovic, Ph.D
+Additional Editor Comments (optional):
+Dear Dr. Chowdhury,
+It is my pleasure to accept your manuscript, "Development and Accuracy Assessment of Molecular Markers Associated with Crown Rust Resistance Genes in Oat," for publication, following the revisions made by you and your team.
+With kind regards,
+Dragan
+Reviewers' comments:
+Reviewer's Responses to Questions
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+Reviewer #1: (No Response)
+Reviewer #2: Thank you for considering my comments in the review of the manuscript. The manuscript is much improved and suitable for publication
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Davinder Singh
+Reviewer #2: No
+**********

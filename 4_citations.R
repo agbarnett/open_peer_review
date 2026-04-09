@@ -9,17 +9,14 @@ library(DHARMa) # for residuals
 # get the data from 3_combine_experience_data.R on HPC
 load('data/3_plus_experience.RData')
 # prepare the data
-source('4_data_prepare.R')
+source('4_data_prepare_citations.R')
 
-# make follow-up time to offset citation counts (scaled to per year)
-date.searched = as.Date('2026-03-02') # date that open alex was searched
-data = mutate(data, follow_up = as.numeric(date.searched - published)/365.25)
-
+### part 1: unadjusted model
 # follow-up time as offset, over-dispersion is needed; scaled offset to a year
 model = glm(citations ~ review_available, 
-            offset=log(follow_up), 
+            offset = log(follow_up), 
             data = data, 
-            family=quasipoisson())
+            family = quasipoisson())
 summary(model)
 tidy(model, conf.int=TRUE, exponentiate = TRUE)
 
@@ -46,25 +43,21 @@ newdata = mutate(newdata,
                  upper = exp(upper))
 newdata
 
-# adjusted model; some reduction in dispersion
-modela = glm(citations ~ review_available + log2(n_authors) + journal, offset=log(follow_up), data = data, family=quasipoisson())
-summary(modela)
 
+### part 2: adjusted model (takes a while)
+# variables decided based on those likely to impact citations 
+# parameter heavy model
+model_adjusted = glm(citations ~ review_available +
+              published + # date
+              time_between + # peer review time
+               n_authors + # number of authors
+               subject_mat + # subject
+              country_mat, # country
+            offset = log(follow_up), 
+            data = data, 
+            family = quasipoisson())
+summary(model_adjusted)
+ests_adjusted = tidy(model_adjusted, conf.int=TRUE, exponentiate = TRUE) # takes a while
 
-## using approach by Cheng et al who found opposite association between open review and citations (https://doi.org/10.1016/j.joi.2024.101540)
-data =  mutate(data,
-               rec = (as.numeric(received)-19000)/365.25, # making calendar time
-               rec2 = log2(as.numeric(received)-14000))
-
-cheng1 = glm(log2(citations+1) ~ review_available + log2(follow_up/55), data = data) # adjusting for follow-up time
-summary(cheng1)
-cheng2 = glm(log2(citations+1) ~ review_available + rec2, data = data) # adjusting for calendar time
-summary(cheng2)
-# shows a large benefit of open review
-tidy(cheng1)
-tidy(cheng2)
-# t-test, copying Cheng 
-one = filter(data, review_available == TRUE) %>% mutate(citations = log2(citations+1)) %>% pull(citations) 
-two = filter(data, review_available == FALSE) %>% mutate(citations = log2(citations+1)) %>% pull(citations) 
-t.test(one, two, alternative = 'two.sided')
-# Cheng removed all citations of 0 and 1!
+# store the results
+save(model, model_adjusted, ests_adjusted, file='results/4_citation_models.RData')

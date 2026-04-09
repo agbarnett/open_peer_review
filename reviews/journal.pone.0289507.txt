@@ -1,0 +1,54 @@
+
+6 Jun 2023
+PONE-D-23-14068Willingness to pay for antiretroviral therapy, viral load and premium services; A contingent valuation survey of people living with HIV in southern NigeriaPLOS ONE
+Dear Dr. Sanwo,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+ACADEMIC EDITOR:Thank you for the manuscript. Please address the following and resubmit revised version for review: 1. Ensure to align placement of your tables and figures with plosone guidelines for figures and tables. Submission Guidelines | PLOS ONE2. provide response to individual comments submitted by the 2 reviewers3. Review references and ensure all references are listed. Unlisted references should either be deleted or added.
+Please submit your revised manuscript by Jul 21 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please clarify the number of Figures uploaded in your manuscript and PDF file. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for submitting this article for publication. The findings add to the peer-review literature and are timely.
+Please have a copy editor review the paper. There are incomplete sentences and misspelled words throughout the paper and figures. I suggest adding place and date to figure and table titles.
+Readers not familiar with Naira could benefit from providing the exchange rate relative to more commonly traded currencies, i.e., dollar, euro, or pound. Authors should be consistent with currency used. In one section both Naira and dollars were used.
+Reviewer #2: The manuscript is technically sound requiring minor edits as outlined below. Additionally, the authors should adhere to PLOS ONE guidelines on tables and figures.
+Lines 80 – 2: The goal is not to only attain UNAIDS targets but to attain HIV epidemic control. Consider adding this caveat.
+Lines 146 – 7: pharmacy, lab services and longer consultation times cannot be considered as premium services. These should be provided to all clients if there is need. This may raise serious ethical concerns. Please revise the sentence and clearly define what you meant by premium service.
+Line 162: the range 18,500NGN – 100,000NGN is very wide and may mask some details. Would you to base this categorization on minimum wage, average wage and above average based on Nigeria context instead of just for convenience?
+Lines 196 -7: Figures should be represented at the end while tables should come after the 1st paragraph where they are mentioned.
+Lines 203 – 10: You presented WTP for discrete services only. Will be good to know how many clients will be willing to pay for all the services. Additionally, information about clients willing to pay for consultation, ARV and VL or VL and ARV only e.t.c. may be helpful in prioritizing which service combination will be most affordable. Additionally, the authors didn’t establish the standard cost of the services, or are the initiated prices in Fig 1 the standard costs of these services? For example, what will be the market value of a month-dose of ARVs in the study states? Even though in line 280 4.85USD has been quoted as monthly cost of TLD, is this market price in the study states or subsidized price being supplied to the SFI sites?
+Line 295: It will be good to know how many total clients are receiving care in the 92 selected sites and what proportion is the 1781 clients. How the sample size of 1781 clients were determined. This is important for the inference made in line 295 -6. Perhaps you can elaborate on the appropriate section in your methods.
+Line 324: better to state that the contents are the responsibility of the authors and not FHI360.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

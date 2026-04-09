@@ -1,0 +1,67 @@
+
+15 Jan 2021
+PONE-D-20-19285
+Stroke risk in arthritis: A systematic review and meta-analysis of vohort studies
+Dear Dr. Li,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+The title needs to be revised as well: "cohort" not "vohort".
+==============================
+Please submit your revised manuscript by Mar 01 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+Yiqiang Zhan
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for the opportunity to review this research article – Stroke risk in arthritis: A systematic review and meta-analysis of cohort studies . Please find my comments below:
+Overall comments: This systematic review and meta-analysis would be a valuable addition to the literature around risk of stroke in arthritis. I would like to compliment authors for maintaining rigour in the conduct of this review and for providing adequate details to convey their findings. However, I would like to make few constructive comments to add more clarity and further strengthen this manuscript. Please see my specific comments below:
+Specific comments:
+Title: Please correct the word “Vohort” to “Cohort” in the title.
+Abstract: The abstract is well written and concise enough to provide readers with the snapshot of the study. I would like to make a minor comment. I would suggest to authors to include number of articles screened for titles and abstracts, then for full text and finally mention the total number of included studies (32). This would help readers to understand the breadth of the review.
+Introduction: Authors have emphasised heavily on including studies that adjusted for age and sex. However, I did not find any explanation around the rationale for such emphasis. Adding information on how age and sex could have impact on stroke and arthritis would lay a stronger foundation for the manuscript. Considering the broad readership of PLOS One Journal, I would suggest adding biological mechanism behind the potential relationship between arthritis and stroke.
+Material and Methods:
+Study design: It would have been ideal to register this review on one of the databases such as, PROSPERO. But it is late to do so, I would not advice doing it now. I would suggest authors be cognizant of registering their future systematic reviews.
+Authors have jumped directly from study design to study selection. Please report the steps from screening process. Was title and abstract screening done in duplicates, was any reference manager used ? Was there any language criteria used to exclude studies ?
+Results:
+In Table 1, please add first column as study number and add reference for each study in the table (for readers to easily access reference of each study in the table)
+Data sources and searches:
+Authors have very comprehensive search strategy, but most of the readers do not read appendices, so I would suggest adding few keywords from search strategy in the manuscript.
+Discussion and Conclusion:
+These sections are very well written.
+Reviewer #2: A good manuscript providing important information related to the problem of stroke in patients with various inflammatory rheumatic conditions. The authors found higher risks for both ischemic as well as hemorrhagic stroke, persisting after adjustments were done for age and gender. I have a few issues which I would like to be addressed by the authors.
+1. MEthods/Results: the authors report 32 studies elligible for their analyses. Yet, they also mention that they have included 52 studies (Results, page 9). Can the authors clarify this apparent discrepancey? Thank you.
+2. The authors included studies from cohorts of patients situated on different continents. Did they peformed a subanalysis for every continent (Europe, North America and Asia, respectively) and did they obtained the same/ similar results (higher risk of stroke)? This information is interesting for the reader as it might uncover the possible contribution of genetic factors.
+3. The authors mention that 69% of the studies were retrospective, meaning that 31% were prospective studies. Was there a difference in the risk of stroke between the data pooled for each of this two kind of cohorts? If not, some biases could be looked with less caution.
+4. An interesting finding of the present study is the higher risk of stroke among younger patients. Few years ago, Fransen et al (Fransen J et al, PloS One; 2016; 11:e0157360) performed a similar meta-analysis in which they found a higher cardiovascular risk among younger RA patients. Can the authors elude in their discussion how this previous findings for RA could be integrated with their own findings and speculate on the pathofysiological mechanisms? This should be of interest for the readers.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

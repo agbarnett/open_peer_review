@@ -1,0 +1,125 @@
+
+2 Aug 2023
+PONE-D-23-03440Clinical effectiveness of screening for age-related macular degeneration: a systematic reviewPLOS ONE
+Dear Dr. Gomes,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 16 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Andrzej Grzybowski
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. I am interested in why the authors were keen to review the literature on screening for early AMD. Early AMD is asymptomatic and has no treatment nor is likely to in the near future, and so there is no benefit from identifying it. The more useful question to clinicians is can we screen people flor late AMD which has treatment or treatment is likely in the near future.
+2. Relatedly, the paper has no introduction or discussion of the principles of screening.
+3. The conclusions are not supported by the papers and data included in the review eg Line 249. The review includes weak, sparce and biased data, so the conclusion that screening is useful is unwarranted.
+Other points.
+4. By definition AMD affects people over and age threshold, usually taken as >55yrd but sometimes >50yrs. People under that age group have something else such as idiopathic macular degeneration or macular dystrophy- lines 30 and 60.
+5. In high-income countries AMD IS THE leading cause of blindness. Line 65.
+6. Line 75. It is usually when the non-dominant eye is affected patients’ do not notice visual loss. It would seem to be the fact that non-dominance exists rather than a compensatory mechanism by the brain.
+7. Line 71. A reference for this data please.
+8. Why was CDR chosen as the primary outcome measure? This is useful if the prevalence in the target population is known. It gives no information on the effectiveness of a screening intervention.
+9. Line 154. Can the authors justify use of odds ratio here. Not a standard assessment for screening interventions.
+10. Study ref 19 cannot be considered as screening. It is an evaluation of triaging referrals to a retinal clinic and assessment of referral accuracy. The population are referred patients so this study does not meet the reviews inclusion criteria of studies investigating screening.
+11. Line 194. The study does not show that OCT is mor accurate than CFP because there was no assessment against a gold standard and no assessment of false positives.
+12. Line 197. The study does not indicate that the methods are complimentary, that is an inference from the data which suggests that might be the case but does not demonstrate it.
+13. Line209. Ref 17. It is not clear who conducted the reference examination and if this was taken as the gold standard. In fact the sens and spec of the individual tests are much too low to be used as screening tests. Line 210-11 ‘more accurate and efficient ‘than what? There does not seem to be any assessment of efficiency – cost/episode- in this study. Line 214 The results do not demonstrate that the tests are useful in screening because the S&S were too low.
+14. Line 217. Did the retinal specialist do funduscopy or just look at images?
+15. Line248. Convenience was not reported to be assessed by any of the studies so no conclusions about convenience can be made.
+16. Line 249. In order to be useful tests need to be accurate. The was either no assessment of accuracy or it was found to be ltoo low for screening tests.
+17. There is no discussion of harms that can arise from screening such as increasing anxiety in a population with a low overall risk of vision loss.
+18. Line 252. I would say the methological problems mean we cannot draw any conclusions from the studies available. Of the 3 appropriate studies 2 had critical or serious risk of bias and one had moderate risk but found low S&S.
+19. Line 256. Screening inevitably increases the workload of clinicians, at least initially, as more cases are found.
+20. Lone 261 There is no datat here to suggest retesting would reduce false positives.
+21. Line 288. DR is a different situation where early treatment is proven to be effective unlike early AMD.
+22. Line323. ‘must' is too strong here. The data is suggestive but unproven.
+Reviewer #2: This is a comprehensive study concerning the effectiveness of early screening in recognizing AMD. The manuscript itself is properly written and organized, with clear tables and figures.
+Study is limited by the evidency quality of the assessed studies, as authors state in the limitations part.
+My only concern is why the artifical intelligence was excluded completely from the study. As this is an emerging trend now it would be beneficial if authors would elaborate on that in the exclusion criteria, and add a certai paragraph in the discussion part about pros and cons of this approach.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Nicholas Beare
+Reviewer #2: No
+**********
+
+5 Oct 2023
+PONE-D-23-03440R1Clinical effectiveness of screening for age-related macular degeneration: a systematic reviewPLOS ONE
+Dear Dr. Gomes,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 19 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Andrzej Grzybowski
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Overall I think the authors have addressed my concerns and improved the review substantially. My main remaining concern is by the addition of information about AREDS supplementation they have failed to present the controversy regarding whether AREDS supplementation is of any benefit in AMD (see below)
+Comment 1.
+I appreciate your added explanation with regards to screening. However the AREDS trial did not show any benefit for people with early AMD which is why they did a sub-group analysis on people with Intermediate AMD at high risk of progression. Given the positive finding was a post-hoc sub-group analysis, whether AREDS supplements are of any benefit in AMD is controversial. And although AREDS purported to show a reduced risk of progression, there was no significant difference in vision between the groups. Many consider the evidence of benefit too weak to give a firm clinical recommendation on AREDS which is why AREDS supplements are not recommended in the UK by national guidelines (NICE AMD Guidelines 2018). I suggest editing this added paragraph to reflect this uncertainty around AREDS.
+In the final sentence the authors mix screening and clinical monitoring which are different objectives. I suggest that the systematic review evaluated whether AMD screening could be considered effective for identifying patients with early clinical signs of the disease in case treatments for these stages of AMD become available in the future, and identifying patients with advanced AMD for early treatment prior to their self-presentation.
+Comment 3. Excellent re-write.
+Comment 4.
+My point here is that line 38 “(AMD) is an eye disease most prevalent in patients over 50 years old” should read “…is an eye disease that occurs in patients over 50 years old”, and line 60 “that generally affects patients over the age of 50” should read “that affects patients over the age of 50”. Because is only affects patients over 50 years.
+Comment 21.
+I am generally happy with this re-write but in the UK the NHS invites people with diabetes to screening only every 12 months. If more frequent monitoring is required they are referred to ophthalmology clinics.
+And see comments in Comment 1 above about AREDS.
+Reviewer #3: • Evaluation of revision : authors responded carefully to all comments of both reviewers’ especially reviewer 1. The manuscript was very much improved after corrections and amendments made by the authors.
+• Despite limited material available , the study provides important information about , in fact, lack of reliable and consistent screening approach to early and intermediate AMD. In the context of new technologies, as mentioned by reviewer 2, the burden of workload for AMD screening might be significantly reduced in the future and implementation of screening protocols based on AI made easily accessible.
+• My minor remark:
+a. Please mention preventive laser treatments for dry AMD (micropulse laser, 2-RT laser). Their efficacy is questioned at the moment, but the research is going on. If they have proven really preventive, than early screening would be justified.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Nicholas Beare
+Reviewer #3: No
+**********

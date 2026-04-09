@@ -1,0 +1,102 @@
+PONE-D-25-14074The global, regional and national burden of pancreatitis due to alcohol use: Results from the Global Burden of Disease Study 2021 and projections to 2040PLOS ONE
+Dear Dr. Li,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jun 19 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+PUGAZHENTHAN THANGARAJU, M.D.,Ph.D., FRCP (LONDON)., FRCP (GLASGOW).,MBA.,
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that Figure 1 in your submission contain [map/satellite] images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 1 to publish the content specifically under the CC BY 4.0 license.
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission.
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+The following resources for replacing copyrighted map figures may be helpful:
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/
+Landsat: http://landsat.visibleearth.nasa.gov/
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#
+Natural Earth (public domain): http://www.naturalearthdata.com/
+3. Please remove all personal information, ensure that the data shared are in accordance with participant consent, and re-upload a fully anonymized data set.
+Note: spreadsheet columns with personal information must be removed and not hidden as all hidden columns will appear in the published file.
+Additional guidance on preparing raw data for publication can be found in our Data Policy (https://journals.plos.org/plosone/s/data-availability#loc-human-research-participant-data-and-other-sensitive-data) and in the following article: http://www.bmj.com/content/340/bmj.c181.long.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Critical Analysis and Weaknesses
+1. Clarity and Presentation
+Abstract: The abstract is concise but lacks specificity in some areas. For example, "region-specific prevention strategies are critical" is vague—specific examples (e.g., alcohol taxation, education campaigns) could strengthen it.
+Introduction: While the background is well-researched, it is overly dense with citations (e.g., 11 references in one paragraph on alcohol’s biological effects). This could be streamlined for readability.
+Results: The results section is data-heavy, with numerous tables and figures referenced (e.g., Tables 1-6, Figs. 1-8). While comprehensive, the text does not always guide the reader effectively to key findings, risking information overload.
+2. Methodology
+Data Limitations: The GBD 2021 database, while robust, relies on modeled estimates that may under- or overestimate burdens in regions with poor primary data (e.g., low SDI countries). This limitation is acknowledged briefly but not explored in depth.
+APC and BAPC Models: The use of APC and BAPC is appropriate, but the manuscript lacks detail on model assumptions (e.g., prior distributions in BAPC, handling of identifiability issues beyond MCMC). This reduces reproducibility.
+Decomposition Analysis: The Das Gupta method is well-applied, but the interpretation of "epidemiologic change" (e.g., -12.62% for deaths globally) is vague. Does this reflect improved treatment, reduced alcohol use, or data artifacts? More context is needed.
+Statistical Reporting: Confidence intervals (CIs) are provided, but p-values for EAPC trends are inconsistently reported (e.g., present in SDI-ASDR correlations but absent in trend analyses). This limits statistical rigor.
+3. Interpretation and Novelty
+Novelty: The study builds on prior GBD analyses (e.g., refs [52], [53]) but offers new insights via 2021 data and 2040 projections. However, it does not clearly differentiate itself from similar studies on pancreatitis burden (e.g., Xiao et al., ref [2]).
+Gender Disparities: The higher burden in males is noted, but the discussion does not explore why females show steeper ASMR/ASDR declines (e.g., EAPC -1.41% vs. -0.11% for males). Biological or behavioral factors could be hypothesized.
+Projections: The 2040 projections (e.g., ASMR decline until 2034, then rise) are intriguing but underexplained. What drives the inflection point? Population aging is mentioned, but alcohol consumption trends or healthcare advancements are not considered.
+4. Supporting Materials
+Tables and Figures: The tables (e.g., Table 1) are detailed but dense, with small font sizes and overlapping CIs that may confuse readers. Figures (e.g., Fig. 5, SDI-ASDR relationship) are visually clear but lack annotations to highlight key trends.
+Supplementary Data: The supporting tables (in an Excel file) are referenced but not described in the text, reducing their utility without access to the file.
+Recommendations
+Based on the analysis, I recommend major revisions. The study is scientifically sound, but improvements in clarity, depth, and interpretation are needed to maximize its impact. Below are detailed suggestions:
+1. Enhance Clarity and Readability
+Abstract: Specify key findings (e.g., "Eastern Europe had the highest ASDR at 64.03 in 2021") and actionable strategies (e.g., "targeted alcohol control policies in low-middle SDI regions").
+Introduction: Reduce citation density (e.g., consolidate refs [7-10] into a single review) and end with a clear research gap (e.g., "prior studies lack updated global projections").
+Results: Summarize key trends in the text (e.g., "Eastern Europe’s ASDR rose 1.5% annually, while high-income Asia Pacific declined 2.45%") before referencing tables/figures.
+2. Strengthen Methodology
+Data Limitations: Expand on GBD data quality (e.g., "Low SDI regions may underreport pancreatitis due to limited diagnostics, potentially biasing ASDR downward").
+APC/BAPC Details: Add a paragraph on model assumptions (e.g., "BAPC used a Gaussian prior for cohort effects, with INLA resolving collinearity via MCMC sampling").
+Statistical Clarity: Report p-values or significance for all EAPC trends (e.g., "Global ASMR decline, EAPC -0.27%, p<0.05") and clarify "epidemiologic change" drivers.
+3. Deepen Interpretation
+Gender Analysis: Hypothesize reasons for female ASMR/ASDR declines (e.g., "Lower alcohol exposure or better healthcare access may explain steeper female declines").
+Projections: Discuss drivers of the 2034-2035 inflection (e.g., "Rising ASMR post-2034 may reflect aging cohorts with historical alcohol exposure").
+Comparison with Literature: Contrast findings with refs [2], [52] (e.g., "Unlike Xiao et al.’s static incidence, our 2040 projections account for demographic shifts").
+4. Improve Supporting Materials
+Tables: Simplify by splitting large tables (e.g., Table 1 into SDI and GBD region sections) and bolding significant EAPCs.
+Figures: Add annotations (e.g., label Russia’s peak ASDR in Fig. 1B) and describe supplementary tables in the text (e.g., "Table S1 details country-level ASMR").
+Supplementary File: Ensure the Excel file is uploaded and includes a legend.
+Reviewer #2: 1. Elaborate briefly on how GBD defines and classifies alcohol-induced pancreatitis and whether adjustments were made for potential confounders (e.g., gallstones, smoking).
+2. The authors acknowledge some limitations, but further emphasis on regional disparities in data quality (e.g., underreporting in LMICs) would strengthen transparency. Include a short paragraph in the discussion on how this affects cross-country comparisons.
+3. Provide a more detailed interpretation—why does burden increase in some mid-SDI regions despite apparent development?
+4. Consistently use either “age-standardized” or “ASR”
+5. “...rising absolute numbers but declining relative rates...” is repeated several times; consider rephrasing.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  VIKAS KATIYARA
+Reviewer #2: Yes:  Sree Sudha T Y
+**********

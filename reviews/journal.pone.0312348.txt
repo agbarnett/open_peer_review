@@ -1,0 +1,133 @@
+
+24 Jun 2024
+PONE-D-24-16910Validity and Reliability of Velocity and Power Measures Provided by the Vitruve Linear Position Transducer
+Dear Dr. Jukic,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Dear Authors,
+Two independent experts have reviewed your manuscript. They find it interesting and rigorous but agree that your conclusions need to be stronger and more straightforward regarding the validity and practical usefulness of the Vitruve Linear Position Transducer. Since the device did not achieve high levels of validity, the reviewers suggest rewriting the parts of the manuscript.
+Please submit your revised manuscript by Aug 08 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Danica Janicijevic, Ph.D
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please include a complete copy of PLOS’ questionnaire on inclusivity in global research in your revised manuscript. Our policy for research in this area aims to improve transparency in the reporting of research performed outside of researchers’ own country or community. The policy applies to researchers who have travelled to a different country to conduct research, research with Indigenous populations or their lands, and research on cultural artefacts. The questionnaire can also be requested at the journal’s discretion for any other submissions, even if these conditions are not met. Please find more information on the policy and a link to download a blank copy of the questionnaire here: https://journals.plos.org/plosone/s/best-practices-in-research-reporting. Please upload a completed version of your questionnaire as Supporting Information when you resubmit your manuscript.
+3. Please note that in order to use the direct billing option the corresponding author must be affiliated with the chosen institute. Please either amend your manuscript to change the affiliation or corresponding author, or email us at plosone@plos.org with a request to remove this option.
+4. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The Vitruve clearly didn't measure what it said it would measure. I understand you likely don't want to make too strong of statements in the paper, but the data wasn't valid for MV, PP, MP, and PV. We also can see that it more or less only worked ok with a Smith machine, which few people use in real life. Considering all of this, I wouldn't focus on the fact that the device cannot be used interchangeably with other devices, but I would simply advise against using it. It doesn't work good enough for academic researchers to recommend its use "even if you only use it and no other equipment". If readers don't know that you can't use data from different devices by now, they wouldn't learn anything new by stating that in this paper. Thus, please rework the discussion and conclusions to indicate that the device should not be used (not even "if you accept X amount of error"). In summary, I would like to see stronger statements. If you bought this device and used it, would you be entirely happy with the data? If so, no need to have stronger statements. However, if you wouldn't be pleased with the device, other people wouldn't either. Therefore, the story goes beyond the data.
+Reviewer #2: GENERAL COMMENT
+The study determined the validity and between-day reliability of the mean velocity, peak velocity, mean power, and peak power provided by the Vitruve device at different relative loads in the free-weight and Smith machine back squat. In general, the results showed that the Vitruve did not meet the validity criteria for almost all variables analyzed but presented acceptable reliability for all variables analyzed. I congratulate the authors for their time and effort in conducting this study. The experimental procedures seem rigorous, but the introduction, discussion, statistical analysis, and reporting of results can be improved. The reasons for conducting the study and its pertinence should also be reinforced (as I understood, at least two studies have already explored this theme). Furthermore, the small sample size of fourteen male sports science students should be adequately justified in the methods and addressed in a limitations section. Finally, although the Viturve seems reliable, it is not valid, especially when measuring the mean velocity. Therefore, I cannot entirely agree with the authors’ statement that Vitruve seems useful for resistance training, monitoring, and prescription. This critical information should be well revised throughout the manuscript. Major revisions should be made. Below, I provide some comments and suggestions.
+Best regards
+ABSTRACT
+LL57-58: Please rewrite the sentence for clarity.
+LL63-66: According to your data, Vitruve is reliable but does not present valid measures of velocity and power across a broad range of relative loads. In other words, Vitruve is consistent but does not accurately measure what it is meant to measure, especially the mean velocity (one of the most reported variables in velocity-based RT interventions). Therefore, if a device is not valid, it is useless. Please consider rewriting the sentence.
+INTRODUCTION
+- LL72-77: Please consider citing the review conducted by Badillo et al. (2022), as it addresses the core concepts of velocity-based resistance training (10.1186/s40798-022-00513-z).
+- LL78: “Different velocity-monitoring systems are available nowadays.” Please consider citing some studies.
+- LL79: “…valid and reliable devices providing barbell velocity data are needed”. Please consider adding a brief definition of validity and reliability.
+- LL84-86: I would complement this sentence by adding linear velocity transducers.
+- LL88-90: Please consider citing the review conducted by Moreno-Villanueva on this topic (10.1080/14763141.2021.1988136).
+- LL96-107: These lines are important as they formulate the research problem. However, what is the main difference between the current study and those previously conducted? This information should be much more explicit so that readers can understand the current study’s need and novelty.
+- LL108-110: Please add references.
+- LL115: Why the GymAware and not a different device? The reason(s) for introducing this device in the narrative must be well-defined.
+- LL122-124: What is the need/relevance to include power variables? Are the estimates of power accurate in these devices? Previous authors have alerted for inaccurate power measures when using barbell kinematics (10.1519/JSC.0b013e31822e7b48). Considering that a force plate must be used for accurate power estimates, I question the utility of reporting power variables in the study.
+- LL130: Please consider formulating the study’s hypotheses based on previous research.
+MATERIALS AND METHODS
+- LL152: “Fourteen male sports science students…”. I recommend the authors present a reasonable sample size estimation based on an expected reliability value. Please also indicate the statistical power of the study.
+- LL162-187: Please add references for these procedures.
+- LL188-195: Please add references for these procedures.
+- LL198-202: Was the absolute load adjusted so that the velocity achieved corresponded to the relative intensity? How can the authors guarantee that the velocities reached during sessions correspond to the actual velocities of the participants? This aspect should be clear, considering the typical fluctuations of 1RM from day to day, thus affecting all relative loads.
+- LL229-231: The CV (%) is more commonly associated with reliability, as it indicates the degree of variation or dispersion between measures (i.e., the consistency of a measurement device).
+- In the statistical analysis subsection, I recommend that the authors calculate and report the intraclass correlation coefficient (ICC), Lin’s concordance correlation coefficient (CCC), and linear regression (r2 and SEE) to increase the robustness of their analysis. These tests have been consistently used in similar research; thus, they should be reported for further comparisons.
+- LL242-245: Please briefly describe how the CV ratio was calculated.
+RESULTS
+This section must be updated to integrate the results of the tests recommended before (ICC, CCC, and regression analysis). Furthermore, I recommend presenting the Bland-Altman results in a figure, not a table, since visual inspection, in this case, is more direct in interpreting results. Regression lines with the respective r2 and SEE values must also be shown to analyze the concurrent validity between devices.
+DISCUSSION
+- LL327: I recommend replacing the word “monitoring” with “measuring”.
+- LL330-331: “The results revealed that Vitruve and GymAware cannot be used interchangeably.” If we consider the GymAware device as the gold standard, this sentence means that the Vitruve is not a valid device for measuring velocity and power. I suggest rewriting the sentence for clarity.
+- LL342-344: According to these lines, only the measurement of PV during the Smith machine back squat seems valid. Therefore, the practical implications paragraph and the conclusions sentences should adequately address these results to clarify the readers. Vitruve is not valid for measuring MV during the back squat in both variants, but it is valid for measuring PV only during the Smith machine back squat.
+- LL347-348: “Several factors could be behind these underestimations of MV, and the higher validity observed for PV”. “For MV, Vitruve did not meet the validity criteria for any of the relative loads during the free-weight back squat exercise mode or Smith machine back squat exercise mode». The sentence must be reformulated to clearly highlight this information.
+- LL349: It is said that the “GymAware … includes an angle sensor that corrects the vertical displacement according to the horizontal motion of the lift”. However, what is the influence of this sensor? Is it really that relevant?
+- LL350: “Additionally, the data processing performed by the software of each device might cause a different start and end point selection of the concentric phase.” How does the mechanism differ? In lines 213-214, the authors indicate, “Both linear position transducers internally collect and process the data in a similar fashion”. Please reformulate for clarity.
+- I recommend that the authors address some of the study’s limitations. For example, some limitations include the low sample size, the absence of velocity data for some relative loads (30, 50, and 70% 1RM), and the lack of a gold standard device such as a 3D motion capture system to measure velocity. Furthermore, if power variables are maintained in the analysis, the lack of a direct force measurement to determine power must be recognized.
+- I also recommend that the authors provide future research lines on this topic and practical recommendations for coaches and researchers regarding using the Vitruve device in the free-weight and Smith machine back squat. What should and should not be used must be mentioned.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+2 Sep 2024
+PONE-D-24-16910R1Validity and Reliability of Velocity and Power Measures Provided by the Vitruve Linear Position TransducerPLOS ONE
+Dear Dr. Jukic,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Dear authors, one of the two reviewers has provided one more general comment on the article that I would like to see addressed. 
+==============================
+Please submit your revised manuscript by Oct 17 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Danica Janicijevic, Ph.D
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you, some of the claims are better. However, when using words like "superior" it makes it sound like something is actually good. If you eat pizza and the taste of one pizza is 4/10 and the other is 5/10, the second is superior than the other. Despite being superior, would you want to eat that pizza? No. I feel the same with this paper... we have tons of devices to choose from, some of which are excellent at different loads, different exercises, with machines, with free weights etc. Yet, here we have a device that isn't as good (according to the data presented). So yea, although the data show the Vitruve is better at measuring V than P, that it's better in a machine than with a free weight, it seems to be a poor choice for people who will actually use this. Remember, even if you hedge your statements a bit, authors will read your title, abstract, and conclusion and still think this device is good (it's just not excellent at everything). However, compared to the other options out there, this device doesn't seem to be up to par yet.
+In no way am I involved with any company, I don't want to promote anything, and I don't want to convince you (or potential readers) what devices they should or shouldn't use. However, when looking at this data, and when looking at other similar data on other devices, these data indicate that the device shouldn't be used in its current state. If you agree, please make some more changes throughout the document, especially at strategic points. However, if you have a different opinion and you feel as though you want to highlight the positive aspects of the data (compared to the overall negative aspects), I cannot stop you because it's just the way you choose to report and interpret the data. There would not be anything scientifically wrong, per se.
+Reviewer #2: Dear authors,
+Congratulations on your excellent work revising the manuscript as requested and answering all my comments and suggestions. In my opinion, the manuscript is ready for publication.
+Best regards
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

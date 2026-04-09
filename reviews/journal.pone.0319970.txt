@@ -1,0 +1,48 @@
+2 Dec 2024
+PONE-D-24-30523Factors associated with severity and death in patients with cancer and COVID-19PLOS ONE
+Dear Dr. Viana,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+ This study is cross-sectional as it assesses the prevalence of certain factors and outcomes in cancer patients hospitalized with COVID-19 over a defined period. This information provides a comprehensive view of the clinical and epidemiological profile of cancer patients with COVID-19, highlighting the impact of age, comorbidities, and cancer type on severity and mortality outcomes.
+However, the results (advanced age, comorbidities significantly increase the severity and mortality of COVID-19 in cancer patients, ventilatory support and MV are strong indicators of poor outcomes) are expected as are already known in the literature. A strength of the paper might be that offers crucial insights for managing cancer patients during the pandemic and highlights the need for further studies to improve care and health policies for this vulnerable population.  This study's findings are important for healthcare planning, resource allocation, and improving the quality of care during pandemics. A dedicated paragraph in discussion can include the above. A possible more appropriate title could be “the interaction between cancer and COVID-19 including the role of socioeconomic factors and providing targeted interventions.”
+Also, important limitations that should mentioned are potential underreporting and overreporting due to self-reported data on race, comorbidities, and symptoms. Lack of detailed clinical information on cancer disease (tumor grade, staging, treatments).  Difficulties in database integration and linking due to data collection methods and incomplete records.
+Please submit your revised manuscript by Jan 16 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Eleni Magira
+1. When submitting your revision, we need you to address these additional requirements. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf 2. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+Additional Editor Comments:
+This study is cross-sectional as it assesses the prevalence of certain factors and outcomes in cancer patients hospitalized with COVID-19 over a defined period. This information provides a comprehensive view of the clinical and epidemiological profile of cancer patients with COVID-19, highlighting the impact of age, comorbidities, and cancer type on severity and mortality outcomes.
+However, the results (advanced age, comorbidities significantly increase the severity and mortality of COVID-19 in cancer patients, ventilatory support and MV are strong indicators of poor outcomes) are expected as are already known in the literature. A strength of the paper might be that offers crucial insights for managing cancer patients during the pandemic and highlights the need for further studies to improve care and health policies for this vulnerable population. This study's findings are important for healthcare planning, resource allocation, and improving the quality of care during pandemics. A dedicated paragraph in discussion can include the above. A possible more appropriate title could be “the interaction between cancer and COVID-19 including the role of socioeconomic factors and providing targeted interventions.”
+Also, important limitations that should mentioned are potential underreporting and overreporting due to self-reported data on race, comorbidities, and symptoms. Lack of detailed clinical information on cancer disease (tumor grade, staging, treatments). Difficulties in database integration and linking due to data collection methods and incomplete records.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. Research hypothesis not mentioned.
+2. The validation of the questionnaire not done.
+3. Conclusion should be further modified to bring in line with the objectives
+4. The sample size needs to be elaborated
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  MILI SENGAR
+**********

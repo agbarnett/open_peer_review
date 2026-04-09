@@ -1,0 +1,67 @@
+
+11 Apr 2024
+PONE-D-24-07867Association between degree of obesity and atopic dermatitis among adolescents: Findings from a national cross-sectional study in KoreaPLOS ONE
+Dear Dr. Park,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 26 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Dong Keon Yon, MD, FACAAI, FAAAAI
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+"This study did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+We note that you have provided funding information that is currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+"The author(s) received no specific funding for this work."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.
+Additional Editor Comment:
+Thank you for submitting your manuscript. The reviewers and I believe it is of potential value for our readers. However, the reviewers have raised a number of very important issues, and their excellent comments will need to be adequately addressed in a revision before the acceptability of your manuscript for publication in the Journal can be determined. We cannot guarantee that your revised paper will be chosen for publication; this would be solely based on how satisfactorily you have addressed the reviewer comments.
+#1. KCDC -> KDCA
+#2. To determine the association between BMI and AD, multiple logistic regression analysis was performed after adjusting for all covariates. -> Please cite the statistical guideline (DOI: https://doi.org/10.54724/lc.2022.e3).
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: This is a good manuscript. But I have some comments as followed.
+1.The title might be revise as "Association between BMI and atopic dermatitis among adolescents: Findings from a national cross-sectional study in Korea".
+2.Background part: I suggest describe the epidemical situation of atopic dermatitis at first.
+3.Methods: part: Please describe the measure methods of the important variables. How to measure obesity and underweight?
+4.Please add the inclusion criteria and exclusion criteria in the part of Participants.
+5.Results part: Please add to the subtitle of different part.
+6.Discussion part: please add to advantage of the research before the limitation of the research.
+Reviewer #2: Through this manuscript, the authors have effectively demonstrated the relationship between the degree of obesity and atopic dermatitis. I appreciated how they tied this association to the clinical aspect of the disease, offering non-pharmacological interventions as a viable option. However, upon reviewing the manuscript, I encountered some conflicting points. I hope the authors will view this feedback positively.
+1. In the Materials and Methods section, under the subsection "Data," the authors mentioned "sampling design method." I intend to question the appropriateness of this sampling technique.
+2. Under the subheading "Variables," the study mentioned using BMI levels categorized as underweight, normal weight, and obesity. However, the World Health Organization classifies BMI into underweight, normal, overweight, and obese categories. Therefore, it would enhance the study's credibility to align with the globally accepted classification system.
+3. Atopic dermatitis is a chronic skin condition. However, in this study, participants with a past history of atopic dermatitis (more than 1 year ago) were categorized into the AD "no" group. I believe this could potentially underestimate the prevalence of the disease, which might impact the subsequent analyses conducted in the study.
+4.In the majority of cases, atopic dermatitis (AD) has an onset before the age of five years. However, this study targeted participants aged 12 to 18 years. This age group, coupled with the exclusion of participants with a history of AD, could have influenced the results, particularly in terms of prevalence.
+5.The authors stated that "All participants signed an informed consent when they participated." However, it's worth noting that the majority of participants are minors. This raises ethical concerns regarding whether it is appropriate for a study to involve minors signing consent forms.
+6.The data provided in the manuscript are publicly available on the website mentioned. However, it's important to note that all the data are in a language other than English. If feasible, it would be beneficial to have the data translated into English for wider accessibility and comprehension.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

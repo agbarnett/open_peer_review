@@ -1,0 +1,121 @@
+
+22 Oct 2023
+PONE-D-23-30492Repressing miR-23a promotes the transdifferentiation of pancreatic α cells to β cells via negatively regulating the expression of SDF-1α.PLOS ONE
+Dear Dr. kang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+Your research offers intriguing insights into the potential therapeutic role of miR-23a for Type 1 Diabetes. However, upon thorough review, several concerns have been raised that necessitate further attention and clarification. Key issues include the clarity of blood glucose measurements, justification for specific experimental conditions, the quality and representation of TEM and IHC images, and the comprehensive examination of transdifferentiation markers. Addressing these concerns is imperative to enhance the robustness and credibility of your study. Detailed comments are attached for your perusal.
+==============================
+Please submit your revised manuscript by Dec 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Syed M. Faisal, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+[This research was supported by the Science & Technology Department of Sichuan Province (No. 2021YJ0209), and the Science And Technology Project of the Health Planning Committee of Sichuan (No. 21PJ070).]
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+ [The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.]
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+5. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+6. PLOS ONE now requires that authors provide the original uncropped and unadjusted images underlying all blot or gel results reported in a submission’s figures or Supporting Information files. This policy and the journal’s other requirements for blot/gel reporting and figure preparation are described in detail at https://journals.plos.org/plosone/s/figures#loc-blot-and-gel-reporting-requirements and https://journals.plos.org/plosone/s/figures#loc-preparing-figures-from-image-files. When you submit your revised manuscript, please ensure that your figures adhere fully to these guidelines and provide the original underlying images for all blot or gel data reported in your submission. See the following link for instructions on providing the original image data: https://journals.plos.org/plosone/s/figures#loc-original-images-for-blots-and-gels. 
+  
+In your cover letter, please note whether your blot/gel image data are in Supporting Information or posted at a public data repository, provide the repository URL if relevant, and provide specific details as to which raw blot/gel images, if any, are not available. Email us at plosone@plos.org if you have any questions.
+7. Please amend either the title on the online submission form (via Edit Submission) or the title in the manuscript so that they are identical.
+8. We note that Figure 2A, 3A and 4 in your submission contain copyrighted images. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright.
+We require you to either (1) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (2) remove the figures from your submission:
+a. You may seek permission from the original copyright holder of Figure 2A, 3A and 4 to publish the content specifically under the CC BY 4.0 license. 
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”
+Please upload the completed Content Permission Form or other proof of granted permissions as an ""Other"" file with your submission. 
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”
+b. If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only.
+9. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript entitled “Repressing miR-23a promotes the transdifferentiation of pancreatic α cells to β cells via negatively regulating the expression of SDF-1α” reveals a new mechanism of SDF-1α in pancreatic α-to-β cell transdifferentiation and suggest that miR-23a is a potential target with broad applicability for the treatment of T1D. The manuscript needs minor revision before it can be accepted for publication:
+1. The author should improve the english grammer and make the sentences grammatically correct.
+2. The authors need to add a few more recent references relevant to the work.
+3. The authors need to organize the work well.
+Reviewer #2: The articletitled "Repressing miR-23a promotes the pancreatic α-to-β cells transdifferentiation via SDF-1α" authored by Lang et al. underscores the potential significance of miR-23a as a promising therapeutic target in the context of regenerating pancreatic β cells from α cells. This research aims to enhance insulin production, ultimately offering a novel avenue for treating Type 1 Diabetes (T1D). Before considering this article for publication in the journal, certain issues require attention and resolution, as outlined below.
+1. The authors mentioned that mice were considered to have Type 1 Diabetes (T1D) when their blood glucose exceeded 200 mg/dl. However, it is essential to clarify whether this measurement is based on fasting or random blood glucose levels.
+2. The authors subjected primary islets to very high glucose levels for an extended period. It would be helpful to provide a rationale for this choice of duration and glucose concentration in the study.
+3. The TEM images of exosomes isolated from Min6 cells in Fig. 2A appear to be of poor quality. It is advisable to replace these images with higher-quality representations. Also, please include TEM images of the pancreas or the islets in the treated and untreated groups.
+4. In the Oral Glucose Tolerance Test (OGTT) experiment, the blood glucose level at 0 minutes (after 14 hours of fasting) was within the normal range, not in the diabetic range. This discrepancy should be explained in the article.
+5. Please provide the beta cell mass values for both the untreated and treated groups of mice, as this information is crucial for understanding the impact of the treatment.
+6. How would the treatment affect the diabetes progression it was carried out earlier in the mice, for example in the prediabetes stages? Please comment on this or include data if already collected.
+7. While insulin levels increased, and the mice showed improved glucose tolerance upon miR23a treatment, it is important to disclose whether there were any changes in body weight within the treated group of mice.
+8. Specify the fold change values for dedifferentiation markers such as Aldh1, Neurog3, and any others mentioned in the study.
+9. The authors should examine MafA, Pdx1, Neurod1, Urocortin and Ero1-beta in the alpha cells that are transdifferentiated to beta cells. This would add emphasis to the beta cell identity in after α-to-β cell transdifferentiation. On a related note, XBP1, which is linked to Unfolded Protein Response (UPR) events in cells, has been suggested to maintain beta cell identity and function under metabolic stress (in diabetes). The authors should consider analyzing the status/expression of XBP1 in their models in this study.
+10. Please include a brief discussion on epigenetic factors that may influence α-to-β cell transdifferentiation.
+11. The Immunohistochemistry (IHC) figure for insulin and glucagon are not convincing, as the images for insulin and glucagon appear to be from different pancreatic sections or islets. Please provide accurate and representative immunofluorescence images.
+12. In Fig. 2D, where levels of insulin and glucagon are shown using ELISA assays, it would be better to also present this data using Western blot analysis for a more comprehensive assessment. Good
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Sidra Islam
+Reviewer #2: Yes: Maroof Alam
+**********
+
+16 Feb 2024
+Repressing miR-23a promotes the transdifferentiation of pancreatic α cells to β cells via negatively regulating the expression of SDF-1α.
+PONE-D-23-30492R1
+Dear Dr. kang,
+Syed M. Faisal, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Maroof Alam
+**********

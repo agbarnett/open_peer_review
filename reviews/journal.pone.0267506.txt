@@ -1,0 +1,75 @@
+
+17 Mar 2022
+PONE-D-21-38198
+Point of Care Lung Ultrasound Injury Score - a Simple and Reliable Assessment Tool in COVID-19 Patients (PLIS I): A Retrospective Study
+Dear Dr. Fuchs,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 01 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Jignesh K. Patel
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: "this is not a funded research"
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution. 
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Competing Interests section: "Lior Fuchs is a consultant for GE Healthcare"
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared. 
+Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf.
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+5. Please amend the manuscript submission data (via Edit Submission) to include author Khaled el haj, MD.
+6. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section. 
+7. Please upload a new copy of Figures 2 and 3 as the detail is not clear. Please follow the link for more information: https://blogs.plos.org/plos/2019/06/looking-good-tips-for-creating-your-plos-figures-graphics/" https://blogs.plos.org/plos/2019/06/looking-good-tips-for-creating-your-plos-figures-graphics/
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+5. Review Comments to the Author
+Reviewer #1: Thanks for this interesting paper on the use of ultrasound in COVID patients.
+My comments are :
+Background : could you provide some references to “There is a direct association between the severity of COVID-19 pneumonia and computerized tomography (CT) findings”
+Could you add something about the predominant COVID variant in your hospital during the study?
+Could you please address this comment: This is a retrospective study, although data were prospectively collected.
+Was the study designed prospectively?? Was it registered? Could you discuss how the study was designed?
+An important question is the timing of the data collection. The COVID time course is useful in understanding deterioration, and I am not sure from the manuscript whether the measures on patients reflect – paired measurements (ED or ward then ICU, or in some patients were single measurements, or in others, multiple measurements on the same patient). It just states “on admission” – not sure whether that is to hospital or the ward or to ICU.
+P 5 “were assessed by an intensivist to require mechanical ventilation in the next 24 hours potentially. “
+Were assessed by an intensivist to potentially require …
+Figure 1: why are the stars in a different position to the probe?
+For the “putting it together” could you create a figure that shows perhaps the different components with the ultrasound images ?
+Interobserver variability – how many scans were repeated by different operators?
+Table 4 Did you run the model just with PLIS A? Just wanting to understand the added benefit of the U/S scan in predictions.
+Reviewer #2: This is a interesting paper which validates some of our regular utility of sonography in the ICU during the pandemic. We have already appreciated that CT scan findings with higher "scores" i.e. worse diseases, likely have a poorer outcomes. This essentially is also shown in this paper where the authors evaluate the lung parenchyma.
+Using PLIS in their group is sound however this group may not reflect the prevalence of underlying diseases in other countries and so this should be taken with a grain of salt. For example, CKD or CHF may be more prevalent in certain populations which would affect the lung sonographic profile.
+********** 
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: Yes: Kinner Patel

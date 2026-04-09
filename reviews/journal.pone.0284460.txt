@@ -1,0 +1,127 @@
+
+19 Sep 2022
+PONE-D-22-18837Survival outcomes of breast cancer patients with recurrence after surgery according to period and subtypePLOS ONE
+Dear Dr. Lee,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 03 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Yasunori Sato
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following in the Acknowledgments Section of your manuscript: 
+   "This study was supported by a grant (Elimination of Cancer Project Fund) from the Asan Cancer Institute of Asan Medical Center, Seoul (2017-1341)."
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. 
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows: 
+ "The authors received no specific funding for this work."
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+Reviewer #3: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+Reviewer #3: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: No
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript titled ‘Survival outcomes of breast cancer patients with recurrence after surgery according to period and subtype’ aimed to compare survival outcomes in BC patients between two periods of time o identify the factors associated with post-recurrence survival and overall survival and changes over time in the duration of survival after recurrence. Following comments could be helpful for authors.
+Minor comments:
+- Don’t mention the definition of period1 and period2 multiple times (lines 21,25,55, 63, 169)! Mentioning once would be enough!
+- Your sample size is 2,407, so report it in abstract and method as your sample size as your analysis is based on that.
+- It seems that there is an abbreviation in the literature stands for post-recurrence survival (PRS).
+Major comments:
+- There is a lack of proper rationales in introduction part. Why this study is important?
+- SAR should be defined from the time of recurrence to death/last follow up. OS is also defined time from diagnosis to death/last follow up time.
+- What about eligibility criteria! Is your study restricted to age (e.g., 18-77), those who had not second recurrence or metastasis etc.
+- If study aimed to see improvement in treatment in patients who had recurrence, the time of treatment is of importance. If so, the treatments for patients with recurrence should be considered as well! You don’t know is this the effect of treatments before recurrence or after the recurrence. This bias can affect the result. Were patients received the treatment after their recurrence? There is no information in the manuscript to support this! The treatments mentioned in table 2, are received by patients after recurrence?
+- In table 2, comparison results showed that in some pathologic variables, there are significant differences between two periods (e.g., T stage, Nodal status, HR etc)! It seems that you might need to match comparison groups. The question is that are they comparable?
+- Your sample size covers recurred patients (your title), right? while you have results based on overall survival which includes interval time from diagnosis to death/last follow up!
+- Be clear on your sample size! It looks Analyses were performed based on recurred sample! If you are analyzing 17,776 patients, mention the sample of analysis in table 4 and 5.
+- Why didn’t you use trend analysis to see the changes over time?
+Reviewer #2: Sept 5, 2022
+Title: Survival outcomes of breast cancer patients with recurrence after surgery according to period and subtype
+This paper presents a study to analyze and compare the survival rates of recurrent breast cancer patients in Korea between two periods (2000–2007; 2008–2013) and to identify the factors associated with outcomes and changes over time in the duration of survival after recurrence. However, there are questions that limit my enthusiasm of the paper, as outlined below.
+1. Authors include the patients with unknown clinical variables e.g., stage, histology, etc. Why not removing these patients? If for any clinical and biological reason, this group named as “unknown” is important and would like to assess the effect of that in analyses, still not correct analysis was applied. Authors considered chi-squared method to do the association which will have low power in this scenario, and the non-parametric Fisher exact test is the correct method to be applied.
+2. Authors did mention that multivariate Cox model was applied, and I couldn’t follow in which step this method was applied. I already saw the findings using univariate Cox model.
+3. Please keep the HR estimate along with p value to report findings.
+4. Table 3: Please add appropriate test to assess the association between type of recurrence and year of recurrence.
+5. Figures 2 and 3: How about adding supplementary figures to show the KM and log-rank test using OS across all four subtypes and the same test for SAR.
+6. Tables (e.g., 4 and 5), for example for some categorical variables e.g., age, T stage, etc., we have the p values and other statistics for each category, while a p value for that given variable (e.g., age, T stage). I couldn’t follow how the p value was computed.
+7. In addition, authors only considered clinical data, while adding molecular data along with clinical data to assess the association with OS or SAR can make the paper much more interesting along with this fact it can be fit better for PLOS ONE journal requirement.
+Reviewer #3: 1. Using anti-hormonal therapy instead of hormonal therapy is not common. Even though It is not incorrect, it is suggested to change it.
+2. Table 3: According to data in table 3, no patient had a locoregional and systematic recurrence. While the co-incidence of outcomes is possible.
+3. Line 101: You have presented that the follow-up duration from the time of relapse ranged between 0–223.4 months. Since the data is pertaining to 2000-2013 and they have been recruited into the database from 2017 to 2021, one expects that their follow-up time is not zero. Would you please explain more about this data?
+4. Please define the statistical tests which were used in the analysis of data presented in lines 131-135.
+5. Line 134-135: In this sentence, “… the median 5-year OS rate 135 from the period I (97.5 months) to period II (114.4 months)”, you have not presented any survival rate, and the sentence needs an edition. Those values are the median survival durations.
+6. Tables 4 and 5 are huge boxes of data and are hard to use. The p-values can be deleted, and the significant HR (0.95 CI)s can be bolded.
+7. Line 191: regarding this sentence and the following explanation, “In multivariate analyses, age at diagnosis was independently associated with…” we should notice that independent association of variables is studied in univariate analysis. In multivariate analysis, the effect of each variable is dependent on the effect of other included variables in the regression model.
+8. Line 208: “chemotherapy after recurrence was significantly associated with survival outcomes…”. It is not clear whether it was associated with better or worse survival?
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes: Shahpar Haghighat
+**********
+
+3 Apr 2023
+Survival outcomes of breast cancer patients with recurrence after surgery according to period and subtype
+PONE-D-22-18837R1
+Dear Dr. Lee,
+Yasunori Sato
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+Reviewer #3: No
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: Title: Survival outcomes of breast cancer patients with recurrence after surgery according to period and subtype
+Authors addressed all the comments. Thank you
+Reviewer #3: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #3: Yes: Shahpar Haghighat
+**********

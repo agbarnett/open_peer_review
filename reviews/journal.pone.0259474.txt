@@ -1,0 +1,48 @@
+
+2 Sep 2021
+PONE-D-21-24609
+Mobile interventions targeting common mental disorders among pregnant and postpartum women: An equity-focused systematic review
+Dear Dr. Kevin Pottie,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 17 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Eugene Demidenko, Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+Additional Editor Comments:
+The study reports on the meta-analysis of mobile interventions aimed to improve mental health of pregnant and postpartum women. I’m overly positive on the work done, accomplishments and findings, but at the same time, I’m frustrated at the lack of transparency of how the summary statistics have been obtained. The paper will become reader-friendly, much stronger and results more convincing upon expanding the quantitative aspect of the paper. I should remind the authors that scientific work requires complete transparency regarding derivation of the results so that they could be reproduced.
+Specifically,
+1. Unfortunately, the authors mostly report on the qualitative findings but make little effort in explaining how the major quantitative summary statistics such as OR, absolute risk reduction (ARR; why RD?), mean difference (MD) and have been derived.
+2. Table 2 misses critical information on quantitative study-specific statistics, such as MD, RD or OR along with their CI, sample size (n) along with statistical method used (logistic regression, contingency table, t-test). When reporting the summary statistics (meta-analysis) from #1 the authors should indicate what data from individual studies have been used.
+3. Why Figs 4 and 5 involves only two studies per figure? Why not all 18 studies? What IV, random means?
+4. I’m curious why our paper on the mobile intervention “Measuring outcomes of digital technology-assisted nursing postpartum: A randomized controlled trial” by Deborah E McCarter, Eugene Demidenko, Mark T Hegel, PMID: 29772609 PMCID: PMC6240405 DOI: 10.1111/jan.13716 was not a part of the study.
+I believe that the authors can address my comments without major revision. I’m looking forward to see the revised version.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: I can’t comment on the high-level statistics, but as for how it was conceived and reviewed, it is quite thorough. It is important to have searched the nursing database CINAHL, although ultimately only one nursing journal was referenced, and while this may be due to the rigor of the studies, nursing journals are very focused on the clinical and qualitative results of interventions, and are often the ones best qualified to provide the intervention, so more nursing focus could have strengthened this.
+The equity lens is excellent, and a great model for others to follow, and adds a significant part to the rigor and value of this research. Similarly, the chart with the risk of bias is quite valuable, but one needs to also consider how this kind of intervention is measured, and what results might be missed by prioritizing randomized controlled trials, which don't lend themselves as well to measuring outcomes of interventions designed to improve mood and mental health. Measuring mental health is limited by the measurement instruments used, and thus, the need for qualitative data, as mentioned in the discussion, is paramount. All in all, I think it was a great paper.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Deborah McCarter, PhD, RN

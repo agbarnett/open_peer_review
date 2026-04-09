@@ -1,0 +1,88 @@
+23 Dec 2024
+-->PONE-D-24-54123-->-->Naturido alleviates amyloid β1-42 -induced adverse effects in a transgenic Caenorhabditis elegans model of Alzheimer’s disease.-->-->PLOS ONE
+Dear Dr. Wakabayashi,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. 
+The reviewer recommends that your manuscript be accepted following minor revisions.
+Please submit your revised manuscript by Feb 06 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:-->
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+-->If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+David M. Ojcius
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.
+3. Please amend either the title on the online submission form (via Edit Submission) or the title in the manuscript so that they are identical.
+Reviewers' comments:
+Reviewer's Responses to Questions
+-->Comments to the Author
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+-->2. Has the statistical analysis been performed appropriately and rigorously? -->
+Reviewer #1: Yes
+**********
+-->3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+-->4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.-->
+Reviewer #1: Yes
+**********
+-->5. Review Comments to the Author
+Reviewer #1: The work " Naturido alleviates amyloid β 1-42 -induced adverse effects in a transgenic Caenorhabditis elegans model of Alzheimer’s disease", authored by Piyamas Sillapakong, Tokumitsu Wakabayashi, Koichi Suzuki,
+demonstrates the effect of the cyclic peptide Naturido, extracted from the fungus Isaria Japanica, on a partial rescue from several age-related deficits in an AD model of C. elegans.
+The paper focuses on the effects related to worms associative learning, serotonin hypersensitivity, locomotion issues and vitality.
+Such effects are proven by considering the comparison of the AD model CL2355 with the control CL2122 worms that do not overexpress Ab1-42 under thermal switch from 16°C to 23°C.
+I suggest some minor revisions before publication, in order to make some experiments more clear:
+1) In the introduction the authors missed the citation to another work on an AD model of C.elegans involving the anti-AD effect of a natural protein, alpha-casein, due its idp and chaperone-like properties and its ability to sequester oligomeric intermediates in amyloid aggregation [Paterna et al. 2023, 10.1021/acschemneuro.3c00239].
+2) In the description of Fig.1A, where the chemotaxix assay is described, is not clear if A and B are points or regions or even lines delimiting a circle of radius 2.5cm. Sorry, I could not make it to understand. Can you better explain?
+3) What does HT assay means? I missed acronym list.
+4) Comment on the fact that also mocks dye after 40 days. Is it the worm natural lifespan?
+5) Comment on the fact that under the treatment with N50 it seems that a tiny toxicity is present in the CL2122 lifespan (not clear to me if it is statistically consistent?), while improvements are noticed in the locomotion and survival experiments.
+6) Remember to give reference of all the products used, with brand and product number, in the right Reagents Section.
+7) Some supplementary information, such as videos, could be helpful for the unexpert reader to have a representation of the main results of the study, like the rescue in body bending in the AD case for example?
+**********
+-->6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+23 Feb 2025
+Naturido alleviates amyloid β1-42 -induced adverse effects in a transgenic Caenorhabditis elegans model of Alzheimer’s disease.
+PONE-D-24-54123R1
+Dear Dr. Wakabayashi,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+David M. Ojcius
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+-->Comments to the Author
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.-->
+Reviewer #1: All comments have been addressed
+**********
+-->2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+-->3. Has the statistical analysis been performed appropriately and rigorously? -->
+Reviewer #1: Yes
+**********
+-->4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+-->5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.-->
+Reviewer #1: Yes
+**********
+-->6. Review Comments to the Author
+Reviewer #1: (No Response)
+**********
+-->7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

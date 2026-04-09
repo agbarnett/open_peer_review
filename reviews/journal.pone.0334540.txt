@@ -1,0 +1,92 @@
+3 Aug 2025
+Dear Dr. Takyi,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Sep 15 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Sunny Narayan
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In the online submission form, you indicated that “The data underlying the results presented in the study are available upon request”
+freely available to other researchers, either 1. In a public repository, 2. Within the manuscript itself, or 3. Uploaded as supplementary information.
+This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If your data cannot be made publicly available for ethical or legal reasons (e.g., public availability would compromise patient privacy), please explain your reasons on resubmission and your exemption request will be escalated for approval.
+3. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+4. We note you have included a table to which you do not refer in the text of your manuscript. Please ensure that you refer to Table 2 in your text; if accepted, production will need this reference to link the reader to the Table.
+5. If the reviewer comments include a recommendation to cite specific previously published works, please review and evaluate these publications to determine whether they are relevant and should be cited. There is no requirement to cite these works unless the editor has indicated otherwise. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+Reviewer #1: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+The PLOS Data policy
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+Reviewer #1: Yes
+**********
+Reviewer #1: Review of Manuscript
+Title: Dissecting Fuel Demand Elasticities in Ghana: A Quantile Regression Analysis Using the Marshallian Demand Framework
+The manuscript presents a rigorous analysis of fuel demand elasticities in Ghana, employing advanced econometric techniques to explore nonlinear and heterogeneous consumer responses to price and income changes. The study is well-structured and methodologically sound, offering valuable insights for policymakers and energy economists. However, certain areas could benefit from clarification, expansion, or refinement to enhance the manuscript's impact and readability.
+Strengths:
+1. Methodological Rigor:
+o The use of Ensemble Empirical Mode Decomposition (EEMD), Quantile Regression Analysis (QRA), and Quantile-on-Quantile Regression (QQR) is innovative and effectively addresses the limitations of traditional linear models. These methods capture asymmetric and frequency-dependent relationships, providing a nuanced understanding of fuel demand dynamics.
+o The integration of the Marshallian demand framework with nonlinear techniques bridges theoretical and empirical gaps, offering a fresh perspective on consumer behavior.
+2. Policy Relevance:
+o The findings challenge conventional assumptions about fuel price inelasticity and uniform demand, highlighting the need for targeted subsidies and differentiated pricing policies. This is particularly relevant for Ghana, given its significant fuel price volatility.
+o The study’s emphasis on heterogeneity in consumer responses (e.g., petrol as a normal good for middle-income groups but inferior for high-income groups in the long term) provides actionable insights for equitable policy design.
+3. Comprehensive Data Analysis:
+o The use of monthly data from 2000–2022 ensures robustness, and the decomposition into short-, medium-, and long-term horizons (via IMFs) adds depth to the analysis.
+o The validation of QQR results against QRA and the inclusion of 3D visualizations enhance the transparency and credibility of the findings.
+Areas for Improvement:
+1. Clarification of Methodological Choices:
+o EEMD Justification: While EEMD is introduced as a noise-reduction technique, the manuscript could better explain why this method was chosen over alternatives (e.g., wavelet analysis) and how the selected IMFs (1, 5, residual) align with the study’s time horizons.
+o Quantile Selection: The rationale for using 7 quantiles (e.g., Q0.05 to Q0.95) should be explicitly tied to statistical power or economic rationale (e.g., income stratification).
+2. Discussion of Limitations:
+o The exclusion of macroeconomic variables (e.g., exchange rates, global oil prices) and demographic factors (e.g., urbanization, vehicle ownership) is noted, but their potential impact on results could be discussed more critically. For instance, how might exchange rate fluctuations confound the observed price elasticities?
+o The non-stationarity of residuals in long-term analyses (e.g., QQR deviations) warrants deeper discussion. Are these deviations statistically significant, and do they affect policy conclusions?
+3. Policy Implications:
+o The recommendations (e.g., differentiated subsidies, alternative energy investments) are sound but could be more specific to Ghana’s context. For example:
+� How might the government implement income-tiered pricing in practice?
+� What barriers exist to adopting electric vehicles/biofuels in Ghana, and how can they be addressed?
+o A brief comparison with successful policies in similar economies (e.g., Nigeria, Kenya) could strengthen the policy section.
+4. Presentation and Clarity:
+o Figures/Tables: Some figures (e.g., 3D plots in Figure 2) are visually dense and could benefit from clearer labels or annotations to highlight key takeaways.
+o Terminology: Acronyms (e.g., IMFs, QQR) should be defined at first use, and technical terms (e.g., "inferior good") could be briefly explained for interdisciplinary readers.
+General Comments:
+• Data Availability: The manuscript states data are "fully available without restriction," but no repository or DOI is provided. Clarifying where data can be accessed would enhance reproducibility.
+• References: Some citations lack titles or DOIs (e.g., [6], [22]), reducing traceability. Ensure all references follow journal guidelines.
+• Include some of these Key Suggested References:
+• https://doi.org/10.1016/j.compeleceng.2021.107295
+• https://doi.org/10.3390/en16020642
+• https://doi.org/10.3390/su15021222
+• https://doi.org/10.3390/su15075739
+• https://doi.org/10.1038/s41598-024-57231-7
+• https://doi.org/10.1016/j.heliyon.2023.e19387
+• https://doi.org/10.1038/s41598-025-85484-3
+• https://doi.org/10.1038/s41598-024-61413-8
+• https://doi.org/10.3390/su15108264
+• https://doi.org/10.1038/s41598-024-83826-1
+• https://doi.org/10.3390/su151310736
+• https://doi.org/10.3390/en160206425
+• https://doi.org/10.1016/B978-0-323-85169-5.00023-X
+• https://doi.org/10.1016/j.rineng.2025.105828
+• https://doi.org/10.1038/s41598-025-07038-x
+• https://doi.org/10.1007/s43621-025-01563-5
+The overall evaluations of this manuscript makes a significant contribution to energy economics by combining advanced econometrics with the Marshallian framework to dissect fuel demand elasticities in Ghana. Its findings are robust and policy-relevant, though the impact could be heightened by addressing the above suggestions and accept with major revisions to clarify methodological choices, expand policy discussions, and improve presentation.
+**********
+what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Takele Ferede Agajie
+**********

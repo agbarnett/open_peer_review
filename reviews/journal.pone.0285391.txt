@@ -1,0 +1,104 @@
+
+14 Feb 2023
+PONE-D-22-33727Analyzing the sensitivity of quantitative 3D MRI of longitudinal relaxation at Very Low Field in Gd-doped phantomsPLOS ONE
+Dear Dr. De Iure,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 31 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Marco Giannelli
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, all author-generated code must be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+Additional Editor Comments:
+This is an interesting and original study. In order to further improve the manuscript, I hope the Authors are able and willing to adequately address some minor concerns raised by the Reviewers.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The manuscript “Analyzing the sensitivity of quantitative 3D MRI of longitudinal relaxation at Very Low Field in Gd-doped phantoms” describes quantitative T1 measurement on a homemade Ultra low field magnetic resonance tomograph (8.9 mT). The work is original, and the topics addressed, ultra-low field MRI and quantitative T1 (or R1) mapping, are both very hot, and could potentially be of interest for many readers from different scientific fields. The experimental work was well conducted, and the paper is overall well written. I believe that this paper could have a certain impact. For all these reasons, I’m favorable to the work publication on PLOS ONE. I report below some minor issues to fix before pubblication.
+1) Some more details about the MRI machine used could be useful: the gradients used (and slew/rate), should be reported.
+2) The phantom used need a better description:
+i) what is in the background? It is air?
+ii) the overall phantom dimensions have not been reported
+iii) probably a picture of the phantom could increase the readability.
+3) page 9 line 174, the authors said “The latter condition (TR>T2* NDR) is met in our setup where the homogeneity of the measurement field is low, considerably reducing the effective T2*” but the T2* value is not reported. In my opinion the T2* should be reported (at least an estimate of this value).
+4) Page 9 line 176- 177, an image showing the echo signal at the end of the acquisition could be helpful for supporting this claim.
+5) Figure 4-5-6 the 2 digits after the dot (.00) can be omitted for increasing readability
+Reviewer #2: This study tested the ability and the sensitivity of a VLF-MRI scanner operating at 8.9 mT in obtaining 3D longitudinal relaxation rate maps and distinguishing between voxels intensities. Phantoms consisting of
+vessels doped with different Gd-based contrast agent concentrations were used. 3D R1 maps and T1-weighted MR images were analysed and results obtained at 8.9 mT (4 NSA and isotropic voxel size of 3 mm) were compared with commercial scanners operating at 0.2 T, 1.5 T, and 3 T.
+The authors found that VLF R1 maps offered a higher sensitivity in distinguishing the different contrast agent concentrations and an improved contrast compared to higher fields. Moreover, the high sensitivity of VLF-MRI allowed an effective clustering of the 3D map values. Instead, T1-weighted images were less reliable, even at higher CA concentrations.
+The discussed topic is specific but of particular interest, and the text is generally clear and well written.
+Below some remarks:
+- Correct some minor grammatical errors in the text (line 99 spurious "s", line 100 missed dot at the end, lines 104-105 missed comma before "respectively", line 408 close the parenthesis).
+- Please provide a reference for the sentence at lines 118-119.
+- At line 207 "subsection 3" does not clearly point to the corresponding subsection, that does not have a identifier number. Please specify better which is the reference subsection.
+- Caption of Fig 7 (line 398): 8.9 mT, not 9 mT.
+- Please stress more in the Discussion section the limits of low SNR and limited spatial resolution for the in vivo translation of this technique.
+- Please provide the acquisition times for each sequence and scanner, to understand the possible translation in the in vivo field.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+24 Apr 2023
+Analyzing the sensitivity of quantitative 3D MRI of longitudinal relaxation at Very Low Field in Gd-doped phantoms
+PONE-D-22-33727R1
+Dear Dr. De Iure,
+Marco Giannelli
+Additional Editor Comments (optional):
+I thank the Authors for the effort put to definitively improve this interesting manuscript.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The Authors made a big effort to respond to all issues raised, the paper is in my opinion ready for publication.
+Reviewer #2: The authors now addressed all my remarks in their updated version of the article, completely answering to the comments.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

@@ -1,0 +1,236 @@
+
+29 Jun 2022
+PONE-D-21-34714
+Traveler’s Knowledge, Attitude, and Awareness about Travel Health Insurance during the COVID-19 Pandemic
+Dear Dr. Huang,
+Thank you for submitting your manuscript to PLOS ONE. Firstly, we would like to apologize for the delay in processing your manuscript. It has been exceptionally difficult to secure reviewers to evaluate your study. We have now received one completed review, which is available below.
+Please note that we have only been able to secure a single reviewer to assess your manuscript. We are issuing a decision on your manuscript at this point to prevent further delays in the evaluation of your manuscript. Please be aware that the editor who handles your revised manuscript might find it necessary to invite additional reviewers to assess this work once the revised manuscript is submitted. However, we will aim to proceed on the basis of this single review if possible.
+After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Jul 03 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Miquel Vall-llosera Camps
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+2. Thank you for stating the following financial disclosure:
+“This study has been partially sponsored by the Centers for Disease Control, Taiwan
+(JK108026).”
+Please state what role the funders took in the study.  If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.""
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+:
+Additional Editor Comments:
+We noticed that your manuscript title and abstract specifically mentions COVID-19. However, the survey was conducted in March 2019, just at the beginning of the global COVID-19 pandemic, and we assessed that the article was written to represent a much broader subject of international travel unrelated to COVID-19. We would therefore suggest removing the mention of COVID-19 from the title and abstract.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: A few things to consider in revisions:
+1. This study is a knowledge, attitudes, and awareness study, but I am curious as to why "practices" was not included? To me, awareness is the same as knowledge, so I think this important component was left out of the questionnaire.
+2. I am not sure what is meant by "important travel insurances." Typically travel insurance has multiple facets, and one needs to look to see what coverage is.
+3. Remove the study from the 1980s from the intro. It is old and not relevant.
+4. International SOS is not mentioned at all in the manuscript. As the largest provider of insurance and evacuation services globally they should be mentioned. They have also published findings they do not seem to be included.
+5. Were respondents consented? If yes or no, this should be mentioned in the methods.
+6. One third of people had a chronic illness, which likely greatly impacted their responses. This should be discussed thoroughly in the discussion.
+7. All tables should be in descending numerical order. (example: purpose of trip is not in any sort of format). Right now each variable is not in descending order.
+8. The discussion should start with a paragraph on what makes this analysis important and unique.
+9. I am unclear what this means in the context of the discussion: "An increasing trend for international travel has been observed." Remove.
+10. Conclusions should not have any data. They should reiterate the take home points without data. I also think the conclusions need to be strengthened. What is the public health and clinical importance of the findings?
+11. Each paragraph of the discussion should be expanded on. Paragraphs should start with a strong introductory sentence, available evidence, and then followed by a strong closing.
+12. I do not think that Figure 1 adds much. Remove.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+
+4 Oct 2022
+PONE-D-21-34714R1Traveler’s Knowledge, Attitude, and  Practice about Travel Health InsurancePLOS ONE
+Dear Dr. Huang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Your manuscript has been evaluated by 4 reviewers and their comments are attached below. They complement you for your effort with the revisions, but raised a couple more concerns about the study and presentation. They suggest to include more discussion about what can be done to increase knowledge about travel insurance and would like to see inclusion of a discussion about the results presented in the tables. They also have a couple grammatical suggestions and queries about clarifications.Would you be able to address all their concerns for a resubmission of the manuscript?
+Please submit your revised manuscript by Nov 18 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Thomas Tischer
+Staff Editor
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: (No Response)
+Reviewer #3: All comments have been addressed
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: (No Response)
+Reviewer #2: Yes
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: I suggest you add the study’s design in the title and in the abstract.
+In the abstract substitute:
+Accident --> accidents
+visitors of --> visitors to the
+willingness --> the willingness
+the international --> international
+In the introduction substitute:
+Increased --> increasing
+Tourisms --> tourism
+Responsibilities --> responsibility
+Noncompliant --> non-compliant
+1980s’ --> 1980s
+Shown --> showed / has shown
+Categories --> the categories
+About --> of
+Risk-coverage --> risk coverage
+a travel --> travel
+77 - 80 – you should clarify this sentence. First you say it is the health providers responsibility and then you say travellers did not follow the suggestions. Maybe the responsibility is shared?
+93 - 95 – How the first part of the sentence justifies the second part?
+In general, the introduction is not very clear and effective in demonstrating the importance of health insurance for travel and have several writing issues. I recommend that the text be proofread by a native English speaker.
+111 – 114 - You should clarify this paragraph. It is not clear what is the study design, the instrument and the participants.
+117 – 119 – This phrase does not belong in the subjects’ section.
+In the subject’ section you should add from where and how the participants were selected.
+Results
+In the results’ section consider to include the number next to the percentage and also de p value next to the result presented.
+The results presented in the tables should be better described in the text.
+169 – selection --> selections
+175 – illness --> illnesses
+176 – self-guide --> self-guided
+187 – 189 – In this sentence what means “top three ones”?. I suggest: Travellers when asked about the most important insurances or to rate the insurances, 92% answered..
+Discussion
+216 – illness --> illnesses
+220 – from --> of
+222 – for --> in
+228-229 – I suggest you write it this way: The low percentage of travellers willing to seek pre-travel advice described in the literature contrasts with the percentage (percentage) of those motivated to buy travel health insurance in this study.
+239 – 240 – You should clarify this sentence. According to what you described in 238-239, this sentence should be the cost of travel health insurance for the traveller or you are describing how much it cost without insurance?.
+241 - 243 – I suggest: Overseas sickness coverage and medical evacuation are crucial while traveling during the Covid-19 pandemic since local healthcare capacity can be overwhelmed.
+244 – remove “Besides” and “also”
+245 – about --> of
+249 – of --> to
+255 – toward --> of
+256 – remove “is”
+257 – one third --> one-third
+267 - 60% general --> 60% of general; give advice --> advise; insurances --> insurance
+269 – the travelers --> travelers; insurances --> insurance
+271 – insurances --> insurance; a new --> new
+272 – airline --> airlines
+Conclusion
+The conclusion should include something about knowledge related to infections, vaccines, and illnesses while traveling.
+289 – 291 I suggest: between a third and half of the travelers understand the content of health insurance, almost all recognize its importance, and more than two-thirds were willing to buy a health insurance when traveling.
+293 – 294 I suggest: Therefore, health professionals should be encouraged to acquire health insurance knowledge and transmitted it on during pre-travel consultation..
+295 – consultation --> consultations
+Figure 1 must be redone, it is not possible to see due to lack of quality.
+Reviewer #3: I would like to thanks the editors for giving me the opportunity to review the manuscript "Traveler’s Knowledge, Attitude, and Practice about Travel Health Insurance” which was submitted to ‘PLOS ONE'. I found the manuscript intriguing and informative. However, in my opinion, this manuscript cannot be published in its current form, certain corrections should be made. Therefore, based on my observations, I am making the following suggestions to improve the quality of the current work.
+Comment one:
+First and foremost, I'd like to thank to all of the authors for their strong effort. However, I found the manuscript's 'research gap and research objective' is not clear. The research gap should be clearly mentioned in the introduction part so that we can get a clear idea. For example, the following statements in the 'introduction section' is not clear and should be rewritten.
+Introduction (lines no. 96 to 99):
+'In addition, the travelers' awareness---------have not been well investigated'.
+Comment two:
+It is unclear Why the authors collected data on "willingness toward visiting travel medicine clinics". They emphasized on "travel insurance purchase behavior" rather than "willingness travel medicine clinics visit" in their research objectives. This should be included in your research objective or left out of the manuscript.
+Questionnaire section (line no 119)
+Comment three:
+The authors mentioned about the pretest of the questionnaires, in the questionnaire section,which is commendable. However, the measurement scales of (lines 129 to 147) 'knowledge', 'attitude' and 'purchase behavior' are well established in the fields of marketing and management. It is unclear why the author did not adapted those scale to conduct the study. Moreover, a pretest alone is insufficient for developing a measurement scale, and it may cause concerns with the scale's validity and reliability. I believe that additional information in this area is required.
+Comment four:
+The findings of tables 1,2 and 3 should be properly discussed in the results section. The authors just mentioned a proportion of the table 1 and 2 and there was no interpretation for table 3. Please appropriately discuss the tables based on your research objective so that readers comprehend the research findings.
+Moreover, no justification was provided for using one-way ANOVA and the t-test to analyse the data. Please provide justifications for using these statistical analysis to analyse the research data. Besides, the authors mentioned 'socio-demographic" variables in line 193 and 'socio-economic" variables inline 195 (under table 3). The terminology inconsistency should be addressed.
+Comment five:
+The data analysis from the discussion section can be transferred to the result section. It is better if the authors compare their findings to previous studies in this field and provide an explanation for any discrepancies in their findings based on prior research and theory. In the discussion section, they should also include the research contribution, which should address the research gap and objectives . Please revise the "Result" and "Discussion" sections.
+Comment six:
+It is mentioned that travelers rely more on "healthcare workers" (lines 241 to 246). However, the information about healthcare workers was not provided in any table.
+Comment seven:
+In the limitation section, the authors mentioned about non-response bias. This I believe is not a problem because 92.7% responses are already good enough. However, I am concerned that the the authors stated that they were unable to demonstrate a causal relationship due to the cross-sectional study (lines 254 to 256) !!!!! Cross-sectional studies are commonly used in social science studies to examine the causal relationship. There are numerous ways to addressing the bias of cross-sectional studies (e.g. marker variables). If the authors want, I believe they can use "Structural Equation Modeling" to provide greater understanding into the phenomenon. It is very important to understand the research objectives and what methodologies we are going to adopt to conduct the research.
+Overall, I believe the manuscript can be accepted after addressing the above mentioned issues.
+Thank you
+Reviewer #4: The authors have addressed the reviewer's comments satisfactorily. An additional point should be mentioned in the discussion. How do the authors propose that travel medicine professionals educate themselves about the various types of travel insurance policies? This topic is rarely the exclusive topic of any conference session, although it is mentioned a lot in passing. Insurance medicine is itself a branch of medicine. Should there be greater cooperation between the two disciplines perhaps? Should we invite insurance physicians to attend our conferences or present at our webinars? A final point relates to the references. The authors correctly state that there has been limited previous work in this area. They may have overlooked the following article which is available as an open access source. There may be useful material that could strengthen your discussion. Source: Darrat M, Flaherty GT. An Exploratory Study of Medical Cover Policies Offered by the Travel Health Insurance Industry. International Journal of Medical Research & Health Sciences, 2019, 8(8): 1-8
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: No
+Reviewer #4: No
+**********
+
+18 Jan 2023
+Traveler's Knowledge, Attitude, and Practice about Travel Health Insurance: A Community-based Questionnaire Study.
+PONE-D-21-34714R2
+Dear Dr. Huang,
+Andrea Cioffi
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: N/A — all comments addressed to my satisfaction and I have nothing more to add.
+Thank you for having me review.
+Reviewer #4: Thank you for revising your manuscript in line with reviewer recommendations. All points have been addressed.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #4: No
+**********

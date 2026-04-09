@@ -1,0 +1,94 @@
+
+15 Oct 2019
+PONE-D-19-23067
+Is it really always only the others who are to blame? GP’s view on medical overuse.
+A questionnaire study.
+Dear Mrs. Hueber,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has some merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Specifically, the reviewers have concerns about some methodological and analytic issues as well as limitations of the study which have not been fully discussed.
+We would appreciate receiving your revised manuscript by Nov 29 2019 11:59PM. When you are ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+1. Please also include a copy of the questionnaire  in the original language as Supporting Information.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Table 3 - Title of third column could be more specific to show difference from column 2. e.g. proportion of those who had used elements of the campaign
+Lines 248-250 - Sentence needs to express idea more clearly
+Limitations should include a comment on the low response rate; why this might be so e.g. response rates in electronic surveys by other authors; how this affects study; how this response rate might be improved in subsequent studies
+Reviewer #2: The article is on an important topic area—overuse of medical services.
+The article is written clearly, and the tables are well designed.
+Overall, the authors followed a reasonable study design was followed. They used sound methods for developing and testing their questionnaire. The analysis has two deficits that can be amended before publication.
+The used a registry of general practitioners (GPs) for sample selection. I was curious about why the authors limited their sample to GPs, as they noted that in Germany, unlike other countries, GPs do not serve as gatekeepers for access to medical specialists.
+The study has two substantial methodological issues that limit the utility of the results. The authors followed sound survey procedures, with the exception of survey fielding. They only allowed 18 days for GPs to return the survey and sent out a single reminder. A longer data collection period and more follow-up probably would have improved the response rate.
+Selection Bias. The study had a good sample plan, but only 18% of subjects returned complete questionnaires. An 18% response rate almost certainly entails some sort of selection bias. The authors mention that only respondents who are interested in the topic of medical overuse may have responded to the survey, although there is almost no way to test that. The authors report demographics for the physicians who returned the survey. I don’t know if they have access to demographics for the entire population of physicians in the geographic area, but if so, it would be helpful to compare the demographics of those who returned the survey with the entire population. While demographics would not tell much of a story about self-selection, it would be beneficial to know if there was selection by age or some other characteristic. In particular, since the authors found that younger doctors viewed medical overuse as more of a problem than older doctors, information on age of the sample compared with age of the population of GPs would have bolstered results.
+Inefficient use of data. The questionnaire was comprised mainly of Likert-style questions on a scale of 1 to 6. The authors dichotomized responses into positive and negative. They provide no explanation about why they chose to do this, with the result that they lost information.
+Suggestions for Revision
+1. Compare the mean ages or age quartiles of survey respondents with the age of all GPs
+2. Reanalyze the data without dichotomizing the Likert scales
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+19 Dec 2019
+Is it really always only the others who are to blame? GP’s view on medical overuse. A questionnaire study.
+PONE-D-19-23067R1
+Dear Dr. Hueber,
+Within one week, you will receive an e-mail containing information on the amendments required prior to publication. When all required modifications have been addressed, you will receive a formal acceptance letter and your manuscript will proceed to our production department and be scheduled for publication.
+Shortly after the formal acceptance letter is sent, an invoice for payment will follow. To ensure an efficient production and billing process, please log into Editorial Manager at https://www.editorialmanager.com/pone/, click the "Update My Information" link at the top of the page, and update your user information. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org.
+With kind regards,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

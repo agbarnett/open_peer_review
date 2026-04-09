@@ -1,0 +1,143 @@
+
+4 May 2020
+PONE-D-19-32967
+Influence of Arbuscular mycorrhizal fungi (AMF) enhanced with titanium dioxide nanoparticles on common bean (Phaseolus vulgaris L.) plants under salinity stress
+Dear Dr. El-Gazzar,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONEâs publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please revise your manuscript according to the comments from both Reviewers below.
+We would appreciate receiving your revised manuscript by Jun 18 2020 11:59PM. When you are ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). This letter should be uploaded as separate file and labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. This file should be uploaded as separate file and labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. This file should be uploaded as separate file and labeled 'Manuscript'.
+Ying Ma, Ph.D.
+Journal requirements:
+When submitting your revision, we need you to address these additional requirements:
+1.Â Â  Â Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at http://www.plosone.org/attachments/PLOSOne_formatting_sample_main_body.pdf and http://www.plosone.org/attachments/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2.Â  We note that you have indicated that data from this study are available upon request. PLOS only allows data to be available upon request if there are legal or ethical restrictions on sharing data publicly. For more information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions.
+In your revised cover letter, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings as either Supporting Information files or to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories.
+We will update your Data Availability statement on your behalf to reflect the information you provide.
+3. Please amend either the abstract on the online submission form (via Edit Submission) or the abstract in the manuscript so that they are identical.
+Â 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Dear editor,
+I would like to thank the opportunity to revise this paper. This paper has an interesting overall goal to understand the influence of nanotechnology on arbuscular mycorrhizal fungi (amf) that in turn influence Phaseolus vulgaris plants. It is a nice paper and should be accepted for publication in PLOS ONE. I have some consideration, comments and corrections (I follow lines in pdf MS, line 1. Title of article)
+To change the title by e.g., âInfluence of Funneliformis mosseae enhanced with titanium dioxide nanoparticles on Phaseolus vulgaris L under salinity stressâ, since nowadays Glomus mosseae is classified as Funneliformis mosseae and it also can increase the interest of the potential readers;
+Delete abbreviation of short expression, use full words. Abbreviations typically decrease the number of readers because is interdisciplinary;
+Some keywords do not reflect the content of the manuscript. I suggest using the following keywords:
+Glomeromycota instead Microbiology and Mycology;
+Funneliformis mosseae instead Glomus mosseae
+Common bean roots instead Plant science
+Activity of arbuscular mycorrhizal fungi instead life science and environmental sciences
+Nanotechnology
+Salinity stress
+In the introduction, please make it more clearly what is the novelty (scientific/technical) of your work, approach, and results compared to already well-known facts. Most facts and trends given in the text of this article are much too vague. All trends, facts, and results must be supported by precise terms and data/numbers;
+Please, to provide clear hypotheses based in more than two scientific statements;
+L53-54 I canât see the linkage to the above paragraphs;
+L66 Funneliformis mosseae instead Glomus mosseae;
+L69 The description of the âsource of mycorrhiza, pot and potting mixtureâ section is not clear. I suggest it be made clearer to facilitate the evaluation of the MS;
+L82 Use âchemical analysisâ instead âbiochemical analysis;
+L83 soil pH?
+L85-86 The pots and soil were sterilized?
+L107 How many blocks?
+L108-113 The description of the treatments is not clear. I suggest to use a table to facilitate the reader to see the differences among the studied treatments;
+L108, 109, 110, 111, 112, 113 Funneliformis mosseae instead Glomus mosseae;
+L118 To many dissimilar variables into the same subsection. I suggest split it in four subsections: 1) AMF (e.g., Colonization and mycorrhizal dependency); 2) Plant biomass and protein; 3) A&A P activity; and 4) Plant macronutrient contents. Also, the authors must describe all methods clearer;
+L21, 118 Use the word âbiomassâ instead âmassâ or even âmatterâ to describe plant/shoot/root dry biomass;
+L133 Since AMF are classified into the Phylum Glomeromycota, I suggest using only the word âsporesâ instead âChlamydosporesâ;
+L191 I expected to see a principal component analysis or even a non-metric multidimensional scaling to describe the similarities/dissimilarities among the treatments considering all matrix;
+The presentation of the results can be improved using multivariate analysis.
+To many tables. I suggest presenting only significative results. The results without significative differences must be added as an electronic supplementary material;
+The discussion needs to be improved by explaining further the results and the mechanisms underlying salinity, the use of nanoparticles and the growth of inoculated plants with AMF;
+Reviewer #2: The use of nanotechnology for improving the soil-plant relationship is an emerging area of research with wide academic and industrial scope. This paper tried to investigate the role of titanium dioxide nanoparticles in improving the AMF assisted and plant-soil interactions. The work seems to be carried out with care and the findings reported by the authors have importance in improving the crop productivity in saline soils. Before its publication, authors are required to improve the manuscript by following suggestions. I recommend moderate revision to the manuscript.
+1. The title should be revised by adding â(TiO2NPs)â particularly after titanium dioxide.
+2. Line 21: Add â, respectivelyâ after salinity level.
+3. The introduction is nicely written and the problem is discussed well.
+4. The authors should add some reports based on the use of NPs for enhancing the soil-plant interactions to strengthen the proposed hypothesis in the introduction section.
+5. Line 61: Thus, ....., the line should be started from a new paragraph. It will bring clarity between the novelty and objectives of the study.
+6. Line 74: Describe why the authors selected the particular local strain of mycorrhiza with its industrial possibilities.
+7. Line 75: The authors should provide a brief methodology for this section. The data may be provided as supporting information files to avoid text plagiarism, if.
+8. Line 80: Provide geocoordinates of Sharkia province.
+9. Most of the methodologies are just mentioned in short sentences which are not recommended. Provide brief protocols for them.
+10. Line 85: Why you have used an abbreviated form of Dept. Agric. Res. Centre, Giza, Egypt?
+11. Line 92: add space between TiO2NPswere.
+12. Line 98: Direct use of numerical value in the starting of paragraph and sentence? Why?
+13. Check for potential typing errors âbreaks, spaces, dots, etc., throughout the manuscript.
+14. Line 191: Provide names of software used in this study.
+15. Line 197: Better to provide the information of the FTIR spectrum (9 peaks) as a single table data.
+16. Some asterisks given in the table data are not defined in their footer captions.
+17. Use uniform font and text formatting in the manuscript.
+18. The level of statistical significance should be provided in the manuscript wherever it is mentioned.
+19. Have you observed some negative effects of low NP treatment and high salt concentration? Describe in discussion section accordingly with supportive literature.
+20. Many references are outdated. Authors are required to replace them with the latest one including https://doi.org/10.1016/j.bcab.2019.101463.
+21. Figs. resolution is too low and difficult to understand.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+If you choose ânoâ, your identity will remain anonymous but your review may still be made public.
+Reviewer #1: Yes: Tancredo Souza
+Reviewer #2: No
+
+15 Jun 2020
+Influence of Funneliformis mosseae enhanced with titanium dioxide nanoparticles (TiO2NPs) on Phaseolus vulgaris L. under salinity stress
+PONE-D-19-32967R1
+Dear Dr. El-Gazzar,
+Weâre pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+Within one week, youâll receive an e-mail detailing the required amendments. When these have been addressed, youâll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+Ying Ma, Ph.D.
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the âComments to the Authorâ section, enter your conflict of interest statement in the âConfidential to Editorâ section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Dear authors,
+Thanks a lot for clarification of your interesting Ms. Based on the revised version (id PONE-D-19-32967), I have decided that the manuscript can be accepted for publication in PLOS ONE. It is a very interesting manuscript.
+Reviewer #2: I have no more comments as authors have addressed my all comments with proper explanations.
+I suggest accept.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+If you choose ânoâ, your identity will remain anonymous but your review may still be made public.
+Reviewer #1: Yes: Tancredo Souza
+Reviewer #2: Yes: Pankaj Kumar

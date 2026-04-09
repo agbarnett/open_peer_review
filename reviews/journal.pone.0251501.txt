@@ -1,0 +1,68 @@
+
+22 Mar 2021
+PONE-D-20-33719
+Ester linked fatty acid (ELFA) method should be used with caution for interpretating soil microbial communities and their relationships with environmental variables in forest soils
+Dear Dr. Kang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. In particular, please address the concerns of reviewer #2.  To be conclusive, further statistical analyses are needed and the sample storage conditions must be specified. In the absence of these important revisions, I ask that you please provide a compelling counter argument. Beyond these significant points, both reviewers offer relatively minor suggestions that will improve the paper.
+Please submit your revised manuscript by Apr 19 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+Daniel Cullen
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Methods section, please provide additional information regarding the permits you obtained for the work. Please ensure you have included the full name of the authority that approved the field site access and, if no permits were required, a brief statement explaining why.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Yu and colleagues compared the efficiency of two methods (phospholipid fatty acid (PLFA) analysis and ester linked fatty acid (ELFA) analysis), in the characterization of forest soil microbial communities. The topic is interesting, because it is really good to know the efficiency of the different methods in order to be able to choose the most suitable one to find the best response to the biological questions.
+General comments:
+In my opinion the article is well written, the results are presented in a clear way and the conclusion are supported by the data. I have only some minor comments:
+Lines 167-170: the authors found that the coefficient of variation among the different sites is in most cases higher for the PLFA technique, except in the case of sites BA and XY. Can they comment a bit this point? Which is the difference among BA and XY sites and the others analyzed? The answer to this question will give some more information about the different efficiency of the two methods.
+Lines 172-175: can the authors comment about the fact that the MIDI method produce a so high CV compared to ELFA?
+Lines 211-213: the authors found that ELFA and PLFA gave similar results for the relative abundance of AMF. It’s curious that the two methods arrive to similar results only in the case of this particular soil microbes. Can the authors try to comment this result?
+Reviewer #2: Overview: Overall this study is straightforward, simple to understand, and the manuscript is well-written. There are some important changes that should be made before I can recommend this paper for publication. Importantly, information on how the soil was stored in the lab needs to be provided to illustrate that the weak correlations between the PLFA and ELFA data was not due to improper storage. Secondly, additional analysis should be done to support the argument that high organic matter influenced ELFA results. Finally, additional univariate analyses should be performed to account for all environmental variables. Specific comments follow.
+Introduction:
+Line 62: I suggest revising to “Studies have compared the two methods for characterizing soil microbial communities in native sod and wheat-fallow plots [9], during different stages of composting [7], in soils with varying degrees of metal pollution [9], in forest soils with different tree types and nitrogen loads [4], and in forest and arable soils [10].
+Lines 65-67: I suggest revising to “Although the two methods sometimes did not yield consistent results in the composition of fatty acids or microbial groups among the soils…”
+Line 77: Revise “physic-chemical” to “physicochemical”. Make this change throughout the manuscript.
+Materials and Methods:
+In the sampling section, the authors state that samples were transferred to the laboratory within 24 h. However, they do not specify how they were stored in the lab (i.e what temperature), nor for how long they were stored. The correlations between the two methods presented here are substantially weaker than other studies that have compared these methods, including for studies utilizing forest soils. One reason for this weak correlation may be improper soil storage. In order to alleviate this concern, the authors should provide more information about how the soils were stored in the lab.
+Line 97: Revise “smashed” to “pulverized”.
+Line 102: Revise “decided” to “determined”.
+Line 118: I suggest revising to “A detailed description of ELFA extraction procedures are available in Schutter and Dick [3]. The reagent volumes were modified according to soil weight.”
+Line 134-135: Although many publications refer to these two lipids as saprotrophic fungal indicators, these lipids are also abundant in ectomycorrhizal fungi (see https://doi.org/10.1111/j.1574-6941.1999.tb00621.x). Therefore, it is incorrect to refer to “saprotrophic fungal biomass” here and elsewhere. Revise to “fungal biomass” or “saprotophic + ectomycorrhizal biomass.”
+Line 146: I don’t think it is necessary to define coefficient of variation for a science audience.
+Line 154: Total N was excluded due to collinearity, presumably because it is collinear with C/N ratio. Why, then, was SOC included when it is likely also collinear with C/N? If variables need to be excluded due to collinearity, it would be better to exclude C/N and include N. Relationships between SOC and N separately tend to be more informative than C/N because they identify the specific driver of responses.
+Lines 161-163: The authors selected only three environmental variables for analysis in part because there were only 18 samples. However, the authors performed univariate correlations, so 18 samples is not restrictive to analyze all seven environmental variables. The relationships between environmental variables and the lipids is the most novel part of this study. I suggest that the authors analyze univariate relationships of all possible variables.
+Results and Discussion:
+Currently, I find the authors claims that high organic matter accounts for the lack of correspondence between the two methods to be unconvincing for several reasons. First, the SOC in their soils ranged from 2.1-3.8%. This is not unusually high and is within the range of other studies that have found good agreement between the two methods. Additionally, the two techniques were previously compared in forest soils in a study that found much stronger correlations than in the current study. Agreement was also found between the methods in compost, which was presumably very high in organic matter. The authors could support this argument if they showed that ELFA was more strongly correlated with SOC than was PLFA, but they have not performed this analysis.
+The most interesting part of this study is the relationships between the fatty acids and environmental variables, but, as stated above, the authors didn’t analyze this data extensively, which has left this portion of the paper quite weak. The authors should perform additional univariate analyses between environmental variables and the fatty acid groupings. The relationships between environmental variables and fatty acids could also be invoked to be explain the weak correlations between the ELFA and PLFAs.
+Figure 2a: “SOC” and “CN Ratio” are overlapping in this figure, making it difficult to read. Modify the figure so these words are not overlapping.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

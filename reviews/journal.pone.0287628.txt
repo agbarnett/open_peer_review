@@ -1,0 +1,209 @@
+
+8 Feb 2022
+PONE-D-21-23837Non-Adherence to Anti-Tuberculosis Treatment, Reasons and Associated Factors among Pulmonary Tuberculosis Patients in The Communities in IndonesiaPLOS ONE
+Dear Dr. Kusrini,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please pay a good read on the review. Major flaws have been detected specially in material and methods. Please submit your revised manuscript by Mar 24 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please include a copy of the interview guide used in the study, in both the original language and English, as Supporting Information, or include a citation if it has been published previously.
+3. Please provide additional details regarding participant consent. In the ethics statement in the Methods and online submission information, please ensure that you have specified:
+ - whether consent was obtained
+ - whether consent was informed 
+ - what type of consent you obtained (for instance, written or verbal, and if verbal, how it was documented and witnessed). 
+ - if your study included minors, state whether you obtained consent from parents or guardians. 
+ - if the need for consent was waived by the ethics committee, please include this information.
+4. Thank you for stating the following financial disclosure: 
+NO, The funders had no role in study design, data collection and analysisi, decision to publish, or preparation of the manuscript
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution. 
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+5. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+6. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please move it to the Methods section and delete it from any other section. Please ensure that your ethics statement is included in your manuscript, as the ethics statement entered into the online submission form will not be published alongside your manuscript. 
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The text is very interesting but, in my opinion, is necessary to clarify some aspects about it, and review the parts for give more cohesion to the presented work.
+As a few general recommendations, please, see below.
+Please, review the text and definitions.
+According to the principal aim of the study, the authors should review the conclusions of the work. According to the title, reference is made to reasons and factors associated with non-adherence to tuberculosis treatment. However, the conclusions do not meet this expectation.
+In the introduction, reference is made to the DOTs program; however, the procedure for controlling the treatment is not explained. And I think it is important in a work on adherence to treatment. This is not explained in the methods section either.
+En materials and Methods I have some questions.
+Please, could the authors clarify what is the sense of "stratified multi-stage clusters sampling"? What were the inclusion criteria for introducing the patients in the study? What was the significance of "selected cluster"?
+How the participants in the study were selected? Were they enrolled consecutively?
+What was the usual duration of treatments and the used drugs?
+What was the timing of treatment regarding to the interview and inclusion in the Study?
+What was the criterion for non-adherence?
+It would be helpful to define the terms that will be evaluated during the Study. Please, add.
+Were confirmed cases from possible cases considered separately in the analysis?
+Please, clarify the criteria for non-adherence. Likewise, establish clear criteria on adherence to treatment and non-compliance. Also, the criteria to establish the categories of cured, treatment completed, lost, treatment failure (regardless of adherence to treatment)
+In data analysis part, the definition criteria should be moved to the previous part.
+In results, the first part is about proportion of non-adherence. However, it could be better to explain the most important findings of the study or, in any case, the number of cases included. Moreover, the authors used the expression of proportion when they talk about total number. Please, review.
+Any enrolled patient was excluded of the analysis?
+The second part of results is called “factors associated with-non-adherence to anti-TB therapy”. It seems that the objective and subjective data were not analyzed separately.
+It seems that, patients in current TB are included in the study. It is true? In this case, please, would you clarify the term: "Non TB cases vs "Yes TB cases".
+Regarding the “Current smoking”, it was a condition during the TB treatment or at the moment of completing the interview?
+Please, explain the differences about “health centers”, Government hospitals”, “private hospitals”, Private practitioners”.
+Regarding the interview, was the interview performed by patients or personnel?
+In relation to interrupted treatment, on the first line, the authors, talk about “interruption of TB medications before six months”, please, clarify.
+On the discussion part, start with the more significant findings. It seems there are three elements: the proportion of non-adherence, the associated general factors and the “reasons for discontinuing treatment. Please, clarify every “part”. In my opinion it would be clearer to avoid mixture of data.
+Please, listening the associated factors or reasons related to non-adherence in the beginning of every part would be easier to know the findings of the Study.
+Was the survey data checked (for example, when they answered that the professional told them they were cured)?
+On the conclusions, please, consider the title of the paper. The Study and the conclusions should respond the principal aim and expectative created by the title of the paper. Non-adherence factors are mentioned and the actions to reduce the interruption of treatment were introduced for first time. Please, think to talk about it in the discussion part, for instance and in the introduction.
+“Ethics statement” should be moved before the results, due to, in my opinion, is related to Methods.
+Please, review the bibliography and the number of authors per reference.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Antonio Moreno
+
+27 Sep 2022
+PONE-D-21-23837R1Non-Adherence to Anti-Tuberculosis Treatment, Reasons and Associated Factors among Pulmonary Tuberculosis Patients in The Communities in IndonesiaPLOS ONE
+Dear Dr. Kusrini,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. Please follow the comments of the reviewer regarding on conclusions and references.
+Please submit your revised manuscript by Nov 11 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Thank you for the explanations and corrections on the paper.
+I don't have much more questions regarding it.
+Only a few details: On the part "Study design and participants", the sentence "written informed consent was obtained and it was signed to all participants" could be written without bold letters. On the part "Ethics statement" the informed consent process is explained again.
+Finally, on "conclusions", at the end of first paragraph the authors say: "Reasons for non-adherence TB treatment depend on subject response and self-confession respectively". According to the methods it could be considered as limitation of the study, and it is reported in this sense on the part "limitations".
+On the other hand, on the part of “References”:
+#1, please, the link to the document should be added.
+#2, please, the link to the document should be added.
+#4, please, the link to the document should be added.
+Please, review the reference #5. The authors are: Dick, J.; Lombard, C.
+Please, the link of #7 should be added.
+Please, the link of #11 should be added.
+Please, the link of #23 should be added.
+Please, review if it is necessary to add new links on the reference part, as, for instance, on #40
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
+
+15 Mar 2023
+PONE-D-21-23837R3Non-Adherence to Anti-Tuberculosis Treatment, Reasons and Associated Factors among Pulmonary Tuberculosis Patients in The Communities in IndonesiaPLOS ONE
+Dear Dr. Kusrini,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Apr 29 2023 11:59PM. If you will need significantly more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Frederick Quinn
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: The text was improved; however, I think it needs a few minimal changes.
+In some parts there is repetitions and data that could be expressed avoiding redundancies.
+For instance, please, review the introduction section and avoid terms or repetitive concepts. This action, will improve the comprehension and the ease of reading.
+Similar aspects should be reviewed on the part “Study design and participants”.
+Age, studies carried out, are repeated later. Please, review.
+On the last part, the paragraph: "the total sample involved in the survey..." should be moved to the part of results. In fact, now it is started doing reference to this data.
+Please, review the part of “measurement of variable” and avoid the duplicity of data.
+I have a few questions regarding the number of included patients.
+Were all patients included in the study? Were no patients lost during the study?
+No patients were excluded?
+Consider removing some of the non-essential data in the text, where the data is already in the tables. It makes reading more difficult and does not provide more information. respect to work.
+Regarding the changes performed in the text due to the revision process, some verbs and sentences should be changed now
+Please, clarify the second conclusion of this part.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Antonio Moreno
+**********
+
+13 Jun 2023
+Non-Adherence to Anti-Tuberculosis Treatment, Reasons and Associated Factors among Pulmonary Tuberculosis Patients in The Communities in Indonesia
+PONE-D-21-23837R4
+Dear Dr. Kusrini,
+Frederick Quinn
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: I Don't Know
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: No tengo comentarios adicionales a hacer. Ahora, el artículo es mucho más sencillo de leer y se ajusta mejor a lo establecido en el título y objetivos del mismo. Los puntos fundamentales del trabajo se muestran con mayor claridad al lector.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********

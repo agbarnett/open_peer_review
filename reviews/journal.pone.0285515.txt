@@ -1,0 +1,145 @@
+
+18 Sep 2023
+PONE-D-23-12236Microplastics found in Antarctic penguins: chemical reactivity theory to analyze possible toxicityPLOS ONE
+Dear Dr. Martínez,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+The manuscript needs extensive correction. I request the authors carefully read all the reviewers' comments and edit the manuscript  accordingly. .
+Please submit your revised manuscript by Nov 02 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript. In these cases, all author-generated code must be made available without restrictions upon publication of the work. Please review our guidelines at https://journals.plos.org/plosone/s/materials-and-software-sharing#loc-sharing-code and ensure that your code is shared in a way that follows best practice and facilitates reproducibility and reuse.
+3. Thank you for stating the following financial disclosure: 
+"No. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+At this time, please address the following queries:
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution. 
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+4. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Dear Editor,
+Thank you for inviting me to review the current manuscript. I reviewed the manuscript and the manuscript need correction please check the following comments and points.
+In the abstract, before stating the percentage of polymers, it is better to explain the sources of pollution in the region. Penguins were mentioned in the title, but no results were given regarding the number of microplastics and their size in the study area. How were polymers identified?
+Fig 1- Which one is polyethylene and which one PET? Show in lowercase letters.
+The discussion part of the results less compared with other studies.
+The conclusion is very similar to the abstract.
+Reviewer #2: The scope of this study is interesting and timing. Since we still do not know much about the real harm of micro- and nanoplastics continuously interacting with biological systems (from animals to humans), it is a research priority to predict their toxicity, as clearly stated in the introduction.
+However, the authors focus on only two polymers found in penguin species (based on a single study) but they do not discuss why it is important in the context. The chemical reactivity theory can be applied to any context (I.e., any plastic polymer) and the results here can be associated to any organisms). What is the link to penguins rather than other species in which PE and PET have been found? If penguins are key in this study, the authors should first review all current literature on microplastic contamination in penguins and enlarge their study to depict a more comprehensive toxicity assessment.
+Moreover, the authors discuss specific effects on DNA, which again can be referred to any biological system. What are the implications for penguin populations and Antarctic ecosystems? If the findings are too general, I suggest to simply remove penguins from the title.
+The article readability can be improved by rechecking the grammar and trying to build more articulated sentences, which sometimes are very short. Some errors are reported below: (not having line numbers made the revision more difficult)
+Additional comments:
+Introduction
+This study is based on citation n.27 (3 penguins species), but there are several studies on the subject, which should be at least mentioned on the introduction, then the authors should explain why they chose to focus only on findings from citation 27 (based on more samples? from more sampling sites?), as it is likely that penguins are not exposed to PE and PET only:
+https://doi.org/10.1038/s41598-019-50621-2
+https://doi.org/10.1038/s41598-023-39844-6
+https://doi.org/10.1016/j.envint.2019.105303
+No microplastic were also found in emperor penguins, this should be mentioned in the introduction as well: https://doi.org/10.1016/j.scitotenv.2022.158314
+“There is also no theoretical research on potential toxicity of these polymers” There are model studies available on in vitro nanoplastic—cell interactions (e.g., https://doi.org/10.1021/jz402234c), although based on a different approach. I suggest listing some examples in which chemical reactivity theory has been applied to environmental risk assessment.
+“The results of this research help…” change to: can help
+“…and may determine which of the two plastics found in penguins is potentially more dangerous.” Please specify that you are referring to two types plastic polymers based one study.
+…until the chain length is greater than 2 nm” change to: was
+Rephrase to: In Figures 3 and 4 the optimized structures of the models investigated are shown. The
+correspondent length of the oligomer is also reported.
+“As was explained in the introduction, apparently micro- and nanoplastics may induce oxidative stress. To investigate possible oxidative stress, …” Rephrase to, deleting previous phrase: To investigate possible oxidative stress caused by micro- and nanoplastics,…
+In page 6 there are some small errors to correct, please check the text again. Please avoiding the use of English possessive (‘s) with polymers.
+“… we calculated adenine, thymine, cytosine and guanine.” In what sense? Add details
+“The idea is to…” I suggest to change, continuing the previous sentence with as: in order to
+“Polyester can oxidize nucleobases and therefore, microplastics of PET can be harmful. Although it was found that penguins have less polyester than polyethylene, nucleobases might transfer electrons to polyester and therefore it could affect more pinguin’s health.” Add details referred to this statement with actual examples of previous studies showing significant damages following exposure to PET microplastics to support your findings.
+I suggest to add reference/s to page 9 to support the statements. The same applies to page 11: there are many in vitro/in vivo studies with model micro and nanoplastics, the authors should refer to those for comparison and to support their hypothesis.
+Conclusions
+“Micro- and nanoplastics can have long-term stability in various biological media (please add examples of biological media)
+Change “obvious” to: clear
+Change “say” to: state
+“no toxic effects of micro and nano- have been observed”. I suggest to add: considering the diversity of biological systems.
+“…for three reasons”. I suggest to list the reasons from the least to the most harmful, as in the abstract.
+“Although it was found that penguins have…” change “have to: can ingest
+As in this study only PE and PET are considered and no mention of the biological system I suggest the authors to refer to their results are first or preliminary.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+
+15 Nov 2023
+PONE-D-23-12236R1Chemical reactivity theory to analyze possible toxicity of microplastics: polyethylene and polyester as examplesPLOS ONE
+Dear Dr. Martinez Vazquez,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 30 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Authors have responded effectively to the initial querries raised. Since the necessary corrections have been made, it is appropriate to publish it as it is.
+Reviewer #2: "...there are no studies on oxidative stress or the direct interactions of nanoplastics with DNA nitrogen bases"
+this should be changed as there are several studies on ox stress and nanoplastics, for example: https://doi.org/10.1016/j.envint.2023.107899
+https://doi.org/10.3389/fpls.2022.1027608https://doi.org/10.3390/antiox11020193, and as reviewed in https://doi.org/10.1016/j.scitotenv.2023.163144
+Regarding the references to add to support these statements:
+"In vivo uptake and transport of nanoplastics depend on their own structure and properties,
+such as chemical composition" the authors can easily refer to reviews summarising these concepts as https://
+doi.org/10.3390/nano11081903
+All other comments have been addressed
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Mohammad Gholizadeh
+Reviewer #2: No
+**********
+
+2 Feb 2024
+Chemical reactivity theory to analyze possible toxicity of microplastics: polyethylene and polyester as examples
+PONE-D-23-12236R2
+Dear Dr. Martinez Vazquez,
+Additional Editor Comments (optional):
+Reviewers' comments:

@@ -1,0 +1,86 @@
+
+9 Sep 2024
+PONE-D-24-15744Indication of frailty transitions on 2-year adverse health outcomes among older Chinese inpatients: insight from a multicenter prospective cohort studyPLOS ONE
+Dear Dr. Xu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Oct 24 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Marina De Rui, MD PhD
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please note that funding information should not appear in any section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form. Please remove any funding-related text from the manuscript.
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match. 
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+4. Thank you for stating the following in your Competing Interests section:  
+   "NO"
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state "The authors have declared that no competing interests exist.", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now 
+ This information should be included in your cover letter; we will change the online submission form on your behalf.
+5. We note that your Data Availability Statement is currently as follows: All relevant data are within the manuscript and its Supporting Information files
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition).
+For example, authors should submit the following data:
+- The values behind the means, standard deviations and other measures reported;
+- The values used to build graphs;
+- The points extracted from images for analysis.
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories.
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: I Don't Know
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: In this paper, You and colleagues estimated the association between changes in frail status and adverse outcomes among Chinese elderly inpatients. In this longitudinal multicenter cohort study the authors assessed frailty using the FRAIL (Fatigue, Resistance, Ambulation, Illness, and Loss of weight) scale and divided participants into 3 groups (non-frailty, pre-frailty, frailty). Frailty-improved, worsened, persistently pre-frail, and frail inpatients faced higher risks of mortality, falls, rehospitalization, reduced quality of life compared to consistently non-frail inpatients.
+The work is based on a solid sample selection, it is rigorously designed and clearly written.
+I have a few minor concerns.
+Background
+The background section could benefit from a more detailed review of the literature, and the addiction of a few more citations (e.g. lines 69, 72).
+Line 75: I think the authors should clarify what they mean with “acceleration of population aging”.
+Line 91: the authors could add citations of studies that employed frailty in relation to intermediate and long-term outcomes. I would also remove the sentence “In contrast, the present study investigated the influence of frailty transitions on these outcomes.” or move it to the end of the Background section were the aim of the present study are described.
+Line 111: The authors could further explain the concept of HRQoL.
+Materials and methods
+Line 153: the authors could clarify what they mean with “history of surgery” (e.g. during lifetime or as the reason of patient’s admission to hospital). It would be also useful to add a variable for the reason of admission (e.g. macro-groups such as “surgery” or “acute medical condition”), that could also be used to evaluate long-term outcomes.
+Results
+In general I would suggest the authors to keep two significant figures in expressing results to add clarity and keep the text lighter.
+I would also suggest to provide a flowchart of the patient selection and follow up (with numbers of people excluded or lost at follow up).
+Line 217: I think that the authors refer to Supplementary Table 1.
+Discussion
+Line 324: “The prevalence of frailty is higher in women than in men and increases with age”: it is not clear whether the authors refer to a finding of theirs or a datum from literature; in both cases a citation would demonstrate comparison with data already available in the literature.
+Line 364: “Furthermore, patients with one or two components of frailty phenotype were also considered non-frail when constructing the variable for frailty transition, which may also increase the risk of death in the frailty-improved group.”: please rephrase because it is not clear what you mean here.
+Line 373: the authors should try to explain why also an improvement in frailty is associated with falls.
+Conclusion
+Line 445: “Our findings suggested that frailty is a dynamic process and can be improved”: as stated before, I would recommend to give a further explanation of what happens in frailty-improved individuals before making such a statement.
+Reviewer #2: 1. Very important topic for Geriatric population on frailty
+2. Classification of frailty and logically presented with data supporting the transitions.
+3. Study has several limitations due to biases and disproportionate collection of data from different levels of hospital care.
+4. Out of the patients, can you provide data on the diagnosis, level of care of the hospitalized patients to assess the differences on frailty based on the severity of the illness.
+5. Does fall risk increase in patients with previous fall risk or falls? Any additional data on these patients. '
+6. Were there any other data including polypharmacy resulting in frailty?
+7. Line 430- word may is repeated.
+8. Need clear exclusion criteria and the level of training for the nurses for conducting the study elaborated.
+9. Overall important study for geriatric population and frailty.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********

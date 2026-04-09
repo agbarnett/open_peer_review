@@ -1,0 +1,131 @@
+
+23 Oct 2020
+PONE-D-20-30765
+LACTB mRNA expression is increased in pancreatic adenocarcinoma and indicates a poor prognosis
+Dear Dr. Liu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+This manuscript was carefully reviewed by 2 experts, and both of them found a number of concerns which need to be addressed before acceptance. For instance, reviewer 1 suggested additional analyses to further consolidate the results. Reviewer 2 raised several questions regarding the analysis results. Please respond to each of the reviewer comments.
+==============================
+Please submit your revised manuscript by Dec 06 2020 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+Hiromu Suzuki, M.D., Ph.D.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Please provide the accession numbers and/or URLs of the datasets obtained from TCGA and GTEx.
+3. We note that you obtained a tissue microarray from Shanghai Outdo Biotech Co. Please ensure it is clear to readers that your study did not involve prospective collection of tissue samples. Specifically, please ensure that you do not refer to "patients recruitment".
+4. In your ethics statement in the manuscript and in the online submission form, please provide additional information about the patient data used in your study. Specifically, please ensure that you have discussed whether all data were fully anonymized before you accessed them.
+5. To comply with PLOS ONE submission guidelines, in your Methods section, please provide additional information regarding your statistical analyses. For more information on PLOS ONE's expectations for statistical reporting, please see https://journals.plos.org/plosone/s/submission-guidelines.#loc-statistical-reporting.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: No
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: The article entitled: LACTB mRNA expression is increased in pancreatic adenocarcinoma and indicates a poor prognosis by Jian Xie et al. is an interesting study about the clinical impact of LACTB expression levels. The manuscript is overall well written and introduced; however, the study presents several flaws and lacks that make conclusions unsupported by results:
+Minors
+-Title is ambiguous, please specify if high or low levels are associated to poor prognosis.
+-Include an updated information about 5-years survival rates, mortality, presence of metastasis, accurate prognosis biomarkers, etc. Please try to provide an exact number in each case and avoid generalities.
+-In Table 1 headline please refer to TCGA cohort. In addition, provide an accurate stratification of patient by ethnicity, white and non-white is a rough estimation. Please include margin positiveness in case of resected patients, and include this variable in analyses. And include in abbreviations the meanings of NA, G, T, N and M.
+-Explain the cut-off point when mRNA expression levels are used.
+- In "High LACTB mRNA is associated with a poor survival rate" section OS, DSS, DFI, and PFI analyses was assessed in a subgroup of PAAD patients. Please explain inclusion criteria of this subgroup.
+-Please check the order of the variables included in the uni- and multi-variate analyses
+; e.g. HR of high vs Low expression LACTB is 1.72 and HR of stage IV/III vs I/II is 0.67 what does not make any sense.
+-Figure legend of Fig.2 is not well described.
+Majors
+-The study has been carried out with a high heterogeneous TCGA cohort that includes resectable and non-resectable tumors and several tumor locations. Please re-analyse with selected patients or do a stratification according to stage, tumor location and positive margins of resection.
+- Include clinico-pathological characteristics of 98 primary tumors included for protein validation.
+-Include a uni- and multi-variate analysis for survival of the primary tumors included for protein validation.
+-Since LACTB presents a clear cytoplasmic staining, score has been performed with both intensity of expression and % of positive staining cells. Please justify why just intensity has been taken into consideration.
+-Association/correlation with leading genes intersecting with LACTB must be validated at least at protein expression.
+Reviewer #2: The Authors have done some considerable work to show that up-regulated LACTB expression can be used as a predictive marker for PAAD. There are however some major concerns regarding some of the analysis work that will need to be clarified or modified:
+1. Figures were not visible for review and that hindered the ability to review any Fig from the paper. Please paste the figures within the submitted draft so that it can be reviewed
+2. Under the section ImmunoHistochemical Staining it says: "For IHC analysis, a tissue microarray including 98 primary pancreatic cancer tissues and 68 adjacent noncancerous pancreatic tissues...". It is not clear from the statement whether the cancerous and non cancerous samples were taken from the same patient/different patient? Are the two sample datasets mutually exclusive vis-a-vis PAAD? If they were from the same set of individuals, is there a reason for only 68 noncancerous tissue samples versus 98 cancerous.
+3. Also how is the PAAD patient table broken down by age/ethnicity etc..
+4. Table 2 provides a breakdown of the LACTB expression but the % values will need to be explained. I could not figure out how the numbers 62.8% and 73.2 were calculated.
+5. Here: "The chi-square test was performed to examine the relationship between LACTB mRNA expression and clinical data"
+This section, what "clinical data" are we comparing to? there is no reference. The Chi Square test will need to be clarified better if the samples aren't assumed to be mutually exclusive..
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+
+24 Dec 2020
+PONE-D-20-30765R1
+LACTB mRNA expression is increased in pancreatic adenocarcinoma and high expression indicates a poor prognosis
+Dear Dr. Liu,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+==============================
+The authors addressed many of the issues raised by the reviewers. However, reviewers indicated several revisions to improve the manuscript. Please respond to each of the reviewer comments.
+==============================
+Please submit your revised manuscript by Feb 07 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols
+Hiromu Suzuki, M.D., Ph.D.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Partly
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: 1.-Please describe in "Results" section those findings after survival analyses according to tumor location and positive margins of resection and discuss them in "Discussion" section.
+2.-Please include a survival analysis of R0 patients stratified by LACTB expression (mRNA and protein), and in R1 patients stratified by LACTB expression (mRNA and protein).
+3.-Previous major point 5 has not been amended. As least, include in the "Results" section that more experiments are needed to validate the protein levels
+4.-Include in Table S2 whether patients are R0 or R1
+5.-Include in Table S4 the R0 or R1 status of each patient.
+Reviewer #2: The authors have taken the time to address a lot of the questions posed. Many of the clarifications they provided also help better the understanding of their analyses. However, there are a few concerns which, if clarified, will greatly enhance the understanding of the data and increase appreciation for the analyses conducted.
+They are listed herewith:
+1. your Statistical analysis lists a few metrics: OS, DSS, DFI, PFI, NES etc.. these need to be elucidated. Many of them are not expanded until later in the Supplementary. It will help if these terms are explained when they are first introduced in the manuscript to avoid any confusion.
+2. The use of 'Samples' and 'patients' is constantly switched back and forth. It would be preferable if the authors consistently used samples throughout the paper.
+3. Table 1: change Number of sample size to either "Number of samples" or "Sample size" or "percentage of samples"
+4. Table 2: Please elucidate further on table2. You show how LACTB expression shows a significant association with Vital status, but it would help if you could further elucidate on what the implications are.. or drive conclusions on what the p-value shows in this table.
+5. it would help strengthen the paper if you could provide a power analysis: that shows the power of your test based on your sample size.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No

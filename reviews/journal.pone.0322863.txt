@@ -1,0 +1,155 @@
+PONE-D-24-40215How does the institutional environment improve the entrepreneurial quality of returnees?
+A configuration analysis based on a complex system viewPLOS ONE
+Dear Dr. Yang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+While this manuscript contributes original insights into the relationship between institutional configurations and returnee entrepreneurship in China using innovative methodologies (NCA and fsQCA), significant revisions are needed to strengthen its contributions. The literature review would benefit from integrating more recent studies from 2023 and 2024, especially in addressing the impact of the pandemic. The methodology presents limitations in sample size and selection, which affect the generalizability of the findings. Expanding the sample and incorporating longitudinal data would provide a more comprehensive analysis. Additionally, integrating qualitative insights and clarifying the operationalization of constructs are crucial for enhancing the study's robustness.
+Please submit your revised manuscript by Nov 20 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Farah Naz
+Journal requirements:
+1. When submitting your revision, we need you to address these additional requirements. Please x`ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf 2. Thank you for stating the following financial disclosure: "National Social Science Foundation of China�19BSH110��Huaqiao University's Academic Project Supported by the Fundamental Research Funds for the Central Universities�HQHRZX-202202�" Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." If this statement is not correct you must amend it as needed. Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf. 3. We note that your Data Availability Statement is currently as follows: "All relevant data are within the manuscript and its Supporting Information files." Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (https://journals.plos.org/plosone/s/data-availability#loc-minimal-data-set-definition). For example, authors should submit the following data: - The values behind the means, standard deviations and other measures reported;- The values used to build graphs;- The points extracted from images for analysis. Authors do not need to submit their entire data set if only a portion of the data was used in the reported study. If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories. If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: 1. Originality
+The paper contributes original insights into the complex relationship between institutional configurations and returnee entrepreneurship in China. By integrating Necessary Condition Analysis (NCA) and fuzzy-set Qualitative Comparative Analysis (fsQCA), it approaches the subject from a configuration analysis perspective, which is relatively novel. However, further emphasis could be placed on how this study diverges from existing ones, especially by explicitly stating what gaps it fills in previous studies.
+2. Literature Review
+The literature review is thorough and aligns well with the research objectives. The authors draw on both sociological institutional theory and economic transaction cost theory, giving the review a solid theoretical foundation. However, integrating more recent literature (especially post-2020) could strengthen the relevance of the review. For instance, the study references literature from 2023 and 2024, but more exploration of how the pandemic impacted returnee entrepreneurship might add a contemporary dimension.
+3. Latest Literature
+The paper includes references from recent years, especially from 2021 and 2022, ensuring that it reflects contemporary debates in the field. However, the paper would benefit from a few more citations of highly relevant work published in 2023 to strengthen its claim of originality and engagement with the latest developments in institutional theory and entrepreneurship.
+4. Methodology
+The major weakness in this paper, according to the suggested methodology, lies in the sample size and selection. While the use of fsQCA and NCA methods is appropriate for analyzing complex institutional configurations, the selection of only 28 regions in China presents limitations:
+� Limited Generalizability
+A larger sample size or inclusion of more diverse regions across China would enhance the robustness and external validity of the findings.
+� Selection Bias
+The paper does not sufficiently explain whether selection bias was addressed. The regions analyzed might not be fully representative of all regions where returnee entrepreneurship occurs. This could mean that institutional configurations impacting other regions are overlooked, making the study's conclusions potentially less comprehensive.
+� Lack of Longitudinal Data
+While the paper uses data from 2020 to 2022, entrepreneurship, especially returnee ventures, is often influenced by long-term institutional factors. The absence of a longitudinal approach (tracking changes over time) weakens the paper’s ability to capture evolving trends in how institutional environments impact entrepreneurship quality.
+Considering returnee entrepreneurship is often a long-term process, using multi-year data could provide a deeper understanding of how institutional changes affect entrepreneurial success over time.
+� Over-reliance on Quantitative Methods
+Although fsQCA and NCA provide strong quantitative insights into configurations, qualitative insights from interviews or case studies of returnee entrepreneurs might reveal nuanced factors that statistical methods miss. For example, first-hand accounts could shed light on how institutional support is experienced or perceived by returnees.
+The paper could strengthen its methodology by integrating mixed methods—combining qualitative insights with the existing quantitative data to provide a more holistic view of the returnee entrepreneurial ecosystem.
+� Operationalization of Constructs
+The operationalization of key constructs, such as entrepreneurial quality and institutional environment, might lack clarity. For instance, the study relies on metrics like the number of companies listed in certain markets, but this metric may not fully capture all dimensions of entrepreneurial quality (e.g., innovation, sustainability, or job creation).
+The paper would benefit from a more detailed explanation of how these constructs are defined and measured, as well as any limitations in measurement.
+� Weakness in Addressing Regional Disparities
+The paper mentions the uneven distribution of returnee entrepreneurship across regions but does not thoroughly explore how regional disparities in institutional environments affect the generalizability of its configurations. Certain configurations may only apply to more economically developed regions and not necessarily to those with weaker institutional support.
+5. Result with Statistical Analysis
+The statistical analysis is detailed and appropriately presented. The Necessary Condition Analysis (NCA) results and fsQCA sufficiency analysis are well-structured. The paper effectively presents configurations that lead to both high- and non-high-quality entrepreneurship. The authors also include robustness checks (e.g., sensitivity analysis), which enhances the credibility of the findings. However, the tables could be more reader-friendly with clearer labels and explanations of key terms.
+6. Conclusion
+The conclusion is comprehensive and ties the research findings back to the research questions. It offers clear policy recommendations, making it practical for a wide audience. However, the authors could emphasize future research directions more explicitly. For instance, what are the next steps in understanding the influence of institutional configurations on entrepreneurship?
+7. Implication
+The implications of the paper are well-stated. The study provides policymakers and stakeholders in emerging economies (e.g., China) with theoretical and practical insights into improving entrepreneurial quality among returnees. The institutional configurations that enhance entrepreneurship, such as the ‘opportunity-resource collaborative legitimacy drive,’ are highly relevant for governments and organizations seeking to boost economic development. The paper also highlights regional disparities and suggests tailored institutional frameworks, which is a strong practical contribution.
+8. References
+The reference section is well-organized and includes a wide range of sources. However, some recent influential works on entrepreneurship and institutional theory seem to be missing. Including more works from 2023 and 2024 would strengthen the paper's engagement.
+9. English Grammar and Cohesiveness in Writing
+The paper is generally well-written and cohesive, but there are a few areas where improvements in grammar and sentence structure could enhance readability. Here are some observations:
+• Sentence Structure: Some sentences are lengthy and complex, making them harder to follow. Breaking them into shorter, clearer sentences would improve flow.
+• Passive Voice: The paper uses the passive voice frequently. While this is common in academic writing, an occasional active voice would make the text more engaging.
+• Cohesion: The transitions between sections are smooth, but adding more signposting within paragraphs could help guide the reader through the argument more clearly.
+Example:
+In the introduction, the transition between the discussion of institutional complexity and returnee entrepreneurship could be more seamless by using transitional phrases like, "Building on these insights, the current study explores...".
+Summary of Improvements:
+1. Incorporate 2023 and 2024 literature for contemporary relevance.
+2. Simplify statistical tables and ensure they are more reader-friendly.
+3. Shorten complex sentences and reduce over-reliance on the passive voice.
+4. Expand the sample size to include more regions, improving the generalizability of findings.
+5. Justify the selection of the 28 regions and discuss potential selection bias.
+6. Consider using longitudinal data to capture changes over time in institutional environments.
+7. Incorporate qualitative data through case studies or interviews with returnee entrepreneurs to provide richer insights.
+8. Clarify how key constructs (e.g., entrepreneurial quality) are measured and acknowledge potential limitations.
+Reviewer #2: How does the institutional environment improve the entrepreneurial quality of returnees?A configuration analysis based on a complex system view
+I express profound gratitude to review the article.This study analyzes the complex relationship between institutional configurations and the quality of returnee entrepreneurship in China. The research samples include 28 regions. The subsequent issues pertain to the article are as follows.
+Introduction
+• Add research objectives and research questions in the introduction section in bullets.
+Theoretical Background and Literature Review
+• Add theoretical background. Add theories related to the topic.
+• Add research Hypothesis in bullets,
+• Before starting methodology there is a typing error” Fig 1. This is the Fig 1 Title.This si the Fig 1 Legend”.
+•
+Empirical Results Discussion and Implications
+• Add the discussion part at the end of the empirical results. In which provide overall discussion regarding results and its impacts and implications.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes:  Dr. Ahsan Riaz
+Reviewer #2: Yes:  Dr Ameena Arshad
+**********
+PONE-D-24-40215R1How does the institutional environment improve the entrepreneurial quality of returnees? A configuration analysis based on a complex system viewPLOS ONE
+Dear Dr. Yang,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 08 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Saranjam Baig
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: (No Response)
+Reviewer #4: reviews has given in the attached world file so it is enough to make required changes.
+• Research Objectives/Questions needs to be highlighted properly. Research gap need to be addressed in the light of theory.
+Review 2:
+• Add research hypotheses and authors presenting model without any support of hypotheses.
+• Connect theory with hypotheses. H1, H2, and H3 and discuss hypotheses in the light of the theory.
+• Furthermore, provide hypotheses as you mentioned in Configuration Analysis for period-1 H1, (H1a), (H1b), and (H1c). Similarly in period 2 and 3.
+Review 3:
+• You normalize the data at first stage but how and which method you use to normalize the data. Please provide details. Also furnish detail about calibration method.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #3: No
+Reviewer #4: No
+**********

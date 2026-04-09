@@ -1,0 +1,119 @@
+
+22 Mar 2024
+PONE-D-24-02012The impact of work values on the professional development of primary and secondary school teachers: A moderated mediation modelPLOS ONE
+Dear Dr. Feng,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 05 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Zahra Masood Bhutta
+1. When submitting your revision, we need you to address these additional requirements.
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at 
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating in your Funding Statement: 
+The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This research was funded by Educational Science Planning Project (Higher Education Project; 2022GXJK383); Guangdong Sports Bureau Project (GDSS2022N143); Guangdong Higher Education Association Private higher education Professional Committee (2022MBGJ073); Guangdong Province Undergraduate College Teaching Quality and Teaching Reform Project (2022J013/2022J038); Guangzhou Philosophy and Social Science Planning Project (2021GZGJ164); Guangzhou Xinhua University Science Research Project (2020KYYB07); and Guangzhou Xinhua University College Students Innovation and Entrepreneurship Project (S202313902015)
+Please provide an amended statement that declares all the funding or sources of support (whether external or internal to your organization) received during this study, as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.  Please also include the statement “There was no additional external funding received for this study.” in your updated Funding Statement. 
+Please include your amended Funding Statement within your cover letter. We will change the online submission form on your behalf.
+3. In the online submission form, you indicated that The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author(fenggy3@mail2.sysu.edu.cn).
+All PLOS journals now require all data underlying the findings described in their manuscript to be freely available to other researchers, either a. In a public repository, b. Within the manuscript itself, or c. Uploaded as supplementary information.
+This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If your data cannot be made publicly available for ethical or legal reasons (e.g., public availability would compromise patient privacy), please explain your reasons on resubmission and your exemption request will be escalated for approval. 
+4. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+5. One of the noted authors is a group or consortium. In addition to naming the author group, please list the individual authors and affiliations within this group in the acknowledgments section of your manuscript. Please also indicate clearly a lead author for this group along with a contact email address.
+6. Please remove your figures from within your manuscript file, leaving only the individual TIFF/EPS image files, uploaded separately. These will be automatically included in the reviewers’ PDF.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Yes
+Reviewer #2: Partly
+********** 
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: Yes
+********** 
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+********** 
+5. Review Comments to the Author
+Reviewer #1: Comments to Authors
+Abstract
+Overall, the abstract provides a concise overview of the study's objectives, methodology, key findings, and implications. Here are some critical comments for the authors:
+1. Regarding the structure and alignment, the abstract would benefit from a more organized layout to enhance readability and coherence.
+2. Ensuring that each sentence flows logically into the next and that key points are clearly emphasized could improve the overall structure.
+3. Additionally, the abstract is somewhat lengthy and could be condensed to 200 words or less to maintain brevity while still effectively summarizing the study's objectives, methodology, findings, and implications.
+4. Finally, while the abstract is generally well-written, attention to minor language and grammar issues, such as awkward phrasing or punctuation errors, is recommended to enhance clarity and professionalism. Addressing these aspects would help strengthen the abstract and make it more impactful for readers.
+Introduction
+1. The introduction is indeed well-written, providing a comprehensive overview of the research topic and its significance. However, there are a couple of areas where the authors could improve:
+2. While the content is strong, attention to layout details such as spacing and alignment would enhance the presentation quality. Ensuring consistent formatting throughout the text will contribute to a polished appearance.
+3. The authors should review the reference style to align with the guidelines of PLOS ONE. Consistency in referencing style is crucial for professionalism and adherence to journal requirements.
+4. Although the introduction effectively identifies the gap in the literature, the specific research objectives could be articulated more clearly to guide readers on what to expect from the study. Clearly stating the research questions or hypotheses would provide readers with a roadmap for understanding the study's aims and contributions.
+5. While the conclusion of the introduction emphasizes the significance of the study, the authors could further elaborate on the unique contributions of the research and how it advances knowledge in the field. Providing a more detailed discussion of the potential theoretical and practical implications of the study's findings would enhance the clarity and impact of the introduction.
+Literature Review
+1. Ensure that the referencing style aligns with the guidelines of the target journal, such as PLOS ONE. Consistency in referencing style is crucial for maintaining professionalism and meeting journal requirements.
+2. Incorporate more updated references to ensure the literature review reflects the most current research in the field. Including recent studies will enhance the relevance and credibility of the literature review.
+3. Clarify and separate the hypotheses related to the direct relationship between the independent variable (work values) and the mediator (work engagement), as well as the moderation effects of perceived organizational support. Presenting these hypotheses separately would improve clarity and facilitate understanding for the reader.
+4. Provide a brief theoretical background before presenting the research model. This background should succinctly summarize relevant theoretical frameworks or concepts that support the study's hypotheses and research model. This addition will enhance the theoretical foundation of the study and provide context for the research model.
+Methodology
+1. The methodology section appears to prioritize demographic details over discussing the actual study methodology. It is recommended to provide a brief discussion of the demographic characteristics within the text and present the detailed demographic information in a table for better readability and organization.
+2. The methodology does not address how data were collected from multiple provinces. If the data were collected online, it raises questions about the high response rate of 95.7%, which is unusually high for online surveys. Authors should provide justification for this high response rate to ensure the reliability and validity of the collected data.
+3. The methodology discusses the measurement scales in detail. However, it would be more effective to consolidate this information into a single paragraph for clarity. Additionally, the discussion of reliability measures such as Cronbach's alpha and confirmatory factor analysis (CFA) should be moved to the results section, and the results should be presented in tabular format for easier reference.
+4. As the authors is using control variables in the study also, I would suggest to provide brief detail about your control variables along with justification for using these variables as control.
+5. The track changes should be removed from the manuscript, particularly from lines 191 to 193, to ensure the document's professional presentation.
+Results
+1. The results section is commendably well-written and presented, demonstrating a strong presentation of findings. However, one aspect that requires attention is the discussion of scale reliability and validity. It is essential to include a detailed discussion of these aspects within the text of the results section, along with presenting the corresponding statistics in a table format. This will ensure a comprehensive evaluation of the measurement instruments used in the study and enhance the transparency of the findings.
+Discussion
+2. The discussion is again well written however I would suggest, Provide a more thorough integration of current results with previous research on work values, work engagement, and organizational support in the context of teacher professional development.
+3. Elaborate on specific strategies or interventions based on the findings and suggest future research directions to address remaining questions or potential limitations.
+Language Quality
+1. The paper is generally well-written and clear in its presentation. I observed few complex and long sentences which is suggested simplifying complex sentences to improve papers quality.
+2. A thorough proofreading for grammatical accuracy and consistency in terminology would enhance the paper's overall quality.
+Recommendation
+I recommend accepting this paper with minor revisions as outlined above.
+Reviewer #2: The “Literature Review” part should include more latest literatures. The “Methods” part is well-written. The methods are employed appropriately and able to meet the objectives of the study. The “Results” part is well-written. The conclusion adequately ties together the other elements of the paper. The study should include “Policy Implications”.
+********** 
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: AMIN UR RAHMAN
+Reviewer #2: Yes: Sayed Farrukh Ahmed
+**********
+
+26 Aug 2024
+The impact of work values on the professional development of primary and secondary school teachers: A moderated mediation model
+PONE-D-24-02012R1
+Dear Dr. Shi,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager® and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Chunyu Zhang
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: Yes: Sayed Farrukh Ahmed
+**********

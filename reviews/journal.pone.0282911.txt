@@ -1,0 +1,100 @@
+
+20 Oct 2022
+PONE-D-22-236133D-printed eye model: simulation of intraocular pressurePLOS ONE
+Dear Dr Kobashi,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Dec 04 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Aparna Rao
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure:
+“This article is based on results obtained from a project, JPNP0401005, commissioned by the New Energy and Industrial Technology Development Organization (NEDO).”
+Please state what role the funders took in the study.  If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+If this statement is not correct you must amend it as needed.
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. Thank you for stating the following in the Competing Interests section:
+“The author(s) have made the following disclosure(s): H.K.: Employee and equity owner, Toneasy Inc.; Patent, Toneasy Inc. No other disclosures were reported.”
+Please confirm that this does not alter your adherence to all PLOS ONE policies on sharing data and materials, by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests).  If there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared.
+Please include your updated Competing Interests statement in your cover letter; we will change the online submission form on your behalf.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Partly
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+**********
+5. Review Comments to the Author
+Reviewer #1: This research paper describes the development of a 3D eye model for testing the impact of varying corneal thickness on intraocular pressure. As is already known, corneal thickness has a significant influence on IOP readings obtained by almost any tonometer. Hence the finding that CCT influences IOP readings is not in any way novel. To my understanding, the other rationale for undertaking this study is the dependence on wet labs for studying the impact of various conditions on IOP measurements. However, the authors have not fully described the limitations of current methods and how their method addresses these limitations. This study should have included an in silico simulation assessing the impact of various elements of the setup (e.g., the mechanical holder, material properties geometrical attributes) before proceeding to the printing stage. My other major comments are as follows;
+1. Although the main varying parameter is central corneal thickness, other parameters such as curvature of the sclera and cornea also change with each model. This is a significant limitations as not only CCT but also the geometry is likely to affect the IOP readings.
+2. There is no description of the additive manufacturing (FDM?, SLA?) method that was used to manufacture the eyeball.
+3. There is no mention of elastic modulus of the material that was used to print the cornea and the holder. Furthermore, as the cornea is a viscoelastic material, a rubber-like material (hence a purely elastic material) would not mimic corneal mechanical behavior.
+4. The authors should have reported intraclass coefficient of serial measurements instead of describing repeated measurements as having "good repeatability".
+5. Although acknowledged as a limitation, failure to factor in lens, iris, aqueous humor is a significant limitation hindering the applicability of this approach in studying IOP dynamics ex vivo.
+Reviewer #2: The authors present a new methodology to study the impact of corneal thickness on the intraocular pressure (IOP) measurements. Overall, the paper addresses a quite interesting problem; on the other hand, there are several issues which must be addressed prior to the paper acceptance.
+At first, the introduction and general contextualization is quite poor. For example, the authors cite that numerous published studies have considered 3D printing techniques in Health Sciences; however, just a few were cited. Besides, it would be interesting to mention other studies which considered using 3D printing to bring digital models to real life and then perform tests on them. They may consider, for example:
+- Combining Microtomography, 3D Printing, and Numerical Simulations to Study Scale Effects on the Permeability of Porous Media by Luan C. de S. M. Ozelim and André L. B. Cavalcante
+- A 3D additive manufacturing approach for the validation of a numerical wall-scale model of catalytic particulate filters by Igor Belot, Yixun Sun, David Vidal, Martin Votsmeier, Philippe Causse, François Trochu, François Bertrand.
+English level should be enhanced. Sometimes, it becomes a bit confusing to fully understand the sentences.
+Regarding the 3D printed model, more information should be provided about the elastic properties of the materials used. For example, which are the Young moduli of the materials? This, together with the corneal thickness, would probably have an impact on the IOP measurements. Besides, it is important to fully compare the mechanical properties of the printing materials to the ones of real human eyes.
+The authors should provide more information about the printing procedure. Which were the steps? Also, they should present more details about the printer and its specs (minimum detail, minimum wall thickness etc).
+A key aspect which needs to be at least discussed is how the authors assessed the quality of the printed specimens. In short, what are the expected deviations between the printed specimen and the one in the CAD design? Will these deviations impact on the effective corneal thickness? I do not know if the authors have access to a CT scan, but if they do, scanning a few of the printed samples would bring a valuable validation to the thicknesses considered in their analyses.
+The authors mention the R-squared and the p-values obtained for the linear fit. Which hypothesis test is the p-value related to?
+Since the authors have a complete control over the model, are they capable of measuring the “true” exact IOP?
+Since Tono-Pen AVIA has not been calibrated and designed to be used with the 3D printed materials, this would be interesting to actually confirm the measurements are correct. Indicating that the results are reproducible is not sufficient to indicate the correctness of the result itself.
+Finally, do the authors have control over the IOP change? How? Are the changes observed only due to the CCT changes? Any additional pressure is later applied to the gels? It is not clear in the paper how the IOP change occurs.
+The issues above must be addressed to enhance the quality of the paper and make it publishable in such a high standard journal as PLOS One.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Eray Atalay
+Reviewer #2: No
+**********
+
+27 Feb 2023
+3D-printed eye model: simulation of intraocular pressure
+PONE-D-22-23613R1
+Dear Sir,
+Aparna Rao
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #2: All the comments have been addressed in the new version of the manuscript. Therefore, I advise to accept the paper in its current form.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+**********

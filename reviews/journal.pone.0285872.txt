@@ -1,0 +1,260 @@
+
+10 Oct 2022
+PONE-D-22-21246The never-ending patient journey of chronically ill patients: A qualitative case studyPLOS ONE
+Dear Dr. Peters,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Nov 24 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+Additional Editor Comments:
+Just as observed by the reviewers, the methods can be improved. I suggest the following
+Methods
+Even though the authors mentioned in the abstract that data was collected from 8 participants, this important information is not included in the methods in main text.
+Normally qualitative research requires between 9 to 24 in-depth interviews. As also highlighted by other reviewers, motivate the selection of just eight participants for the interviews; that is too little and likely to threaten the validity and generalizability of studies’ results. See the following reference for ideal sample size.   Vasileiou, K., Barnett, J., Thorpe, S. et al. Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period. BMC Med Res Methodol 18, 148 (2018). https://doi.org/10.1186/s12874-018-0594-7Monique Hennink, Bonnie N. Kaiser, Sample sizes for saturation in qualitative research: A systematic review of empirical tests, Social Science & Medicine, Volume 292, 2022, https://doi.org/10.1016/j.socscimed.2021.114523.As observed by the reviewer, semi-structured interview is not always the best method for exploratory study design. Unstructured interviews such as in-depth interviews would have been the most appropriate for of data collection method for your study.
+Normally qualitative research requires between 9 to 24 in-depth interviews. As also highlighted by other reviewers, motivate the selection of just eight participants for the interviews; that is too little and likely to threaten the validity and generalizability of studies’ results. See the following reference for ideal sample size.   Vasileiou, K., Barnett, J., Thorpe, S. et al. Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period. BMC Med Res Methodol 18, 148 (2018). https://doi.org/10.1186/s12874-018-0594-7Monique Hennink, Bonnie N. Kaiser, Sample sizes for saturation in qualitative research: A systematic review of empirical tests, Social Science & Medicine, Volume 292, 2022, https://doi.org/10.1016/j.socscimed.2021.114523.
+Vasileiou, K., Barnett, J., Thorpe, S. et al. Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period. BMC Med Res Methodol 18, 148 (2018). https://doi.org/10.1186/s12874-018-0594-7
+Monique Hennink, Bonnie N. Kaiser, Sample sizes for saturation in qualitative research: A systematic review of empirical tests, Social Science & Medicine, Volume 292, 2022, https://doi.org/10.1016/j.socscimed.2021.114523.
+As observed by the reviewer, semi-structured interview is not always the best method for exploratory study design. Unstructured interviews such as in-depth interviews would have been the most appropriate for of data collection method for your study.
+Your ethics statement should come after the data analysis section, just before the results section. You should also include the ethic reference number
+Your ethics statement should come after the data analysis section, just before the results section. You should also include the ethic reference number
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: No
+Reviewer #2: Partly
+Reviewer #3: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: N/A
+Reviewer #2: N/A
+Reviewer #3: N/A
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: No
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: No
+Reviewer #3: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Thank you for this opportunity to review your manuscript in which you describe the patient journey of chronically ill patients as cyclical and never-ending and could be augmented by digitalisation of touchpoints. Overall, this is interesting research, and your study could help inform policy and clinical practice. Your paper could be improved in the following ways.
+Background.
+The literature is well-used to support your research question. A lot of what you talk about in terms of patient-centric care and digitalisation can be related to the Chronic Care Model (1) in which the touchpoints you refer to can be considered ‘productive interactions’. Did you have a reason for not using this model in your research? If so, I suspect you will need to justify why you didn’t use the model. In my opinion its use gives strength to a lot of what you did.
+Methods.
+You say you used purposive sampling but what you describe sounds more like convenience sampling, e.g., you had access to certain departments in a hospital and those departments covered certain health issues which in turn influenced who responded to your invitation to participate in interviews. In other words, you did interviews with people who were available (convenience) rather than your first choice of interviews (purposive). Please consider modifying your description of the type of sampling you did.
+I would prefer to see you create a table of the interview questions and insert it in the body of the manuscript than for you to have it as supplementary information. That way a time-poor reader doesn’t have to follow links to interview questions. Also, please consider adding the demographic items in the table so that it’s clear when and how you got that information, i.e., that you didn’t get demographic data from a third party (the clinic).
+There are certain qualities in qualitative data, especially in interviews, that need to be unpacked in the methods section, e.g., data saturation, why you only completed eight interviews and what satisfied you that you could stop at eight, what constituted your case study (you say it was a case study but nowhere do you say why it was a case study and how interviews within a case study are useful to answer your research question). Take a look at this article by Morse (2) about ways to strengthen qualitative research so that you can indicate what you did to mitigate the weaknesses/limitations of a set of interviews. You may also find this article useful to explain your decision to interview the eight people you interviewed and the role of the interviewees’ context (3). You need to describe your methods decisions in such a way that another researcher can replicate your methods. At the moment, I’m not confident that your study can be replicated.(4)
+I think that the coding table should go into the methods section with a brief statement about how you derived the codes.
+Findings.
+You indicate that the demographic profile of the interviewees is skewed to older people in this section and in the limitations. Is it possible for you to get a report on the demographics of the clinic patients who form the context of your research? All you need to get is a demographic profile of ages from the three clinics from which you sourced your interviews to be able to say if self-selection for interviews was because people with those conditions are usually older or older people tend to self-select for research participation. There is some literature to support the latter conclusion, and it shouldn’t be hard to find, assuming that is what you discovered in your findings.
+There are too many quotes. This leaves the reader feeling that they need to do some analysis – the analysis is your job. The use of multiple quotes for one point creates questions in the reader’s mind – did you finish coding the quotes, were these the only quotes for this point, does this mean that if you used one quote for a point that only one person gave you a quote for that point?
+Table 2 about touchpoints belongs in the findings section. It’s a very nice table and can be used to complement the thematic narrative.
+I like the figure that demonstrates the cyclic nature of the touchpoints, but it’s not clear in the findings that you saw this. Placement of this figure into the findings section (not the discussion section) should be reconsidered.
+Because you can't make the raw data freely available you should consider not using supplementary files and rather insert the content of your supplementary files into the manuscript where they below.
+Discussion
+There are some very good descriptions of the findings in the discussion section. Some of these descriptions belong on the findings section. A good discussion should (1) summarise the key findings (done, but repetitive), (2) compare and contrast the findings with what’s already in the literature (partially done), (3) indicate how the research question/s was/were answered (could be done more clearly). It is in this section that you can draw strongly on the Chronic Care Model (and the associated literature about digitisation of ‘productive interactions’) to strengthen the points you want to make from your findings.
+Limitations.
+You can’t use quantitative research measures to critique the value and truth of qualitative research. It is more appropriate to talk about transferability, trustworthiness, data saturation, triangulation and member describing the strengths and weaknesses of your research methods. Use Morse’s article to help you do that. Use Malterud’s article to help justify the number of interviews you did. Indicate what types of contexts can and should use your research findings, i.e., similar to the context of your research.
+References.
+The list of references appears to be focused well on the research being reported, and articles from a range of years are used. I have referred below to articles that you should use to strengthen your manuscript.
+General proofreading issues.
+There is a tendency to use the odd word oddly, e.g.,
+- In the abstract you say, ‘These digital alternatives consisted of video … viewing their own medical status in a digital manner’ Do you mean ‘digital format’? The former is ambiguous.
+- When the subject of a sentence is singular/plural you make the rest of the sentence plural/singular, e.g., ‘Each patient is unique and requires treatments that suits …’ Suits should be suit because at the subject of the sentence is ‘each patient’ implies plural. Confusing I know. I recommend that you get someone to go through the manuscript and clean these minor errors up for you.
+- People can’t be ‘it’, e.g., ‘Some of these healthcare encounters that are currently taking place physically at the hospital could also be performed by the patient itself.’ Delete ‘itself’.
+My references for this review:
+1. Gee PM, Greenwood DA, Paterniti DA, Ward D, Miller LMS. The eHealth enhanced chronic care model: a theory derivation approach. Journal of medical Internet research. 2015;17(4).
+2. Morse JM. Critical analysis of strategies for determining rigor in qualitative inquiry. Qualitative health research. 2015;25(9):1212-22.
+3. Malterud K, Siersma VD, Guassora AD. Sample size in qualitative interview studies: guided by information power. Qualitative health research. 2016;26(13):1753-60.
+4. Coiera E, Ammenwerth E, Georgiou A, Magrabi FJJotAMIA. Does health informatics have a replication crisis? 2018;25(8):963-8.
+Reviewer #2: These are some comments to improve the current study
+Major revision of the title - based on the intent - multiple points of contact and PCC with physical /face to face and technology.
+Basically this study is about whether integrating digital technology in the continuity and continuum of care would lead to a quality outcomes.
+The study is more like pilot /feasibility study.
+Figure 1- Revisit and align with the intent of the study, that is the continuum of care -disagree that it is a cyclical process it is rather a non-linear process -depending on their condition and the aspect of self-monitoring need to be somehow factored in.
+Sup File 1 - The "stop" in the figure contradicts the cyclical process/ continuum -see also the result section which goes beyond the health system.
+In the research design/method section -Appears to be more towards a survey method using structured interview approach and does not qualify for a qualitative research with phenomenological method of data analysis.
+A descriptive exploratory research design using a survey method through structured interviews is evident with the listed questionnaire items in the supplementary file.
+Provide some detail on the reliability and validity / trustworthiness, etc. irrespective of research design and methods used.
+Lastly, the concept of consumerism with touch points in their journey lean towards a concrete rather than abstract construct which weakly align with qualitative approach.
+Reviewer #3: The manuscript “the never-ending patient journey of chronically ill patients: A qualitative case study” is of great importance and interest. The manuscript has some serious originality concerns as the similarity index is 49% which is exceptionally high. The authors have made no such disclosures if it is part of some previous project or extracted from the dissertation. Without such information, it is difficult for me to comment on the other aspects of the manuscript. Therefore, I recommend the rejection of the manuscript at this stage.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #1: Yes: Karen Day
+Reviewer #2: Yes: Chandra R Makanjee
+Reviewer #3: Yes: Imran Hameed Khaliq
+**********
+**********
+
+18 Jan 2023
+PONE-D-22-21246R1
+The never-ending patient journey of chronically ill patients: A qualitative case study on touchpoints in relation to patient-centered care
+Dear Dr. Peters,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+A major concern for two of the three reviewers were issues related to the methodology used in this study, and I concur with their comments. This section should be clearly written, with a clear description of each of the sub-sections for ease of replication. The appropriate approach for this study is a semi-structured in-depth interview and this should pull through in your data collection and analysis sections. Actually what the authors described in the data collection section is a face-to-face (or virtual) individual in-depth interviews which were audio recorded.
+Other issue raised was the adequacy of the eight purposive samples used in this study, for which the authors responded with the argument of reaching saturation and cited Guest et al., 2006. How many interviews are enough? An experiment with data saturation and variability.
+However, the excerpt below from this paper says otherwise "Although the idea of saturation is helpful at the conceptual level, it provides little practical guidance for estimating sample sizes, prior to data collection, necessary for conducting quality research."  "Purposive samples still need to be carefully selected, and twelve interviews will likely not be enough if a selected group is relatively heterogeneous, the data quality is poor, and the domain of inquiry is diffuse and/or vague. Likewise, you will need larger samples if your goal is to assess variation between distinct groups or correlation among variables. For most research enterprises, however, in which the aim is to understand common perceptions and experiences among a group of relatively homogeneous individuals, twelve interviews should suffice." Also refer to:
+Monique Hennink, Bonnie N. Kaiser, Sample sizes for saturation in qualitative research: A systematic review of empirical tests, Social Science & Medicine, Volume 292, 2022, https://doi.org/10.1016/j.socscimed.2021.114523
+Vasileiou, K., Barnett, J., Thorpe, S. et al. Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period. BMC Med Res Methodol 18, 148 (2018). https://doi.org/10.1186/s12874-018-0594-7
+Reviewer #1 made very useful comments that were not adequately addressed. see the following:
+"Table 2 about touchpoints belongs in the findings section. It’s a very nice table and can be used to complement the thematic narrative."  I suggest including Table 2 in your result section and discuss it in further in your the discussion section. 
+"There are certain qualities in qualitative data, especially in interviews, that need to be unpacked in the methods section, e.g.,... what constituted your case study (you say it was a case study but nowhere do you say why it was a case study and how interviews within a case study are useful to answer your research question). ...You need to describe your methods decisions in such a way that another researcher can replicate your methods. At the moment, I’m not confident that your study can be replicated.(4)" 
+"...did you finish coding the quotes, were these the only quotes for this point, does this mean that if you used one quote for a point that only one person gave you a quote for that point?"
+Even though the authors claimed to have used thematic analysis, it is unclear what approach was used for the analysis. Deductive or inductive approach, or both? 
+Refer to the following paper on how to conduct a case study:
+Crowe, S., Cresswell, K., Robertson, A. et al. The case study approach. BMC Med Res Methodol 11, 100 (2011). https://doi.org/10.1186/1471-2288-11-100
+The authors were given a chance to rectify these flaws, however, these have not been adequately addressed in the revised submission. For these reasons, I cannot recommend this manuscript for publication in the current form.
+Please submit your revised manuscript by Mar 04 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #2: (No Response)
+Reviewer #3: All comments have been addressed
+********** 
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #2: No
+Reviewer #3: Yes
+********** 
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #2: N/A
+Reviewer #3: N/A
+********** 
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #2: No
+Reviewer #3: Yes
+********** 
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #2: No
+Reviewer #3: Yes
+********** 
+6. Review Comments to the Author
+Reviewer #2: though the topic is sound and relevant. Currently the study has methodological flaws and require a careful thought through approach whether it qualify for a qualitative approach.
+Reviewer #3: The Authors performed adequate revisions and the scientific contribution of the work has improved. As a result of this, I recommend accepting the manuscript for publication in PLOS One.
+********** 
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #2: No
+Reviewer #3: Yes: Imran Hameed Khaliq
+**********
+
+22 Mar 2023
+PONE-D-22-21246R2The never-ending patient journey of chronically ill patients: A qualitative case study on touchpoints in relation to patient-centered carePLOS ONE
+Dear Dr. Peters,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. To ensure the Reviewers will be able to recommend that your revised manuscript is accepted, please pay careful attention to each of the comments that have been pasted underneath this email. This way we can avoid future rounds of clarifications and revisions, moving swiftly to a decision.
+Please submit your revised manuscript by May 06 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: (No Response)
+Reviewer #4: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Partly
+Reviewer #4: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: N/A
+Reviewer #4: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+Reviewer #4: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: No
+Reviewer #4: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: I have reviewed your manuscript and have compiled a list of major revisions based on the suggestions provided:
+Page 3: Line 41-44: Authors may consider rephrasing this sentence for more clarity: "Participants were included if they had visited the department of internal medicine and had received treatment for either diabetes, kidney failure, arteriosclerosis, or HIV."
+Page 10: Line 218: I would like to suggest a small change to the section on the sampling method.
+In the manuscript, the authors have referred to the recruitment method as "convenience sampling logic". I believe that this may cause some confusion among readers. It would be more accurate to simply state that convenience sampling was used to select participants and that purposive sampling was used to target specific chronic illnesses in order to capture a wide variety of experiences.
+I think this clarification would make the sampling method more understandable to readers and help address any potential confusion that may arise.
+Page 11: Line 222: In the participant recruitment section, the authors mentioned that potential participants were given as much time as needed to consider whether they wished to participate. However, it would be helpful to readers if you could clarify the specific time frame given to participants to decide.
+I would suggest adding a sentence to this section that specifies the amount of time given to participants, for example, "Participants were given one week to consider whether they wished to participate in the study." This would provide readers with a clear understanding of the time frame used in the recruitment process.
+Page 12: Line 252: In the current presentation of the table, the headings and the order of the columns are as follows: "Patient Group, number of patients, Average age, Standard deviation, minimum age, maximum age". I would like to suggest reordering the columns and changing the heading "Patient Group" to "Patient Group by Disease" for improved clarity. Additionally, it would be helpful if you could shuffle the data according to the following sequence:
+"Number of patients, Patient Group by Disease, Average age, Standard deviation, minimum age, maximum age"
+Finally, I would suggest placing the table in the section of the manuscript where it is being referred to, for easier reference by the readers.
+In the current presentation, the figures have been reported with varying numbers of decimal places. For example, some figures have been reported with one decimal place, while others have been reported with two decimal places. This inconsistency may cause confusion for readers.
+To improve the clarity and consistency of your manuscript, I suggest using a consistent style of reporting figures. Specifically, I recommend reporting all figures with two decimal places to ensure consistency and clarity throughout the manuscript.
+Page 12: Line 255: Given the qualitative and exploratory nature of the study, the focus was primarily on understanding the experiences, perceptions, and attitudes of individuals rather than on collecting quantitative data at a single point in time. Therefore, instead of mentioning the cross-sectional approach, the authors may want to emphasize the qualitative and exploratory aspects of the study, and how these informed the data collection and analysis methods used. This can provide readers with a clearer understanding of the purpose and scope of the study.
+Page 12: Line 262: Given that Zoom is a widely-used video conferencing platform, it may be helpful for readers to have a more specific reference to the company and location in the manuscript. Therefore, we suggest that the authors include the company's name, Zoom Video Communications, Inc., and its headquarters location, San Jose, California, USA, when referring to the video conferencing software used in the study. This can enhance the clarity and transparency of the methods section for readers.
+Page 13: Line 266: I noticed that the authors mentioned the benefits of a case study approach in both the previous section and this section. It may be beneficial to merge similar information in one place to avoid repeating information.
+Page 13: Line 268: While it is important to align the data collection approach with the aim of the study, the reader can draw their own conclusion from the reported data. Therefore, omitting the statement in the conclusion section may be more appropriate.
+Page 13: Line 270: I have noticed that the phrase "the semi-structured approach" appears multiple times in the methods section of your manuscript. While it is important to describe the methodology thoroughly, I believe that some of the repetitions may be unnecessary and could disrupt the text's flow.
+Therefore, I suggest you review the methods section and consider consolidating some of the descriptions or finding alternative ways to convey the same information without repeating the exact same phrase multiple times.
+Page 13: Line 280: It may be beneficial to split the question "What is your age and gender?" into two separate questions to improve the clarity of the data collected.
+Page 16: Line 289: Add references here of that literature here.
+Page 16: Line 296: Is this text referencing style in line with PLoS One house style?
+Page 20: Line 316: Consider rephrasing "have been" to "were"
+Page 20: Line 323: The authors mentioned that the transcripts were returned to all participants, and no comments or corrections were received. Can you kindly provide some additional information on the timeline for this process? Specifically, how long did you wait for participants to review and return the transcripts before considering it as no comments received? This information will help readers understand the study's timeline and the data verification process.
+Page 20: Line 327: Can you please clarify the decision made by the Ethics Review Board regarding the no necessity of Medical Research Involving Human Subject (WMO) approval from a Medical Ethics Committee? It would be helpful to understand the reasons behind this decision in order to ensure that ethical considerations were thoroughly evaluated and followed in the study.
+Page 20, 21: Line 334 - 341: I have reviewed the Results section and would like to recommend restructuring this section. Specifically, I believe the information about the number of patients approached, and reasons for non-participation is more appropriate in the Methods section than in the Results section.
+As per scientific writing conventions, the Results section should focus on presenting the study's key findings, while the Methods section provides details about the study design, recruitment process, and other pertinent information. Therefore, I would suggest revising the Results section to focus solely on the presentation of the interview results, as well as the touchpoints and digital alternatives explored in the study.
+Page 20: Line 336: In the results section, please present the interview findings in past tense since the study has already been conducted and you are reporting the results.
+Page 21: Line 346 and 347: It is recommended to report the results using the appropriate scientific notation, such as the use of symbols and punctuation marks. For instance, instead of using a comma to separate the mean and standard deviation, it is more appropriate to use a semi-colon to separate them, as in M=50; SD=13.09. This notation is widely used in scientific writing and can help to ensure clarity and consistency in the reporting of results.
+Overall, these revisions will help improve the clarity and consistency of your manuscript, and ensure that readers can understand the study's methods, findings, and conclusions more easily.
+Reviewer #4: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: Yes: Imran Hameed Khaliq
+Reviewer #4: No
+**********
+
+4 May 2023
+The never-ending patient journey of chronically ill patients: A qualitative case study on touchpoints in relation to patient-centered care
+PONE-D-22-21246R3
+Dear Dr. Peters,
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #3: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #3: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #3: N/A
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #3: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #3: Yes
+**********
+6. Review Comments to the Author
+Reviewer #3: After reviewing the manuscript, I recommend its acceptance. The authors have made careful revisions, resulting in improved readability. If accepted for publication in PloS One, I believe this manuscript will make a valuable scientific contribution to the field.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+Reviewer #3: Yes: Imran Hameed Khaliq
+**********

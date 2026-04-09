@@ -1,0 +1,204 @@
+11 Feb 2025
+PONE-D-24-37522Improvement in quality of life and cognitive function in Post Covid Syndrome after online occupational therapy: results from a randomized controlled pilot studyPLOS ONE
+Dear Dr. Stölting,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by Mar 28 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Yalong Dang
+When submitting your revision, we need you to address these additional requirements.
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and 
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+2. Thank you for stating the following financial disclosure: 
+The project received funding through the German Federal Ministry for Education and Research 
+(Grant number 01EP2103C)
+Please state what role the funders took in the study. If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript." 
+If this statement is not correct you must amend it as needed. 
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+3. Your ethics statement should only appear in the Methods section of your manuscript. If your ethics statement is written in any section besides the Methods, please delete it from any other section.
+4. We note that you have indicated that there are restrictions to data sharing for this study. For studies involving human research participant data or other sensitive data, we encourage authors to share de-identified or anonymized data. However, when data cannot be publicly shared for ethical reasons, we allow authors to make their data sets available upon request. For information on unacceptable data access restrictions, please see http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. 
+Before we proceed with your manuscript, please address the following prompts:
+a) If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially identifying or sensitive patient information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., a Research Ethics Committee or Institutional Review Board, etc.). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent.
+b) If there are no restrictions, please upload the minimal anonymized data set necessary to replicate your study findings to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. Please see http://www.bmj.com/content/340/bmj.c181.long for guidelines on how to de-identify and prepare clinical data for publication. For a list of recommended repositories, please see https://journals.plos.org/plosone/s/recommended-repositories. You also have the option of uploading the data as Supporting Information files, but we would recommend depositing data directly to a data repository if possible.
+Please update your Data Availability statement in the submission form accordingly.
+5. In the online submission form you indicate that your data is not available for proprietary reasons and have provided a contact point for accessing this data. Please note that your current contact point is a co-author on this manuscript. According to our Data Policy, the contact point must not be an author on the manuscript and must be an institutional contact, ideally not an individual. Please revise your data statement to a non-author institutional point of contact, such as a data access or ethics committee, and send this to us via return email. Please also include contact information for the third party organization, and please include the full citation of where the data can be found.
+6. Please amend your list of authors on the manuscript to ensure that each author is linked to an affiliation. Authors’ affiliations should reflect the institution where the work was done (if authors moved subsequently, you can also list the new affiliation stating “current affiliation:….” as necessary).
+7. Please include a new copy of Table 1, 2, 3, Supplementary Table 1 in your manuscript; the current table is difficult to read. Please follow the link for more information: https://blogs.plos.org/plos/2019/06/looking-good-tips-for-creating-your-plos-figures-graphics/
+8. Please remove all personal information, ensure that the data shared are in accordance with participant consent, and re-upload a fully anonymized data set. 
+Note: spreadsheet columns with personal information must be removed and not hidden as all hidden columns will appear in the published file.
+Additional guidance on preparing raw data for publication can be found in our Data Policy (https://journals.plos.org/plosone/s/data-availability#loc-human-research-participant-data-and-other-sensitive-data) and in the following article: http://www.bmj.com/content/340/bmj.c181.long.
+9. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information. 
+Additional Editor Comments :
+Reviewer 1: Line 70: to state ‘explore efficacy ‘ as 'efficacy' is generally not the primary focus of feasibility study.
+Line 72: the word ‘underpowered’ is to be removed since no sample size was calculated.
+Line 75: typo ‘The aim of the here’.
+Line 102, 105-107: a separate list of exclusion criteria is to be provided. The participants were required to fill in the assessment tools/inventories/questionnaires, and some of the tools may require some level of understanding, either in English or German. Is the level of education one of the criteria?
+This language of communication/used in this study is to be clearly stated, e.g., for emails, questionnaires, interviews, participant information sheets, consent forms, etc.
+Line 129-137,146-147: the language and mode of administration of the tools/questionnaires are to be stated.
+Line 139-141: the sentence requires revision.
+Line 150: the reason for using the Wilcoxon signed-ranked test is to be stated.
+Line 151-153: the exact name of the statistical test is to be stated.
+Line 154-155: the information on the missing values/data is to be provided, e.g., percentage missing data, the pattern of missing data, etc. Describe the application of LOCF considering the characteristics of the dropout participants, e.g., any changes in the outcome, etc. If there is a significant number of dropout participants during follow-up, it is recommended to use the multiple imputation method.
+Line 155-156: sentence ‘As sensitivity analysis adjusted between-group differences were reported with missing data excluded’ requires revision.
+Line 157: the level of the confidence interval is to be stated e.g. 95%.
+Line 158: one or two-tailed test is to be stated.
+Ensure all the statistical tests mentioned in the results section are stated in the methodology statistical analysis section.
+Ensure the decimal points for the p values are consistent throughout the manuscript.
+Line 186: typo p 0.04 (e.g. p=0.04)
+Line 188: typo p 0.003 (e.g. p=0.003)
+Line 190: typo p 0.01 (e.g. p=0.01)
+Table 1, Table 2, Supplementary Table 1 & Table 3: the title is to be placed on top of the table.
+Line 192-193 Table 1: male gender is to be presented apart from female. The table looks confusing. On the top, it was stated as total n, but there were figures missing in the variables column (left). For reader convenience, it is best to include the sample size (n) for each variable.
+Apart from intent to treat analysis, per protocol analysis is to be presented.
+Line 224-233 Table 2 & Supplementary Table 1: were the data normally distributed? The distribution assumption of the data should be specified. If the data is skewed, it requires transformation or applying an alternative statistical test.
+Line 250-251 Table 3: the table is blurry. Avoid using screenshot table(s). If possible, all tables are to be drawn directly within the manuscript.
+Line 254: Wilcoxon signed-rank test
+Table 2, Supplementary Table 1 and Table 3: decimal points are to be standardized where applicable.
+Effect size could be presented.
+Some references did not conform to the journal format.
+Reviewer 2: The manuscript titled "Feasibility and Efficacy of Online Occupational Therapy in Post-COVID Syndrome: A Pilot Randomized Controlled Trial" presents novel exploratory results regarding digital interventions for Post-COVID Syndrome (PCS).
+Limitations: 1. significant baseline variability (age, sex, memory function) was not fully controlled or adjusted. 2. High dropout rates (e.g., 53.8% in the video group) challenge the internal validity and raise concerns about participant engagement. 3. Sample Size Limitation: No a priori power calculation was carried out, although the authors explianed this concern in Discussion. 4. Statistical analysis: methods such as "last observation carried forward" (LOCF) need justification given group differences and missing data.
+Please revise the MS on the following aspects:1. Address baseline imbalances (e.g., adjust for age and sex). 2. Clarify objectives and align outcomes with hypotheses. 3. Strengthen statistical rigor with detailed subgroup analyses and fine-tune methodological transparency.
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+2. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Review Comments to the Author
+Reviewer #1: Line 70: to state ‘explore efficacy ‘ as 'efficacy' is generally not the primary focus of feasibility study.
+Line 72: the word ‘underpowered’ is to be removed since no sample size was calculated.
+Line 75: typo ‘The aim of the here’.
+Line 102, 105-107: a separate list of exclusion criteria is to be provided. The participants were required to fill in the assessment tools/inventories/questionnaires, and some of the tools may require some level of understanding, either in English or German. Is the level of education one of the criteria?
+This language of communication/used in this study is to be clearly stated, e.g., for emails, questionnaires, interviews, participant information sheets, consent forms, etc.
+Line 129-137,146-147: the language and mode of administration of the tools/questionnaires are to be stated.
+Line 139-141: the sentence requires revision.
+Line 150: the reason for using the Wilcoxon signed-ranked test is to be stated.
+Line 151-153: the exact name of the statistical test is to be stated.
+Line 154-155: the information on the missing values/data is to be provided, e.g., percentage missing data, the pattern of missing data, etc. Describe the application of LOCF considering the characteristics of the dropout participants, e.g., any changes in the outcome, etc. If there is a significant number of dropout participants during follow-up, it is recommended to use the multiple imputation method.
+Line 155-156: sentence ‘As sensitivity analysis adjusted between-group differences were reported with missing data excluded’ requires revision.
+Line 157: the level of the confidence interval is to be stated e.g. 95%.
+Line 158: one or two-tailed test is to be stated.
+Ensure all the statistical tests mentioned in the results section are stated in the methodology statistical analysis section.
+Ensure the decimal points for the p values are consistent throughout the manuscript.
+Line 186: typo p 0.04 (e.g. p=0.04)
+Line 188: typo p 0.003 (e.g. p=0.003)
+Line 190: typo p 0.01 (e.g. p=0.01)
+Table 1, Table 2, Supplementary Table 1 & Table 3: the title is to be placed on top of the table.
+Line 192-193 Table 1: male gender is to be presented apart from female. The table looks confusing. On the top, it was stated as total n, but there were figures missing in the variables column (left). For reader convenience, it is best to include the sample size (n) for each variable.
+Apart from intent to treat analysis, per protocol analysis is to be presented.
+Line 224-233 Table 2 & Supplementary Table 1: were the data normally distributed? The distribution assumption of the data should be specified. If the data is skewed, it requires transformation or applying an alternative statistical test.
+Line 250-251 Table 3: the table is blurry. Avoid using screenshot table(s). If possible, all tables are to be drawn directly within the manuscript.
+Line 254: Wilcoxon signed-rank test
+Table 2, Supplementary Table 1 and Table 3: decimal points are to be standardized where applicable.
+Effect size could be presented.
+Some references did not conform to the journal format.
+Reviewer #2: The manuscript titled "Feasibility and Efficacy of Online Occupational Therapy in Post-COVID Syndrome: A Pilot Randomized Controlled Trial" presents novel exploratory results regarding digital interventions for Post-COVID Syndrome (PCS).
+Limitations: 1. significant baseline variability (age, sex, memory function) was not fully controlled or adjusted. 2. High dropout rates (e.g., 53.8% in the video group) challenge the internal validity and raise concerns about participant engagement. 3. Sample Size Limitation: No a priori power calculation was carried out, although the authors explianed this concern in Discussion. 4. Statistical Rigor: methods such as "last observation carried forward" (LOCF) need justification given group differences and missing data.
+Please revise the MS on the following aspects:1. Address baseline imbalances (e.g., adjust for age and sex). 2. Clarify objectives and align outcomes with hypotheses. 3. Strengthen statistical rigor with detailed subgroup analyses and fine-tune methodological transparency.
+**********
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+6 Apr 2025
+PONE-D-24-37522R1Improvement in quality of life and cognitive function in Post Covid Syndrome after online occupational therapy: results from a randomized controlled pilot studyPLOS ONE
+Dear Dr. Stölting,
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+Please submit your revised manuscript by May 21 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+Please include the following items when submitting your revised manuscript:
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+Yalong Dang
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: (No Response)
+Reviewer #2: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: Partly
+Reviewer #2: Yes
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: No
+Reviewer #2: Yes
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: Yes
+Reviewer #2: Yes
+**********
+6. Review Comments to the Author
+Reviewer #1: Minor comments:
+Table 2 title: The abbreviation 'LOCF' is to be replaced.
+Line 165: To state the assumptions for repeated measure ANOVA were fulfilled prior to use.
+Reviewer #2: A nice job ready for publication after address the two minor points raised by Reviewer 1, thank you all authors.
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+Reviewer #2: No
+**********
+15 Apr 2025
+Improvement in quality of life and cognitive function in Post Covid Syndrome after online occupational therapy: results from a randomized controlled pilot study
+PONE-D-24-37522R2
+Dear Dr. Stölting,
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at authorbilling@plos.org.
+Yalong Dang
+Additional Editor Comments (optional):
+Reviewers' comments:
+Reviewer's Responses to Questions
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+Reviewer #1: All comments have been addressed
+**********
+2. Is the manuscript technically sound, and do the data support the conclusions?
+Reviewer #1: (No Response)
+**********
+3. Has the statistical analysis been performed appropriately and rigorously? 
+Reviewer #1: (No Response)
+**********
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+Reviewer #1: (No Response)
+**********
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+Reviewer #1: (No Response)
+**********
+6. Review Comments to the Author
+Reviewer #1: (No Response)
+**********
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean? ). If published, this will include your full peer review and any attached files.
+Reviewer #1: No
+**********
