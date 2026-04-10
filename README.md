@@ -23,6 +23,8 @@ The _R_ files are in order of execution with a prefix of:
 
 ![Network diagram](figures/99_program_network.jpg)
 
+The boxes are programs and the lines between boxes are data sets.
+
 The subfolders are:
 
 * `R` for R functions.

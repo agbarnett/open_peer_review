@@ -8,6 +8,7 @@ library(rpart) # for trees
 library(dplyr)
 library(broom)
 library(ggplot2)
+library(ggrepel)
 library(gridExtra)
 g.theme = theme_bw()+ theme(panel.grid.minor = element_blank())
 cbbPalette <- c("#E69F00", "#56B4E9", "#009E73", "yellow3", "#0072B2", "#D55E00", "#CC79A7")
@@ -217,7 +218,7 @@ my.control$maxdepth = 2 # small tree
 tree = rpart(cr ~ x, control = my.control)
 tree
 
-## models with and without funder
+## models with and without funder (ERC)
 index1 = colnames(x) %in% x_selected_names
 with_funder = glm(y ~ x[,index1])
 x_selected_names_dash = x_selected_names[x_selected_names!='funder_501100000781']
@@ -251,7 +252,7 @@ label2 = data.frame(av = 0.01, diff = -0.009, label = 'With greater')
 loa_lower = quantile(both$diff, 0.025)
 loa_upper = quantile(both$diff, 1 - 0.025)
 #
-bplot = ggplot(data = both, aes(x = av, y=diff, label=term))+
+baplot = ggplot(data = both, aes(x = av, y=diff, label=term))+
   geom_hline(lty=2, col='navy', yintercept=0, linewidth=0.5)+ # lines on top of dots
   geom_hline(lty=2, col='darkred', yintercept=loa_lower, linewidth=0.5)+
   geom_hline(lty=2, col='darkred', yintercept=loa_upper, linewidth=0.5)+
@@ -262,8 +263,8 @@ bplot = ggplot(data = both, aes(x = av, y=diff, label=term))+
   theme_bw()+
   theme(panel.grid.minor=element_blank())+
  # scale_x_continuous(lim=c(0,NA))+ # start at zero
-  xlab('Average of estimates with and without ERC')+
-  ylab('With ERC minus without ERC')
-bplot
+  xlab('Average of probabilities with and without ERC')+
+  ylab('Probability with ERC minus without ERC')
+baplot
 # export
-ggsave(filename = 'figures/5_estimates_without_funder.jpg', bplot, width = 5, height=4, units='in', dpi=400)
+ggsave(filename = 'figures/5_estimates_without_funder.jpg', baplot, width = 5, height=4, units='in', dpi=400)
