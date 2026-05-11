@@ -5,7 +5,8 @@
 library(diagram)
 library(stringr)
 
-# to do, need to add results folder
+# to do? 
+# add results folder
 # add more colours to boxes? files that make figures/tables?
 # then also add legend
 
@@ -114,4 +115,3 @@ plotmat(M,
         arr.tcol = 'darkorchid', # colour for text along arrows
         txt.col = 'black') # colour for text in boxes
 dev.off()
-
