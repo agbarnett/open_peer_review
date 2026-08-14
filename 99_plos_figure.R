@@ -1,13 +1,13 @@
 # 99_plos_figure.R
 # plot the peer review process at PLOS in a diagram
-# Nov 2025
+# Jun 2026
 library(stringr)
 library(diagram)
 
-l1 = "Authors submit an article to a PLOS journal"
-l2 = "Selected articles are sent for review"
+l1 = "Authors submit a manuscript to a PLOS journal"
+l2 = "Selected manuscripts are sent for review"
 l3 = 'Authors respond to peer review comments, potentially with multiple rounds'
-l4 = 'Authors of accepted articles decide on open peer review'
+l4 = 'Authors of accepted manuscripts decide on open peer review'
 # wrap text by consistent amount
 char_wrap = 20
 l1 = str_wrap(l1, width = char_wrap)
@@ -43,4 +43,3 @@ plotmat(M, pos = pos, name = labels, lwd = 1, shadow.size=0, curve=0, arr.pos = 
         box.lwd = 2, cex.txt = 1, box.size = frame$box.size, box.col=frame$box.col,
         box.type = frame$box.type, box.prop = frame$box.prop)
 dev.off()
-

@@ -1,35 +1,51 @@
 # 5_plot_orcid.R
 # plot the continuous estimate for ORCID proportion
 # called by 5_plot_stability_continuous.R
-# November 2025
+# August 2026
 
 # create data for predictions
 n_predict = 50
 new_data = matrix(data = 0, nrow = n_predict, ncol = small_model$rank) # start with blank matrix
-new_data[,1] = 0 # intercept on = 1 or off = 0 for all
+new_data[, 1] = 0 # intercept on = 1 or off = 0 for all
 # get range of ORCID
 p_orcid = seq(0.01, 1, length.out = n_predict)
 poly_orcid = p_orcid^2 # best fractional polynomial
-poly_orcid = (poly_orcid - mean_orcid)/sd_orcid # scale because of lasso; same scaling as data
+poly_orcid = (poly_orcid - mean_orcid) / sd_orcid # scale because of lasso; same scaling as data
 index = which(x_selected_names == 'p_orcid')
-new_data[,index+1] = poly_orcid # only change one column in X (plus 1 for intercept)
+new_data[, index + 1] = poly_orcid # only change one column in X (plus 1 for intercept)
 # get predictions using matrix multiplication (because glm was fit using matrix)
 vcov = vcov(small_model)
 vests = as.vector(small_model$coefficients)
-mean = new_data%*%vests
-var = diag(new_data%*%vcov%*%t(new_data))
+mean = new_data %*% vests
+var = diag(new_data %*% vcov %*% t(new_data))
 pred = data.frame(orcid = p_orcid, mean = mean, var = var) %>%
-  mutate(z = qnorm(0.975),
-         lower = mean - z*sqrt(var),
-         upper = mean + z*sqrt(var))
+  mutate(
+    z = qnorm(0.975),
+    lower = mean - z * sqrt(var),
+    upper = mean + z * sqrt(var)
+  )
 #
 colour = 'darkseagreen3'
-oplot = ggplot(data = pred, aes(x=orcid, y= mean, ymin=lower, ymax=upper))+
-  geom_line(col=colour, linewidth=1.05)+
-  geom_hline(lty=3, yintercept=0)+
-  geom_ribbon(alpha = 0.5, fill=colour)+
-  scale_x_continuous(breaks = seq(0,1,0.2))+
-  xlab('Proportion of authors with an ORCID')+
-  ylab('Difference in the probability of choosing open review')+
+scatter_orcid = ggplot(
+  data = pred,
+  aes(x = orcid, y = mean, ymin = lower, ymax = upper)) +
+  geom_line(col = colour, linewidth = 1.05) +
+  geom_hline(lty = 3, yintercept = 0) +
+  geom_ribbon(alpha = 0.5, fill = colour) +
+  scale_x_continuous(breaks = seq(0, 1, 0.2), expand=0.01)+
+  scale_y_continuous(expand=0.01)+
+  xlab(NULL) +
+  ylab('Difference in the probability\nof choosing open review') +
   g.theme
-oplot
+
+# Create the bottom histogram
+hist_orcid <- ggplot(data, aes(x = pp_orcid)) +
+  geom_histogram(breaks = seq(0, 1, 0.1), fill = colour, color = "white") +
+  scale_x_continuous(breaks = seq(0, 1, 0.2), expand=0.01)+
+  scale_y_continuous(expand=0.01)+
+  ylab('Number of articles') +
+  xlab('Proportion of authors with an ORCID') +
+  g.theme
+
+# 3. Stack them vertically using the / operator and adjust relative heights
+oplot <- scatter_orcid / hist_orcid + plot_layout(heights = c(3, 1))

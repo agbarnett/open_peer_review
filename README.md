@@ -31,7 +31,7 @@ The subfolders are:
 * `checks` for random checks of the data.
 * `data` data in _R_ format.
 * `figures` for figures.
-* `results` for results in RData format, latex-ready tables, rmarkdown reports.
+* `results` for results in RData format, latex-ready tables, rmarkdown reports. (The file 4_retractions_models.RData was too large to share.)
 * `reviews` a random selection of the open peer reviews
 
 <details><summary>R version and packages</summary>

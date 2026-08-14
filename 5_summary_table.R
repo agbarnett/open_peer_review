@@ -1,6 +1,6 @@
 # 5_summary_table.R
-# September 2025
-
+# makes the giant baseline table
+# August 2026
 library(rmarkdown)
 
 render(input = "5_summary_table.Rmd",

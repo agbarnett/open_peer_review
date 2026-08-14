@@ -9,31 +9,35 @@ data <- filter(data, !is.na(author_papers)) # 191
 data <- filter(data, lengths(subjects) > 1) # 721 (subject = 'missing' if there's only one)
 
 # scale data; best transformations from 4_fractional_polynomial.R; no clear minimum for time between (peer review time), so left as linear
-data <- mutate(data,
-               # add year published for sensitivity analysis in survival models
-               year = format(published, '%Y'),
-               # add ORCID proportion (do before author transform)
-               p_orcid = (n_orcids+0.5)/(n_authors+0.5), # avoid zero
-               p_orcid = p_orcid^2, # best fractional polynomial
-               author_papers = log2(author_papers+1), # best fractional polynomial
-               n_authors = sqrt(n_authors+1), # best fractional polynomial
-               published = (as.numeric(published) - 18000)/365.25, # scale first to remove huge numbers
-               published = published ^-1, # best fractional polynomial
-               time_between = time_between # no transformation
-               ) 
+data <- mutate(
+  data,
+  # add year published for sensitivity analysis in survival models
+  year = format(published, '%Y'),
+  # add ORCID proportion (do before author transform)
+  pp_orcid = (n_orcids + 0.5) / (n_authors + 0.5), # avoid zero; pp because this is needed for plotting (5_plot_orcid.R)
+  p_orcid = pp_orcid^2, # best fractional polynomial
+  author_papers = log2(author_papers + 1), # best fractional polynomial
+  n_authors = sqrt(n_authors + 1), # best fractional polynomial
+  ppublished = published, # need to keep original for plotting (5_plot_date.R)
+  published = (as.numeric(published) - 18000) / 365.25, # scale first to remove huge numbers
+  published = published^-1, # best fractional polynomial
+  time_between = time_between # no transformation
+)
 ## further scale by standardising because we use lasso
 mean_orcid = mean(data$p_orcid) # need to store these for plots (see 4_plot_stability.R)
 sd_orcid = sd(data$p_orcid)
 mean_published = mean(data$published)
 sd_published = sd(data$published)
-data = mutate(data, 
-              author_papers = scale(author_papers),
-              published = scale(published),
-              time_between = scale(time_between),
-              n_authors = scale(n_authors),
-              p_orcid = scale(p_orcid),
-# add binary more that two author emails
-              email_two = n_emails >=2 ) 
+data = mutate(
+  data,
+  author_papers = scale(author_papers),
+  published = scale(published),
+  time_between = scale(time_between),
+  n_authors = scale(n_authors),
+  p_orcid = scale(p_orcid),
+  # add binary more that two author emails
+  email_two = n_emails >= 2
+)
 
 ## make binary matrices
 # domain
@@ -53,7 +57,14 @@ type_mat <- model.matrix(~ -1 + type, data = data) # binary matrix
 subjects = lapply(data$subjects, unique) # Remove double subjects per article
 tab <- table(unlist(subjects))
 tab.min <- tab[tab >= 500] # only subjects with over 500 results (861 columns)
-cat('We used ', length(tab.min), ' subjects out of ',length(tab),'.\n', sep='')
+cat(
+  'We used ',
+  length(tab.min),
+  ' subjects out of ',
+  length(tab),
+  '.\n',
+  sep = ''
+)
 subjects_to_use <- names(tab.min)
 subject_mat <- t(+sapply(data$subjects, "%in%", x = subjects_to_use)) # binary matrix; takes a while
 # remove subjects that are perfectly correlated (see 99_correlations.R)
@@ -62,35 +73,67 @@ source('99_subjects_to_remove.R')
 index = subjects_to_use %in% to_remove
 subject_mat = subject_mat[, !index]
 subjects_to_use = subjects_to_use[!subjects_to_use %in% to_remove]
-cat('There were ', length(to_remove), ' subjects removed for high correlation.\n', sep='')
+cat(
+  'There were ',
+  length(to_remove),
+  ' subjects removed for high correlation.\n',
+  sep = ''
+)
 
-# funder numbers
+## funder numbers
+# combine Wellcome and Wellcome trust
+funderx = rapply(
+  data$funder_number_consolidated,
+  function(x) ifelse(x == 100004440, 100010269, x),
+  how = "replace"
+) #
+data = select(data, -funder_number_consolidated) %>%
+  mutate(funder_number_consolidated = funderx)
+#
 ftab <- table(unlist(data$funder_number_consolidated))
 ftab.min <- ftab[ftab >= 100] # only funders with over 100 results
 funders_to_use <- names(ftab.min)
-funder_mat <- t(+sapply(data$funder_number_consolidated, "%in%", x = funders_to_use)) # binary matrix
-# combine two Wellcome
-index1 = which(funders_to_use == '100004440')
-index2 = which(funders_to_use == '100010269')
-funder_mat[,index1] = funder_mat[,index1] + funder_mat[,index2] # combine
-funder_mat[,index1] = pmin(funder_mat[,index1], 1) # keep as binary
-funder_mat = funder_mat[,-index2] # remove duplicate Wellcome
-funders_to_use = funders_to_use[-index2] # remove from names as well
+funder_mat <- t(
+  +sapply(data$funder_number_consolidated, "%in%", x = funders_to_use)
+) # binary matrix
 #
-cat('There are ', ncol(funder_mat), ' funders.\n', sep='')
+cat('There are ', ncol(funder_mat), ' funders.\n', sep = '')
 
 ## make matrix for "simpler" predictors
-depvars <- c("published", "time_between", "n_authors", "author_papers", 'email_two', 'p_orcid', 'no_conflict')
+depvars <- c(
+  "published",
+  "time_between",
+  "n_authors",
+  "author_papers",
+  'email_two',
+  'p_orcid',
+  'no_conflict'
+)
 x_others <- select(data, all_of(depvars))
 
 # combine predictors (x matrix) and add variable names
-x <- bind_cols(x_others, type_mat, edomain_mat, country_mat, subject_mat, funder_mat)
+x <- bind_cols(
+  x_others,
+  type_mat,
+  edomain_mat,
+  country_mat,
+  subject_mat,
+  funder_mat,
+  .name_repair = 'unique_quiet'
+)
 x <- as.matrix(x)
 domain_mat_names <- paste("domain_", domains_available, sep = "") #
 country_mat_names <- paste("country_", countries_to_use, sep = "") # need country prefix to avoid clashes with subjects
 subject_mat_names <- paste("subject_", subjects_to_use, sep = "") #
 funder_mat_names <- paste("funder_", funders_to_use, sep = "") #
-colnames(x) <- c(depvars, colnames(type_mat), domain_mat_names, country_mat_names, subject_mat_names, funder_mat_names)
+colnames(x) <- c(
+  depvars,
+  colnames(type_mat),
+  domain_mat_names,
+  country_mat_names,
+  subject_mat_names,
+  funder_mat_names
+)
 
 # tidy up variable names
 pred = colnames(x)
@@ -103,4 +146,6 @@ colnames(x) = pred
 y <- data$review_available
 
 # check
-if(nrow(x) != length(y)){cat('Error, mismatch in x and y.\n')}
+if (nrow(x) != length(y)) {
+  cat('Error, mismatch in x and y.\n')
+}
