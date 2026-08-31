@@ -1,11 +1,8 @@
-# 3_add_author_experience_filler.R
-
-## run on HPC due to time, see folder open_review_plos ##
-
-# add the experience of authors from OpenAlex
+# 3_add_author_experience.R
+# run on HPC due to time
+# add the experience of authors from OpenAlex; using paid API
 # use last author and their paper numbers at submission date
-# filler for missing authors from first run
-# Feb 2026
+# March 2026
 library(openalexR)
 library(stringr)
 library(dplyr)
@@ -18,35 +15,28 @@ load("data/2_processed.RData")
 max_loops = floor(nrow(data)/loop_size)
 # for running in batches
 start = 1
-max_loops = 1
+max_loops = 234
 
 # big loop to process results in batches
-experience = NULL
 for (k in start:max_loops){
+
+  # check if the file already exists (avoid repeating data collection)
+  dir_data = dir('data')
+  this_pattern = paste('experience_', k, '\\.RData', sep='')
+  check = any(str_detect(dir_data, pattern = this_pattern))
+  if(check==TRUE){next}
+
   # get start and end
   lstart = 1 + ((k-1)*loop_size)
   lend = k*loop_size
   lend = min(lend, nrow(data)) 
   # call main function
-  res = get_alex_experience(dois = data$doi[lstart:lend], dates = data$received[lstart:lend], oa_key = my_open_alex_key)
-  if(nrow(res) != loop_size){cat('Error, missing results for loop ', k, '\n', sep='')}
-  experience = bind_rows(experience, res)
-  # progress
-  cat('Up to loop ', k, '.\r', sep='')
+  experience = get_alex_experience(dois = data$doi[lstart:lend], dates = data$received[lstart:lend])
+  if(nrow(experience) != loop_size){cat('Error, missing results for loop ', k, '\n', sep='')}
+  
+# save experience data, one file at a time
+  outfile = paste('data/3_plus_experience_', k, '.RData', sep='')
+  save(experience, file = outfile)
+  experience = NULL
+
 }
-experience = unique(experience) # due to restarts
-
-## merge experience back with data
-# use a smaller data set for merge
-rstart = 1 + ((start-1)*loop_size)
-rend = max_loops*loop_size
-data = data[rstart:rend,]
-N = nrow(data)
-# check size
-if(nrow(experience)!=N){cat('Error in row numbers, data = ', N, ', but author data = ', nrow(experience), '\n',sep='')}
-# merge
-data = left_join(data, experience, by = 'doi')
-
-# save partial file
-outfile = paste('data/3_plus_experience_', max_loops, '.RData', sep='')
-save(data, censor.date, file = outfile)
